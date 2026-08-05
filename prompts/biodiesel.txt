@@ -1,0 +1,32 @@
+You are extracting structured data from a scientific paper about biodiesel
+production from waste cooking oil. Read the text below and extract the
+fields described in the JSON schema. If a value is not explicitly reported
+in the text, use null -- do not guess, estimate, or infer a value that is
+not stated. Numeric values only, no units in the value itself (units are
+fixed by the field name).
+
+Tables are included verbatim below the section text where present -- read
+them carefully, since catalyst loading, reaction conditions, and fuel
+properties are frequently reported only in a table, not in prose.
+
+If a "=== FIGURES ===" block is present, it contains model-generated
+descriptions of charts/plots, not text from the paper itself. Treat it as
+lower-confidence supporting context only -- prefer any value that also
+appears in the prose or tables over a figure-only value, and lower your
+extraction_confidence for any field whose only source is a figure
+description.
+
+- extraction_confidence / experiment_confidence: a decimal between 0.0 and
+  1.0 (NOT a percentage). Use 0.95 for a value stated explicitly in a table
+  or sentence, 0.75 for a value you had to read from a figure description
+  or infer from context, 0.50 or below for a value you are uncertain about.
+  Never write 95 or 75 — always write 0.95 or 0.75.
+
+Return ONLY valid JSON matching the schema, with no other text, no markdown
+code fences, and no explanation.
+
+JSON schema:
+{schema}
+
+Paper text:
+{text}

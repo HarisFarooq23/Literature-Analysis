@@ -1,0 +1,132 @@
+You are extracting structured data from a scientific paper about Sustainable
+Aviation Fuel (SAF) production via the HEFA pathway — converting waste cooking
+oil, used cooking oil, or fats into jet-range synthesised paraffinic kerosene
+through catalytic hydroprocessing (deoxygenation followed by
+hydroisomerization/hydrocracking).
+
+Every field below has its own description, unit, and (where applicable)
+controlled vocabulary in the JSON schema itself — read those descriptions;
+they are the authoritative definition of what each field means, not just a
+label. The rules below cover what a per-field description cannot: cross-field
+reasoning, output structure, and paper-wide extraction policy.
+
+{field_reminders}
+
+CRITICAL: This paper likely reports MULTIPLE catalysts or MULTIPLE conditions
+in the SAME paper. Your output MUST contain one entry in `experiments` for
+EACH distinct catalyst/condition combination. If the paper tests 5 catalysts,
+the `experiments` list must have 5 entries. If it tests one catalyst at 3
+temperatures, produce 3 entries. Do NOT collapse multiple experiments into
+one. Do NOT pick the "best" result and discard the rest.
+
+For EACH experiment record, populate `evidence` with:
+  - source_location: "Table 3, page 8" or "Results section, paragraph 2" etc.
+  - evidence_text: The verbatim sentence or table row the values came from.
+  If an experiment's fields are drawn from more than one location (e.g.
+  catalyst characterization from a Table 1 and reaction performance from
+  Table 3), record the location/text for the PERFORMANCE data (conversion,
+  selectivity, temperature) as primary, since that is what defines the
+  experiment as distinct -- characterization values are supporting context
+  for the same catalyst.
+
+RULES:
+
+1. Use null for any value NOT explicitly stated in the source text. NEVER
+   invent, guess, or infer a value that is not actually given. This applies
+   to every field, including the newer characterization fields
+   (co2_uptake_mmol_g, tpr_peak_low_C, tpr_peak_high_C, catalyst_type) --
+   most papers will not report all of these for every catalyst, and null is
+   the correct, expected answer far more often than a value.
+
+2. extraction_confidence / experiment_confidence: a decimal between 0.0 and
+   1.0 (NOT a percentage). Use 0.95 for a value stated explicitly in a table
+   or sentence, 0.75 for a value you had to read from a figure description
+   or infer from context, 0.50 or below for a value you are uncertain about.
+   Never write 95 or 75 — always write 0.95 or 0.75.
+
+3. deoxygenation_pathway: infer from gas-phase byproducts if not named:
+   - Dominant H2O, no CO/CO2 -> HDO
+   - Dominant CO, no H2O     -> DCO
+   - Dominant CO2, no H2O    -> DCO2
+   - Product chain = feedstock chain - 1 but gas phase not reported -> not_specified
+
+4. downstream_processing: only set if a distinct upgrading step is described.
+
+5. astm_reference_standard: only set if the paper cites the standard by name.
+
+6. CATALYST PREPARATION (synthesis_method, calcination_*, reduction_*): these
+   values come from the Experimental / Synthesis / Preparation section of the
+   paper, which is usually separate from the Results section reporting
+   reaction performance. Read that section specifically for these fields --
+   do not assume incipient_wetness_impregnation just because it is the most
+   common method in this literature; use not_specified if the method is not
+   actually stated.
+
+7. DO NOT CONFUSE THREE DIFFERENT TEMPERATURES that commonly appear in the
+   same paper, usually in three separate sentences:
+   - calcination_temperature_C: heat treatment AFTER synthesis, BEFORE
+     reduction (e.g. "calcined at 500°C for 4 h in static air")
+   - reduction_temperature_C: pre-reaction activation, typically under H2
+     (e.g. "reduced at 450°C for 2 h under H2 flow before testing")
+   - reaction_temperature_C: the actual hydroprocessing/reaction condition
+     (e.g. "the reaction was carried out at 320°C")
+   Extract each into its own field; do not let one leak into another.
+
+8. TPR: most papers report a single reduction temperature -- use
+   reducibility_temp_C for that case. Only use tpr_peak_low_C /
+   tpr_peak_high_C when the paper itself explicitly distinguishes two (or
+   more) reduction peaks with different temperatures; do not split a single
+   reported value across both fields, and do not invent a second peak that
+   isn't in the text or TPR profile description.
+
+9. KINETICS (kinetic_model, rate_constant, reaction_order,
+   pre_exponential_factor): most papers report ONLY conversion/selectivity
+   with no fitted rate law at all -- kinetic_model=not_specified and every
+   other field in this group null is the correct, expected answer for the
+   majority of experiments. Only populate these when the paper explicitly
+   fits and states a rate constant, reaction order, or Arrhenius parameters
+   for THIS experiment. Record rate_constant and pre_exponential_factor as
+   the bare numbers printed, never converted -- put the paper's exact unit
+   string in rate_constant_unit_reported. If the paper reports "ln A" or
+   "log A" instead of A itself (common, since A is often 10-20 orders of
+   magnitude), set pre_exponential_factor_is_log10=true and still record
+   the printed number as-is; set it false only if A itself is printed
+   directly.
+
+10. structure_property_summary: write this LAST, after every other field
+    for the experiment, and base it ONLY on values you already extracted
+    into this SAME experiment's other fields (or text directly describing
+    this experiment) -- never introduce a new number or mechanism here
+    that isn't already captured elsewhere in this record. Paraphrase in
+    your own words; never copy a sentence from the paper verbatim. Keep it
+    to 1-3 sentences (hard limit 400 characters) connecting catalyst
+    structure to the performance outcome, e.g. how loading/support/acidity
+    relates to the conversion/selectivity reported for this experiment.
+
+11. claims: extract 3-8 causal/comparative statements the paper makes, e.g.
+    "Higher Bronsted acidity increased hydroisomerization selectivity."
+    Each claim needs subject, relation (one of: increases, decreases,
+    has_no_effect_on, is_required_for, correlates_with), object,
+    evidence_text, confidence.
+
+Tables are included below section text under === TABLES ===. Read them
+carefully — catalyst characterisation (BET, dispersion, particle size,
+TPR/TPD/CO2-TPD, calcination/reduction conditions) and reaction results are
+ROUTINELY reported in tables, not prose.
+
+If === FORMULAS === is present, it contains LaTeX equations with context —
+use these only if they directly back up a numeric value you are extracting.
+
+If === FIGURES === is present, these are vision-model descriptions of charts —
+treat as low-confidence supporting context; prefer values that also appear in
+prose or tables.
+
+Return ONLY valid JSON matching the schema below. No prose, no markdown
+code fences, no explanation before or after the JSON. Start directly with
+'{{' and end with '}}'.
+
+JSON schema:
+{schema}
+
+Paper text:
+{text}

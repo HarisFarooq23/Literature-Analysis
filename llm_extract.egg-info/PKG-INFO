@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: llm-extract
+Version: 0.1.0
+Summary: LLM-based structured extraction layer that consumes scientific-pdf-pipeline output and produces a clean dataset for downstream ML/optimization packages.
+Requires-Python: >=3.10
+Requires-Dist: pydantic>=2.6
+Requires-Dist: ollama>=0.3.0
+Requires-Dist: pandas>=2.1
+Requires-Dist: pyarrow>=14.0
+Requires-Dist: tenacity>=8.2
+Requires-Dist: loguru>=0.7
+Requires-Dist: pyyaml>=6.0
+Requires-Dist: typer>=0.12
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.11
+Requires-Dist: pymupdf>=1.24
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: pytest-mock>=3.12; extra == "dev"

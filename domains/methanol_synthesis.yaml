@@ -1,0 +1,90 @@
+# domains/methanol_synthesis.yaml
+# CO2/CO hydrogenation to methanol -- catalyst composition, reaction
+# conditions, and performance metrics.
+
+domain_name: methanol_synthesis
+description: >
+  Catalyst composition, reaction conditions, and performance (conversion,
+  selectivity, yield, stability) for CO2/CO hydrogenation to methanol.
+prompt_template_path: "../prompts/methanol_synthesis.txt"
+
+fields:
+  - name: catalyst_composition
+    type: str
+    description: Primary catalyst system
+    unit: categorical
+    enum: [Cu_ZnO_Al2O3, Cu_ZnO_ZrO2, Pd_based, In2O3_based, ZnO_ZrO2, single_atom, other, not_specified]
+    required: true
+
+  - name: promoter
+    type: str
+    description: Promoter element/oxide, if reported (free text; leave null if none reported)
+    unit: "-"
+
+  - name: support_material
+    type: str
+    description: Support material, if the catalyst is supported
+    unit: "-"
+
+  - name: reaction_temperature_C
+    type: float
+    description: Reaction temperature
+    unit: "°C"
+
+  - name: pressure_bar
+    type: float
+    description: Reaction pressure
+    unit: "bar"
+
+  - name: h2_to_co2_ratio
+    type: float
+    description: H2:CO2 (or H2:CO) feed molar ratio
+    unit: "molar ratio"
+
+  - name: ghsv_h
+    type: float
+    description: Gas hourly space velocity
+    unit: "h⁻¹"
+
+  - name: co2_conversion_pct
+    type: float
+    description: CO2 (or CO) conversion
+    unit: "%"
+
+  - name: methanol_selectivity_pct
+    type: float
+    description: Methanol selectivity
+    unit: "%"
+
+  - name: methanol_yield_pct
+    type: float
+    description: Methanol yield (space-time yield basis if conversion/selectivity not both reported)
+    unit: "%"
+
+  - name: stability_test_duration_h
+    type: float
+    description: Duration of any reported stability/time-on-stream test
+    unit: "h"
+
+  - name: deactivation_observed
+    type: bool
+    description: Whether the paper reports observable catalyst deactivation over the test duration
+
+binary_targets:
+  - name: high_co2_conversion
+    field: co2_conversion_pct
+    op: ">="
+    value: 20.0
+    description: "CO2 conversion >= 20% -- adjust this threshold to whatever you consider competitive for your target pressure/temperature regime"
+
+  - name: high_methanol_selectivity
+    field: methanol_selectivity_pct
+    op: ">="
+    value: 80.0
+    description: "Methanol selectivity >= 80%"
+
+  - name: stable_over_100h
+    field: stability_test_duration_h
+    op: ">="
+    value: 100.0
+    description: "Reported a stability test of at least 100 hours time-on-stream"

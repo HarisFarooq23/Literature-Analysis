@@ -1,0 +1,17 @@
+2026-08-05 20:47:49 | INFO     | llm_extract.cli:71 - Step 1/2 — parsing PDFs from input_pdfs
+2026-08-05 20:47:49 | INFO     | llm_extract.pdf_ingest:297 - Found 1 PDF(s) in input_pdfs
+2026-08-05 20:47:49 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: sustainability-18-04727 (1).pdf -> sustainability-18-04727_1_96fdd27e
+2026-08-05 20:47:53 | INFO     | llm_extract.pdf_ingest:271 -   pages=36 tables=0 figures=9 chars=139731 status=completed
+2026-08-05 20:47:53 | INFO     | llm_extract.pdf_ingest:303 - PDF ingest complete: 1/1 paper folder(s) ready
+2026-08-05 20:47:53 | INFO     | llm_extract.cli:74 - Step 2/2 — LLM structured extraction
+2026-08-05 20:47:53 | INFO     | llm_extract.cli:40 - Checking Ollama server at http://localhost:11434 and required models...
+2026-08-05 20:49:56 | INFO     | llm_extract.cli:71 - Step 1/2 — parsing PDFs from input_pdfs
+2026-08-05 20:49:56 | INFO     | llm_extract.pdf_ingest:297 - Found 1 PDF(s) in input_pdfs
+2026-08-05 20:49:56 | INFO     | llm_extract.pdf_ingest:191 - Already ingested, skipping: sustainability-18-04727 (1).pdf -> sustainability-18-04727_1_96fdd27e
+2026-08-05 20:49:56 | INFO     | llm_extract.pdf_ingest:303 - PDF ingest complete: 1/1 paper folder(s) ready
+2026-08-05 20:49:56 | INFO     | llm_extract.cli:74 - Step 2/2 — LLM structured extraction
+2026-08-05 20:49:56 | INFO     | llm_extract.cli:40 - Checking Ollama server at http://localhost:11434 and required models...
+2026-08-05 20:49:58 | INFO     | llm_extract.cli:42 - Ollama reachable, all configured models present. Starting extraction run
+2026-08-05 20:49:58 | INFO     | llm_extract.pipeline:392 - Loaded domain 'saf_hefa' from domains (multi_experiment=True)
+2026-08-05 20:49:59 | INFO     | llm_extract.reader:160 - Discovered 1 paper directories under pipeline_output
+2026-08-05 20:49:59 | INFO     | llm_extract.pipeline:436 - [1] Extracting: Unknown (None) — 96fdd27e

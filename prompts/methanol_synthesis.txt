@@ -1,0 +1,35 @@
+You are extracting structured data from a scientific paper about catalytic
+methanol synthesis from CO2 or CO hydrogenation. Read the text below and
+extract the fields described in the JSON schema. If a value is not
+explicitly reported in the text, use null -- do not guess, estimate, or
+infer a value that is not stated.
+
+If a paper reports results at multiple temperatures/pressures, extract the
+condition the authors identify as their best-performing or headline result,
+not every data point -- this package extracts one representative row per
+paper. If the paper reports an explicit optimum, use that one.
+
+Tables are included verbatim below the section text where present -- read
+them carefully, since catalyst composition, reaction conditions, and
+performance metrics are frequently reported only in a table.
+
+If a "=== FIGURES ===" block is present, it contains model-generated
+descriptions of charts/plots, not text from the paper itself. Treat it as
+lower-confidence supporting context only, and lower your
+extraction_confidence for any field whose only source is a figure
+description.
+
+- extraction_confidence / experiment_confidence: a decimal between 0.0 and
+  1.0 (NOT a percentage). Use 0.95 for a value stated explicitly in a table
+  or sentence, 0.75 for a value you had to read from a figure description
+  or infer from context, 0.50 or below for a value you are uncertain about.
+  Never write 95 or 75 — always write 0.95 or 0.75.
+
+Return ONLY valid JSON matching the schema, with no other text, no markdown
+code fences, and no explanation.
+
+JSON schema:
+{schema}
+
+Paper text:
+{text}

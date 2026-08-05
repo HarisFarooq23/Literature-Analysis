@@ -1,0 +1,2 @@
+[console_scripts]
+llm-extract = llm_extract.cli:app

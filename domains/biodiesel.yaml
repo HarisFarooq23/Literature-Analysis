@@ -1,0 +1,112 @@
+# domains/biodiesel.yaml
+# Waste-cooking-oil-to-biodiesel catalytic transesterification.
+#
+# Edit this file to add/remove extracted fields or change binary-target
+# thresholds. No Python code anywhere needs to change. After editing,
+# re-run `llm-extract run` (new fields) or `llm-extract build-dataset`
+# (threshold changes only, no new Ollama calls needed).
+
+domain_name: biodiesel
+description: >
+  Catalyst, process condition, and finished-fuel-property data from the
+  waste-cooking-oil biodiesel (catalytic transesterification) literature.
+prompt_template_path: "../prompts/biodiesel.txt"
+
+fields:
+  - name: catalyst_type
+    type: str
+    description: Catalyst family
+    unit: categorical
+    enum: [homogeneous_base, homogeneous_acid, heterogeneous_base, heterogeneous_acid, enzymatic, ionic_liquid, not_specified]
+    required: true
+
+  - name: catalyst_loading_wt_pct
+    type: float
+    description: Catalyst loading relative to oil
+    unit: "wt%"
+
+  - name: methanol_to_oil_molar_ratio
+    type: float
+    description: Methanol-to-oil molar ratio
+    unit: "molar ratio"
+
+  - name: reaction_temperature_C
+    type: float
+    description: Reaction temperature
+    unit: "°C"
+
+  - name: reaction_time_min
+    type: float
+    description: Reaction time
+    unit: "min"
+
+  - name: wco_ffa_content_pct
+    type: float
+    description: Free fatty acid content of the waste cooking oil feedstock
+    unit: "%"
+
+  - name: fame_yield_pct
+    type: float
+    description: FAME (biodiesel) yield
+    unit: "%"
+
+  - name: cetane_number
+    type: float
+    description: Cetane number
+    unit: dimensionless
+
+  - name: kinematic_viscosity_40C_cSt
+    type: float
+    description: Kinematic viscosity at 40°C
+    unit: "cSt (mm²/s)"
+
+  - name: cfpp_or_pour_point_C
+    type: float
+    description: Cold filter plugging point, or pour point if CFPP not reported
+    unit: "°C"
+
+  - name: oxidative_stability_h
+    type: float
+    description: Oxidative (Rancimat) stability
+    unit: "h"
+
+  - name: density_kg_m3
+    type: float
+    description: Density
+    unit: "kg/m³"
+
+  - name: flash_point_C
+    type: float
+    description: Flash point
+    unit: "°C"
+
+  - name: reference_standard
+    type: str
+    description: Fuel standard referenced by the paper
+    unit: categorical
+    enum: [ASTM_D6751, EN_14214, other, not_specified]
+
+binary_targets:
+  - name: meets_cetane_spec
+    field: cetane_number
+    op: ">="
+    value: 51.0
+    description: "Cetane number >= 51 (ASTM D6751 minimum)"
+
+  - name: meets_viscosity_spec
+    field: kinematic_viscosity_40C_cSt
+    op: between
+    value: [1.9, 6.0]
+    description: "Kinematic viscosity at 40°C within the ASTM D6751/EN 14214 diesel-like band"
+
+  - name: meets_oxidative_spec
+    field: oxidative_stability_h
+    op: ">="
+    value: 6.0
+    description: "Oxidative stability >= 6 h (EN 14214 minimum)"
+
+  - name: meets_cfpp_target
+    field: cfpp_or_pour_point_C
+    op: "<="
+    value: 0.0
+    description: "CFPP/pour point <= 0°C (adjust to your target climate)"

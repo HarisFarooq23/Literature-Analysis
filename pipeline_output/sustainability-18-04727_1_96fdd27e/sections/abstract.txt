@@ -1,0 +1,19 @@
+The fast growth of the aviation sector has intensified the need for sustainable alternatives to
+conventional fossil-based jet fuels. Sustainable aviation fuel (SAF) has emerged as one of the
+most promising strategies to reduce greenhouse gas emissions while remaining compatible
+with existing aviation infrastructure. Among the different feedstocks explored for SAF
+production, lipid-based resources such as vegetable oils, animal fats, and waste cooking oil
+have received considerable attention due to their high content of triglycerides and free fatty
+acids. Additionally, the increasing generation of plastic waste has stimulated interest in its
+catalytic valorization as an alternative carbon source for hydrocarbon fuel production. This
+mini-review summarizes recent advances in catalytic pathways for producing jet-fuel-range
+hydrocarbons (C8–C16) from lipid-based feedstocks and polyolefins. Particular emphasis is
+given on hydroprocessing reactions, including deoxygenation, cracking, and isomerization,
+which are essential to adjust fuel properties and meet aviation specifications. In this context,
+bifunctional heterogeneous catalysts play a crucial role, particularly regarding the influence
+of the metal phase and catalyst support on catalytic activity and stability. Different support
+classes, including metal oxides, mesoporous silicas, and zeolites, are discussed. Carbon-
+based materials, especially carbon nanotubes (CNT), are also highlighted due to their
+outstanding chemical and textural properties.
+Keywords: aviation fuel; hydroprocessing; lipid-feedstock upgrade; plastic waste valorization;
+bifunctional catalysts; carbon-based materials

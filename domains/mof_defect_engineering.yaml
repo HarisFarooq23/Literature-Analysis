@@ -1,0 +1,99 @@
+# domains/mof_defect_engineering.yaml
+# Metal-organic framework (MOF) defect engineering: defect type/method,
+# structural consequences, and the resulting performance change relative
+# to the pristine (defect-free) parent MOF.
+
+domain_name: mof_defect_engineering
+description: >
+  Defect type, defect-engineering method, structural/textural consequences,
+  and performance change (relative to the pristine parent MOF) for
+  metal-organic framework defect engineering studies.
+prompt_template_path: "../prompts/mof_defect_engineering.txt"
+
+fields:
+  - name: mof_name
+    type: str
+    description: "MOF name/code as given in the paper, e.g. UiO-66, ZIF-8, MOF-808, HKUST-1"
+    unit: "-"
+    required: true
+
+  - name: metal_node
+    type: str
+    description: "Metal or metal cluster forming the MOF node, e.g. Zr, Cu, Zn, Fe"
+    unit: "-"
+
+  - name: defect_type
+    type: str
+    description: Type of defect introduced or studied
+    unit: categorical
+    enum: [missing_linker, missing_cluster, linker_substitution, metal_substitution, mixed, not_specified]
+    required: true
+
+  - name: defect_engineering_method
+    type: str
+    description: Method used to introduce/control defects
+    unit: categorical
+    enum: [modulator_assisted, thermal_treatment, acid_etching, mechanochemical, post_synthetic_exchange, plasma_treatment, not_specified]
+
+  - name: defect_density_pct
+    type: float
+    description: Defect density, percent of missing linkers/sites relative to the ideal defect-free structure
+    unit: "%"
+
+  - name: bet_surface_area_m2_g
+    type: float
+    description: BET surface area of the defect-engineered MOF
+    unit: "m²/g"
+
+  - name: pore_volume_cm3_g
+    type: float
+    description: Total pore volume
+    unit: "cm³/g"
+
+  - name: crystallinity_retained
+    type: bool
+    description: Whether PXRD confirms crystallinity was retained after defect engineering
+
+  - name: thermal_stability_onset_C
+    type: float
+    description: TGA decomposition onset temperature
+    unit: "°C"
+
+  - name: water_stability_retained
+    type: bool
+    description: Whether the paper reports the defect-engineered MOF retains structural integrity on water/humidity exposure
+
+  - name: application_type
+    type: str
+    description: Primary application the defect engineering targets
+    unit: categorical
+    enum: [catalysis, gas_adsorption, gas_separation, sensing, drug_delivery, other, not_specified]
+
+  - name: performance_improvement_factor
+    type: float
+    description: >
+      Fold-change in the primary performance metric (catalytic activity,
+      adsorption capacity, selectivity, etc.) for the defect-engineered MOF
+      relative to its pristine/parent MOF, as reported or directly
+      computable from reported values (e.g. 2.3 = 2.3x improvement). Use
+      null if the paper does not report a pristine-MOF comparison.
+    unit: "dimensionless (ratio)"
+
+binary_targets:
+  - name: high_defect_density
+    field: defect_density_pct
+    op: ">="
+    value: 10.0
+    description: "Defect density >= 10% of linker sites"
+
+  - name: enhanced_performance
+    field: performance_improvement_factor
+    op: ">="
+    value: 1.5
+    description: "Performance improved by at least 1.5x relative to the pristine parent MOF"
+
+  - name: high_surface_area
+    field: bet_surface_area_m2_g
+    op: ">="
+    value: 1000.0
+    description: "BET surface area >= 1000 m2/g"
