@@ -1,0 +1,2 @@
+paper_id,doi,title,first_author,journal,publication_year,material_class,is_review,extracted_at,agreement_status,models_used,errors,fields
+ef8155a0e4a628fd923b5b386cfce2e7c464dd7e769971afb51280a00f1eda9b,,"Sustainable aviation fuel from waste cooking Oil: Pathways, Catalysts, and Prospects",Unknown,,,unknown,False,2026-08-06T15:49:14.816862+00:00,extraction_failed,['qwen2.5vl:3b'],{'qwen2.5vl:3b': 'JSONDecodeError: Expecting value: line 1 column 1 (char 0)'},

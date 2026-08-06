@@ -1,0 +1,290 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "llm_extract clean dataset \u2014 domain: biodiesel",
+  "type": "object",
+  "properties": {
+    "paper_id": {
+      "type": "string",
+      "description": "Stable blake3 hash from scientific-pdf-pipeline; primary key."
+    },
+    "doi": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "first_author": {
+      "type": "string"
+    },
+    "journal": {
+      "type": "string"
+    },
+    "publication_year": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "material_class": {
+      "type": "string"
+    },
+    "is_review": {
+      "type": "boolean"
+    },
+    "extracted_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "agreement_status": {
+      "type": "string",
+      "enum": [
+        "full_agreement",
+        "resolved_after_escalation",
+        "unresolved_conflict"
+      ]
+    },
+    "primary_confidence": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 1
+    },
+    "cross_check_confidence": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 1
+    },
+    "n_unresolved_fields": {
+      "type": "integer"
+    },
+    "catalyst_type": {
+      "description": "Catalyst family",
+      "enum": [
+        "homogeneous_base",
+        "homogeneous_acid",
+        "heterogeneous_base",
+        "heterogeneous_acid",
+        "enzymatic",
+        "ionic_liquid",
+        "not_specified"
+      ],
+      "title": "Catalyst Type",
+      "type": "string"
+    },
+    "catalyst_loading_wt_pct": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Catalyst loading relative to oil",
+      "title": "Catalyst Loading Wt Pct"
+    },
+    "methanol_to_oil_molar_ratio": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Methanol-to-oil molar ratio",
+      "title": "Methanol To Oil Molar Ratio"
+    },
+    "reaction_temperature_C": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Reaction temperature",
+      "title": "Reaction Temperature C"
+    },
+    "reaction_time_min": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Reaction time",
+      "title": "Reaction Time Min"
+    },
+    "wco_ffa_content_pct": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Free fatty acid content of the waste cooking oil feedstock",
+      "title": "Wco Ffa Content Pct"
+    },
+    "fame_yield_pct": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "FAME (biodiesel) yield",
+      "title": "Fame Yield Pct"
+    },
+    "cetane_number": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Cetane number",
+      "title": "Cetane Number"
+    },
+    "kinematic_viscosity_40C_cSt": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Kinematic viscosity at 40\u00b0C",
+      "title": "Kinematic Viscosity 40C Cst"
+    },
+    "cfpp_or_pour_point_C": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Cold filter plugging point, or pour point if CFPP not reported",
+      "title": "Cfpp Or Pour Point C"
+    },
+    "oxidative_stability_h": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Oxidative (Rancimat) stability",
+      "title": "Oxidative Stability H"
+    },
+    "density_kg_m3": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Density",
+      "title": "Density Kg M3"
+    },
+    "flash_point_C": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Flash point",
+      "title": "Flash Point C"
+    },
+    "reference_standard": {
+      "anyOf": [
+        {
+          "enum": [
+            "ASTM_D6751",
+            "EN_14214",
+            "other",
+            "not_specified"
+          ],
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Fuel standard referenced by the paper",
+      "title": "Reference Standard"
+    },
+    "extraction_confidence": {
+      "description": "Your confidence (a decimal between 0.0 and 1.0, NOT a percentage) that the values above were explicitly stated in the source text and not inferred or guessed. Use 0.95 for high confidence, 0.70 for moderate, 0.40 for low. IMPORTANT: write 0.90, never 90.",
+      "maximum": 1.0,
+      "minimum": 0.0,
+      "title": "Extraction Confidence",
+      "type": "number"
+    },
+    "meets_cetane_spec": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Cetane number >= 51 (ASTM D6751 minimum)"
+    },
+    "meets_viscosity_spec": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Kinematic viscosity at 40\u00b0C within the ASTM D6751/EN 14214 diesel-like band"
+    },
+    "meets_oxidative_spec": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Oxidative stability >= 6 h (EN 14214 minimum)"
+    },
+    "meets_cfpp_target": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "CFPP/pour point <= 0\u00b0C (adjust to your target climate)"
+    }
+  }
+}

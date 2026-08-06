@@ -1,0 +1,1459 @@
+1.1. Background
+Given the excessive greenhouse gas emissions and the aviation 
+industry's heavy reliance on traditional petroleum jet fuel, sustainable 
+development has become a global concern. Decarbonization and emis­
+sion reduction stand out as major challenges for this sector. Global ini­
+tiatives are underway to realize carbon neutrality across all industries by 
+2050. Although aviation accounted for only 2–3% of global carbon 
+emissions in 2019, its CO2 emissions are projected to rise with growing 
+aviation demand[1]. Furthermore, aviation activities generate non-CO2 
+emissions, such as climate-damaging ozone and contrails[2]. Alternative 
+aviation fuels, particularly Sustainable Aviation Fuel (SAF), which can 
+significantly reduce both greenhouse gas (GHG) and non-CO2 emissions, 
+are being intensively developed to replace conventional aviation fuels 
+and are a key pathway to achieving carbon neutrality goals[3].
+The increase in human consumption of plant and animal oils has led 
+to the rise in waste cooking oil (WCO) production. Rather than being 
+disposed of, WCO can be technologically converted into a sustainable 
+feedstock for biofuel production, thereby maximizing the value of bio­
+wastes through energy recovery while addressing disposal issues[4,5]. 
+China ranks among the world's most abundant sources of WCO, with an 
+estimated annual production of approximately 10 million tons[6]. 
+However, due to an underdeveloped recycling system, the standardized 
+recovery rate remains only about 50%. This waste cooking oil primarily 
+originates from the catering industry and household discharges. Its main 
+components are triglycerides (TG) and fatty acids (FA)[7], resulting in 
+elevated acid value and oxygen content. Table 1 provides a comparative 
+analysis of the key characteristics of waste cooking oil and fresh cooking 
+oil. During the frying process, WCO becomes contaminated with various 
+derivatives, including free fatty acids (FFA), volatile compounds (e.g., 
+* Corresponding authorsat: Department of Environmental Science and Engineering, Beijing Technology and Business University, Beijing 100048, China.
+E-mail addresses: wangpan@th.btbu.edu.cn (P. Wang), renlh@th.btbu.edu.cn (L. Ren). 
+Contents lists available at ScienceDirect
+Fuel
+journal homepage: www.elsevier.com/locate/fuel
+https://doi.org/10.1016/j.fuel.2026.138414
+Received 19 November 2025; Received in revised form 6 January 2026; Accepted 13 January 2026  
+Fuel 414 (2026) 138414 
+Available online 18 January 2026 
+0016-2361/© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+
+low molecular weight alkanes, ketones, aldehydes, and acids), mono­
+mers, dimers, heterocycles, Maillard reaction products, and trace metals 
+leached from packaging and food[8,9]. Consequently, WCO is unsuit­
+able for human consumption, and its direct reuse poses significant 
+health risks[10]. Due to its wide availability, significant carbon reduc­
+tion potential, and non-competition with food supplies, WCO is 
+considered an ideal feedstock for Bio-jet fuel. As the world's largest 
+producer of WCO, the efficient resource utilization of WCO in China is of 
+paramount importance for both energy security and environmental 
+governance.
+Given the high acid value, oxygen content, and complex impurities in 
+waste WCO, its efficient conversion into SAF that meets stringent avia­
+tion standards is highly dependent on advanced catalytic processes. 
+Currently, the most widely adopted technological route, Hydrogenation 
+of Esters and Fatty Acids (HEFA), is centered on catalytic steps including 
+hydrodeoxygenation 
+(HDO), 
+hydrocracking, 
+and 
+isomerization. 
+Furthermore, emerging technologies like Catalytic Hydrothermolysis Jet 
+(CHJ) also require hydrogenation upgrading, which similarly employs 
+catalysts for hydroisomerization reactions. Catalyst performance 
+directly impacts fuel yield, product quality, and process economics. It 
+represents a core technological bottleneck in scaling up the conversion 
+of WCO to SAF. This field currently has high technical barriers and a 
+concentrated global supplier base, with companies such as BASF, Top­
+soe, and Albemarle actively developing specialized catalysts to meet the 
+growing demand for SAF production. Therefore, in-depth research and 
+optimization of catalyst systems are crucial for improving WCO con­
+version efficiency, reducing costs, and achieving deep decarbonization 
+in the aviation sector.
+According to a 2024 market report, global Bio-jet fuel production 
+capacity reached approximately 2.3 million tons, with a significant 
+concentration in the Asia-Pacific region[11]. Europe also leads in the 
+research, development, and industrialization of SAF technologies. 
+Europe also leads in the R&D and industrialization of SAF technologies. 
+Finland's Neste leverages its proprietary NEXBTL hydrogenation tech­
+nology, relying on robust sulfide catalysts (such as NiMo and CoMo) for 
+deoxygenation. This enables flexible processing of diverse feedstocks 
+like waste oils and fats. Its large-scale production is built upon a refined 
+raw material supply chain supported by over 90,000 collection points 
+worldwide. France's TotalEnergies provides a model for process inte­
+gration and hydrogen management. Its Grandpuits biorefinery not only 
+produces SAF but also incorporates a biomass-based hydrogen produc­
+tion unit. This facility utilizes refinery byproducts to generate renewable 
+hydrogen, creating a closed-loop energy system that directly addresses 
+the substantial hydrogen demand of the hydrodeoxygenation process. 
+Meanwhile, its Normandy plant employs co-processing technology using 
+waste cooking oil to produce SAF, and its Antwerp refinery employs co- 
+processing to produce SAF, demonstrating a process configuration 
+strategy for decarbonizing existing refining assets. China has made rapid 
+strides in this field, driven primarily by breakthroughs in catalyst and 
+process technologies. Sinopec has commissioned a 100,000-ton-per-year 
+bio-aviation fuel plant that primarily uses WCO as feedstock, marking 
+China's achievement in bridging the entire chain from technological 
+R&D to commercial application. This process employs Sinopec's pro­
+prietary SRJET technology, whose key innovation lies in establishing a 
+“two-stage, three-zone” molecular restructuring reaction system. It also 
+involves the creation of highly stable hydrogenation-deoxygenation 
+catalysts and highly selective alkane hydroisomerization catalysts. The 
+Bio-jet fuel produced by this technology has obtained the international 
+Responsible Sustainable Biofuels (RSB) certification and successfully 
+completed a test flight in 2024 using a 30% Bio-jet fuel blend on the 
+domestically produced C919 passenger aircraft. Furthermore, cases such 
+as EcoCeres' HEFA plant supplying Bio-jet fuel to Europe, Shandong 
+Sanju Biotechnology becoming China's third enterprise to obtain 
+airworthiness certification, and the successful first-time startup of a 
+500,000-ton-per-year 
+industrial 
+facility 
+utilizing 
+specialized 
+hydrogenation-isomerization catalysts and integrated technology 
+developed by the Dalian Institute of Chemical Physics, Chinese Academy 
+of Sciences, collectively demonstrate China's pivotal industrial break­
+throughs in SAF catalyst systems and end-to-end process integration.
+Policy support is a key driver for SAF adoption. Under the ReFuelEU 
+Aviation initiative, starting January 1, 2025, all aviation fuel supplied at 
+EU airports must contain a minimum of 2% SAF, rising to 6% by 2030 
+and 70% by 2050[12]. Similarly, the UK House of Commons has 
+approved the Renewable Transport Fuel Obligation (Sustainable Avia­
+tion Fuel) Order 2024, which is expected to provide the UK aviation 
+industry with access to approximately 1.2 million tons of SAF annually. 
+In China, policy frameworks like the New Mechanism for Green and 
+Low-Carbon Energy Transition explicitly support the R&D and industrial 
+application of SAF technology, providing institutional safeguards for the 
+aviation sector's low-carbon transition. According to the International 
+Air Transport Association (IATA), over 45 airlines worldwide have now 
+used Bio-jet fuel. Driven by these synergistic policy and market forces, a 
+global SAF supply chain is rapidly emerging.
+This paper reviews the research progress and industrial development 
+of SAF derived from WCO, focusing on mainstream preparation tech­
+nologies and key catalytic reactions, as well as the design, performance 
+optimization, and industrial application of core catalysts. By systemat­
+ically synthesizing relevant literature, policies, and industrial practice 
+data, this work aims to clarify the technical bottlenecks and challenges 
+in current WCO-to-SAF conversion pathway and to outline critical di­
+rections for future technological innovation and industrial upgrading.
+1.2. Bibliometric Analysis:Research Frontiers and emerging directions
+The data for this analysis were sourced from the Web of Science Core 
+Collection database. Literature published between 2015 and 2025 was 
+retrieved through a thematic search using the query: TS= (("waste 
+cooking oil") AND ("Sustainable Aviation Fuel" OR "Bio-jet fuel")). The 
+Table 1 
+Comparative analysis of main physical and chemical properties of waste cooking oil and normal cooking oil[7,8].
+Properties
+Normal cooking oil
+Waste cooking oil
+Determination method
+Reference 
+standard
+Acid value(mg KOH/g)
+≤0.06
+1.7–65.5
+Potassium hydroxide titration
+GB 2716–1988
+Moisture content (wt. %)
+≤0.05 ~ 0.2
+5 ~ 30
+Oven method/Karl Fischer method
+GB 1537–2003
+Density at 20 ◦C (kg/m3)
+898–920
+900–930
+Densimeter method/pyknometer method
+GB/T 5526–1985
+Viscosity at 40 ◦C (mm2/s)
+20–50
+30–45
+Capillary viscometer method
+ASTM D445-14
+Lodine value (cg/g)
+≤0.05%(Mechanical 
+impurities)
+54–117
+Gravimetric method/visual method
+/
+Peroxide value (meq/kg)
+≤10
+≥10
+Sodium thiosulfate titration
+GB/T 5538–2019- 
+478
+Saponification value 
+(mgKOH/g)
+190 ~ 200
+Out of the normal range
+Hydrochloric acid back titration after 
+saponification reaction
+/
+Heavy metal(mg/kg)
+Pb ≤0.1；As ≤0.1
+Lead, arsenic, copper, etc. significantly 
+exceeded the standard
+AAS/ICP-MS
+GB 2762–2017
+Oxygen content(%)
+10%-12%
+≥10 ~ 20
+Element analysis/infrared spectroscopy/OSI
+/
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+2
+
+resulting literature records were downloaded in plain text format as "full 
+records and cited references". After deduplication and filtering using 
+CiteSpace software (version 6.4.2), 507 valid documents were obtained, 
+which helped to outline the research trajectory and cutting-edge de­
+velopments in the conversion of waste cooking oil into SAF and related 
+biofuels.
+The keyword co-occurrence network (Fig. 1) illustrates the research 
+landscape and core topics within this field. The network diagram com­
+prises 293 nodes and 1,222 connections, with a network density of 
+0.0286. The co-occurrence network reveals that "waste cooking oil", 
+"biodiesel" and "catalyst" form a tightly interconnected core, while the 
+prominence of keywords like "Sustainable Aviation Fuel" and "hydro­
+deoxygenation" reflects early research focusing on the relatively mature 
+technology pathway of converting WCO into biodiesel. However, the 
+significant emergence of keywords like "Sustainable Aviation Fuel" and 
+"hydrogenation deoxygenation" signals a clear shift in research focus 
+toward producing high-value aviation fuels and their core advanced 
+hydrogenation technologies.This technological divergence is quantita­
+tively confirmed by cluster analysis (Fig. 2). The high modularity index 
+(Q = 0.6059) indicates the emergence of multiple closely connected yet 
+thematically distinct academic communities within the field. Among 
+these, the "biodiesel" and "diesel engine" clusters represent traditional 
+fuel utilization pathways, while the distinct "hydrodeoxygenation" and 
+"hydrocracking" cutting-edge technology clusters precisely correspond 
+to the core reaction steps of the HEFA and CHJ processes for producing 
+aviation fuel, which will be discussed in detail later in this paper.
+In summary, bibliometric analysis clearly illustrates the trend in this 
+field toward evolving from a broad "raw materials-processes" binary 
+framework to a multidimensional sustainability evaluation system 
+integrating 
+"raw 
+materials-processes-performance-economics- 
+environment". The research focus is shifting from meeting basic fuel 
+demands to overcoming technical bottlenecks in challenging 
+decarbonization sectors such as aviation. The following discussion will 
+follow this evolutionary trajectory, first analyzing the principles and 
+processes of the two mainstream aviation fuel production pathways 
+applicable to WCO (HEFA and CHJ). It will then delve into their core, 
+the design, optimization, and challenges of the catalyst system, which is 
+precisely the central issue currently being addressed by the research 
+cluster.
+2. Principles and processes of Bio-jet from waste cooking oil
+2.1. Overview of waste cooking oil
+2.1.1. Physical and chemical properties of waste cooking oil
+Waste cooking oil is a complex mixture composed of fats and oils 
+whose physicochemical properties differ significantly from those of 
+refined vegetable oils, primarily due to high acid value, high viscosity, 
+and a complex composition of impurities. WCO exhibits elevated acid 
+values due to the hydrolytic production of free fatty acids (FFA), which 
+degrade flow properties, cause equipment corrosion, and accelerate 
+oxidative side reactions[13]. Moreover, waste cooking oil contains high 
+oxygen content due to the glycerol skeleton and acyl part of the mole­
+cule[14]. This high oxygen content in the feedstock for aviation fuels 
+results in poor compatibility with fossil fuels and increased viscosity 
+(limiting blending potential and worsening cold flow properties), as well 
+as high reactivity and poor stability. These factors contribute to poly­
+merization, leading to the formation of gums and sludge, as well as 
+reduced thermal and storage stability[15,16]. Despite these challenges, 
+WCO has a high calorific value, and its low sulfur content and renewable 
+nature make it a significant potential feedstock for producing SAF. 
+However, it requires a series of processing steps to achieve the standard 
+performance of conventional aviation fuel[17,18].
+Fig. 1. Keyword co-occurrence analysis.
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+3
+
+2.1.2. Waste cooking oil used as Sustainable aviation fuel raw material
+The feedstock system of Bio-jet fuel is diversified and can usually be 
+divided into three main generations[19]. The first generation of feed­
+stocks are mainly food crops (e.g. corn, sugar cane); the second gener­
+ation of feedstocks covers non-food energy crops (e.g. jatropha, castor) 
+and waste biomass (e.g. waste cooking oil, agricultural and forestry 
+residues); and the third generation of feedstocks focuses on algae re­
+sources[19].
+Waste cooking oil represents a leading candidate among second- 
+generation feedstocks, demonstrating considerable potential for sus­
+tainable energy production. Its current large-scale applications have 
+been primarily in biodiesel production. However, in the field of SAF, 
+WCO is becoming one of the core feedstocks for the hydrogenation 
+(HEFA) route, due to its well-established supply chain and significant 
+carbon reduction potential[21]. Hydrotreating technologies are being 
+revolutionized globally, with the development of new reaction systems 
+such as the "one-pot method", which aims to reduce energy consumption 
+by about 15–20% compared to the traditional two-stage hydrotreating 
+process (hydrodeoxygenation-hydroisomerization/cracking) by inte­
+grating multiple reaction steps[22]. Meanwhile, key qualities such as 
+yield and cold flow performance of Bio-jet fuel are also being improved 
+through high-throughput screening and rational design optimization of 
+catalysts (e.g., development of non-precious-metal catalysts, modulation 
+of carrier acidity, etc.)[21]. From a full life cycle perspective, waste 
+cooking oil shows multi-dimensional advantages in Sustainable Aviation 
+Fuel production:
+(1) Resource recycling and sustainability: WCO is generated from 
+kitchen waste, which has a huge annual potential, and the standardized 
+recycling rate of used cooking oil in China is even less than 10% [23]. 
+Converting it into aviation fuel through resource utilization can effec­
+tively solve the "waste oil disposal dilemma" and food safety problems, 
+and avoid competing with food crops for arable land resources, which is 
+a perfect fit for the strategic requirements of the circular economy and 
+low-carbon transformation[20].
+(2) Economic viability: Raw material costs are key to the economics 
+of Bio-jet fuel. WCO's raw material costs can be significantly lower than 
+conventional vegetable oils such as palm oil and soybean oil, and 
+because it is derived from waste, it requires no additional land cultiva­
+tion or agricultural inputs, resulting in a significant life-cycle cost 
+advantage[24].
+(3) In terms of environmental benefits, WCO-derived aviation fuel 
+can reduce CO2 by over 80% throughout its entire lifecycle compared to 
+coal-to-jet fuel (CJF) [25–27]. In addition, WCO fuels have ultra-low 
+sulfur characteristics (less than 1 ppm sulfur), much lower than con­
+ventional aviation kerosene (about 500–1000 ppm)[28]. During com­
+bustion, WCO-based fuels have a higher hydrogen to carbon ratio (H/C) 
+and the concentration of aromatic hydrocarbon compounds is substan­
+tially reduced through hydrotreating processes, which effectively elim­
+inate oxygenated functional groups and saturate unsaturated carbon 
+bonds, resulting in a final hydrocarbon product with lower particulate 
+matter (PM) emissions and a significant improvement in air quality in 
+the airport area[21].
+2.2. Preparation process for conversion of waste cooking oil to Bio-jet fuel
+According to the latest ASTM D7566 standard (as of early 2026), the 
+internationally recognized production pathways for Sustainable Avia­
+tion Fuel are currently categorized into eight major types, including 
+Hydroprocessed Esters and Fatty Acids (HEFA), Fischer-Tropsch (FT), 
+Alcohol-to-Jet (AtJ), Synthesized Iso-Paraffins (SIP), etc [26,29]. These 
+pathways each possess distinct characteristics in terms of feedstock 
+adaptability, technological maturity, carbon emission intensity, and 
+economic viability[30]. However, for liquid biomass feedstocks like 
+waste cooking oil, which exhibit high oxygen content, high acid value, 
+and complex composition, the HEFA and CHJ pathways demonstrate 
+unique advantages and industrial scalability[31]. Among these, HEFA is 
+currently the only SAF production technology using oils and fats as 
+feedstock that has achieved large-scale industrial application. Mean­
+while, CHJ, as an emerging technology, is undergoing extensive exper­
+imental research due to its low hydrogen consumption and high-quality 
+Bio-jet fuel characteristics. Although both HEFA and CHJ convert fatty 
+acids and fatty acid esters from feedstocks into jet fuel, their conversion 
+pathways differ: The HEFA process converts esters and/or fatty acids 
+into hydrocarbons through dehydrogenation, hydrocracking, and 
+hydroisomerization[16,32]. The CHJ process relies on hydrothermal 
+liquefaction reactors and hydrogenation reactions to produce kerosene 
+[32,33]. The HEFA pathway is recognized as the most technologically 
+mature and commercially established approach sanctioned by the 
+Fig. 2. Cluster analysis.
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+4
+
+American Society for Testing and Materials (ASTM) for generating 
+Sustainable Aviation Fuel[16]. The CHJ is the sixth pathway approved 
+by ASTM to produce Sustainable Aviation Fuel (SAF) in 2020.
+2.2.1. Hydroprocessing of esters and fatty acids (HEFA)
+The typical process flow of the HEFA process is shown in Fig. 3. 
+Firstly, raw materials such as waste cooking oil are pretreated by 
+physical filtration, dehydration and deacidification to remove impurities 
+and free fatty acids. Subsequently, the pre-treated oils and fats are 
+subjected to catalytic hydrogenation over catalysts (e.g., H-ZSM-5)[34] 
+at high temperatures (250–400◦C) and high pressures (3–10 MPa). This 
+process primarily converts saturated fatty acid triglycerides into C15-C18 
+straight-chain alkanes (i.e., hydrogenated vegetable oil) via the hydro­
+deoxygenation (HDO) pathway, simultaneously producing water and 
+propane byproducts. To meet aviation fuel performance requirements, 
+the resulting straight-chain alkanes require further hydroisomerization 
+and selective cracking[35]. The final product is a bio-aviation fuel (C8- 
+C16) compliant with ASTM D7566 standards[36], where the precise 
+carbon number distribution can be achieved by modulating the catalyst 
+acidity, metal active sites, and process parameters (e.g., temperature 
+and pressure).
+In terms of mechanism, the process is essentially a coupling of the 
+targeted removal of oxygen atoms with carbon skeleton remodeling and 
+is roughly divided into two steps. The first step is the conversion of 
+double bonds in fatty acid chains to saturated fatty acids by catalytic 
+hydrogenation with the addition of molecular hydrogen (Fig. 4a)[16], 
+followed by the hydrodeoxygenation, decarboxylation, and decarbon­
+ylation of triacylglycerols. Hydrogenation of triacylglycerols is usually 
+realized by β-elimination (Fig. 4b), and in addition to this it also may be 
+realized by two different reaction pathways (γ-hydrogen migration, 
+β-elimination and direct deoxygenation) (Fig. 4b)[37]. Within the 
+decarboxylation pathway, the carboxylic acid moiety is cleaved from the 
+triglyceride chain by direct scission of the C–C bond under H2 atmo­
+sphere, and feedstock deoxygenation is achieved by the elimination of 
+O2 and the release of the byproduct, CO2 (Fig. 4c). Analogously, in the 
+decarbonylation route, the carboxyl moiety is cleaved from the triglyc­
+eride chain through direct C–C bond scission under H2 atmosphere, 
+leading to feedstock deoxygenation via O2 elimination and the release of 
+CO and H2O as characteristic by-products (Fig. 4c)[16].
+The second step involves hydroisomerization and hydrocracking 
+reactions, where the feedstock from the first step is converted into 
+straight-chain alkanes with carbon chain lengths exceeding C16. N-al­
+kanes usually have the disadvantages of low octane number (poor gas­
+oline detonation resistance) and high freezing point (poor low- 
+temperature fluidity in diesel and lubricating oils), and in order to 
+improve the quality of the fuels, it is necessary to subject the generated 
+hydrocarbons to hydrocracking and hydroisomerization treatments 
+[38,39]. The hydrocracking and hydroisomerization reactions are 
+typically carried out over a bifunctional catalyst and Fig. 5 shows the 
+reaction mechanism of hydroisomerisation and hydrocracking of n-al­
+kanes. The n-alkane molecules adsorb onto the metal sites of the catalyst 
+to undergo dehydrogenation, losing two hydrogen atoms (H2) to form 
+the corresponding n-alkenes (A).
+The generated alkene molecule diffuses away from the metal site and 
+adsorbs onto a neighboring acidic site. A proton (H+) adds to the alkene 
+double bond, forming a high-energy n-alkyl carbonium ion (B). Side 
+reactions also occur during this step: n-alkanes directly accept protons at 
+acidic sites to form n-alkyl carbonylate ion (C); subsequent dehydroge­
+nation yields n-alkyl carbonium ion (D). At this point, the reaction enters 
+the core transformation pathway. The straight-chain n-alkyl carbenium 
+ion undergoes a skeletal rearrangement via hydrogen migration or 
+methyl migration, yielding a branched alkyl carbenium ion (mono­
+branched, dibranched, tribranched) (F). When the branch position of 
+alkyl carbenium ion (especially a multi-branched one) satisfies the 
+conditions, C–C bond cleavage (β-cleavage) occurs, yielding x-alkenes 
+and (n-x)-branched alkyl carbonium ion (G). The x-alkenes formed by 
+cracking undergo hydrogenation at the metal site to produce a short- 
+chain alkane (meeting aviation fuel carbon number requirements) (E). 
+The (n-x)-branched alkyl carbonium ion undergoes "deprotonation" to 
+form a branched-chain alkene, which is subsequently hydrogenated at 
+the metal site to yield a branched-chain alkane (H)[38,40].
+At present, although the technology of preparing Bio-jet fuel from 
+bio-oils and fats through the traditional two-step process (hydro­
+deoxygenation to generate straight-chain alkanes, followed by isomer­
+ization/cracking) has been industrialized globally, its inherent defects, 
+such as a long process flow, high reactor investment cost, and high 
+consumption of hydrogen, have significantly raised the production cost. 
+For this reason, the one-pot method, with its potential for simplified 
+processes and energy savings, has become the focus of research. The core 
+of this technology lies in the use of a multifunctional catalyst that cou­
+ples multiple reaction steps, such as hydrodeoxygenation, hydro­
+isomerization and selective cracking, in a single reactor. As shown in 
+Fig. 6, the refined animal and vegetable fats and oils undergo hydrogen 
+saturation, hydrodeoxygenation, alkane isomerization, and selective 
+cracking under the action of bifunctional catalysts, and the standardized 
+Bio-jet fuel are obtained directly through fractional distillation. The 
+success of this process is critically dependent on the design of a high- 
+performance bifunctional catalyst that enables simultaneous hydro­
+deoxygenation, cracking and isomerization activities, as well as good 
+stability and anti-coking properties. This process is mainly in the 
+research and development stage due to the challenging catalyst design, 
+susceptibility to inactivation and the complexity and difficulty of the 
+reaction network.
+2.2.2. Catalytic Hydrothermolysis jet (CHJ)
+The CHJ process for jet fuel represents a complete technological 
+Fig. 3. Flow chart of ester and fatty acid hydrogenation.
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+5
+
+Fig. 4. Hydrodeoxygenation (HDO) mechanism. Hydrogenation of unsaturated fatty acids (a); Hydrogenation Conversion pathway of triglycerides (b) and decar­
+boxylation pathway and decarbonylation (c).
+Fig. 5. Complete pathways for hydroisomerization and hydrocracking of n-Alkanes on bifunctional catalysts.
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+6
+
+pathway integrating two key steps: hydrothermal liquefaction (HTL) 
+and hydrogenation upgrading. The HTL is the first stage of this process, 
+primarily used to convert biomass into liquid "bio-crude oil"[41]. Hy­
+drothermal liquefaction is not sensitive to the moisture and free fatty 
+acid content of raw materials, and can handle almost any type of wet 
+biomass, greatly expanding the source of raw materials, eliminating the 
+need for expensive drying and pretreatment of WCO[42]. The core 
+principle is that under medium temperature and high pressure (250 ~ 
+370◦C, 5 ~ 20 MPa), using water as solvent, and making full use of the 
+special physical and chemical properties of water in subcritical state, 
+macromolecular polymeric organics in biomass are hydrolyzed, depo­
+lymerized, and repolymerized to form bio oil[43]. In addition to water 
+solvent, methanol/ethanol could also be used as a solvent for the con­
+version of triglycerides to biofuels under supercritical conditions, and it 
+is now widely used for bio-oil conversion[44,45].
+The CHJ process primarily consists of four steps, as shown in Fig. 7. 
+First, the raw materials undergo pretreatment. The pretreated oil enters 
+the hydrothermal liquefaction reactor, where components such as tri­
+glycerides in waste cooking oil undergo hydrolysis, deoxygenation, 
+decarboxylation, and polymerization reactions under the action of su­
+percritical water and catalysts. These reactions convert the oil into 
+lower-molecular-weight biocrude[41]. The biocrude is then pumped 
+into a hydrogenation reactor where, under the action of a catalyst, it 
+undergoes hydrogenation deoxygenation (HDO) upgrading treatment at 
+high temperature, high pressure, and in a hydrogen atmosphere. Finally, 
+through atmospheric or vacuum distillation, products such as naphtha, 
+jet fuel fractions, and diesel are separated based on boiling point dif­
+ferences[19,46,47].
+As an emerging technology, CHJ currently operates at the pilot and 
+demonstration stages in terms of technical maturity, with few large-scale 
+industrial applications. Its core advantage lies in significantly lower 
+hydrogen consumption compared to HEFA. Unlike the HEFA process, 
+CHJ achieves efficient deoxygenation through radical reaction mecha­
+nisms in a hydrothermal environment, resulting in higher aromatic 
+content in the product and thereby enhancing fuel thermal stability. 
+However, catalyst longevity faces severe challenges: the hydrothermal 
+reaction environment (high-temperature, high-pressure water) demands 
+exceptional hydrothermal stability from catalysts, with leaching of 
+metal active components and collapse of the support structure being the 
+primary causes of deactivation[48,49]. Table 2 shows the comparison of 
+the analyses of HEFA and CHJ.
+3. Application of different types of catalysts
+3.1. Catalyst for hydrogenated of esters and fatty acids
+The hydrogenation of esters and fatty acids comprises two steps. The 
+first step involves hydrodeoxygenation(HDO), primarily aimed at 
+reducing the O/C ratio and increasing the H/C ratio. Therefore, the 
+catalyst design objective for this step is to achieve efficient C-O bond 
+cleavage under mild reaction conditions while suppressing C–C bond 
+cleavage and unnecessary aromatic ring saturation[16]. Due to catalyst 
+Fig. 6. One step preparation of bio-jet fuel.
+Fig. 7. Flow chart of catalytic hydrothermolysis jet.
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+7
+
+deactivation, the generation of cracked species, and high process costs, 
+the early catalysts developed for this step were noble metals loaded on 
+zeolites or oxides, and later shifted to other transition metals such as Ni, 
+Mo, Co or their loaded bimetallic composites [50,51].
+The second step involves hydroisomerization and hydrocracking. 
+The essence of isomerization-cracking catalysts lies in their dual- 
+functionality, with performance highly dependent on the balance be­
+tween metallic and acidic functions. This process selectively converts 
+long-chain n-alkanes into high-value branched isomers and small- 
+molecule hydrocarbons. The metal active sites and acidic sites within 
+the isomerization-cracking catalyst exhibit synergistic effects. These 
+metal sites typically employ precious metals such as platinum or palla­
+dium, while the acidic sites utilize supports like zeolite molecular sieves, 
+modified alumina, and alumina[21,31]. The following is an analysis and 
+comparison of different types of catalysts (Table 3).
+3.1.1. Bimetallic catalyst
+In recent years, the focus of catalyst research has shifted from single 
+active metals to bimetallic systems. Their high performance in bio-oil 
+HDO reactions stems from the synergistic regulation of dual-functional 
+active sites through electronic effects, geometric effects, and strong 
+metal-support interactions. This multiscale regulatory mechanism 
+directly determines the catalyst's intrinsic HDO activity, selectivity for 
+target hydrocarbon products, and long-term operational stability[52]. 
+For example, the Ni-Mo bimetallic catalyst system has become a key 
+choice among non-precious metal catalysts due to its unique synergistic 
+effects. Its core advantage lies in achieving precise functional division 
+and synergistic enhancement through the formation of a Ni-Mo-S mixed 
+active phase: sulfur vacancies generated at Mo4+ sites, owing to their 
+oxygen affinity, selectively adsorb and polarize C-O bonds in fatty acid 
+molecules, laying the groundwork for deoxygenation reactions. Mean­
+while, the Ni component acts as a highly efficient electron promoter, 
+Table 2 
+Comparison between CHJ and HEFA[16,32,47].
+Hydro Processed Esters and Fatty Acids (HEFA)
+Catalytic Hydrothermolysis (CHJ)
+Process steps
+1.Hydrodeoxygenation2. Isomerization and catalytic cracking
+1. Catalytic conjugation, cyclization & cross linking (preconditioning) 
+2. Cracking, hydrolysis, decarboxylation, isomerization, and cyclization (CHJ conversion) 
+3. Mild hydrotreating and fractionation (post refining)
+Technology maturity
+Commercialization
+Demonstration Phase
+Jet fuel standard
+ASTM D7566 with 50% blending
+ASTM D7566 with 50% blending
+Liquid distillates
+Naphtha, SAF and diesel
+Gasoline, SAFand diesel
+Feedstock
+Vegetable oil, animal fat, or used cooking oil
+Vegetable Oils, animal fats and waste greases.
+Energy consumption
+Hydrogen – High 
+Hydrogen – Low
+Table 3 
+Analysis and comparison of different types of catalysts.
+Catalyst type
+Carrier/modification method
+Active 
+component
+Performance highlights
+literature
+Ni-La/SiO2
+SiO2
+Ni-La
+High dispersion, anti-sintering and anti-carbon deposition; efficient selective 
+deoxygenation of fatty acid methyl esters.
+[55]
+Ni-Mo/SiO2-TiO2
+Mesoporous SiO2-TiO2
+Ni-Mo
+High catalytic activity and selectivity in deoxidation of waste cooking oil.
+[56]
+Ni-Cu/SBA-15
+SBA-15 (hexagonal mesoporous)
+Ni-Cu
+Compared with single metal Ni: 
+Lower light oil production rates and higher gas production rates; heavy oil fuel 
+properties improved.
+[60,62]
+Ni-Mn/SBA-15
+Ni-Mn
+Ni-Zn/SBA-15
+Ni-Zn
+Pt-Ni/CWMM- Co
+Microwave activated coconut taro 
+based activated carbon
+Pt-Ni
+The hydrocarbon yield was 33.1% (99.99% C8-C16 selectivity), which was significantly 
+better than that of single metal.
+[58]
+Ni-Co/SBA-15-SH
+SBA-15(sulfhydryl 
+functionalization)
+Ni-Co
+80% hydrocarbon yield, 92% aviation kerosene selectivity (C8-C16).
+[62,63]
+Ni-Co/SBA-15- 
+NH2
+SBA-15(amino functionalization)
+Ni-Co
+83% C8-C16 hydrocarbon yield, 88% aviation kerosene selectivity; Main product C15- 
+C17 alkane/olefin.
+Ni/Beta
+Beta molecular sieve
+Ni
+The conversion of methyl laurate was 81%, and the selectivity of C11-C12 alkanes was 
+46.5%.
+[64]
+Pd@Alx-mSiO2
+Al Doped Mesoporous SiO ɑ shell
+Pd
+Methyl palmitate conversion 98%, alkane selectivity > 99%.
+[65]
+Ni-Co/TiO2
+TiO2
+Ni-Co
+High deoxygenation conversion of 78.78% was achieved and excellent selectivity for 
+C10-C16(Meets Bio-jet fuel standards) hydrocarbons was demonstrated.
+[79]
+Pd/multistage 
+pore ZSM-5
+Multistage hole ZSM-5
+Pd
+The dodecane formation efficiency was 8.5 times that of the traditional catalyst; Acid 
+sites and PD space isolation inhibit side effects.
+[34]
+Ni/Mesoporous Y
+Mesoporous Y
+Ni
+Mesoporous, high surface area; Bio-jet fuel yield reached 58.4%.
+[80]
+Mo/H-ZSM-5
+H-ZSM-5
+Mo
+3D 10-MR cross-channels, strong acid; 83.6% Bio-jet fuel selectivity.
+[81]
+Ca-Ni/ZSM-5
+Z1M-5
+Ca-Ni
+Volcanic mud + marble waste, Ca inhibits cracking; C15-C17 selectivity 66.6%.
+[72]
+Pt/SAPO-11
+SAPO-11
+Pt
+One-dimensional 10-membered ring pore structure, tunable medium acidity; the 
+hexadecane coverage rate reached 81.8%, isomerism −selectivity rate reached 86.5%.
+[66]
+Ni-H3PW12O40/ 
+HAP
+H3PW12O40
+Ni
+High-temperature and high-pressure resistance, stability and durability, not easy to 
+accumulate carbon; Liquid phase product yield over 80%, with 54–77% selectivity for 
+Bio-jet fuel
+[82]
+PO4-ZrO2
+H3PO4
+ZrO2
+P-OH/Zr4+ enhances Brønsted/Lewis acidity; bio-jet selectivity 33.92%, liquid yield 
+39.44%.
+[74]
+Pt/SAPO-11
+SAPO-11
+Pt
+n-Hexadecane conversion was 81.8% with a selectivity of 86.5%
+[66]
+Ni/ZSM-5
+ZSM-5
+Ni
+Exhibits excellent hydrogenation catalytic performance
+[67]
+Ni/Beta
+Beta
+Ni
+280◦C, 1 h; STY: 33.4 mmol⋅g−1⋅h−1 (C11-C12) (Meets Bio-jet fuel standards)
+[83]
+Pt-Sn/ 
+M−SAPO−11
+SAPO-11
+Pt-Sn
+Bio-jet fuel yield > 60%; Freezing point ≤-40◦C; Optimized branching
+[68]
+NiMo/USY@Al- 
+SBA-15
+USY@Al-SBA-15
+NiMo
+WCO conversion of 90–100% to 39.7% jet fuel selectivity, Isoparaffin/normal alkane 
+ratio up to 2.
+[84]
+NiCo/TiO2
+TiO2
+NiCo
+Deoxygenation: 83.13%; Bio-jet selectivity: 44.5%; Meets ASTM standards
+[85]
+CoAl2O4
+Al2O4 weak Brønsted acid
+Co
+Over 90% WCO conversion rate, Bio-jet fuel (C8-C16) selectivity: 20%
+[86]
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+8
+
+significantly enhancing H2 heterolytic dissociation capability and 
+providing abundant hydrogen overflow species. This synergy between 
+electronic and geometric effects endows it with higher intrinsic activity 
+on the hydrogenation-deoxygenation pathway compared to single-metal 
+catalysts[53,54].
+Assessing the relative advantages and industrial potential of different 
+catalyst systems requires in-depth investigation into their structur­
+e–activity relationships, as the advantages and performance trade-offs 
+resulting from different metal combinations vary significantly. Jiaqi 
+Yan et al. prepared Ni-La/SiO2 catalysts via the coprecipitation method. 
+Within the system, La3+ induces strong metal-support interactions, 
+acting as a "structural aid" to stabilize highly dispersed Ni nanoparticles 
+and effectively suppress their sintering during high-temperature re­
+actions. This enhanced physical stability directly correlates with the 
+catalyst's sustained deoxygenation activity, enabling the efficient and 
+highly selective conversion of fatty acid methyl esters into long-chain 
+alkanes[55]. Similarly, the NiMo/SiO2-TiO2 catalyst developed by Lin 
+Fu et al. demonstrates dual synergistic effects between the support and 
+metal: the mesoporous SiO2-TiO2 composite support not only provides 
+tunable acidic sites, but its TiO2 component further promotes the 
+dispersion and stability of metal nanoparticles through strong metal- 
+support interactions (SMSI). Simultaneously, the introduction of Mo 
+species optimizes the active sites' adsorption and polarization capabil­
+ities for C=O/C-O bonds in oxygen-containing intermediates. Syner­
+gizing with Ni's hydrogenation function, this efficiently directs the 
+reaction pathway toward hydrogenation-deoxygenation, yielding high- 
+yield renewable alkanes under mild conditions[56]. A composite car­
+rier was prepared by doping sulfur-resistant SiO2 with TiO2 exhibiting 
+excellent resistance to metal poisoning and chlorine attack, resulting in a 
+robust anti-poisoning catalyst system. In the same way, the ZrO2/TiO2 
+composite oxide carrier demonstrated outstanding sulfur tolerance and 
+regeneration performance during the catalytic process[57]. In the 
+precious-metal/non-precious-metal system, the Pt-Ni/CWMM-CO cata­
+lyst synthesized by Fenti Visiamah et al. achieved a 33.1% aviation 
+kerosene hydrocarbon yield (with 99.99% selectivity for C8–C16 hy­
+drocarbons) under hydrocracking conditions at 550◦C [58]. Research 
+indicates that bimetallic catalysts not only enhance hydrogenation ac­
+tivity but also generate additional acidic sites at the metal-support 
+interface, thereby simultaneously increasing both the rate of aromatic 
+hydrogenation and the rate of oxygen removal[59].
+Shinyoung Oh et al. prepared three nickel-based bimetallic catalysts 
+on hexagonally structured mesoporous SBA-15 carriers (NiCu/ SBA-15, 
+NiMn/SBA-15, and NiZn/SBA-15) and comparatively analyzed the ef­
+fects of single and bimetallic on bio-oil hydrodeoxygenation activity. 
+Compared to the single-metal Ni/SBA-15 catalyst, the bimetallic design 
+significantly alters the properties of Ni active sites through electronic 
+effects, generally reducing light oil yield while substantially increasing 
+the proportion of gas products[60,61].
+In addition to adjusting the intrinsic composition of bimetallic sys­
+tems, surface functionalization of the support is another effective 
+strategy for regulating the microenvironment of active sites. For 
+example, the research by Noor Azira Abdul Razak et al. provides a 
+typical case: they functionalized SBA-15 mesoporous molecular sieves 
+with sulfhydryl (−SH) groups and then loaded them with a Ni-Co 
+bimetallic compound. The core of this design lies in the −SH groups 
+acting as strong anchoring sites, effectively enhancing the dispersion of 
+the metal precursor and suppressing its sintering during reduction and 
+reaction processes. Characterization confirmed that the obtained Ni-Co/ 
+SBA-15-SH catalyst exhibits higher metal dispersion and tunable acidity 
+while maintaining its hexagonal mesoporous structure. Consequently, 
+this catalyst demonstrated significantly optimized performance in the 
+hydrogenation deoxygenation of WCO, achieving not only an overall 
+hydrocarbon yield of 80% but, more critically, a selectivity of up to 92% 
+for the target jet fuel fraction (C8-C16)[62]. Complementary to this, 
+Darfizzi Deraw et al prepared novel bimetallic NiCo/SBA-15-NH2 cata­
+lysts by loading nickel and cobalt onto amino-functionalized SBA-15 
+mesoporous carriers by the wet impregnation method, and the charac­
+terization showed that the catalysts maintained a hexagonal mesoporous 
+structure (specific surface area 393.93 m2/g), the metal particles were 
+uniformly dispersed and formed weak/strong acid synergistic sites. The 
+introduction of –NH2 to enhance the Lewis acid sites promoted decar­
+boxylation and C–C bond cleavage, and 83% C8-C20 hydrocarbon yield 
+and 88% jet fuel selectivity were achieved under optimized conditions 
+(330◦C, 5% catalyst loading, 300 min), with the main products being 
+C15-C17 alkanes/olefins. The above two Ni-Co bimetallic systems (Ni- 
+Co/SBA-15-SH) synergistically enhance the deoxygenation efficiency 
+through electronic and geometrical effects, and the sulfur-modified 
+(−SH) SBA-15 carrier enhances the metal dispersion and inhibits the 
+carbon accumulation. The SBA-15 carrier modified by an amino group 
+(NH2) enhances the dispersion of Ni-Co alloy (particle size of 5 nm) and 
+inhibits excessive cracking[63].
+Bimetallic catalysts, through multi-metal synergistic effects and 
+support engineering, enhance hydrogenation deoxygenation activity 
+and selectivity while also facing inherent trade-offs such as product 
+distribution regulation (e.g., excessive cracking)[60]. Its industrial po­
+tential depends not only on intrinsic activity but also on resistance to 
+poisoning, long-term stability, and the economic balance of non- 
+precious metal substitutions[56]. Therefore, rational catalyst design 
+requires synergistic optimization of the active site microenvironment 
+and cost-effectiveness to drive practical applications.
+3.1.2. Bifunctional catalysts
+Beyond bimetallic catalysts, the precise "spatial configuration 
+design" of metal sites and acidic sites represents another cutting-edge 
+strategy for achieving highly efficient and selective synergistic catal­
+ysis. For example, Tinghu Wang et al prepared Ni/Beta bifunctional 
+catalysts for the preparation of bio-aviation coal from the hydro­
+deoxygenation of methyl lauric acid to achieve the highest conversion 
+(81%) and C11-C12 alkane selectivity (46.5%)[64]. Xincheng Cao et al 
+reported a stable and efficient HDO catalyst (Pd@Alx-mSiO2) with a 
+uniformly dispersed palladium (Pd) core inside and a mesoporous silica 
+shell doped with aluminum (Al) atoms on the outside. Al doping was 
+introduced into the Lewis and Brønsted acid sites, which synergistically 
+acted with Pd, and resulted in a methyl palmitate conversion of up to 
+98% and the alkane selectivity was > 99%[65]. Moreover, mesoporous 
+silica in catalysts combines the advantages of SiO2—resistance to sulfur, 
+chlorine, and metal poisoning—with its own inherent strengths, making 
+it one of the carriers with the strongest overall resistance to impurities 
+currently available. Shengzhe Ding et al reported a Pd-doped multistage- 
+pore ZSM-5 catalyst with Pd nanoparticles selectively loaded in meso­
+pores and acid sites located in micropores, which were spatially isolated 
+to avoid side reactions. In lauric acid hydrodeoxygenation, the dodecane 
+generation efficiency was 8.5 times higher than that of conventional 
+catalysts[34]. The fundamental purpose of these catalysts is to maximize 
+the efficiency of the main reaction by precisely controlling the molecular 
+transport pathways and reaction sequences of the reactants. This marks 
+a shift in catalyst design from traditional "material screening" to a new 
+phase of "system construction", providing a core approach for devel­
+oping next-generation customized catalysts for high-performance bio­
+refineries in the future.
+Bifunctional catalysts integrate metallic sites (responsible for hy­
+drogenation/dehydrogenation) with acidic sites (responsible for isom­
+erization, cracking, and dehydration), enabling them to catalyze 
+multiple sequential reactions in series. This dual functionality is pivotal 
+for achieving a one-step hydrogenation-deoxygenation-isomerization 
+process for bio-oils. The core of their design lies in the precise matching 
+and synergistic interaction between metallic and acidic functionalities. 
+For example, the classic Pt/SAPO-11[66] and Ni/ZSM-5[67] catalysts 
+utilize precious metals or non-precious metals to provide hydrogenation 
+activity, respectively, and rely on the shape-selective acidic channels of 
+molecular sieves to direct isomerization reactions[67]. Such catalysts 
+combine hydrogenation activity with isomerization capability, enabling 
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+9
+
+the simultaneous completion of deoxygenation and isomerization re­
+actions in a single step. Additionally, Zheng Zhifeng's team at Xiamen 
+University developed a Pt-Sn/M−SAPO−11 catalyst. This catalyst fea­
+tures PtxSnγ alloy loaded onto modified SAPO-11 molecular sieves (M =
+Zr, Ti) for the one-step catalytic reaction of fatty acid methyl esters[68]. 
+The mild acidity of SAPO-11 (weak Brønsted acid) suppresses excessive 
+cracking, 
+while 
+the 
+Pt-Sn 
+alloy 
+enhances 
+dehydrogenation- 
+hydrogenation activity. This yields aerosol products with > 60% yield 
+and a freezing point ≤-40◦C, significantly optimizing the branched 
+structure of the final product.
+Breakthroughs in bifunctional catalysts performance rely on 
+comprehensive and precise control spanning from the nanoscale (metal 
+particle dispersion) to the molecular scale (acid strength and type), 
+meticulously balancing deoxygenation and isomerization pathways to 
+directly and efficiently produce Bio-jet fuel meeting specifications. Its 
+design philosophy has shifted from screening to construction, relying on 
+precise spatial configuration control to synergistically enhance perfor­
+mance [65,68]. However, its high performance is constrained by the 
+delicate balance of active sites and the complexity of preparation. 
+Scalable application must address challenges including resistance to 
+poisoning, cost control, and structural reproducibility.
+3.1.3. Molecular sieve catalysts
+The realization of high-performance catalysts relies not only on the 
+optimization of active metal sites (such as bimetallic synergism) but also 
+on the precise design of synergistic "acid-functional" carriers. In recent 
+years, molecular sieves have received wide attention and applications as 
+inorganic crystalline materials (e.g., zeolite molecular sieves, aluminum 
+phosphate molecular sieves, etc.) or organic framework materials (e.g., 
+MOFs, COFs) with regular and uniform pore structure (usually micro­
+porous, < 2 nm), as well as a bright application prospect in the field of 
+catalysis. Zeolite molecular sieves are crystals composed of silicates or 
+aluminosilicates, whose oxide-based framework consists of tetrahedra 
+sharing corners, where T denotes the tetrahedral atom, most commonly 
+Si and Al. Different tetrahedral connectivity patterns result in distinct 
+zeolite framework types[69]. This material exhibits unique shape 
+selectivity, high thermal stability, and strong acidity. Its molecular 
+structure promotes the diffusion of reactants and products, making it 
+suitable for hydrocracking and hydroisomerization reactions[70].
+To date, 235 distinct zeolite framework types have been identified in 
+natural or synthetic zeolites. Brønsted sites and Lewis sites are the two 
+most common active sites in zeolite-mediated material transformation 
+reactions[40], e.g. The reaction mechanism for biomass conversion at 
+Brønsted acid sites involves bridging hydroxyl groups (Si-OH-Al) within 
+the zeolite framework providing protons (H+) to catalyze dehydration, 
+condensation, and alkylation reactions. Electron-deficient metal centers 
+within the framework (e.g., Sn4+ and Ti4+) catalyze redox reactions and 
+molecular rearrangements by accepting electron pairs, representing 
+biomass conversion reactions at Lewis acid sites.
+Among numerous zeolite molecular sieves, H-ZSM-5 is a zeolite 
+material featuring a three-dimensional decagonal ring cross-linked pore 
+structure. Its interior contains two intersecting pore systems with a 
+stable framework. Due to its strong acidity, direct application in the 
+conversion of long-chain alkanes often leads to excessive cracking. 
+Research efforts therefore employ various modification strategies to 
+balance its dehydrogenation activity with selectivity toward target 
+products. For example, Indriana Kartini et al. demonstrated that Mo- 
+loaded H-ZSM-5 can be used for the dehydrogenation of palm kernel 
+oil. Its acidic sites synergize with metal sites to yield highly selective 
+C8–C16 hydrocarbon fractions[71]. Hartati et al. synthesized a Ca/ZSM- 
+5 support using volcanic ash and marble waste, then loaded Ni to form a 
+bifunctional catalyst. The introduced Ca2+ provided basic sites that 
+effectively neutralized some strong acid centers, suppressing cracking 
+side reactions. This significantly enhanced the selectivity of C15–C17 
+long-chain hydrocarbons in the deoxygenation products of waste cook­
+ing oil by 18.9% compared to unmodified ZSM-5, reaching 66.6%[72]. 
+This directly demonstrates that altering the acidity of the carrier through 
+chemical modification is an effective means of controlling product 
+distribution.
+SAPO-11 (AEL) is a prominent member of the aluminium silicate- 
+phosphate molecular sieve family. With its unique one-dimensional 
+decahydrocyclohexene ring structure and adjustable moderate acidity, 
+it holds an almost irreplaceable position in the selective isomerization of 
+long-chain n-alkanes, minimizing cracking side reactions to the greatest 
+extent. SAPO catalysts for alkane hydroisomerization are usually sup­
+plemented with Pd and Pt to obtain high activity and selectivity[73]. For 
+example, the SAPO-11 molecular sieve prepared by Yang, Sanni et al. 
+achieved a conversion rate of up to 81.8% for n-hexadecane and an 
+isomerization selectivity of 86.5% under optimized conditions[66]. This 
+study clearly demonstrates the high efficiency of the tandem catalytic 
+cycle formed by Pt sites (dehydrogenation/hydrogenation) and SAPO- 
+11 acid sites (isomerization).
+In developing bifunctional catalysts for the hydrogenation- 
+deoxygenation and isomerization of bio-oils, the rational selection and 
+modification of acidic supports are crucial. The core design principle 
+involves selecting a fundamental carrier based on the target reaction. 
+Through methods such as metal loading, ion exchange, heteroatom 
+doping, or structural engineering, the type, strength, and distribution of 
+the carrier's acidity are precisely controlled to match the characteristics 
+of the metal active sites. This enables the efficient and highly selective 
+conversion of bio-oils into target fuel components. In industrial appli­
+cations, molecular sieves exhibit excellent thermal stability. However, 
+achieving precise control over their acid distribution and pore structure 
+at scale is costly. It is also sensitive to impurities in raw materials (H2O, 
+S), and its applicability depends on the balance between its resistance to 
+poisoning and the economic viability of modification.
+3.1.4. Other catalysts
+Catalyst design is no longer confined to traditional molecular sieves; 
+other materials with tunable acidity or ordered structures are also being 
+extensively explored. The phosphate-modified nano-zirconia catalyst 
+reported by Saviola et al. achieved a Bio-jet fuel selectivity of 33.92% in 
+the hydrogenation conversion of waste palm oil by forming synergistic 
+acidic sites comprising P–OH (Brønsted acid) and Zr4+ (Lewis acid)[74]. 
+Metal-organic framework-derived materials (MOFs) or carbon-based 
+composites derived from them as precursors demonstrate immense po­
+tential in biomass conversion reactions such as furfural hydrogenation 
+and triglyceride hydrogenation. Their ultra-high specific surface area 
+and customizable pore/metal site architecture offer novel insights for 
+designing novel bifunctional catalysts[75–77]. Carbon-based materials, 
+with their exceptional chemical inertness, corrosion resistance, hydro­
+phobicity, and highly tunable pore structure, effectively resist chemical 
+erosion from sulfur and chlorine, mitigate the effects of alkali metals, 
+and buffer carbon deposits. They have been experimentally proven to be 
+a highly stable carrier choice for treating WCO[78].
+3.2. Catalyst for catalytic Hydrothermolysis jet
+The CHJ process comprises two distinct catalytic stages: initial Hy­
+drothermal Liquefaction (HTL) and subsequent Hydrodeoxygenation 
+(HDO) upgrading[87]. The catalyst requirements and challenges differ 
+significantly between these stages and from those in the HEFA process, 
+particularly concerning the harsh hydrothermal environment.
+3.2.1. Catalysts for the hydrothermal liquefaction (HTL) stage
+Under specific conditions, the HTL process can proceed without a 
+catalyst. However, catalysts can significantly enhance reaction rates, 
+increase biological yield, and reduce oxygen content under milder 
+conditions[88]. The catalyst used in this stage must be capable of 
+withstanding high-temperature, high-pressure water[89]. Alkali cata­
+lysts (e.g., K2CO3, Na2CO3, KOH) are widely used. They promote the 
+hydrolysis of triglycerides into fatty acids and glycerol, and facilitate 
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+10
+
+decarboxylation/dehydrogenation reactions, thereby increasing bio­
+crude yield and reducing its viscosity and oxygen content[90]. Organic 
+acids (e.g., formic, acetic acid) can act as in-situ hydrogen donors, aiding 
+stabilization of reactive intermediates. Solid catalysts offer easier sepa­
+ration and potential reuse. Common types include: Zeolites (e.g., H- 
+ZSM-5), metal oxides (e.g., CaO, ZrO2). They catalyze cracking, dehy­
+dration, and ketonization reactions. Additionally, Redox-active metal 
+oxides(Fe3O4, CeO2)can catalyze redox reactions, facilitating the 
+removal of oxygen as CO or CO2. The choice of HTL catalyst depends on 
+the feedstock and desired biocrude properties. A key trade-off is that 
+while catalysts can improve biocrude quality, they may also suffer from 
+deactivation due to coking or metal leaching in the aggressive hydro­
+thermal medium.
+3.2.2. Catalysts for the hydrodeoxygenation (HDO) upgrading stage
+The biocrude from HTL requires further HDO to produce 
+specification-compliant jet fuel. The catalyst employed here is concep­
+tually similar to the HDO step in the HEFA process, requiring a combi­
+nation of metal sites (for hydrogenation) and acid sites (for dehydration 
+and cracking) [91]. However, the feedstock (biocrude) is more complex 
+than pure triglycerides, containing a wider range of oxygenates, unsat­
+urated compounds, and often higher nitrogen and sulfur content. The 
+appropriate catalyst should be selected based on the feedstock charac­
+teristics and process objectives.
+For traditional HDO catalysts, Transition metal sulfide catalysts (e.g., 
+NiMoS/γ-Al2O3, CoMoS/γ-Al2O3) are effective for the simultaneous 
+removal of oxygen, sulfur, and nitrogen. Noble metals (Pt, Pd) on 
+various supports are also active but more sensitive to impurities[92]. 
+Research is exploring tailored catalysts for biocrude upgrading. For 
+instance, iron-based catalysts (Fe2O3/γ-Al2O3) have shown promise due 
+to their redox properties, promoting decarboxylation pathways[47]. 
+Nickel supported on ordered mesoporous silica (e.g., Ni/SBA-15) has 
+been effective in the catalytic pyrolysis and deoxygenation of oils, pro­
+ducing hydrocarbons in the jet fuel range[93].
+3.3. Catalyst challenges from an industrial application perspective
+Although laboratory studies demonstrate that various catalysts 
+exhibit outstanding performance in WCO conversion, their industrial 
+application necessitates systematic evaluation of scalability, economic 
+viability, and long-term robustness under real-world conditions[94]. 
+Catalyst mass production involves complex engineering scaling chal­
+lenges, such as ensuring uniform distribution of active components 
+across macroscopic carriers, guaranteeing mechanical strength, and 
+optimizing forming processes. These factors collectively determine the 
+final cost and performance of the catalyst[95].
+In terms of economics, while non-precious metal catalysts (such as 
+Ni, Co, Mo) offer advantages in raw material costs, they typically require 
+more stringent operating conditions. Additionally, issues like coking and 
+sintering may necessitate more frequent regeneration or shorten service 
+life, thereby impacting total lifecycle costs. Precious metal catalysts, 
+though highly active, are expensive and more sensitive to impurities like 
+sulfur and chlorine in feedstocks, limiting their application scenarios. 
+Beyond this, the economic viability of the process also heavily depends 
+on the availability and cost of external hydrogen sources. The current 
+mainstream "gray hydrogen" significantly undermines the lifecycle car­
+bon reduction benefits of WCO-SAF, while the use of "green hydrogen" or 
+"blue hydrogen" is an inevitable choice for achieving deep decarbon­
+ization. However, this also poses challenges for project siting and cost 
+structure[96].Comparing the two mainstream routes, HEFA and CHJ, 
+reveals significant differences in their technical and economic viability. 
+The HEFA process is mature and currently dominates production ca­
+pacity, but its high hydrogen consumption and stringent raw material 
+quality requirements pose major constraints. The CHJ process offers 
+potential advantages in feedstock adaptability (capable of processing 
+high-moisture, high-acid-value materials) and hydrogen consumption, 
+making it more suitable for treating low-quality waste crude oil. How­
+ever, its high-pressure reaction environment imposes higher demands 
+on equipment engineering and the hydrothermal stability of catalysts.
+Catalyst deactivation is a core challenge in industrial operations. 
+Unlike refined vegetable oils, waste cooking oils contain complex im­
+purities originating from the cooking process, food residues, and storage 
+contamination. These primarily include sulfur, chlorine, and phos­
+phorus compounds, along with trace heavy metals[97]. Such impurities 
+irreversibly poison the active sites of metals through chemical adsorp­
+tion or react with the acidic centers of the carrier, permanently 
+impairing the catalyst's hydrogenation and acid functions. Therefore, 
+the development of a catalyst system that combines high activity with 
+strong resistance to poisoning.
+Carbon-based materials (activated carbon, carbon nanotubes) 
+leverage their chemical inertness, hydrophobicity, and high specific 
+surface area to primarily accommodate impurities through physical 
+adsorption[98]. They provide effective buffering for active metals, 
+demonstrating outstanding comprehensive resistance. Aluminum phos­
+phate molecular sieves (e.g., SAPO-11) inherently tolerate phosphorus 
+impurities due to phosphorus-containing frameworks, while their 
+moderate acidity helps maintain isomerization activity and stability. In 
+contrast, conventional γ-Al2O3 readily deactivates upon phosphorus 
+binding, and the micropores of silica-alumina zeolites are prone to im­
+purity blockage[99]. When preparing catalysts for WCO, resistance to 
+poisoning must be prioritized as equally important as intrinsic activity. 
+This requires combining tolerant supports (e.g., carbon materials, 
+SAPOs) with robust active phases (e.g., NiMo, Pt-Sn alloys)[100]. 
+Furthermore, constructing composite oxides (e.g., TiO2-ZrO2) or 
+designing functionalized supports with core–shell structures and hier­
+archical pore systems to synergistically build multi-layered protection at 
+both physical and chemical levels represents a key direction for devel­
+oping next-generation highly stable WCO treatment catalysts[101].
+In summary, future R&D efforts must shift from a purely activity- 
+driven approach to comprehensive performance and cost optimization 
+across the entire lifecycle. Emphasis should be placed on conducting 
+long-term operational testing using real, fluctuating WCO feedstock at 
+pilot or industrial demonstration scales. This should be coupled with 
+technical–economic analysis and life cycle assessment of the system to 
+accelerate the commercialization of high-performance catalysts.
+4. Influence of process conditions and optimization
+The efficiency and economics of bio-aviation fuel preparation 
+fundamentally depend on precise control of core operational parame­
+ters. These parameters not only directly influence reaction rates and 
+thermodynamic equilibrium but also profoundly regulate reaction net­
+works and the intrinsic properties of catalysts through complex 
+interactions.
+4.1. Effect of reaction temperature and pressure
+Temperature and pressure, as the most fundamental thermodynamic 
+variables, must be set in close alignment with the chemical nature of the 
+target reaction stage. During the initial hydrogenation and saturation 
+phase of the HEFA process, the primary objective is to eliminate the 
+double bonds in the glycerol triglycerides present in the feedstock. This 
+exothermic reaction (ΔH < 0) is thermodynamically more favorable at 
+lower temperatures (200–300◦C) and effectively suppresses side re­
+actions such as C–C bond cleavage. For example, Sinopec's SRJET 
+technology employs a Ni-based catalyst at 250◦C and 5 MPa to convert 
+triglycerides into fatty acids via β-hydrogen elimination during the hy­
+drogenation saturation stage [94]. However, low temperatures imply 
+slower reaction kinetics, which must be compensated for by extending 
+residence time or enhancing catalyst activity. The accompanying 
+hydrogen pressure (typically 3–6 MPa) must be sufficient to ensure 
+adequate hydrogen coverage on the catalyst surface, thereby achieving 
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+11
+
+high conversion rates[102].
+Entering the core stage of hydrogenation deoxidation (HDO), the 
+effects of temperature and pressure become more complex. Temperature 
+is the primary factor determining the selectivity of the reaction pathway. 
+Studies indicate that the three primary dehydrogenation pathways, 
+hydrogenation (HDO), decarboxylation (DCO), and decarboxylation 
+oxidation (DCOx), exhibit distinct activation energies. Moderately 
+elevated temperatures (350–400◦C) significantly accelerate all path­
+ways, ensuring complete conversion of feedstocks. For instance, waste 
+lard achieves a 96.62% conversion rate at 400◦C [103]. However, the 
+effect of temperature on selectivity is nonlinear: below a certain 
+threshold (e.g., 300◦C for specific catalysts), it may predominantly 
+promote the HDO pathway, yielding straight-chain alkanes matching 
+the carbon number of the feedstock. Beyond this threshold, pathways 
+causing carbon loss (e.g., DCO/DCOx) and secondary reactions like 
+cracking and aromatization intensify[104,105]. Dynamic studies by 
+Yuwei Bie et al. indicate that for HDO of fatty acid methyl esters, optimal 
+equilibrium can be achieved at 300◦C and 8 MPa. Reaction temperature 
+significantly influences the HDO reaction pathway of methyl esters, 
+while hydrogen pressure exerts a relatively minor effect[104]. 
+Compared to the dominant role of temperature, hydrogen pressure ex­
+erts a relatively weaker direct influence on pathway selectivity. Its pri­
+mary function lies in providing an ample hydrogen supply for the 
+hydrogenation step by enhancing the solubility of liquid-phase 
+hydrogen and increasing the partial pressure of hydrogen at the cata­
+lyst surface. This indirectly promotes the HDO pathway and rapidly 
+saturates unsaturated intermediates, thereby inhibiting their polymeri­
+zation and coking. Consequently, it maintains catalyst activity and 
+stability.
+The temperatures in the isomerization and cracking stages are typi­
+cally lower than or equal to those in the HDO stage, with a typical 
+operating temperature range between 340◦C and 400◦C. Temperature is 
+the key parameter for controlling cracking depth and isomerization 
+selectivity. Isomerization reactions generally dominate at relatively 
+lower temperatures. As temperature increases, the rate of hydrocracking 
+reactions significantly rises, leading to the breakage of long-chain al­
+kanes. Moderately increasing temperature can enhance the yield of jet 
+fuel fractions (C8-C16). However, excessively high temperatures cause 
+excessive cracking, generating large amounts of light gases (C1-C4) and 
+gasoline fractions, resulting in a sharp decline in jet fuel yield. For 
+example, on Pt/Beta catalysts, an increase in reaction temperature from 
+300◦C to 400◦C results in a decrease in liquid product yields and an 
+increase in gas and coke yields, while aromatics yields increase from 4.5 
+to 15.63%[106]. The elevated hydrogen pressure at this stage sup­
+presses the polymerization and coking of olefins generated by dehy­
+drogenation reactions at the acidic sites of the catalyst, thereby 
+protecting the catalyst and extending its operational lifespan. Simulta­
+neously, the high-pressure environment facilitates rapid hydrogenation 
+of unsaturated intermediates, enhancing product stability. Typical 
+pressure ranges reported in the literature are 7–10 MPa.
+Compared to the more mature HEFA process with distinct reaction 
+steps, one-step hydrogenation and catalytic hydrothermal cracking 
+processes couple more complex reaction networks within the reactor, 
+making them more demanding in terms of temperature and pressure 
+requirements. To achieve efficient deoxygenation, cracking, and isom­
+erization simultaneously within a single reaction space, one-step pro­
+cesses typically require precise balancing within a relatively narrow 
+operating window[107]. The optimal deoxidation reaction parameters 
+typically fall within the range of 350–400◦C and 1–5 MPa[108]. How­
+ever, the specific optimal value strongly depends on the catalyst system 
+and feedstock characteristics. For example, ZSM-22 molecular sieves 
+have the best isomerization efficiency at 320◦C (72% of isoparaffins), 
+but exceeding 350◦C leads to molecular sieve skeleton collapse 
+[109,110].
+In contrast, the “temperature-pressure” synergistic regulation in the 
+catalytic hydrothermal decomposition (CHJ) process exhibits a two- 
+stage characteristic and generally requires higher pressure. In the first 
+stage of hydrothermal liquefaction (HTL), the core process involves 
+converting wet biomass into bio-crude oil using subcritical water. This 
+procedure typically occurs in a medium-temperature, high-pressure 
+aqueous environment, with typical operating temperatures ranging from 
+250–380◦C. Pressure must be maintained at elevated levels of 5–30 MPa 
+to sustain water in its liquid state and facilitate reactions such as hy­
+drolysis and pyrolysis[111]. Temperature is the decisive factor for bio- 
+crude oil yield at this stage, with a clearly defined optimum value. For 
+example, using microalgae with 78.4% water content as feedstock, a bio- 
+crude oil yield of 37% can be achieved at 300◦C and 10 MPa[112]. BAO 
+et al. found that at 310◦C, the bio-crude oil yield reached a peak of 
+36.75%[113]. Research indicates that the energy provided by hydro­
+thermal liquefaction reactions at low temperatures is insufficient, 
+resulting in low conversion rates. As temperatures rise, the dissolution 
+rate of organic compounds accelerates, promoting multiple reactions 
+(hydrolysis, decarboxylation, aromatization, etc.), thereby accelerating 
+the formation of bio-crude oil. However, excessively high temperatures 
+cause intermediate products in this process to readily form coke and 
+increase gas yield[114]. The subsequent bio-crude hydrogenation 
+upgrading stage operates on a similar principle to HEFA hydrogenation. 
+However, since its feedstock (bio-crude) typically contains a higher 
+proportion of unsaturated bonds and aromatic structures, it often re­
+quires higher hydrogen partial pressures (e.g., 10–20 MPa) to promote 
+deep hydrogenation saturation and suppress condensation coking re­
+actions. Consequently, the overall pressure requirements of the CHJ 
+process are significantly higher than those of HEFA and one-step pro­
+cesses using oils as feedstock.
+The effects of temperature and pressure are not isolated but act 
+synergistically on reaction equilibrium and rate. When increasing tem­
+perature to pursue high conversion rates, hydrogen pressure must be 
+raised simultaneously to suppress the heightened risk of coking and 
+deactivation. The synergistic requirements for temperature and pressure 
+in different Bio-jet fuel preparation processes fundamentally reflect the 
+characteristics of the reactants, differences in catalysts (such as the 
+varying hydrogenolysis activities of noble metals versus transition 
+metals), and the degree of coupling with the target reaction pathway. 
+These parameters must be jointly determined based on the interplay 
+between "catalyst properties, feedstock characteristics, and target 
+product distribution"[115].
+4.2. Effect of Hydrogen-to-Oil ratio
+The impact of the hydrogen-to-oil ratio (defined as the ratio of 
+hydrogen gas volume to feedstock oil volume under standard conditions, 
+H2/oil) is multidimensional. The impact of hydrogen-to-oil ratio on the 
+hydrogenation esterification and fatty acid (HEFA) process is primarily 
+reflected in three aspects: reaction pathways, product selectivity, and 
+catalyst lifetime. A higher hydrogen-to-oil ratio implies a higher 
+hydrogen partial pressure, which promotes the hydrogen-consuming 
+HDO pathway, enhances the selectivity of straight-chain alkanes, and 
+effectively delays catalyst deactivation by carbon deposits through 
+surface flushing[103]. Conversely, low hydrogen oil ratios (e.g., <500 
+Nm3/m3) restrict hydrogen surface coverage. This not only shifts the 
+reaction toward low-hydrogen-consumption DCO/DCOx pathways, 
+leading to reduced jet fuel selectivity (potentially below 35%), but also 
+accelerates catalyst deactivation due to intermediate polymerization 
+[116,117].
+Research indicates that under startup conditions characterized by 
+low oil-to-hydrogen ratios and low hydrogen pressure, carbonaceous 
+deposits permanently adsorb onto active sites, leading to severe and 
+irreversible catalyst deactivation[117]. Therefore, during the hydroge­
+nation saturation and HDO stages, a higher hydrogen-to-oil ratio (typi­
+cally recommended at 500–1200 Nm3/m3) is essential to ensure reaction 
+depth and catalyst stability. However, in the isomerization stage, 
+excessively high hydrogen partial pressure may overly suppress the 
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+12
+
+dehydrogenation step at metal sites (a prerequisite for generating olefin 
+intermediates for subsequent acid-catalyzed isomerization). Thus, the 
+hydrogen-to-oil ratio must be moderately reduced in this stage (e.g., 
+300–1000 Nm3/m3) to maintain the delicate equilibrium between metal 
+sites (dehydrogenation/hydrogenation) and acidic sites (isomerization) 
+within the bifunctional catalyst[107].
+The one-step process also relies on external hydrogen, but its opti­
+mization objectives are more complex: excessively high hydrogen par­
+tial pressure inhibits the dehydrogenation step that generates olefin 
+intermediates at metal sites, a prerequisite for subsequent acid-catalyzed 
+isomerization. Therefore, the one-step process must balance promoting 
+hydrogenation-deoxygenation with maintaining essential dehydroge­
+nation activity. For example, when using SDBS-Pt/SAPO-11 to catalyze 
+the oxidation of castor oil (Jatropha oil), the activity is approximately 
+1000 Nm3/m3[118]. For the CHJ process, the hydrogen concept in its 
+first stage has been fundamentally redefined. The reaction relies on in- 
+situ hydrogen production via aqueous-phase reforming, making the 
+water-to-oil ratio—rather than the hydrogen-to-oil ratio—the core 
+parameter. The water-to-oil ratio not only influences the physicochem­
+ical properties of the reaction medium but also directly correlates with 
+the in-situ hydrogen production rate. In the subsequent bio-crude hy­
+drogenation upgrading stage, although external hydrogen supplemen­
+tation is required, the objective is to achieve deep saturation of highly 
+unsaturated complex molecules. Consequently, the required hydrogen 
+partial pressure is typically far higher than in the HEFA process 
+(reaching 10–20 MPa).
+The hydrogen-oil ratio fundamentally represents the macroscopic 
+manifestation of hydrogen chemical potential within the reaction sys­
+tem. A high hydrogen-oil ratio (high hydrogen partial pressure) un­
+equivocally benefits all hydrogenation steps by promoting the HDO 
+pathway, enhancing alkane selectivity, and effectively delaying catalyst 
+deactivation due to coking. However, a delicate trade-off exists during 
+the isomerization stage: excessively high hydrogen partial pressure in­
+hibits the formation of olefin intermediates on metal active sites, which 
+are essential precursors for acidic sites to perform skeletal isomerization. 
+Therefore, the industrial practice often employs a staged hydrogen-to-oil 
+ratio adjustment strategy: a high hydrogen-to-oil ratio is maintained in 
+the main hydrogenation-deoxygenation section to ensure thorough 
+deoxygenation and catalyst protection; while the hydrogen-to-oil ratio is 
+moderately reduced in the isomerization section to optimize isomeri­
+zation efficiency[119].
+4.3. Effect of liquid hourly space velocity and reaction time
+Both liquid hourly space velocity (typically expressed as liquid 
+hourly space velocity, LHSV, defined as the volume of liquid feedstock 
+processed per unit time per unit volume of catalyst) and reaction time 
+have significant effects on the HEFA and CHJ, two processes for the 
+production of Bio-jet fuel, but there are differences in the mechanism of 
+the effects and the direction of optimization.
+For the HEFA processes, the reaction time directly affects the depth 
+of hydrocracking and product distribution. For example, at 350◦C, the 
+yield of Bio-jet fuel increases significantly from about 15% to 38% as the 
+reaction time increases from 10 to 30 min[120]. The LHSV is a very 
+critical parameter in the HEFA process, which determines the residence 
+time of the feedstock in the catalyst bed and directly affects the degree of 
+completion of the reactions such as hydrogenation, deoxygenation, 
+isomerization and cracking[121]. Excessively high liquid hourly space 
+velocity can result in insufficient contact time and incomplete conver­
+sion. A lower liquid hourly space velocity (i.e., longer residence time) 
+typically facilitates adequate contact between reactants and the catalyst, 
+promoting the reaction and enhancing the selectivity of the target 
+product. However, excessively long residence times may cause over- 
+cracking, ultimately producing excessive light hydrocarbons (such as 
+naphtha), reducing the selectivity of the jet fuel fraction (C8-C16), and 
+adversely affecting catalyst lifespan. In industrial production, different 
+liquid hourly space velocity and reaction times are typically set in stages. 
+During the heavy oil desulfurization stage, the LHSV ranges from 1.0 to 
+1.5 h−1 (reaction time 10–60 min). For example, at a zero-rate LHSV of 
+1.0 h−1 on the Pt/Al-MCM-41 catalyst, the coal vapor ratio (aerosol/ 
+light hydrocarbons) reaches its peak. During the isomerization stage, 
+LHSV ranges from 1.0 to 2.5 h−1 (reaction time 24–30 min). For 
+instance, at 2.5 h−1, the Pt/modified USY catalyst achieves jet fuel pour 
+points below −50◦C[84,122].
+For the CHJ process, the reaction time in the first stage is an inde­
+pendent critical variable that requires precise control to balance the 
+thorough depolymerization of biomacromolecules with the secondary 
+repolymerization/coking of intermediate products. Insufficient reten­
+tion time prevents the complete conversion of high-molecular-weight 
+organic compounds in the waste into bio-crude oil, thereby reducing 
+bio-crude oil yield. As the reaction time increases, bio-crude oil pro­
+duction significantly improves. Conversely, an excessively long reaction 
+time causes intermediate products to undergo repolymerization, form­
+ing coke, or undergo gasification, producing CO2, H2, and other gases 
+[123,124]. Research indicates that most liquefaction reactions can be 
+completed within a relatively short period of time (e.g., 15–60 min) 
+[111]. For example, a study determined that three hours was the optimal 
+reaction time when converting palm oil into jet fuel fractions at 400◦C 
+[125]. Additionally, the effects of reaction time and temperature can be 
+comprehensively evaluated using the reaction intensity factor (KSF). 
+The highest biofuel conversion rate occurs when the KSF value ranges 
+between 9 and 10[126]. In the second-stage hydrogenation upgrading 
+process, to ensure complete reaction of complex components, removal of 
+heteroatoms, and attainment of the required degree of saturation, a 
+space-velocity range of 0.1 h−1 to 0.8 h−1 is typically employed for 
+upgrading bio-crude oil[127].
+Liquid hourly space velocity (or reaction time) is a key engineering 
+parameter controlling reaction depth and chain reaction selectivity. 
+Selecting an appropriate range within the process ensures sufficient 
+contact between reactant molecules and active sites of the catalyst 
+without inducing secondary cracking[128]. For the hydrothermal 
+liquefaction stage of the CHJ process, an optimal reaction time window 
+exists to balance the complete liquefaction of macromolecules with the 
+undesirable repolymerization of intermediates. The core challenge in 
+industrial design lies in maximizing the reactor volumetric efficiency by 
+optimizing catalyst activity to achieve the highest possible liquid hourly 
+space velocity, while maintaining the selectivity of the target products.
+5. Conclusions and Outlook
+5.1. Conclude
+The conversion of WCO into SAF represents a technologically viable 
+and strategically significant pathway for decarbonizing the aviation 
+sector. This review has systematically examined the two most prominent 
+technological routes, HEFA and CHJ, underscoring that catalyst design 
+and process optimization are the central pillars determining efficiency, 
+product quality, and economic feasibility. The mature and robust HEFA 
+process relies on an advanced bifunctional catalyst system, while the 
+emerging CHJ process offers greater feedstock flexibility and lower 
+hydrogen consumption. However, it imposes stricter requirements on 
+catalyst hydrothermal stability and process engineering.
+A critical synthesis of the literature reveals that the evolution of 
+catalyst systems, from conventional sulfide catalysts to advanced 
+bimetallic, bifunctional, and molecular sieve-based designs—has been 
+primarily driven by the need to enhance activity, selectivity, and 
+robustness against the complex impurities inherent in WCO. The per­
+formance of these catalysts is inextricably linked to precise process 
+conditions, including temperature, pressure, hydrogen-to-oil ratio, and 
+liquid hourly space velocity, which collectively dictate reaction path­
+ways, product distribution, and catalyst longevity. Despite significant 
+progress, the transition from laboratory-scale excellence to robust, cost- 
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+13
+
+effective industrial operation remains hampered by challenges related to 
+catalyst deactivation, the economics of hydrogen supply, and the inte­
+gration of efficient pretreatment and product upgrading steps.
+5.2. Challenges and prospects for the future
+5.2.1. Technical challenges and responses
+The pathway to large-scale commercialization of WCO-SAF faces 
+persistent technical hurdles that demand focused innovation. Catalyst 
+durability remains a primary concern. The complex impurity profile of 
+WCO, including sulfur, chlorine, phosphorus, and trace metals, leads to 
+irreversible poisoning and fouling of active sites. The current phys­
+ical–chemical deacidification process has high energy consumption, 
+while novel enzymatic deacidification (e.g., lipase-catalyzed ethanol­
+ysis) can reduce FFA to 0.25% under mild conditions at 40◦C, but the 
+large-scale application is still limited by enzyme cost and stability[43]. 
+Furthermore, the high-temperature, high-pressure, and aqueous envi­
+ronments involved, particularly in CHJ, accelerate sintering, leaching, 
+and support collapse. Future catalyst development must prioritize the 
+design of "smart" materials with built-in resistance. This involves engi­
+neering robust supports (e.g., carbon-based materials, doped composite 
+oxides), tailoring active phase compositions (e.g., forming stable alloys 
+or intermetallic compounds), and constructing protective architectures 
+like core–shell structures to physically and chemically shield active sites.
+Process integration and energy efficiency present another major 
+challenge. The HEFA process is energy- and hydrogen-intensive, with its 
+carbon footprint heavily dependent on the source of hydrogen. The CHJ 
+process, while less hydrogen-intensive, requires significant energy for 
+maintaining high-pressure conditions. Responses should focus on 
+developing low-severity catalytic processes, optimizing heat integration 
+networks, and coupling SAF production with renewable hydrogen 
+sources (green hydrogen) or in-situ hydrogen generation technologies to 
+achieve true lifecycle carbon neutrality. Moreover, the development of 
+robust, cost-effective pretreatment technologies to standardize highly 
+variable WCO feedstocks is crucial for ensuring consistent catalyst per­
+formance and final fuel quality.
+5.2.2. Prospects
+Despite many challenges, technological innovation and policy 
+drivers are accelerating the commercialization of SAF from WCO. In 
+terms of catalyst stability enhancement, future research should be 
+devoted to the development of multi-functional catalysts with low cost, 
+high stability and anti-poisoning, especially non-precious metal cata­
+lysts and molecular sieve materials with graded pores. In terms of pro­
+cess, processes such as one-step hydrogenation and catalytic 
+hydrothermal cracking need to be further optimized to reduce energy 
+and hydrogen consumption, and focus on green-hydrogen coupling and 
+reaction integration to enhance sustainability. Standardized pretreat­
+ment of feedstock is critical to ensure feed quality and process stability. 
+Promoting the construction of pilot and demonstration plants with 
+comprehensive techno-economic and full life-cycle assessments is key to 
+validating their commercialization feasibility and gaining policy 
+support.
+Furthermore, the integration of WCO-SAF production with other 
+waste valorization streams (e.g., biogas upgrading, municipal solid 
+waste processing) within a biorefinery concept can enhance overall 
+economics and sustainability. From a policy and market perspective, the 
+strengthening of mandates like ReFuelEU and the development of robust 
+carbon accounting and trading mechanisms will provide stable demand 
+signals, accelerating investment and scale-up. As technological readi­
+ness advances and costs decline, WCO-SAF is poised to transition from a 
+niche supplement to a mainstream component of the global aviation fuel 
+mix, playing an indispensable role in the sector's journey toward net- 
+zero emissions.
+CRediT authorship contribution statement
+Zifan Huang: Writing – review & editing, Writing – original draft, 
+Visualization, Validation, Software, Methodology, Investigation, Fund­
+ing acquisition, Data curation. Lang Chen: Visualization, Investigation, 
+Data curation. Liuxia Li: Methodology, Investigation. Jinglin Li: 
+Investigation, Formal analysis. Pan Wang: Writing – review & editing, 
+Validation, Supervision, Project administration, Conceptualization. 
+Lianhai Ren: Supervision, Project administration, Funding acquisition.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.

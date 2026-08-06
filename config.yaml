@@ -33,15 +33,15 @@ models:
   # have pulled in `ollama list` works here.
   # Tip for beginners / small PCs: set all three to the SAME small model
   # (e.g. "llama3.2:3b") so you only download one model.
-  primary: "granite4.1:8b"
-  cross_check: "granite4.1:8b"
+  primary: "qwen2.5vl:3b"
+  cross_check: "qwen2.5vl:3b"
 
   # Escalation pass — only papers where primary/cross_check disagree.
-  tie_breaker: "granite4.1:8b"
+  tie_breaker: "qwen2.5vl:3b"
 
   # Multimodal model for optional figure/chart description. Only required
   # if extraction.enable_figure_vision is true below.
-  vision: "gemma3:12b"
+  vision: "qwen2.5vl:3b"
 
   # Ollama server address.
   host: "http://localhost:11434"
@@ -56,7 +56,7 @@ models:
 extraction:
   # Which domain spec (domains/<name>.yaml) to use. Change this one line
   # to switch topics: saf_hefa | biodiesel | methanol_synthesis | mof_defect_engineering
-  schema_name: "saf_hefa"
+  schema_name: "biodiesel"
 
   relevant_section_keywords:
     - "experimental"
@@ -83,7 +83,7 @@ extraction:
 
   # Off by default for beginners (needs a vision-capable model + more time).
   # Turn on (true) after your first successful text-only run if charts matter.
-  enable_figure_vision: false
+  enable_figure_vision: true
   max_figures_per_paper: 5
   vision_max_retries: 2
   vision_retry_wait_seconds: 3
