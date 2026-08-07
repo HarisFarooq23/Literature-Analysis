@@ -1,2 +1,0 @@
-id,title,authors,first_author,journal,publication_year,doi,keywords,abstract,material_class,is_review,hash_sha256,hash_blake3,file_size,num_pages,is_scanned,extraction_method,processing_status,duplicate_status,duplicate_of,input_path,output_dir,error_count
-test_6_9a370c21,test,,Unknown,,,,,,unknown,False,9a370c21bf7cfbffa831be0cf52b084d17211ffce5d59b9d9ce4eeea5c480f11,9a370c21bf7cfbffa831be0cf52b084d17211ffce5d59b9d9ce4eeea5c480f11,305969,2,False,pymupdf,completed,False,,C:\Users\HP\Downloads\new\3. LLM\input_pdfs\test (6).pdf,pipeline_output\test_6_9a370c21,0

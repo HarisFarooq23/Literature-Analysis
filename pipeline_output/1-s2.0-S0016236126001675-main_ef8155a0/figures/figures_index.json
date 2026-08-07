@@ -4,59 +4,5 @@
     "image": "fig_p1_1.png",
     "caption": "Embedded image from page 1",
     "page": 1
-  },
-  {
-    "id": "fig_p1_2",
-    "image": "fig_p1_2.png",
-    "caption": "Embedded image from page 1",
-    "page": 1
-  },
-  {
-    "id": "fig_p1_3",
-    "image": "fig_p1_3.png",
-    "caption": "Embedded image from page 1",
-    "page": 1
-  },
-  {
-    "id": "fig_p3_1",
-    "image": "fig_p3_1.png",
-    "caption": "Embedded image from page 3",
-    "page": 3
-  },
-  {
-    "id": "fig_p4_1",
-    "image": "fig_p4_1.png",
-    "caption": "Embedded image from page 4",
-    "page": 4
-  },
-  {
-    "id": "fig_p5_1",
-    "image": "fig_p5_1.png",
-    "caption": "Embedded image from page 5",
-    "page": 5
-  },
-  {
-    "id": "fig_p6_1",
-    "image": "fig_p6_1.png",
-    "caption": "Embedded image from page 6",
-    "page": 6
-  },
-  {
-    "id": "fig_p6_2",
-    "image": "fig_p6_2.png",
-    "caption": "Embedded image from page 6",
-    "page": 6
-  },
-  {
-    "id": "fig_p7_1",
-    "image": "fig_p7_1.png",
-    "caption": "Embedded image from page 7",
-    "page": 7
-  },
-  {
-    "id": "fig_p7_2",
-    "image": "fig_p7_2.png",
-    "caption": "Embedded image from page 7",
-    "page": 7
   }
 ]

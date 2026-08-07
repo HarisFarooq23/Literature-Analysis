@@ -255,6 +255,15 @@ def extract_figure_insights(
         if description:
             blocks.append(f"Figure {fig_id}: {description}")
 
+        if blocks:
+            print("\n" + "=" * 80)
+            print(f"Successfully extracted {len(blocks)} figure(s) from {paper_dir.name}")
+            print("=" * 80)
+
+            for block in blocks:
+                print(block)
+                print("-" * 80)
+
     if not blocks:
         return ""
 

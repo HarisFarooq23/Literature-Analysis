@@ -84,9 +84,9 @@ extraction:
   # Off by default for beginners (needs a vision-capable model + more time).
   # Turn on (true) after your first successful text-only run if charts matter.
   enable_figure_vision: true
-  max_figures_per_paper: 5
-  vision_max_retries: 2
-  vision_retry_wait_seconds: 3
+  max_figures_per_paper: 2
+  vision_max_retries: 3
+  vision_retry_wait_seconds: 5
 
   numeric_agreement_tolerance: 0.10
   max_retries: 3
