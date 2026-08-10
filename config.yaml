@@ -33,11 +33,11 @@ models:
   # have pulled in `ollama list` works here.
   # Tip for beginners / small PCs: set all three to the SAME small model
   # (e.g. "llama3.2:3b") so you only download one model.
-  primary: "qwen2.5vl:3b"
-  cross_check: "qwen2.5vl:3b"
+  primary: "granite4.1:8b"
+  cross_check: "qwen3:8b"
 
   # Escalation pass — only papers where primary/cross_check disagree.
-  tie_breaker: "qwen2.5vl:3b"
+  tie_breaker: "gemma3:12b"
 
   # Multimodal model for optional figure/chart description. Only required
   # if extraction.enable_figure_vision is true below.
@@ -84,7 +84,7 @@ extraction:
   # Off by default for beginners (needs a vision-capable model + more time).
   # Turn on (true) after your first successful text-only run if charts matter.
   enable_figure_vision: true
-  max_figures_per_paper: 2
+  max_figures_per_paper: 1
   vision_max_retries: 3
   vision_retry_wait_seconds: 5
 
