@@ -1,0 +1,306 @@
+Weak Acid Sites 
+(<300oC) (µmol/g) 
+Strong Acid Sites 
+(>500oC) (µmol/g) 
+Total Acidity 
+(µmol/g) 
+γ-Al2O3  
+98.9  
+12.7  
+111.6 
+Al2O3:SiO2 
+(90:10)  
+244.4  
+67.6  
+312.0 
+Al2O3:SiO2 
+(70:30)  
+358.9  
+276.1  
+635 
+NiMo/γ-Al2O3  
+101.2  
+81.8  
+183.0 
+NiMo/Al2O3: 
+SiO2 (90:10)  
+305  
+76.1  
+381.1 
+NiMo/Al2O3: 
+SiO2 (70:30)  
+645.4  
+85.6  
+740.0  
+Fig. 5. NH3-TPD analysis of (a) γ-Al2O3 (b) Al2O3-SiO2 (90:10) (c) Al2O3-SiO2 
+(70:30), (d) NiMo/γ-Al2O3, (e) NiMo/Al2O3-SiO2 (90:10), (f) NiMo/Al2O3- 
+SiO2 (70:30). 
+A. Racha et al.
+
+Catalysis Today 442 (2024) 114895
+8
+range of 3.00–3.20 Cst as compared to a viscosity of 43 Cst for the feed 
+UCO. There is a decrease in the FFA content and bromine no of the 
+product stream. This decrease in the viscosity, FFA content, and bromine 
+no of the product stream is a clear indication of HDO. The reaction 
+product obtained was also subjected to SIMDIST analysis to check for the 
+fractions of gasoline, kerosene, diesel, and unconverted UCO. The un­
+converted UCO was measured to obtain the conversion of UCO during 
+the HDO reaction. The conversion of UCO increases with an increase in 
+the acidity of the support [23,24]. NiMo/ γ-Al2O3 (CAT A) prepared 
+using alumina as the support is less active and therefore shows less 
+conversion of UCO. The conversion of UCO increases from 80 % on CAT 
+A to 85 and 87 % on catalysts NiMo/Al2O3-SiO2 (90:10) (CAT B) & 
+NiMo/Al2O3-SiO2 (70:30) (CAT C) respectively prepared with 
+alumina-silica as the support. This is because alumina-silica supports are 
+more acidic than pure gamma-alumina supports. The distribution of 
+various fractions obtained from SIMDIST analysis is also shown in  
+Table 3. The CAT-A is more diesel selective while catalysts B&C are more 
+selective to kerosene. There is a substantial increase in kerosene fraction 
+from 45 % on CAT-A to 75 % on CAT-C with 30 % silica-incorporated 
+alumina support. This again proves that the increase in the acidity of 
+the catalysts results in higher cracking activity leading to increased 
+kerosene selectivity. There is not much increase in the gasoline content 
+of the product stream with acidity, thus proving that the catalysts B&C 
+have intermediate acidity to increase the cracking activity for only 
+obtaining higher kero selectivity. 
+The structure-activity relationship (SAR) in catalysis is a crucial 
+aspect of understanding the performance of a catalyst in a given reac­
+tion. It refers to the correlation between the structural features of a 
+catalyst and its activity, selectivity, and stability. 
+In the context of the study on highly selective hydrodeoxygenation 
+for sustainable aviation fuel production from used cooking oil, the SAR 
+plays a significant role in optimizing the catalyst activity and selectivity 
+for converting used cooking oil (UCO) into jet-range hydrocarbons. Our 
+study demonstrated the structures of pure alumina, different ratios of 
+alumina-to-silica in the catalyst support play a crucial role in influencing 
+the interactions and activity of converting UCO into jet-range 
+hydrocarbons.  
+i. Pure Alumina Structure: Pure alumina exhibits specific textural 
+properties, such as a surface area of 250.14 m2/g and a pore 
+volume of 0.60 cm3/g with a narrow average pore diameter of 
+52.85 Å. This structure indicates a more confined network with 
+smaller pores, influencing the catalyst’s surface area and pore 
+characteristics.  
+ii. Different Ratios of Alumina-Silica: Varying the alumina-to-silica 
+ratios in the catalyst support impacts the textural properties. 
+For instance, the Al2O3-SiO2 (90:10) support shows a surface area 
+of 224.30 m2/g and a larger pore volume compared to pure 
+alumina. As the silica content increases, the pore volume and 
+average pore diameter also increase, leading to structures with 
+larger pores and volumes.  
+iii. Alumina-to-Silica Ratios in the Catalyst Support: The study 
+identifies a 70:30 alumina-to-silica ratio as optimal for achieving 
+exceptional UCO conversion (86.69 %) and jet range hydrocar­
+bon fuel selectivity (74.79 %). This specific ratio influences the 
+catalyst’s activity and selectivity, highlighting the importance of 
+the silica-to-alumina ratio in determining the performance of the 
+catalyst in converting UCO into jet-range hydrocarbons. 
+The structures of pure alumina and different ratios of alumina-silica 
+in the catalyst support significantly impact the textural properties, sur­
+face area, pore volume, and pore diameter of the catalysts. These 
+structural variations play a crucial role in determining the interactions 
+and activity of the catalyst in converting UCO into jet-range hydrocar­
+bons, ultimately influencing the efficiency and selectivity of the 
+hydrodeoxygenation process for sustainable aviation fuel production. 
+The UCO conversion and selectivity were calculated based on the 
+formula given below. 
+XFeed(%) =
+[FI −FO
+FI
+]
+∗100  
+SKero(%) =
+[
+KO
+FI −FO
+]
+∗100  
+SI(%) =
+[
+IO
+FI −FO
+]
+∗100  
+Where XFeed is feed conversion, FI is feed inlet flow rate (g/h), FO is feed 
+outlet flow rate (g/h), KO is kerosene outlet flow rate (g/h) and IO is 
+outlet flow rate (g/h) of any product species ‘I’ forming in the reaction 
+and 370 + 0C boiling fraction in hydro-deoxygenated oil is considered to 
+be unreacted feed. 
+Table 3 
+SIMDIST analysis of product obtained from hydrodeoxygenation of used cooking oil.  
+Catalysts 
+Active 
+components 
+Al2O3 
+SiO2 
+Viscosity 
+@ 40 C 
+(Cst) 
+PPoC 
+Br 
+No. 
+Product selectivity (%)  
+FFA 
+Gas 
+Gasoline 
+(36–150 C) 
+Kero 
+(150–300 C) 
+Diesel 
+(300–370 C) 
+Water 
+UCO Conv. 
+(%) 
+CAT A 
+NiMo: 
+(P: 
+0.5 %, 
+Ni: 3 %, 
+Mo: 
+10 %) 
+100 
+0 
+3.08 
+15 
+1.27 
+0.28 
+1.35 
+4.77 
+45.00 
+40.28 
+7.16 
+80.24 
+CAT B 
+NiMo: 
+(P: 
+0.5 %, 
+Ni: 3 %, 
+Mo: 
+10 %) 
+90 
+10 
+3.11 
+12 
+0.79 
+0.002 
+6.02 
+1.28 
+69.20 
+6.84 
+7.32 
+85.42 
+CAT C 
+NiMo: 
+(P: 
+0.5 %, 
+Ni: 3 %, 
+Mo: 
+10 %) 
+70 
+30 
+3 
+15 
+0.64 
+0.016 
+5.26 
+1.41 
+74.79 
+10.75 
+8.02 
+86.69 
+PP: Pour point; Br. No.: Bromine Number; FFA: Free Fatty Acid and UCO: Used Cooking Oil 
+Reaction conditions: Temperature, 350◦C, Flow rate, 1.1 h⁻1 WHSV, Pressure, 6 MPa, H2/oil ratio, 400 
+A. Racha et al.
+
+Catalysis Today 442 (2024) 114895
+9
+3.2.2. Comparison of catalytic activity with different catalysts 
+Table 4 presents a summary of various catalysts and their corre­
+sponding products, including hydrocarbon fuel and green diesel. In  
+Table 5, the NiMo catalyst, which is supported on Alumina-Silica with an 
+Al2O3/SiO2 ratio of 70:30, demonstrates a remarkable UCO conversion 
+rate of 86.69 % during the hydrodeoxygenation process. Additionally, 
+this catalyst exhibits a significant 74.79 % selectivity towards jet-range 
+hydrocarbon fuels under mild conditions (350◦C, 1.1 h⁻1 WHSV, 6 MPa, 
+and H2/oil 400). These results highlight the potential of the Al2O3-SiO2 
+catalyst for converting UCO into SAF-range hydrocarbons. These find­
+ings underscore the significant potential of the NiMo/ Al2O3-SiO2 
+catalyst for transforming UCO into SAF range hydrocarbons but also 
+emphasize the importance of selecting appropriate catalysts and process 
+parameters, such as WHSV (Weight Hourly Space Velocity), to optimize 
+conversion efficiency and target the desired C9-C15 product range for 
+sustainable aviation fuels. 
+Origin of Catalytic Active Sites: The catalytic activity of NiMo- 
+supported catalysts on Al₂O₃ and SiO₂-Al₂O₃ supports is primarily due 
+to the presence of both metal active sites and acidic sites.  
+(i) Metal active sites: The Ni and Mo atoms on the catalyst surface 
+form active sites essential for hydrogenation and hydro­
+deoxygenation reactions [47]. These sites are created during the 
+impregnation and calcination processes. These metal active sites 
+facilitate the activation of hydrogen and its subsequent reaction 
+with unsaturated hydrocarbons, leading to the production of 
+hydrocarbon biofuels.  
+(ii) Acidic sites: Brønsted acid sites formed by Si–OH–Al linkages in 
+SiO₂-Al₂O₃ supports [48], providing protons necessary for 
+cracking and isomerization reactions. Lewis acid sites associated 
+with coordinatively unsaturated aluminum atoms, these sites are 
+crucial for the adsorption and activation of reactant molecules.  
+(iii) Support effect: The incorporation of SiO₂ into Al₂O₃ modifies the 
+support’s acidic properties and enhances the dispersion of NiMo 
+particles [49,50]. This leads to a higher concentration of active 
+sites and stronger acid sites in SiO₂-Al₂O₃ supports. The better 
+dispersion of NiMo particles on SiO₂-Al₂O₃ supports increases the 
+number of accessible active sites, contributing to the observed 
+catalytic performance. 
+Despite the marginal differences in catalytic results, the slight per­
+formance enhancement observed for NiMo/SiO₂-Al₂O₃ catalysts can be 
+attributed to improved dispersion of NiMo particles, increased number 
+and strength of acidic sites, enhanced metal-support interactions. These 
+factors collectively contribute to the overall catalytic performance, 
+explaining the slight differences observed in Tables 4 and 5. 
+3.2.3. Catalyst Stability studies 
+All three catalysts were subjected to long-term testing to check the 
+stability of the catalysts. The data is plotted in Fig. 6. The figure shows 
+that all three catalysts show a stable trend of activity to UCO conversion 
+as well as kerosene selectivity for up to 120 hours of the run without the 
+requirement of catalyst re-sulfidation. This shows that the catalysts B&C 
+prepared with silica-alumina supports are stable for hydro- 
+deoxygenation to produce kerosene selective fraction during the HDO 
+of UCO. All the catalysts were prepared by loading phosphorus on the 
+support followed by impregnation of molybdenum and nickel. Phos­
+phorus is considered the second promoter of hydrotreating catalysts. 
+The phosphorus increases the catalytic activity and reduces the deacti­
+vation of catalysts by preventing the formation of inactive NiAl2O4 
+particles. It also improves the thermal stability of alumina and prevents 
+coke formation during hydrotreating reaction thus ensuring enhanced 
+catalyst life [25–27]. 
+3.3. Hydroisomerisation of Hydrodeoxygenated Oil (HDO) 
+Typically, hydroisomerization catalysts are bifunctional in nature 
+and use of a noble metal such as platinum (Pt) for the dehydrogenation/ 
+hydrogenation function over acidic support such as medium pore zeo­
+lites like ZSM-22, ZSM-23, and ZSM-48 are reported in the literature. 
+These catalysts with dual functionality are used to perform isomeriza­
+tion reaction of the olefinic intermediates formed over the metal sites 
+followed by branching over the acidic sites of the zeolite support during 
+hydroisomerization of long chain n-paraffin. The dried HDO obtained 
+from the optimized catalyst formulation CAT C (NiMo/ Al2O3-SiO2 
+(70:30) was subjected to hydroisomerization and mild cracking for the 
+production of jet fuel. The results of the production of Jet-Fuel from 
+Hydrodeoxygenated Oil (HDO) are shown in Table 6. The conversion 
+was carried over one-dimensional zeolite Pt/H-ZSM-22 based on our 
+previous work on hydroisomerization of n-hexadecane at a temperature 
+range of 310–330 ◦C based on our previous work on hydroisomerization 
+of n-hexadecane [28]. A pour point of −60 ◦C was obtained for the 
+product after the hydroisomerization and mild cracking of HDO at a 
+temperature of 325 ◦C. Therefore, the (NiMo/ Al2O3-SiO2 (70:30)) 
+catalyst produces a feed with the required specification to obtain jet 
+range product in the isomerization reaction. 
+4. Summary and conclusion 
+NiMO catalyst supported on Al2O3-SiO2 mixed metal oxide showed 
+superior performance as compared to Al2O3 only supported catalyst. 
+High surface area, mesoporous Al2O3-SiO2 mixed oxide supports were 
+synthesized using a sol-gel homogeneous co-precipitation method, 
+Table 4 
+Catalytic conversion of various vegetable oils into Biofuels.  
+Vegetable Oil

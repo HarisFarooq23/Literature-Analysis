@@ -1,0 +1,210 @@
+Predicted
+D
+R2 = 0.97
+Fig. 3 | Physicochemical fuel properties of the hydrotreated HTL biocrude oil.
+A Heat map of the relative abundance (%) of aromatic, n-alkane, isoalkane,
+cycloalkane, and alkene content; B distillate fractions at different temperature
+ranges; C carbon number range fractions (%) and average carbon number; and
+D Experimental vs. predicted average carbon numbers from regression (n = 15
+independent experiments with 2 replicates) of the hydrotreating data, where the
+center line is the linear ﬁt (y = 0.9978x + 0.032, R2 = 0.97, p = 9.37 × 10−5), dark and
+light blue shaded regions represent the 95% conﬁdence and prediction band of the
+regression, respectively. Source data are provided as a Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+5
+
+C8–C16 range, their average carbon number will likely change after
+distillation to obtain the SAF cut. Due to the importance of average
+carbon number on the chemical and handling properties of jet fuel,
+regression of the RSM data was used to predict the average carbon
+number and compare it to the experimental values (Fig. 3D). The
+predicted and experimental values were highly correlated, with an R2
+of 0.97. A 95% conﬁdence band and prediction band also demon-
+strated the ability of the model to predict new values within the
+experimental parameters.
+SAF candidacy: Tier α tests for hydrotreated HTL biocrude oil
+Based on the parameter screening and optimization, the HTL biocrude
+was hydrotreated to obtain a SAF candidate for Tier α prescreening of
+jet fuel properties that are critical for combustor operability limit. The
+SAF candidate achieved a carbon and energy recovery of 85.2 and
+90.2%, respectively. Complete de-O and de-N was achieved, along with
+a ﬁnal sulfur content of 10 ppm, meeting the 15 ppm maximum42. The
+physicochemical properties were further listed in Table S6. Compared
+to conventional jet fuel, the SAF candidate from this work contained
+higher amounts of light hydrocarbons, was within ASTM speciﬁcation
+limits for critical bulk properties, and had a comparable distillation
+range predicted within speciﬁcation limits (Fig. 4). The hydrocarbon
+compositions of both the hydrotreated HTL biocrude oil and SAF cut
+were mainly n-alkanes, followed by cycloalkanes, aromatics, and iso-
+alkanes (Fig. 4A, B). Compared to the average jet fuel carbon dis-
+tribution, the hydrotreated HTL biocrude oil contained high amounts
+of lighter (<C9) and heavier (>C13) hydrocarbons (Fig. 4A). The greater
+amount of heavy compounds in the whole hydrotreated HTL biocrude
+oil caused the average carbon number to be 12.7, slightly higher than
+jet fuel’s 11.4. However, after taking the SAF cut from C9 to C13, the
+average carbon number was more similar to jet fuel, decreasing to 10.7
+(Fig. 4B). This SAF cut represented 31.5 wt% of the hydrotreated HTL
+biocrude oil. Meanwhile, the light and heavy ends are also potential
+candidates for biobased gasoline and diesel.
+Conventional jet range
+Outside specification limits
+Spec. limit
+A
+B
+D
+C
+Fig. 4 | ASTM D4054 prescreening of HTL-SAF candidate properties. Tier α
+results for sustainable aviation fuel (SAF) candidate properties compared to con-
+ventional jet fuel, including hydrocarbon type abundance from carbon numbers
+C5–C21 (n-alkanes, isoalkanes, mono- and poly-cycloalkanes, and aromatics) and
+average carbon number of A GCxGC-FID results for hydrotreated hydrothermal
+liquefaction biocrude oil and B GCxGC-FID results for SAF cut from hydrotreated
+HTL biocrude oil; C predicted jet fuel properties for surface tension, density,
+viscosity, lower heating value (LHV), ﬂash point, derived cetane number (DCN), and
+freeze point using 10,000 rounds of random sampling from a hydrocarbon data-
+base for bulk properties prediction, where the center represents the determined
+average, solid error bars represent 68% conﬁdence interval, and dashed error bars
+represent 95% conﬁdence interval; and D predicted ASTM D86 distillation curve.
+The average conventional jet fuel experience range (green shaded region), speci-
+ﬁcation limit (red vertical line), and outside the speciﬁcation limit (red shaded
+region) is also illustrated for reference. Source data are provided as a Source
+Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+6
+
+It was observed that the surface tension (σ), density (ρ), kine-
+matic viscosity (ν), lower heating value (LHV), ﬂash point, derived
+cetane number, and freeze point were all within ASTM speciﬁcation
+limits (Fig. 4C). Notably, the density and freeze point of the SAF
+candidate were near, but still, within ASTM speciﬁcation limits, which
+was attributed to the high amount of heavy-end n-alkanes. At the
+same time, LHV was even higher than conventional jet fuel, likely due
+to the higher concentration of n-alkanes, which have high speciﬁc
+energy43. Although n-alkanes have high energy content and thermal
+stability, light n-alkanes (<nC7) can cause ﬂash point violations and
+heavy n-alkanes (>nC14) can cause freeze point violations43. Since the
+SAF cut contained >50% n-alkanes, the fuel likely has a high smoke
+point, preventing soot formation and enabling cleaner combustion.
+However, there were few isoalkanes present in the hydrotreated HTL
+biocrude oil and SAF cut. Lightly branched isoalkanes are desirable
+for jet fuel because they improve cold ﬂow properties, speciﬁc
+energy, thermal stability, and freeze point43–45. Isoalkanes improve
+the pour point and cloud point of jet fuel, which are especially
+important for the operability and performance of jet fuel at high
+altitude and low temperature46,47. Meanwhile, the high content of
+cycloalkanes and aromatics (~44%) also help to improve performance
+and handling properties of the SAF. For instance, monocycloalkanes
+improve the density, freeze point, and speciﬁc energy of the fuel,
+while polycycloalkanes increase energy density, speciﬁc energy, and
+thermal stability43. Aromatics are needed to promote seal swelling in
+jet engines, but they have high particulate emissions and cause sig-
+niﬁcant sooting during burning. Lastly, the predicted ASTM D86
+distillation curve of the SAF candidate was similar to the conven-
+tional jet range (Fig. 4D). Although the light and heavy ends fell
+slightly below the jet range, it was still within ASTM speciﬁcation
+limits. The ﬁnal boiling point for the SAF cut was set lower than the
+typical range for conventional jet fuel to address concerns about the
+freezing point. To further mitigate the freezing point issue, an
+additional isomerization step could be implemented to convert lin-
+ear alkanes into lightly branched alkanes. This adjustment would
+allow the ﬁnal boiling point to be increased to the conventional jet
+fuel range, resulting in a higher SAF yield. This food waste-derived
+HTL-SAF candidate was predicted to meet key ASTM speciﬁcations
+without blending. However, it is noted that some parameters, such as
+density and freeze point, are close to the speciﬁcation limits.
+Therefore, blending may be required if any variations in feedstock
+composition cause deviations in the resulting fuel properties. The
+mass, carbon, and energy yields for this SAF candidate (Table S7)
+provided implications for scale-up and future areas of direction.
+After HTL biocrude pretreatment, hydrotreating, and distillation to
+obtain the SAF cut, the ﬁnal mass yield from food waste was 6.94 wt
+%. For instance, improved mass transfer during hydrotreating could
+increase the oil yield and decrease losses to char and gaseous pro-
+ducts. As mentioned before, increased alkane branching can also
+help improve the hydrotreated biocrude’s ﬁnal boiling point,
+resulting in a higher SAF yield. Therefore, continuous hydrotreating,
+reaction tuning, and catalyst development present potential areas of
+work to improve viability of the HTL-SAF route.
+Circularity index
+Sustainability analysis using a circularity index (CI) demonstrated
+improved circularity in the U.S. aviation industry when implementing a
+HTL-SAF pathway. CI is a single value, between 0 and 1, that measures
+the circularity of concern in terms of consumable, renewable, and
+recoverable resources48. In this case, the energy and carbon CI was
+determined for the entire existing U.S. aviation industry’s jet fuel
+consumption and potential for SAF production from disposed food
+waste. Average consumption and production data for petroleum
+products, food waste, and the HTL process was collected for eight
+value chain categories: extraction, reﬁning, distribution, consumption,
+disposal, recovery, remake, and reuse (Tables S8 and S9). In the
+existing U.S. aviation industry, jet fuel is mainly derived from petro-
+leum products, with very little SAF consumption. In the ﬁrst half of
+2024, an average of 1,657,000 barrels of jet fuel were consumed
+per day49. Meanwhile, just 15.8 million gallons of SAF were consumed in
+202250. In 2019, it was estimated that 66.2 million wet tons of food
+waste was managed in the U.S., with 39.6 million tons going to
+landﬁlls51.
+After implementing the use of HTL and hydrotreating for food
+waste recoverable from landﬁlls, the CIs improved signiﬁcantly. Energy
+CI increased from 1.35 to 32.51% and carbon CI increased from 0.13% to
+17.12%. Despite the improved circularity through producing SAF from
+food waste, it is apparent that food waste alone will only be part of the
+solution to provide feedstocks for SAF. Speciﬁcally, municipal solid
+waste and wet waste (including food waste) is just a fraction of the
+potential sustainable biomass supply for production of liquid trans-
+portation fuels. Other emerging biomass feedstocks, such as algae,
+energy crops, forestry, agricultural, vegetable oil, and starch supplies,
+also have potential for SAF production52. Additionally, HTL biocrude
+from food waste can produce other bioproducts besides SAF (such as
+gasoline, diesel, and biobinders), so the potential CI of the overall
+system could be much higher53. Thereby, while food waste alone can
+help increase energy and carbon CI of the aviation industry by nearly
+20%, utilization of other biomass feedstocks for SAF production can ﬁll
+the gap to create a fully circular bioeconomy in the aviation industry
+and beyond.
+The pathway from food waste to SAF via HTL and hydrotreating is
+complicated, involving many factors and variations. To consider the
+uncertainty in CI under changes in pathway conditions, including
+amount of disposed and recoverable food waste, carbon and energy
+contents of food waste and SAF, and mass yields during hydrotreating
+and distillation, a Monte Carlo analysis with 1,000 simulations was
+conducted. A larger range of uncertainty was depicted for energy
+circularity, ranging from 28.26% to 48.73% compared to 14.05–26.93%
+for carbon circularity (Fig. 5A). For both CIs, higher circularity was
+observed at increased food waste recovery, which was reﬂected in its
+high Spearman’s rank correlation coefﬁcient (Fig. 5B). In the U.S.,
+59.84% of food waste is managed by landﬁlls, with the other ~40%
+managed by combustion, donation, sewer/wastewater treatment,
+composting, biochemical processing, animal feed, anaerobic diges-
+tion, and land application51. Therefore, the production of SAF and
+value of CI for the aviation industry could continue to increase if food
+waste management beyond landﬁlls was targeted for recovery in HTL
+and bioreﬁnery processes. The carbon and energy content of the food
+waste also had a relatively high correlation to their respective CIs,
+indicating the importance of the feedstock’s biochemical composition.
+Overall, increased recovery of food waste from other waste manage-
+ment practices would most greatly improve the circularity of this HTL-
+SAF pathway.
+HTL is a promising pathway to produce SAF. Although HTL can
+valorize food waste into biocrude oil, hydrotreating is still required to
+remove disadvantageous heteroatoms. It was determined that tem-
+perature, catalyst:oil ratio, and RT were the most impactful parameters
+on hydrotreating for de-O, carbon recovery, and energy recovery.
+These parameters were optimized to achieve high de-O and de-N,
+producing a SAF sample that met ASTM speciﬁcation limits for several
+fuel properties without blending. Future work may explore parametric
+tuning and catalyst development to promote isomerization during
+hydrotreating for improved cold ﬂow properties and higher SAF yield.
+Furthermore, this pathway also demonstrated improved energy and
+carbon circularity in the U.S. aviation sector, which could be further
+increased by changing food waste management practices for higher
+food waste recovery. In all, it was shown that HTL of food waste is a
+potential pathway to produce drop-in SAF for a decarbonized aviation
+industry.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570

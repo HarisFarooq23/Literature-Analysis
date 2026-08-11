@@ -1,0 +1,288 @@
+The usage of petroleum-based jet fuels pollutes the environment as 
+petroleum fuels are the major producer of greenhouse gases (GHG). 
+Apart from these pollutants, petroleum-based fuels are the substantial 
+generator of NOx, SOx, CO, particulate matter, and volatile organic 
+compounds [1]. Biomass-derived aviation fuel has long been seen as a 
+renewable energy choice as it minimizes the usage of arable land, GHG 
+radiation and reliance on fossil fuels. Renewable jet fuel has been taken 
+into consideration as a potential renewable opportunity and long-term 
+solution to relieve the approaching troubles in the aviation industry. 
+From 2008 to 2025, aviation fuel global consumption is predicted to rise 
+by nearly 38 %, with an annual enhancement rate of 1.9 % [2]. Biomass- 
+derived aviation fuel can substitute about 30 % of total aviation fuel [3]. 
+Furthermore, when compared to petroleum-based jet fuel, bio-jet 
+fuel may lessen GHG emissions by 65–85 % [4]. For manufacturing 
+biomass-derived aviation fuel, many paths have been explored, 
+including catalytic sugar-to-jet process [5], gasification to Ficher 
+Tropsch process [6], alcohol-to-jet process [7] and hydroprocessed 
+renewable jet (HRJ) [8]. One of the most important methods for turning 
+non-edible oil-based feeds into aviation fuel is HRJ. Several conversion 
+methods have been developed and tested on a commercial or pre- 
+commercial scale in recent years. The HRJ method has been regarded 
+as the sole commercially feasible technique, and several test flights using 
+HRJ fuel have been developed [9]. In the hydroprocessing process, tri­
+glycerides present in the feedstock transform into straight-chain alkanes 
+* Corresponding author at: Bio-fuels Division, CSIR - Indian Institute of Petroleum (IIP), Haridwar Road, Mohkampur, Dehradun 248005, India. 
+E-mail address: asinha@iip.res.in (A.K. Sinha).  
+Contents lists available at ScienceDirect 
+Fuel 
+journal homepage: www.elsevier.com/locate/fuel 
+https://doi.org/10.1016/j.fuel.2022.126348 
+Received 20 June 2022; Received in revised form 6 September 2022; Accepted 12 October 2022
+
+Fuel 333 (2023) 126348
+2
+via the hydrodeoxygenation route and these alkanes changes to light and 
+branched alkanes via catalytic hydrocracking and hydroisomerization to 
+meet jet fuel standards. For fulfilling the cold flow qualities while 
+retaining the fuel’s flash point, the HRJ fuel is typically made up of 
+straight-chain alkanes and isomer alkanes with carbon numbers ranging 
+from 9 to 15. 
+Apart from the necessity of creating and utilizing biofuels, there are 
+various challenges with the current manufacturing procedures. The 
+feedstock is an important and crucial part of the procedure. WCO is the 
+oil remainder left over after cooking that has deposited free fatty acids 
+allowing it a potentially effective and feasible biofuel feedstock [10]. 
+WCO is two to three times less expensive than pure vegetable oils, 
+significantly lowering the cost of manufacturing biofuels [11]. The 
+conversion of WCO to biofuels also reduces the severe environmental 
+effects of dumping spent oils into drainage systems [12]. Furthermore, 
+the hydroconversion of triglycerides is a complex process (saturation of 
+double bonds, heteroatom removal, cracking, and isomerization) for 
+which bi-functional catalysts are essential. Frequently, NiMo sulfide 
+phase is employed for the hydrocracking process, due to its high hy­
+drogenation and hydrodesulfurization activity [13–15]. The support 
+must have a high surface area and large pore size to allow the bulk 
+molecules to access the active sites located inside the pores easily. The 
+silica and alumina are frequently utilized supports in this kind of process 
+due to their low cost, excellent thermal and hydrothermal stability. 
+Sulfided hydrocracking catalysts are obviously suitable options for 
+deoxygenating triglycerides in non-edible oils to biofuels. However, 
+relatively little is known about their activity and selectivity towards jet 
+range hydrocarbons from WCO. 
+Bezergianni et al. have carried out numerous experiments for cata­
+lytic hydroprocessing of WCO into high-quality fuels through one 
+(hydrotreating) and two-step (hydrotreating + isomerization) methods 
+[16]. Hydroprocessing of WCO has been studied utilizing three catalysts; 
+a hydrotreating, a mild and a severe hydrocracking catalyst from tem­
+perature 330 to 390 ◦C and 8.27 to 13.79 MPa pressure under fixed 
+LHSV (1 h−1) [17]. The results indicate that hydrotreating catalyst 
+exhibited the highest conversion (83 %), and diesel yields were over 94 
+% in all cases. The temperature was identified as the most important 
+factor in transforming WCO into biofuels [18]. The influence of hydro­
+treating pressure, LHSV and H2/oil ratio on biofuel generation was also 
+investigated [19]. The reaction route for synthesizing WCO to biojet fuel 
+has been suggested by Li et al. The products contained 53 % jet range 
+alkanes and 13.4 % aromatic HCs [4]. Cheng et al. used soybean oil as a 
+feedstock and converted it into jet fuel with 40.3 % alkanes and 23.8 % 
+aromatics HCs [20]. Another study by Liu et al. in which they have 
+developed HRJ fuel by using castor oil, yielding 91.6 wt% aviation range 
+alkanes and an i/n ratio of 4.4–7.2 [21]. Hydroconversion of WCO into 
+biofuels was reported with 39.7 % jet fuel selectivity and 18.7 % jet 
+range aromatics [22]. Nevertheless, a minimum concentration of aro­
+matics must be present in the HRJ fuel in order to reduce soot (carbon 
+particles) production from the airplane engine [23]. There have been 
+few kinds of research conducted to evaluate the impact of catalyst and 
+operating parameters on product distribution in the final products. 
+Efficient catalysts with longer lifetime and stability towards HRJ pro­
+duction from hydroprocessing of WCO in a single-step process using a 
+single catalyst remain under-explored and need to be studied further to 
+produce HRJ fuel with significant concentrations of paraffins, naph­
+thenes and minimum amount of aromatics as well as high isomers for­
+mation to improve the jet fuel quality. 
+In light of this, the present study focuses on the hydroprocessing of 
+WCO in a fixed-bed down flow reactor over Ni-Mo/silica-alumina 
+catalyst to look into its suitability to produce bio-aviation fuel. The 
+products with high concentrations of paraffins, cycloparaffins, low ar­
+omatics and high isomerization (i/n ratio) are the primary target to meet 
+the jet fuel specifications. Such information is necessary for hydro­
+cracking catalysts to be further optimized in order to become effective 
+deoxygenation and selective cracking catalysts with high stability and a 
+longer lifetime. No reports are available for the hydrocracking process to 
+produce Jet A-1 aviation fuel from inedible WCO in a single-step process 
+with high isomerization, minimum aromatics, and longer lifetime and 
+stability of the catalyst, which makes this work new and important. 
+2. Methodology 
+2.1. Materials 
+The feedstock utilized in this study was 100 % WCO and collected 
+from local hotels, households and restaurants of Dehradun, India, after 
+being widely used for frying. The WCO was filtered through a standard 
+sieve before being introduced to the experimental area to eliminate any 
+food material that remained in the oil after cooking/frying. Table 1 lists 
+the typical chemical properties of WCO. For this study, a commercial Ni- 
+Mo/silica-alumina catalyst was employed for the catalytic hydro­
+processing of WCO in all the experiments. The catalyst is presulfided, as 
+described in Section 2.3. 
+2.2. Experimental setup 
+In this study, all hydrocracking experimental tests for converting 
+WCO to kerosene range HCs were carried out in a fixed bed down flow 
+microreactor with a commercial hydrocracking catalyst. This type of 
+microreactor can be employed for catalytic hydroprocessing reactions at 
+high temperatures and pressures. The microreactor can be characterized 
+into four sections: hydrogen section, feed insertion section, reactor 
+section and product collection/separation section, as depicted in Fig. 1. 
+A back pressure regulator (BPR, Tescom) and a mass flow controller 
+(MFC, Brooks) were used to properly manage the hydrogen pressure and 
+gas flow of the reactor. The reactor was heated by an electric furnace 
+(Serial no 10-5887-1-2). The interior and exterior temperatures of the 
+reactor were monitored with Type K thermocouples calibrated to 1 K 
+accuracy and controlled with a temperature controller. A high-pressure 
+liquid metering pump (Eldex) was used in the system to regulate the 
+liquid flow of the feed properly. Uniform contact of the feedstock with 
+catalyst and hydrogen causes a hydrotreating/hydrocracking process at 
+high temperature and hydrogen pressure in the fixed bed reactor. After 
+direct contact of feedstock and catalyst within the reactor, the product 
+reaches a high-pressure separator (HPS) in the form of a mixed 
+gas–liquid phase. HPS was used to remove the gaseous components, 
+including hydrogen and some other lighter gases, such as propane, 
+carbon dioxide, and carbon mono oxide, from the hydrocracked 
+Table 1 
+Chemical and physical properties of WCO.  
+Properties 
+Value 
+Density (g cm−3 at 15 ◦C) 
+0.9251 
+Kinematic Viscosity (mm2 s−1 at 40 ◦C) 
+47.77 
+Kinematic Viscosity (mm2 s−1 at 100 ◦C) 
+9.87 
+Moisture content (%) 
+0.164 
+Acid value (mg KOH/g) 
+2.32 
+Free fatty acid 
+1.16 
+N (ppm) 
+320 
+S (ppm) 
+390 
+C (wt%) 
+76.82 
+H (wt%) 
+11.46 
+O (wt%) 
+11.649 
+Na (ppmw) 
+4.24 
+K (ppmw) 
+1.2 
+Ca (ppmw) 
+2.32 
+Mg (ppmw) 
+7.28 
+Fe (ppmw) 
+0.5 
+C16:0 (Palmitic acid) 
+17.1 
+C16:1 (Palmitoleic acid) 
+3.5 
+C18:0 (Stearic acid) 
+5.9 
+C18:1 (Oleic acid) 
+37.8 
+C18:2 (Linoleic acid) 
+35.6  
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+3
+product. The gas was discharged using a drum-type gas meter (Ritter, 
+0.54G.916) and examined. The hydrocracked products of the catalytic 
+reaction were collected and studied on a daily basis to investigate the 
+influence of temperature, LHSV, hydrogen pressure, and H2/oil ratio. 
+2.3. Experimental procedure 
+To maintain the required bed length of the catalyst and improve the 
+thermal resistance of the reaction, a non-sulphided catalyst (4 g or 5.5 
+ml) was blended with SiC (5.5 ml) and introduced into the microreactor 
+(45.5 cm length). The catalyst was put in the centre of the reactor to 
+ensure adequate heating and flow stability. The catalyst utilized in this 
+study is presulfided using 2.5 wt% of Dimethyl Disulphide (DMDS) in 
+straight run gas oil (SRGO) to retain the catalytic activity as indicated by 
+the catalyst supplier. Before carrying out the experiments, the catalyst 
+was dried in the reactor at 175 ◦C for 5 h. Then after, SRGO was used to 
+sulfide the catalyst at 250 ◦C, 300 ◦C, 320 ◦C, and 350 ◦C for 5, 5, 6 and 2 
+h, respectively. 
+The sulfiding agent DMDS (0.025 wt%) was utilized in combination 
+with feed to limit the sulfur reduction from the catalyst. Firstly, a 
+waiting period of 12 h (first period) was set out for the reaction process 
+to stabilize before collecting the final products (second period). A GC 
+analysis of the products collected at both periods was performed to 
+confirm the persistent catalytic activity and ensure that the catalyst was 
+not deactivated. Products were categorized into three groups based on 
+their carbon number; <C9 carbon range as naphtha, C9 - C15 as kero­
+sene, and C16 - C18 as diesel. Individual products were identified using 
+GC standards. 
+A detailed study was used to calculate the conversion based on the 
+mole balance of total liquid products. The triglyceride concentration 
+converted to any form of intermediates or HCs is known as triglyceride 
+conversion. The mole balance was 96–99 % precise for all operating 
+conditions before and at the end of the reaction. WCO conversion was 
+determined using the following formula: 
+Conversion (%) = Cfeed −C
+′
+product
+Cfeed
+× 100
+(1)  
+where C is the total amount of triglycerides (TG) present in the feed 
+(WCO) and C’ is the total amount of triglycerides in the final product. 
+Furthermore, the measure of selectivity is used to investigate the 
+efficacy of hydrocracking for the formation of a certain product rather 
+than other products. The selectivity of naphtha, kerosene and diesel 
+range HCs was calculated according to the following equation [18] to 
+analyze the effectiveness of the hydroprocessing reactions. 
+Product selectivity (%) =
+Product a−b −Feeda−b
+Feed331+ −Product 331+
+× 100
+(2)  
+where Feed331+ and Product331+ are the weight percent of the heavy 
+molecules (>C18+) present in the feed and corresponding product, with 
+a boiling point higher than 331 ◦C. Feed(a-b) and Product(a-b) are 
+measured as the wt% of the feed and product in which ‘a’ and ‘b’ are the 
+initial and final boiling points for a particular HC range. Since ‘a’ and ‘b’ 
+boiling range is different for various range of carbon number, hence, 
+selectivity can be calculated for naphtha (68–130 ◦C), kerosene 
+(130–260 ◦C), and diesel (260–331 ◦C) using the equation (2). 
+Also, hydroisomerization effectiveness in the final products was 
+measured by calculating the isomer yield and i/n ratio. The isomer yield 
+is calculated as follows: 
+Isomer yield (%) =
+i
+i + n × 100
+(3)  
+where i and (i + n) signify the quantity of isoalkanes and the total 
+quantity of normal and iso-alkanes, respectively, in the final product of 
+kerosene range HCs (C9 - C15). 
+The i/n ratio is the ratio of the total amount of iso-alkanes to normal 
+alkanes in the final product of kerosene range HCs. 
+2.4. Product analysis 
+The obtained products after the hydrocracking reactions were 
+distilled into naphtha, kerosene and diesel range HCs using a 9600 High- 
+Efficiency Distillation Unit (B/R instruments, USA). The simulated 
+distillation curve was determined via Varian 3800-GC according to the 
+ASTM-2887-D86 method. Rudolph research analytical equipment 
+(DDM-2911) was employed for measuring the density of feed and final 
+liquid products. A residual gas analyzer (RGA) from Agilent 7890A with 
+two TCD detectors was used to analyze the gases. Elementar Micro-cube 
+CHNS analyzer was employed for determining C, H, N and S percentages 
+in the feedstock and products. The liquid products and unconverted 
+WCO obtained after the hydrocracking reactions (isomerization, deox­
+ygenation, cracking) were analyzed after separating the water phase by 
+gas chromatography (GC) analysis (Agilent Technologies GC (7890B, 
+G3440B)) fitted with a flame ionization detector (FID) and thermal 
+conductivity detector (TCD). Vf-5 ms column (30 m × 0.25 mm, 0.25 
+um) was used for quantification. At first, the column temperature was 
+maintained at 40 ◦C with a holding period of 0.5 min; after that 
+increased to 70 ◦C, 150 ◦C, 200 ◦C, 350 ◦C with the rate of 3 ◦C, 5 ◦C, 
+15 ◦C, 20 ◦C per min, and lastly 370 ◦C with the rate of 30 ◦C per min 
+having 12 min holding time. Errors in the experiments were also iden­
+tified and accounted for in the final results. All the ASTM methods were 
+applied in accordance with the “Standard Specification for Aviation 
+Turbine Fuel containing Synthesized Hydrocarbons” [24], and the 
+aviation kerosene was tested particularly for ASTM D7566. 
+Fig. 1. Simplified schematic diagram of microreactor unit employed for hydroprocessing of WCO.  
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+4

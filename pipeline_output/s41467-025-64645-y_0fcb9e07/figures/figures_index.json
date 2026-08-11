@@ -1,0 +1,20 @@
+[
+  {
+    "id": "fig_p1_1",
+    "image": "fig_p1_1.png",
+    "caption": "Embedded image from page 1",
+    "page": 1
+  },
+  {
+    "id": "fig_p5_1",
+    "image": "fig_p5_1.png",
+    "caption": "Embedded image from page 5",
+    "page": 5
+  },
+  {
+    "id": "fig_p6_1",
+    "image": "fig_p6_1.png",
+    "caption": "Embedded image from page 6",
+    "page": 6
+  }
+]

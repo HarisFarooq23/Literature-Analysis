@@ -1,0 +1,746 @@
+The transport sector plays a significant role in the global dynamics of modern societies,
+directly enabling the movement of people, goods, and services. Aviation, in particular,
+has undergone substantial market expansion over the past two decades, establishing
+itself as one of the most relevant economic activities worldwide. This growth has been
+accompanied by notable socioeconomic impacts, primarily driven by the rise in middle-
+class purchasing power and the reduction in airfares. In 2023, airlines around the world
+transported approximately 4.4 billion passengers and more than 61 million tons of cargo.
+These numbers are expected to grow significantly, with forecasts indicating that global air
+travel could reach close to 10 billion passengers by 2050 [1].
+Despite the growth of aviation and the various benefits it brings to society, environ-
+mental concerns related to this activity require careful attention. While aviation facilitates
+Sustainability 2026, 18, 4727
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+2 of 36
+global connectivity, it also contributes significantly to the emission of greenhouse gases
+(GHG) and other pollutants, primarily due to the combustion of petroleum-based aviation
+fuels [2]. Among the main emissions are carbon dioxide (CO2), nitrogen oxides (NOx),
+sulfates, particulate matter, and water vapor, the latter of which contributes to the formation
+of contrails [3]. Currently, aviation accounts for approximately 2.5% of total anthropogenic
+GHG worldwide. In 2023, global jet fuel consumption reached around 325 million m3,
+and projections indicate an average annual growth rate of about 3% in the next few years.
+If this trend continues, fuel demand could double by 2050. In this context, developing
+and implementing effective strategies to reduce the carbon footprint of aviation becomes
+increasingly critical [4].
+The International Air Transport Association (IATA) has set a target to reduce CO2
+emissions by 50% in 2050, using 2005 levels as a baseline. Although advancements in air-
+craft design over recent decades—driven by developments in aviation engineering—have
+improved fuel efficiency, they are still not sufficient to fully decarbonize the sector [5,6]. In
+this context, sustainable aviation fuel (SAF), also known as bio-jet fuel, is one of the most
+promising alternatives to achieve the required CO2 reduction target defined by IATA [5,7].
+Biofuels represent a closed carbon cycle, as part of the CO2 released into the atmosphere
+is neutralized by the CO2 absorbed during the growth of the plants used to produce the
+fuel [8].
+SAF can mainly be produced from biomass and waste, including feedstock rich in
+lipids, such as vegetable oils, animal fats, and waste cooking oil (WCO). These sources are
+particularly attractive for sustainable fuel production due to their high concentrations of
+triglycerides and free fatty acids, typically composed of carbon chains ranging from C16 to
+C22 [9]. Through catalytic processing, these long-chain molecules can be converted into
+hydrocarbons within the C8 to C16 range, which corresponds to the carbon distribution
+required for jet fuel. The use of lipid-based biomass thus represents a key strategy for
+achieving climate change mitigation targets by enabling the production of drop-in fuels
+compatible with existing aviation infrastructure [5,10,11].
+In addition to lipid-based feedstocks, the limited availability of WCO and other
+biogenic resources poses a challenge for meeting the long-term demand for SAF at an
+industrial scale. In this context, the valorization of other feedstocks, particularly plastic
+residues, emerges as a complementary and strategic route for aviation fuel production.
+Plastic wastes are composed predominantly of carbon and hydrogen, exhibit high energy
+density, and are generated in large quantities worldwide, making them attractive alternative
+feedstocks for hydrocarbon fuel production [12,13]. Their catalytic conversion into jet-
+fuel-range hydrocarbons mainly addresses critical environmental issues associated with
+plastic waste accumulation and disposal [14]. Therefore, extending the scope of this
+work to include the catalytic upgrading of plastic residues aligns with the dual objective
+of producing C8-C16 hydrocarbons while promoting circular economy principles and
+environmentally responsible waste management.
+From a process perspective, both lipid-based feedstock and plastic residues require
+catalytic upgrading to produce fuels that meet aviation specifications. Developing an
+efficient, low-cost, and effective catalytic system is a key focus for producing aviation
+fuel from renewable sources. Currently, lipid-derived sources cannot be used directly
+as drop-in fuels due to their high oxygen content, which lowers the high heating value
+(HHV) [15]. A higher HHV is desirable, as it improves fuel combustion efficiency. In
+addition, the high oxygen content leads to other drawbacks such as low chemical stability,
+high viscosity, strong acidity, and corrosiveness, which present challenges for storage and
+transportation [15–17]. To overcome these limitations, additional upgrading reactions, such
+as cracking and isomerization, are required to improve the physicochemical properties of
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+3 of 36
+the fuel and adjust the carbon chain length to meet jet fuel specifications [18]. Similarly,
+plastic waste must undergo controlled catalytic conversion to adjust the hydrocarbon chain
+length, promote isomerization, and adjust fuel properties [19,20]. Although lipid-based
+feedstocks and plastic residues differ in structure, they share important similarities in
+their catalytic upgrading pathways. For triglycerides and fatty acids, conversion into
+jet-fuel-range hydrocarbons involves oxygen removal via hydrodeoxygenation, followed
+by C–C bond cleavage to adjust the carbon chain length. In contrast, plastics such as
+polyolefins are already oxygen-free; however, their conversion into C8–C16 hydrocarbons
+relies primarily on hydrogenolysis and hydrocracking, which also involve C–C bond
+cleavage. Despite these compositional differences, both systems depend on similar catalytic
+functionalities, particularly the balance between metal and acid sites, to achieve the desired
+product distribution.
+Several catalysts have been investigated to improve selectivity toward hydrocarbons
+found in SAF, including transition metals (Ni, Co, Mo, and Fe) and noble metals (Pt,
+Pd, and Ru) supported on materials such as zeolites, oxides, mesoporous silicas, and
+carbon materials [9,21–25]. However, their low selectivity toward SAF-range fractions,
+high operational costs, and fast deactivation make their use less advantageous. Moreover,
+the high acidity of some of these materials can promote the overcracking of the substrate
+into small fractions, such as gasoline. On the other hand, the development of efficient
+bifunctional catalysts capable of balancing metal and acid functionalities has emerged as a
+key strategy to enhance catalytic performance and improve selectivity toward jet-fuel-range
+hydrocarbons. Given these limitations, carbon-based materials such as carbon nanotubes
+(CNT) have been proposed as alternative catalytic supports [26–30]. CNT offers a high
+surface area and excellent thermal and chemical stability, allowing good dispersion of
+active metal phases [31]. In addition, the ease of introducing oxygenated groups on its
+surface, enhancing CNT’s acidity, makes these materials an interesting choice to use for
+cracking and isomerization reactions [32]. These features contribute to higher selectivity
+toward jet fuel-range hydrocarbons, improved resistance to deactivation, and the potential
+to reduce operational costs.
+In this context, this mini-review summarizes recent advances in catalytic pathways for
+SAF production from lipid-based feedstocks and plastic waste, with particular emphasis on
+hydroprocessing reactions and the design of bifunctional heterogeneous catalysts, focusing
+on advances in the use and catalytic performance of carbon-based materials in the conver-
+sion of lipid feedstocks and polyolefins. This study provides a comparative analysis of both
+routes, highlighting common catalytic challenges and opportunities. It further emphasizes
+the role of carbon-based materials as catalyst supports and discusses how their properties
+influence catalytic performance across different reaction systems.
+2. Sustainable Aviation Fuel: An Alternative Solution to the Energy
+Transition in Aviation
+The aviation sector faces major challenges in reducing its CO2 emissions. Air transport
+depends almost entirely on liquid hydrocarbon fuels because of their high energy content
+and storage stability. Unlike ground transport, the electrification of aviation is still far from
+being feasible for commercial aircraft [33]. As a result, aviation remains strongly dependent
+on fossil jet fuels, and its carbon footprint continues to grow with the increasing global
+demand for air travel [10,33,34].
+In response to this challenge, international aviation governance bodies have estab-
+lished increasingly stringent environmental targets. The International Civil Aviation Or-
+ganization (ICAO) has introduced the Carbon Offsetting and Reduction Scheme for Inter-
+national Aviation (CORSIA), a global program aiming to achieve carbon-neutral growth
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+4 of 36
+from 2020 onwards [35]. The program encourages airlines to compensate for part of their
+CO2 emissions and to increase the use of cleaner energy sources. In addition, IATA has
+endorsed an even more ambitious objective: a reduction in CO2 emissions of 50% by 2050,
+compared to 2005 levels [4,35,36]. In this scenario, achieving any goal requires a systemic
+transformation of the aviation energy outlook.
+Current projections by IATA indicate different contributions to decrease carbon emis-
+sions. The most promising one is the use of SAF, corresponding to 65% of the total emissions
+reduction. Moreover, new aircraft technologies are expected to contribute around 13%,
+operational and infrastructural improvements about 3%, and carbon offsets and captures
+approximately 19% (Figure 1) [33,37,38]. These numbers show that SAF is expected to
+provide the largest contribution to reducing aviation emissions, highlighting its central role
+in the sector’s decarbonization strategy.
+ 
+Figure 1. Contributions of the strategic possibilities to achieve the net-zero targets by 2050.
+SAF has a hydrocarbon composition similar to fossil-based jet fuel, which leads to
+comparable exhaust emission profiles [38]. Currently, it is approved for use in blends of
+up to 50% with conventional jet fuel. However, there is still no technology commercially
+certified for producing 100% synthetic drop-in fuels (i.e., fuels that are fully compatible
+with existing aircraft engines and fuel distribution systems) [39].
+SAF is composed of the same hydrocarbon range found in conventional jet fuel,
+typically from C8 to C16 [40]. Its composition is predominantly n-paraffins and iso-paraffins
+(65–75%), followed by aromatic compounds (10–25%), cycloalkanes (10–20%), and a small
+fraction of alkenes (<1%) [40]. It can be produced by a diverse number of renewable sources,
+such as oils and grease, waste cooking oil, algae oil, alcohols, urban waste, lignocellulosic
+biomass, and even CO2 capture [41–43]. SAF can be considered sustainable as long as
+the feedstock does not compete with food crops or agricultural outputs, or it does not
+require additional resources such as water and land expansion. More broadly, SAF avoids
+environmental impacts such as deforestation, loss of soil productivity, and decline in
+biodiversity. Different from fossil fuels, which introduce new CO2 into the atmosphere
+by releasing carbon, SAF operate within a closed carbon cycle: the CO2 emitted during
+combustion is approximately equal to the amount previously absorbed by the biomass
+utilized as feedstock during its growth [33,36].
+One important aspect of SAF is the set of physicochemical properties defined by the Amer-
+ican Society for Testing and Materials (ASTM) standards. First, ASTM D7566—standard spec-
+ification for aviation turbine fuel containing synthesized hydrocarbons—establishes the re-
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+5 of 36
+quirements for synthetic aviation fuels produced from alternative and renewable feedstocks
+prior to blending [44]. Once the synthesized fuel is blended with conventional jet fuel within
+the approved limits, the final mixture must also comply with ASTM D1655—Standard Spec-
+ification for Aviation Turbine Fuels—which defines the specifications for Jet A and Jet A-1
+fuels currently approved for commercial aviation use [45]. These standards ensure that SAF
+blends meet the same performance and safety criteria as conventional petroleum-derived
+jet fuels. The key parameters are detailed in Table 1.
+Table 1. Some parameters defined by the ASTM D7566 and D1655.
+Parameter
+Value
+Density at 15 ◦C
+0.775–0.84
+Freezing Point (◦C)
+Max. −47
+Flash Point (◦C)
+Min. 38
+Viscosity at −20 ◦C (mm2 s−1)
+Max 8.0
+HHV (MJ kg−1)
+42.8
+Aromatic Content (vol. %)
+8–25
+Acid Number (mgKOH g−1fuel)
+0.1
+To produce SAF that meets the specifications required for commercial aviation fuels,
+several technological pathways can be employed using a wide range of renewable feed-
+stocks. These feedstocks are commonly classified into different generations according to
+their origin, sustainability profile, and impact on land use and food supply. Each genera-
+tion is associated with specific conversion technologies and yields distinct fuel properties,
+making the selection of feedstock a critical factor in both the technical and environmental
+performance of jet fuel from non-petrochemical sources. Figure 2 illustrates the potential
+sources that can be used to obtain this biofuel. Each generation is also associated with a spe-
+cific type of biofuel. For example, first-generation biomass is converted into first-generation
+biofuels, and this pattern continues across subsequent generations. First-generation feed-
+stocks consist of edible crops rich in oils, sugars, and starches, such as vegetable oils, wheat,
+maize, and other agricultural products. Although the easy accessibility, these kinds of
+sources compete largely with the food supply. Second-generation feedstocks are obtained
+from non-edible lignocellulosic biomass, including agricultural residues, non-food crops,
+and municipal or industrial wastes. Because they originate from residues, these feedstocks
+offer the advantage of not competing with the food supply. However, their use is con-
+strained by significant drawbacks, including fluctuations in feedstock quality and limited
+availability. Third-generation feedstocks are derived from macro- and microalgae, which
+represent emerging sources that do not compete with arable land or freshwater resources.
+Nevertheless, they require a high energy supply. Finally, fourth-generation feedstocks
+involve advanced pathways that include the use of unconventional biomass and the capture
+of atmospheric CO2 through carbon capture technologies [15,41,46].
+Each feedstock type requires a specific technological pathway to convert it into the
+desired SAF hydrocarbon range. Currently, five routes enclosing nine production technolo-
+gies have been approved by ASTM, in independent or co-processing units. The different
+routes are summarized in Table 2. These pathways differ in terms of feedstock compatibil-
+ity, conversion chemistry, fuel yield, and sustainability performance, and they define the
+allowable blending limits and final fuel specifications.
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+6 of 36
+Figure 2. Types of feedstocks defined by generation.
+Table 2. All technological routes to produce SAF are approved by the ASTM.
+Route
+ASTM
+Technology
+Possible Feedstocks
+Blending Limits (%)
+Oil-to-jet
+D 7566
+HEFA-SPK
+Vegetable oils, animal fats, waste
+cooking oil
+50
+D 7566
+HC-HEFA-SPK
+Algae
+10
+D 7566
+CHJ-SPK
+Vegetable oils, animal fats, waste
+cooking oil
+50
+Gas-to-jet
+D 7566
+FT-SPK
+Biomass, urban residues, natural gas,
+CO2 (associated with reverse water–gas
+shift; e-fuel production)
+50
+D 7566
+FT-SPK+A
+Biomass, urban residues, natural gas,
+CO2 (associated with reverse water–gas
+shift; e-fuel production)
+50
+Alcohol-to-jet
+D 7566
+AtJ-SPK
+Ethanol, isobutanol, and isobutene are
+produced from biomass or by converting
+the biochemical composition of gases
+30
+D 7566
+AtJ-SKA
+Light alcohols are produced from
+biomass or by converting the
+biochemical composition of gases
+50
+Sugar-to-jet
+D 7566
+SIP-SPK
+Sugar, starch, or lignocellulosic sugars
+10
+Co-processing
+D 1655
+Co-processing
+Lipid sources, hydrocarbons from
+Fischer–Tropsch or
+hydroprocessed biomass
+5–10
+2.1. Oil-to-Jet
+The oil-to-jet pathway encloses technologies that convert lipid-based feedstocks, such
+as vegetable oils, animal fats, waste cooking oil, and algae, into sustainable aviation fuel
+through hydroprocessing and related upgrading steps. In the hydroprocessed esters and
+fatty acids (HEFA)—synthetic paraffinic kerosene (SPK), lipid sources are hydrotreated
+into SAF. The resulting fuel can be blended with conventional jet fuel in concentrations
+of up to 50%. This process provides superior energy conversion efficiency among the
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+7 of 36
+other pathways but is limited to oil feedstocks only [34]. A similar approach is used in
+the SPK from hydrocarbons obtained by HEFA (HC-HEFA-SPK), which applies the same
+hydrotreatment principle, but the feedstock target is mainly algae. As discussed above,
+algae have a high growth rate and do not compete with food. On the other hand, it can
+only be blended with petroleum-based aviation fuel up to 10% [40]. SPK from catalytic
+hydrothermolysis (CHJ-SPK) uses a hydrothermal process to convert oils and fats into
+hydrocarbons under high temperature and pressure, followed by upgrading through
+hydrotreatment. This pathway produces hydrocarbons with a molecular composition and
+chemical properties nearly identical to those found in petroleum-derived jet fuel, which
+ensures full compatibility with existing aviation fuel infrastructure. However, the process
+is limited by its high energy consumption due to the severe operating conditions required
+for hydrothermal conversion [47].
+2.2. Gas-to-Jet
+The gas-to-jet route is based on the conversion of biomass, wastes, captured CO2, or
+other carbon-rich material into syngas (CO+H2), which is subsequently transformed into
+SAF hydrocarbons via Fischer–Tropsch (FT) synthesis and downstream upgrading. The
+production of SPK by hydroprocessing of Fischer–Tropsch products (FT-SPK) converts
+the referred feedstocks, which are then catalytically upgraded into synthetic kerosene,
+approved for blending up to 50% [48]. Technologies based on atmospheric CO2 capture
+coupled with reverse water–gas shift reactions are gaining increasing attention as a potential
+route for Fischer–Tropsch-based SAF production. However, they are not yet approved by
+ASTM (e-fuel production) [47]. In this case, CO2 reacts with H2 (produced from water
+electrolysis), producing CO and water. The CO produced is then hydrogenated, producing
+liquid fuels by Fischer–Tropsch synthesis [49]. Another variation in this route, known as
+SPK by Fischer–Tropsch with alkylation of light aromatics from non-petroleum sources
+(FT-SPK+A), incorporates an additional step to produce synthetic aromatics, improving
+compatibility with current aviation fuel systems [46]. Despite their ability to produce
+high-quality SPK, FT-SPK, and FT-SPK+A, they are limited by high capital costs, complex
+process configurations, energy-intensive conversion steps, and the need for blending with
+conventional jet fuel due to low aromatic content [47].
+2.3. Alcohol-to-Jet
+The alcohol-to-jet pathway (ATJ-SPK) involves the transformation of bio-derived
+alcohols, such as ethanol and isobutanol, produced from sugars or lignocellulosic biomass
+into SAF-range hydrocarbons through dehydration, oligomerization, and hydrotreatment
+processes. This route also includes the production of synthetic aromatic kerosene from ATJ
+(ATJ-SKA) to meet the minimum aromatic content required in aviation fuels [50]. Although
+the ATJ-SPK and ATJ-SKA pathways provide synthetic routes to produce paraffinic and
+aromatic hydrocarbons from bio-derived alcohols, their commercialization is limited by
+high production costs, restricted feedstock availability (mainly ethanol and isobutanol),
+energy-intensive conversion steps, and low overall fuel yield [51].
+2.4. Sugar-to-Jet
+The direct sugars-to-hydrocarbons pathway by synthesized iso-paraffins (SIP-SPK)
+employs engineered microorganisms to convert sugars into renewable iso-paraffinic hy-
+drocarbons, which are subsequently upgraded to meet aviation specifications. These
+iso-paraffinic compounds exhibit higher energy density compared to ATJ-derived fuels,
+lower pollutant emissions, and combustion behavior similar to that of conventional jet fuel.
+Nevertheless, this pathway faces several limitations, including a product with high viscos-
+ity and poor combustion performance in turbine engines, depending on costly feedstocks,
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+8 of 36
+high energy demand, and the lowest allowable blending ratio among ASTM-approved
+pathways, currently limited to 10% [52,53].
+2.5. Co-Processing
+Finally, co-processing technologies allow renewable feedstocks such as lipid sources
+and treated biomass to be processed together with petroleum streams in existing refinery
+units, resulting in partially renewable jet fuel with blending limits ranging from 5 to 10%.
+This pathway enables the production of lower-carbon-intensity fuels, leverages existing
+petroleum refinery infrastructure, and offers flexibility to process a wide range of biogenic
+feedstocks. Yet, co-processing requires efficient oxygen removal and is associated with
+operational challenges related to feedstock variability, blend ratios, and product property
+fluctuations, which can impact process stability and fuel quality [47,54].
+Among all ASTM-approved pathways, the HEFA route currently stands out as the
+most commercially mature and widely deployed option for SAF production [43]. Unlike
+other pathways that are still limited by low technology readiness levels, high capital costs, or
+strict feedstock constraints, the HEFA process benefits from existing refinery infrastructure,
+scalable feedstock supply chains, and proven compatibility with aviation fuel specifica-
+tions [55]. As a result, HEFA-derived fuels account for the majority of global SAF production
+and are projected to remain the dominant pathway in the short-to-medium term.
+Given its industrial relevance and strategic role in aviation decarbonization, the
+hydroprocessing of lipid-based feedstocks to produce SAF-range hydrocarbons has gained
+significant attention from both the scientific community and the aviation fuel industry.
+A wide range of renewable lipids can be used as feedstocks, particularly waste cooking
+oil classified as a second-generation resource. However, several challenges remain to
+ensure their suitability for aviation use, including the need to meet strict physicochemical
+requirements, reduce production costs, and improve overall process efficiency.
+Moreover, the HEFA pathway has emerged as the most strategically relevant route for
+short-term implementation of SAF, as it is currently the only production technology operat-
+ing on a commercial scale. Its implementation has been supported by regulatory policies
+and market incentives favoring drop-in fuels compatible with existing aircraft engines and
+fuel distribution infrastructure. As airlines and fuel suppliers move toward established
+decarbonization targets, understanding the HEFA process becomes essential to assessing its
+technical maturity, economic viability, and potential for large-scale commercialization. The
+next section provides a detailed analysis of this pathway, including conversion mechanisms
+and upgrading strategies required to meet aviation fuel specifications.
+3. Hydroprocessing of Lipid-Based Sources
+As discussed in the previous section, lipid-based feedstocks can be hydroprocessed
+through different technological oil-to-jet routes for the production of SAF. A fundamental
+aspect in understanding the conversion of these materials into liquid hydrocarbons is their
+chemical composition. Most lipid feedstocks, such as vegetable oils, animal fats, and waste
+cooking oil (WCO), are predominantly composed of triacylglycerols, classified as simple
+or neutral lipids, in which a glycerol backbone is esterified with three fatty acid chains
+(Figure 3). Free fatty acids are also present, especially in thermally degraded or previously
+processed sources [56].
+The carbon chain presented in these lipid structures typically ranges from 14 to
+22 carbon atoms [9]. Filho et al. [57] investigated the fatty acid composition of soybean oil,
+palm oil, and WCO. The results demonstrated that soybean oil and WCO are predominantly
+composed of C18 fatty acids, mainly linoleic and oleic acids, whereas palm oil is rich in C16
+fatty acids, primarily palmitic acid. Minor fractions of other fatty acids ranging from C12 to
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+9 of 36
+C24 were also identified. This carbon chain distribution closely matches the hydrocarbon
+range required for jet fuel production, reinforcing the suitability of lipid-based feedstocks
+as promising precursors for the generation of liquid transportation fuels.
+Figure 3. Structure of the triglyceride molecules present in lipid sources.
+The use of oils and fats for biodiesel production via transesterification reactions has
+been extensively studied over the past decade [58,59]. However, the transesterification
+route leads to the formation of oxygenated esters (fatty acid alkyl esters), decreasing some
+physicochemical properties required for fuels. In this scenario, hydrotreated vegetable oil
+processes have gained significant attention for the production of green diesel, as the removal
+of oxygen from triglycerides and free fatty acids results in hydrocarbons with superior
+fuel properties [60]. This hydroprocessing approach can also be targeted at the aviation
+fuel range, in which case the process is referred to as HEFA, enabling the production of
+sustainable SAF compliant with ASTM specifications.
+Hydrotreating lipid-based sources plays an important role in the final quality parame-
+ters of SAF. The removal of heteroatoms—mainly oxygen—enhances the chemical stability,
+decreases the viscosity, the acidity, and the corrosiveness [15,18]. Another critical property
+is the HHV, which is directly associated with the degree of deoxygenation. Since oxy-
+genated compounds exhibit lower energy density, their conversion into fully deoxygenated
+hydrocarbons significantly increases the HHV, resulting in a fuel with greater combustion
+efficiency and improved overall energy performance [61].
+Since oils and fats cannot be directly used as fuels, these feedstocks must undergo
+the HEFA processing stages to meet the fuel quality and commercialization parameters
+previously described (Table 1). This SAF production route comprises several steps, as
+illustrated in Figure 4. Initially, lipid feedstock is pretreated to remove any impurities
+(e.g., solids, phospholipids, sulfur, water). After that, the pretreated oil is subjected to
+hydrotreatment for the removal of heteroatoms, mainly oxygen. Deoxygenation reactions
+occur in the presence of hydrogen and catalysts, producing deoxygenated compounds that
+are subsequently directed to the cracking and isomerization stages, where hydrogen and
+catalysts are also employed [18].
+The cracking step is essential to adjust the liquid hydrocarbon fraction within the
+carbon number range required for jet fuel, since the sole deoxygenation of triglycerides
+typically yields products within the diesel range (C15–C22). Isomerization reactions, in turn,
+are required to introduce branching into the hydrocarbon chains, thereby improving the
+freezing point and cold-flow properties of the renewable aviation fuel [11].
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+10 of 36
+Figure 4. Simplified schematic of the HEFA route to the conversion of lipid feedstock into liquid
+fuels, focusing on SAF products.
+A typical HEFA process results in a mixture of liquid hydrocarbons ranging from the
+gasoline to the diesel fractions, as well as gas products (C1–C4 compounds). Ideally, the
+process should maximize the production of hydrocarbons within the C8–C16 range. There-
+fore, careful control of the cracking reactions is essential to prevent excessive chain scission,
+which would otherwise increase the formation of lighter hydrocarbons (gasoline and gases)
+and reduce overall liquid yield. Thus, the balance between deoxygenation, cracking, and
+isomerization reactions must be optimized to achieve the desired fuel properties while
+maintaining high conversion efficiency.
+3.1. Deoxygenation
+Deoxygenation reactions are a well-established reaction in petrochemical refineries,
+which are used to remove the oxygen content in petroleum derivatives [62]. Overall, lipid
+sources have 40% of oxygen content, which makes the removal a great challenge to turn oil
+into a drop-in fuel [18].
+In this context, different reaction pathways have been reported in the literature for the
+deoxygenation of lipid-based compounds: hydrodeoxygenation (HDO), decarbonylation
+(DCO), and decarboxylation (DCO2) [63]. The reaction mechanisms of these routes are
+illustrated in Figure 5 [64]. Considering stearic acid (a fatty acid molecule used as a
+model compound for lipidic biomass), the three reaction routes lead to oxygen removal
+through distinct chemical transformations. Stearic acid can first be deoxygenated via
+the DCO2 route, producing n-heptadecane and CO2, or through the HDO pathway. In
+the HDO route, the fatty acid is hydrogenated, releasing the first oxygen atom in the
+form of water. Subsequently, the corresponding aldehyde (octadecanal) can either lose
+its oxygen atom via the DCO route—resulting in n-heptadecane and CO—or continue
+undergoing HDO reactions. Another oxygen atom is then removed as water, forming
+the corresponding alcohol (octadecanol), which is further hydrogenated to produce the
+n-alkane (n-octadecane). Overall, each molecule of fatty acid requires three moles of
+hydrogen, producing the corresponding alkane and two moles of water through the HDO
+route [65]. In contrast, the DCO and DCO2 pathways release GHG and result in a reduction
+in one carbon atom in the hydrocarbon chain [11].
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+11 of 36
+Figure 5. Possible deoxygenation pathways of stearic acid.
+Side reactions may occur in which the CO and CO2 produced via the DCO/DCO2
+routes participate in reversible reactions with H2, leading to the formation of additional
+CH4 and water through methanation and water–gas shift reactions [66].
+These reactions usually occur simultaneously during hydrotreatment, and their pre-
+dominance depends on the catalyst type, reaction temperature, hydrogen pressure, and
+feedstock composition [67,68]. Nevertheless, the HDO route stands out from DCO and
+DCO2 because it does not generate CO or CO2, representing a more environmentally benign
+pathway by minimizing GHG emissions [62].
+Catalysts play a crucial role in deoxygenation reactions. In general, supported mono-
+or bimetallic catalysts are widely employed, with transition metals such as Ni, Co, Mo, Fe,
+and W being the most common [69–71]. Noble metals like Pt and Pd also exhibit excellent
+catalytic performance but are often avoided due to their high cost [25,72]. The metal must
+be well dispersed on the support and highly reduced to enhance the hydrogen dissociation
+on the metal phase. In bimetallic catalysts, electron transfer between the two metals can
+improve the reducibility of the active phase and promote hydrogen activation. Therefore,
+promoters such as Ni and Co are often incorporated together with Mo (in its oxide or
+sulfide form) or W to enhance the catalytic activity [61].
+In addition to the metal phase, the selection of appropriate support is essential. One
+of the most important properties of a support for lipid deoxygenation reactions is its
+mesoporous nature, which facilitates the diffusion of large molecules such as triglycerides
+and fatty acids, minimizing external mass-transfer limitations. Accordingly, metal oxides
+(Al2O3, SiO2, TiO2, and ZrO2) and mesoporous silicas (SBA-15, MCM-41, and MCM-48) are
+commonly used as supports in the deoxygenation of lipid feedstocks [9,11,24].
+Deoxygenation reactions typically require temperatures in the range of 300–420 ◦C for
+the hydrodeoxygenation of oils and somewhat lower temperatures (250–360 ◦C) when fatty
+acids or their derivatives are used as substrates [63]. Typical H2 pressures range from 20 to
+50 bar for oil feedstocks and from 10 to 40 bar for fatty acids [61]. Although this process is
+widely applied in industry, the need for high hydrogen pressures to ensure efficient C–O
+bond cleavage is not advantageous in terms of cost and safety. Furthermore, coke formation
+during the reaction can lead to catalyst deactivation [73].
+3.2. Cracking and Isomerization
+Cracking and isomerization are the subsequent steps that complement the deoxy-
+genation stage in the HEFA process. After deoxygenation, a large amount of aliphatic
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+12 of 36
+hydrocarbons is produced. However, this paraffinic oil exhibits poor cold-flow properties,
+making it incompatible with aviation fuel specifications [66].
+Cracking reactions can occur in the presence of only temperature (thermal cracking)
+or be enhanced by the presence of hydrogen (hydrocracking) [11]. These reactions in-
+crease the formation of lighter alkanes, improving the selectivity in the desired n-C8-C16
+hydrocarbons. On the other hand, the isomerization reaction can process those normal alka-
+nes into branched hydrocarbons (iso-alkanes). Increasing the ratio iso-alkanes/n-alkanes
+(iso/n) is extremely relevant in terms of fuel performance, mainly to the freezing and flash
+point [61,73,74]. One advantage is that both cracking and isomerization can occur simulta-
+neously over bifunctional supported catalysts. Once deoxygenation reactions are catalyzed
+on the catalyst’s metal sites, forming n-alkanes, cracking and isomerization reactions take
+place more commonly in the support’s acid sites [74].
+The classical reaction mechanism for cracking and isomerization takes place over bifunc-
+tional catalysts, which contain metallic sites that promote hydrogenation/dehydrogenation
+reactions and acid sites responsible for cracking and isomerization [75]. Initially, the
+n-alkane is dehydrogenated on the metallic sites, forming the corresponding n-alkene
+(Figure 6). The olefin then migrates to the Brønsted acid sites, where it becomes proto-
+nated to produce an alkylcarbenium ion [11,75]. This intermediate can also be formed by
+the direct protonation of the n-alkane, followed by dehydrogenation, but the formation
+of the alkylcarbenium ion is more favorable through olefin protonation. Once formed,
+the alkylcarbenium ion may undergo skeletal rearrangements to produce mono-, di-, or
+tri-branched carbenium ions. At this stage, cracking occurs via β-scission (C–C bond
+cleavage), generating branched alkylcarbenium ions (still adsorbed on acid sites) and
+smaller olefins [76]. The isomers then desorb from the acid sites and, together with the
+olefins produced during cracking, are subsequently hydrogenated on the metallic phase,
+producing the corresponding alkanes [76,77].
+Figure 6. Isomerization and cracking pathways of an n-alkane.
+Catalysts used in the cracking and isomerization of lipid feedstocks should exhibit
+moderate acidity in order to promote isomerization while avoiding excessive cracking. The
+literature reports several types of acid catalysts, including zeolites in their protonic form (H-
+ZSM-5, H-ZSM-22, H-Y, H-β, H-USY), alumina-modified mesoporous silicas (Al-MCM-41,
+Al-MCM-48), and silicoaluminophosphates [23,25,78–80].
+The overall efficiency of the HEFA process strongly depends on the nature and balance
+of the catalytic functions involved. Since deoxygenation, cracking, and isomerization
+reactions occur through hydrogenation/dehydrogenation steps and are acid-catalyzed, the
+design of suitable heterogeneous catalysts is of great importance. As mentioned, bifunc-
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+13 of 36
+tional catalysts combining metal and acid sites are used, in which the metal phase activates
+hydrogen and promotes deoxygenation, while the support provides the acidity necessary
+for skeletal rearrangement and cracking reactions. Thus, the balance between metal and
+acid functions is crucial for controlling the degree of isomerization and, consequently, the
+cold-flow properties of the final fuel. Moderate acidity is generally preferred to avoid
+excessive cracking. Moreover, temperature must be carefully controlled, since isomeriza-
+tion is favored at lower temperatures (200–300 ◦C), while deoxygenation typically requires
+higher temperatures (300–400 ◦C) [11]. In this context, extensive research has been devoted
+to the development of catalysts with optimized metal-acid balance, stability, and pore
+structure, combined with operational conditions. A more detailed understanding of the
+heterogeneous catalysts involved in the HEFA process is discussed in the following section.
+4. Bifunctional Heterogeneous Catalysts
+As previously discussed, the selection of an appropriate catalyst plays a crucial role
+in deoxygenation, cracking, and isomerization reactions. Although the HEFA process
+generally operates with distinct units for deoxygenation and for cracking/isomerization,
+numerous studies in the literature have demonstrated the conversion of lipid feedstocks
+into liquid fuels through a single-step process. Therefore, the appropriate choice of the
+metal phase and the support is essential.
+4.1. Metal Phase
+Recent advances in the choice of the metal phase are mainly concentrated around
+the use of non-noble transition metals. Regarding the type of feedstock used in the HEFA
+process, many aspects must be taken into account, such as the removal of heteroatoms
+and hydrogenation reactions. The first critical part for lipid feedstocks is the removal of
+oxygen, which approaches the cleavage of C–O and C=O bonds. Metals with elevated
+oxophilicity, such as Fe and Mo, are excellent candidates to promote deoxygenation from
+triglycerides [24].
+Conventional deoxygenation catalysts include Mo, mainly in its sulfide form (MoS2).
+Promoters such as Co and Ni are commonly added to enhance the activity of MoS2 by do-
+nating electrons to Mo and weakening the metal–sulfur bond [81]. This facilitates hydrogen
+dissociation on the metallic phase, thereby improving hydrogenation reactions. Despite
+their wide application, metal-sulfide catalysts require the continuous addition of sulfur-
+containing compounds to the feedstock to maintain high catalytic activity. This practice
+negatively affects both the process and the final product quality, particularly regarding
+sulfur content. Furthermore, the water generated as a by-product can significantly suppress
+the activity of sulfide catalysts [82].
+One of the main drawbacks of using Mo-based catalysts lies in their difficult reduction
+behavior. Oxides such as MoO2 and MoO3 are formed when a reducing temperature
+between 500 and 600 ◦C is applied [26]. However, Mo-oxides are not stable because they
+are prone to oxidation, which lowers their activity over time [83]. Other alternatives
+are reported by many authors to improve the stability of Mo species, producing carbide
+(Mo2C) or phosphide (MoP), but require elevated temperature under hydrogen to produce
+them [84]. Nevertheless, many studies have demonstrated the high activity of MoO2 species
+alone and doped with Co or Ni to convert fatty acids and waste cooking oil, demonstrating
+the potential to explore oxide species [26,85–87].
+Supported Co and Ni catalysts are also frequently employed as active phases. Hy-
+drogen molecules dissociate well on Ni metallic particles, making these catalysts highly
+efficient for hydrogenation reactions [88]. However, this strong hydrogenation capability
+can also promote coke formation, leading to carbon deposition on the active sites and a
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+14 of 36
+consequent decrease in catalytic activity [89]. In addition, Ni-based catalysts generally
+exhibit moderate selectivity toward cracking reactions, producing hydrocarbons mainly
+in the C10–C17 range from lipid feedstocks [89,90]. In contrast, Co-based catalysts show
+excellent selectivity for deoxygenation and hydrogenolysis reactions, and several studies
+have reported a higher formation of isomerized products during the conversion of lipids
+into liquid hydrocarbons [61,90,91]. On the other hand, Co is somewhat more difficult to
+reduce compared to Ni and tends to form metallic aggregates on the catalyst surface, which
+decreases metal dispersion and increases the particle size of the metallic phase [92].
+Noble metals such as Pt, Pd, and Ir are also highly efficient for hydrogenation reactions.
+However, besides their high economic cost, these metals tend to exhibit higher selectivity
+toward the DCO and DCO2 pathways [25,72,93].
+4.2. Supports
+The selection of appropriate support for the reactions involved in the HEFA process
+is crucial to ensure good metal dispersion, as well as thermal and mechanical stability.
+Moreover, mesoporous materials are particularly suitable for facilitating the cracking of
+triglycerides into n-alkanes and iso-alkanes within the catalyst pores. The literature on the
+catalytic upgrading of lipid feedstocks reports a wide range of support materials, including
+metal oxides, mesoporous silicas, zeolites, and carbon-based materials.
+Metal oxides such as SiO2 and γ-Al2O3 are commonly employed in the petrochem-
+ical industry as catalyst supports in hydrotreating units, with Co–MoS/Al2O3 being the
+most widely used system. In addition to their high mechanical and thermal resistance,
+these materials exhibit large specific surface areas (200–500 m2 gcat−1) and predominantly
+mesoporous structures [21,94]. However, alumina is known to be metastable in the pres-
+ence of water vapor and highly susceptible to structural degradation, undergoing partial
+transformation into hydrated boehmite [95].
+Silica-based mesoporous materials such as SBA-15, MCM-41, and MCM-48 have
+gained significant attention because they combine moderate acidity, high specific sur-
+face area, and large pore diameters [96,97].
+These materials present several ben-
+efits over conventional alumina supports, including higher surface areas (typically
+600–1000 m2 gcat−1) [9,98]. Their mesoporous frameworks enable a more effective dis-
+persion of active sites both within the pores and on the external surface of the support.
+However, the application of such materials in catalytic HDO reactions remains challenging,
+as they tend to be structurally unstable under severe hydrothermal conditions. Prolonged
+exposure to steam can lead to a gradual loss of surface area and eventual collapse of the
+internal pore structure due to partial steam pressure effects [93].
+Zeolites are generally microporous crystalline solid acid materials that facilitate the
+selective conversion of desired hydrocarbon products (isomers, aromatics, cyclic and
+aliphatic compounds). They are composed of corner-sharing TO4 tetrahedra, where T
+typically represents Si and Al in their conventional form, giving rise to aluminosilicate
+structures. In these frameworks, adjacent SiO4 and AlO4−tetrahedra are interconnected
+through shared oxygen atoms [99]. Their tunable acid–base properties also make these
+materials highly attractive. In fact, the incorporation of AlO4−tetrahedra into the zeolite
+framework introduces a negative charge, which is compensated by protons (H+), giving
+rise to Brønsted acid sites (BAS). Moreover, aluminosilicates can also act as Lewis acids
+in reactions like Friedel–Crafts alkylation, due to the formation of extra-framework Al3+
+species through dealumination [100]. A modernite framework inverted (MFI) zeolite
+structure is represented in Figure 7.
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+15 of 36
+Figure 7. Representation of an MFI-type zeolite with 10-membered rings with silicoaluminates structured.
+Among the zeolites employed in the catalytic conversion of lipid-based feedstocks,
+the most commonly used are ZSM-5, ZSM-22, zeolite Y, zeolite β, and USY [96,99,101–103].
+Despite their widespread use, zeolite-based catalysts present certain drawbacks associated
+with their strong acidity, which often leads to excessive cracking and reduced selectivity
+toward the desired products [23,80,95,99]. Furthermore, because both the reactants and
+products are typically long-chain molecules, zeolites may suffer from diffusion and mass
+transfer limitations within their microporous frameworks [61]. To address these issues,
+various strategies have been proposed to introduce mesoporosity into zeolite structures,
+such as dealumination and desilication treatments, which generate hierarchical frameworks
+combining micro- and mesopores [101,103–105]. These structural modifications can en-
+hance molecular accessibility and mitigate diffusional constraints. However, highly acidic
+zeolite-based supports remain susceptible to rapid deactivation due to the deposition of
+carbonaceous species on active sites, ultimately diminishing catalytic performance during
+deoxygenation reactions [95,99].
+Finally, carbon-based materials are excellent supports, with the possibility to modify
+their chemical surface to suit specific properties, such as acidity and porosity. The capacity
+of carbon atoms to participate in covalent bonds with other carbon atoms in different
+hybridization states (sp, sp2, sp3) or with nonmetallic elements enables them to form a
+wide range of structures, from small molecules to long chains [106]. Furthermore, carbon-
+based materials have high potential for recyclability and reusability, elevated chemical
+stability in acidic or basic media, low corrosion capability, and high thermal stability [107].
+Their surface is composed of a variety of organic functional groups, anchoring different
+heteroatoms, which contribute to the acid-base character and textural properties [107,108].
+For hydroprocessing reactions to convert oils into SAF, some studies have reported
+using carbon-based catalysts, often using commercial systems such as Pd/AC and Ru/C.
+Other works have investigated the use of activated carbon (AC), CNT, and carbon
+nanofibers (CNF) to assess their catalytic performance in the conversion of model com-
+pounds, vegetable oils, and WCO [26,29,109,110]. Since the textural properties are a key
+parameter for the choice of the supports, the use of AC with extended microporosity is less
+suitable, especially if it is applied to a complex feedstock such as WCO. In contrast, CNT
+and CNF offer more favorable mesoporous characteristics that facilitate mass transport and
+improve the dispersion of active species.
+Given their unique structure, high purity, and superior mechanical and chemical
+stability, CNTs have emerged as a promising support. The discovery of multi-walled
+carbon nanotubes (MWCNT) dates to 1991, when Sumio Iijima identified them in carbon
+soot generated via the arc-discharge technique. CNT are based on a hexagonal lattice of sp2
+carbon atoms, such as graphene. Single-walled carbon nanotubes (SWCNT) have diameters
+of around 0.4–2 nm and are several micrometers long, with an empty internal space, while
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+16 of 36
+MWCNT consists of concentric cylinders with an interlayer spacing of 3.4 Å and a diameter
+typically on the order of 10–20 nm [106,111,112].
+Their electrical and mechanical stability, high surface area, and pore volume make
+CNT an outstanding material in catalytic applications. Those last textural properties ease
+the metal dispersion as well as the diffusion of reagents and products into the CNT’s
+surface, due to the absence of micropores [111]. Additionally, CNTs have elevated thermal
+stability, and when combined with their other advantageous features, this class of materials
+becomes particularly suitable for hydroprocessing reactions of lipid feedstocks [106,107].
+Heteroatom groups, such as oxygen, can be incorporated on the CNT surface, aiming
+to enhance their catalytic activity. This chemical change can enhance their dispersibility in
+different solvents, water, and increase the acid character by the introduction of oxygenated
+groups such as carboxylic acids, carboxylic anhydrides, and lactones [113–115]. In this con-
+text, these attributes position CNT as exceptional catalyst supports for the hydroprocessing
+of lipid feedstocks.
+5. Catalytic Upgrading of Lipid-Based Feedstocks
+Given the reactions involved in the conversion of lipid-based feedstocks and the
+catalysts required to produce hydrocarbons in the C8–C16 range, this section reviews the
+state of the art in the catalytic upgrading of fatty acids, vegetable oils, and WCO. Under-
+standing each feedstock individually, starting from model compounds and progressing
+to more complex systems, is essential for selecting appropriate reaction conditions and
+catalyst formulations.
+5.1. Catalytic Conversion of Fatty Acids
+Fatty acids are carboxylic acids that constitute triglyceride molecules. Hence, they are
+often employed as model compounds to represent the behavior of vegetable oils in catalytic
+upgrading studies. Fatty acids can be classified as saturated or unsaturated. Saturated
+fatty acids have fully hydrogenated chains and typically remain solid at room temperature,
+while unsaturated fatty acids contain one or more double bonds, which lowers their melting
+point and generally makes them liquid under ambient conditions [116]. The short-name
+nomenclature for fatty acids is typically expressed as the number of carbon atoms in the
+chain followed by the number of double bonds. For instance, oleic acid contains 18 carbon
+atoms and one double bond, located between carbon 9 and 10, and is therefore designated
+as C18:1. In contrast, palmitic acid has a 16-carbon fully saturated chain and is represented
+as C16:0 [57].
+Due to their well-defined molecular structures, fatty acids allow for a clearer interpreta-
+tion of deoxygenation pathways (HDO, DCO, and DCO2), cracking and isomerization, and
+help isolate intrinsic catalytic effects without the complexity introduced by multicomponent
+systems such as real lipid sources.
+Studies using monometallic catalysts supported on zeolites were among the first
+reported in this field. Table 3 summarizes the latest achievements showing the catalytic
+systems and their performance in terms of substrate conversion (X), yield (Y), and selectivity
+(S) of the main products. Shi et al. [85] evaluated the bifunctional Mo/H-ZSM-22 catalyst
+for the conversion of palmitic acid into branched C15 and C16 (entry 1, Table 3). According
+to the authors, the Mo4+/Mo6+ ratio in Mo/ZSM-22 strongly affects HDO/HDC selectivity
+during palmitic acid upgrading. Mo6+ species (MoO3) promote the DCO pathway, whereas
+Mo4+ (MoO2) favors HDO, demonstrating that Mo oxides themselves possess catalytic
+activity for these reactions. Despite promising results, after two consecutive reaction cycles,
+coke deposition on Brønsted acid sites reduced the isomer selectivity and increased the
+formation of linear alkanes.
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+17 of 36
+Table 3. Results of catalytic conversion of fatty acids.
+Entry
+Feedstock

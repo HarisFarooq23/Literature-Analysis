@@ -1,0 +1,168 @@
+[1] Klass DL. Biomass for renewable energy, fuels, and chemicals. Elsevier; 1998. 
+[2] Ch`eze B, Gastineau P, Chevallier J. Forecasting world and regional aviation jet fuel 
+demands to the mid-term (2025). Energy Policy 2011;39(9):5147–58. 
+[3] Atag A. Beginner’s guide to aviation biofuels. Switzerland: Air Transport Action 
+Group Geneva; 2009. 
+[4] Li T, Cheng J, Huang R, Zhou J, Cen K. Conversion of waste cooking oil to jet 
+biofuel with nickel-based mesoporous zeolite Y catalyst. Bioresour Technol 2015; 
+197:289–94. 
+[5] Fukuoka A, Dhepe PL. Catalytic conversion of cellulose into sugar alcohols. Angew 
+Chem Int Ed 2006;45(31):5161–3. 
+[6] Tijmensen MJ, Faaij AP, Hamelinck CN, van Hardeveld MR. Exploration of the 
+possibilities for production of Fischer Tropsch liquids and power via biomass 
+gasification. Biomass Bioenergy 2002;23(2):129–52. 
+[7] Drown D, Harper K, Frame E. Screening vegetable oil alcohol esters as fuel lubricity 
+enhancers. J Am Oil Chem Soc 2001;78(6):579–84. 
+[8] Allen C, Toulson E, Edwards T, Lee T. Application of a novel charge preparation 
+approach to testing the autoignition characteristics of JP-8 and camelina 
+hydroprocessed renewable jet fuel in a rapid compression machine. Combust Flame 
+2012;159(9):2780–8. 
+[9] Wang W-C. Techno-economic analysis of a bio-refinery process for producing 
+Hydro-processed Renewable Jet fuel from Jatropha. Renewable Energy 2016;95: 
+63–73. 
+Table 4 
+A comparative study of the hydrocracked products obtained after the hydroprocessing of edible and non-edible oils.  
+Raw feed 
+Operating conditions 
+Reactor 
+Biojet Yield/Selectivity (%) 
+Ref 
+T (◦C) 
+P (MPa) 
+H2/oil or H2 flow rate 
+LHSV (hr−1) or liquid flow rate 
+Soybean oil 
+370–385 ◦C 
+3 
+800 NL/L 
+1 
+Fixed bed 
+48 
+[35] 
+WCO 
+320–400 ◦C 
+4 
+13.6 M ratio 
+2 
+Fixed bed 
+38 
+[26,30] 
+WCO 
+370–430 ◦C 
+3 
+– 
+– 
+Batch 
+53 
+[4] 
+WCO 
+350–400 ◦C 
+– 
+250 ml mL−1 
+0.8 ml/min 
+Fixed bed 
+39.7 
+[22] 
+WCO 
+360–440 ◦C 
+10 
+2200 NLgas/Lliquid 
+1 
+Fixed bed 
+55.6 
+This work  
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+12
+[10] Ullah Z, Bustam MA, Man Z. Biodiesel production from waste cooking oil by acidic 
+ionic liquid as a catalyst. Renewable Energy 2015;77:521–6. 
+[11] Phan AN, Phan TM. Biodiesel production from waste cooking oils. Fuel 2008;87 
+(17):3490–6. 
+[12] Utlu Z. Evaluation of biodiesel fuel obtained from waste cooking oil. Energy 
+Sources Part A 2007;29(14):1295–304. 
+[13] Bezergianni S, Dimitriadis A, Meletidis G. Effectiveness of CoMo and NiMo 
+catalysts on co-hydroprocessing of heavy atmospheric gas oil–waste cooking oil 
+mixtures. Fuel 2014;125:129–36. 
+[14] Vlasova EN, Porsin AA, Aleksandrov PV, Nuzhdin AL, Bukhtiyarova GA. Co- 
+hydroprocessing of straight-run gasoil – Rapeseed oil mixture over stacked bed 
+Mo/Al2O3 + NiMo/Al2O3-SAPO-11 catalysts. Fuel 2021;285:119504. 
+[15] Vonortas A, Kubiˇcka D, Papayannakos N. Catalytic co-hydroprocessing of 
+gasoil–palm oil/AVO mixtures over a NiMo/γ-Al2O3 catalyst. Fuel 2014;116: 
+49–55. 
+[16] Bezergianni S, Dimitriadis A, Chrysikou LP. Quality and sustainability comparison 
+of one- vs. two-step catalytic hydroprocessing of waste cooking oil. Fuel 2014;118: 
+300–7. 
+[17] Bezergianni S, Kalogianni A, Dimitriadis A. Catalyst evaluation for waste cooking 
+oil hydroprocessing. Fuel 2012;93:638–41. 
+[18] Bezergianni S, Dimitriadis A, Kalogianni A, Pilavachi PA. Hydrotreating of waste 
+cooking oil for biodiesel production. Part I: Effect of temperature on product yields 
+and heteroatom removal. Bioresour Technol 2010;101(17):6651–6. 
+[19] Bezergianni S, Dimitriadis A, Kalogianni A, Knudsen KG. Toward hydrotreating of 
+waste cooking oil for biodiesel production. Effect of pressure, H2/oil ratio, and 
+liquid hourly space velocity. Ind Eng Chem Res 2011;50(7):3874–9. 
+[20] Cheng J, Li T, Huang R, Zhou J, Cen K. Optimizing catalysis conditions to decrease 
+aromatic hydrocarbons and increase alkanes for improving jet biofuel quality. 
+Bioresour Technol 2014;158:378–82. 
+[21] Liu S, Zhu Q, Guan Q, He L, Li W. Bio-aviation fuel production from 
+hydroprocessing castor oil promoted by the nickel-based bifunctional catalysts. 
+Bioresour Technol 2015;183:93–100. 
+[22] Zhang Z, Wang Q, Chen H, Zhang X. Hydroconversion of waste cooking oil into bio- 
+jet fuel over a hierarchical NiMo/USY@Al-SBA-15 zeolite. Chem Eng Technol 
+2018;41(3):590–7. 
+[23] Zhang C, Hui X, Lin Y, Sung C-J. Recent development in studies of alternative jet 
+fuel combustion: Progress, challenges, and opportunities. Renew Sustain Energy 
+Rev 2016;54:120–38. 
+[24] ASTM A. Standard specification for aviation turbine fuel containing synthesized 
+hydrocarbons. PA, USA: ASTM International West Conshohocken; 2016. 
+[25] Scherzer J, Gruia AJ. Hydrocracking science and technology. CRC Press 1996. 
+[26] Chen Y-K, Hsieh C-H, Wang W-C. The production of renewable aviation fuel from 
+waste cooking oil. Part II: Catalytic hydro-cracking/isomerization of hydro- 
+processed alkanes into jet fuel range products. Renewable Energy 2020;157: 
+731–40. 
+[27] Bezergianni S, Voutetakis S, Kalogianni A. Catalytic hydrocracking of fresh and 
+used cooking oil. Ind Eng Chem Res 2009;48(18):8402–6. 
+[28] Zhang Z, Wang Q, Zhang X. Hydroconversion of waste cooking oil into bio-jet fuel 
+over NiMo/SBUY-MCM-41. Catalysts 2019;9(5):466. 
+[29] Chen L, Li H, Fu J, Miao C, Lv P, Yuan Z. Catalytic hydroprocessing of fatty acid 
+methyl esters to renewable alkane fuels over Ni/HZSM-5 catalyst. Catal Today 
+2016;259:266–76. 
+[30] Chen R-X, Wang W-C. The production of renewable aviation fuel from waste 
+cooking oil. Part I: Bio-alkane conversion through hydro-processing of oil. 
+Renewable Energy 2019;135:819–35. 
+[31] Claydon RM, Roman-Ramirez LA, Wood J. Comparative study on the 
+hydrogenation of naphthalene over both Al2O3-supported Pd and NiMo catalysts 
+against a novel LDH-derived Ni-MMO-supported Mo catalyst. ACS Omega 2021;6 
+(30):20053–67. 
+[32] Jia T, Gong S, Pan L, Deng C, Zou J-J, Zhang X. Impact of deep hydrogenation on 
+jet fuel oxidation and deposition. Fuel 2020;264:116843. 
+[33] Mishra A, Verma V, Khan A, Sinha AK. Magnetically separable Ni-based robust 
+nanocatalyst for hydrogenation of substituted aromatics in renewable bio- 
+kerosene. Appl Catal A 2022;643:118707. 
+[34] Kosir ST, Behnke L, Heyne JS, Stachler RD, Flora G, Zabarnick S, et al. 
+Improvement in jet aircraft operation with the use of high-performance drop-in 
+fuels. AIAA Scitech 2019 Forum. 2019:0993. 
+[35] Rabaev M, Landau MV, Vidruk-Nehemya R, Koukouliev V, Zarchin R, 
+Herskowitz M. Conversion of vegetable oils on Pt/Al2O3/SAPO-11 to diesel and jet 
+fuels containing aromatics. Fuel 2015;161:287–94. 
+[36] Anand M, Farooqui SA, Kumar R, Joshi R, Kumar R, Sibi MG, et al. Kinetics, 
+thermodynamics and mechanisms for hydroprocessing of renewable oils. Appl 
+Catal A 2016;516:144–52. 
+[37] Veriansyah B, Han JY, Kim SK, Hong S-A, Kim YJ, Lim JS, et al. Production of 
+renewable diesel by hydroprocessing of soybean oil: Effect of catalysts. Fuel 2012; 
+94:578–85. 
+[38] Sotelo-Boy´as R, Trejo-Z´arraga F, Hern´andez-Loyo F. Hydroconversion of 
+triglycerides into green liquid fuels. Hydrogenation 2012;338:338. 
+[39] Kubiˇcka D, Kaluˇza L. Deoxygenation of vegetable oils over sulfided Ni, Mo and 
+NiMo catalysts. Appl Catal A 2010;372(2):199–208. 
+[40] da Rocha Filho GN, Brodzki D, Dj´ega-Mariadassou G. Formation of alkanes, 
+alkylcycloalkanes and alkylbenzenes during the catalytic hydrocracking of 
+vegetable oils. Fuel 1993;72(4):543–9. 
+[41] Kubiˇcka D. Future refining catalysis-introduction of biomass feedstocks. Collect 
+Czech Chem Commun 2008;73(8):1015–44. 
+[42] ˇSim´aˇcek P, Kubiˇcka D. Hydrocracking of petroleum vacuum distillate containing 
+rapeseed oil: Evaluation of diesel fuel. Fuel 2010;89(7):1508–13. 
+[43] Huber GW, O’Connor P, Corma A. Processing biomass in conventional oil 
+refineries: Production of high quality diesel by hydrotreating vegetable oils in 
+heavy vacuum oil mixtures. Appl Catal A 2007;329:120–9. 
+V. Verma et al.

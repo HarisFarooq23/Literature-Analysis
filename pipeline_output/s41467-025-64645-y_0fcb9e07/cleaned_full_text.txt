@@ -1,0 +1,1419 @@
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+From food waste to sustainable aviation fuel:
+cobalt molybdenum catalysis of pretreated
+hydrothermal liquefaction biocrude
+Sabrina Summers
+1, Siyu Yang
+1, Buchun Si
+1,2, Zixin Wang1,
+Jamison Watson1,3, Siying Yu4, Zhibin Yang5, Harshal Kawale
+1,
+Joshua S. Heyne
+5,6 & Yuanhui Zhang
+1
+Valorization of wet biowaste into sustainable aviation fuel presents a promising
+opportunity to decarbonize the aviation industry. While hydrothermal lique-
+faction of food waste produces high energy content biocrude oil, its complex
+composition introduces challenges for achieving drop-in fuel properties. This
+research demonstrates a pathway from food waste-derived biocrude to sus-
+tainable aviation fuel through single-stage hydrotreating using cobalt molyb-
+denum catalyst. Hydrotreating parameters are screened via the Taguchi
+method and optimized via Response Surface Methodology. The fuel candidate
+meets American Society for Testing and Materials jet fuel properties without
+blending, including low sulfur limits, density, viscosity, ﬂash point, and freeze
+point. Further, Circularity Index, the fraction of renewable and recovered
+resources, demonstrates that compared to conventional jet fuel, this pathway
+improves energy and carbon circularity by 31.1% and 17.0%, respectively.
+Additionally, this approach identiﬁes future direction, including reaction and
+catalyst tuning for increased isomerization, to improve fuel properties.
+Rising energy demand and the negative impacts of greenhouse gas
+(GHG) emissions have hastened efforts to produce sustainable aviation
+fuel (SAF). To achieve the United States’s SAF Grand Challenge of
+meeting 100% domestic demand for aviation fuel and net-zero carbon
+emissions, a signiﬁcant uptake in SAF is required. SAF can form a cir-
+cular carbon loop that utilizes carbon emissions during production,
+transportation, and combustion, effectively reducing aviation’s carbon
+footprint1. Further, aviation represents 2–3% of global GHG emissions
+and 11% of U.S. GHG emissions2,3. However, SAF can reduce carbon
+emissions by 80% compared to traditional jet fuel3–5, largely due to the
+use of biogenic waste material, which allows uptake of feedstock to
+offset combustion carbon emissions from SAF3.
+Currently, there are eight SAF production pathways and three co-
+processing pathways approved by the American Society for Testing
+and Materials (ASTM)6. Synthesized parafﬁnic kerosene from hydro-
+processed esters and fatty acids (HEFA-SPK) is the most mature and
+least expensive pathway, but it is severely constrained by feedstock
+availability7. HEFA-SPK hydroprocesses lipid feedstocks, including
+FOGs, algae, vegetable oils like soybean oil, and seed oils like jatropha.
+Furthermore, synthesized parafﬁnic kerosene from hydroprocessed
+hydrocarbons, esters, and fatty acids (HC-HEFA-SPK) utilizes an addi-
+tional feedstock, algae oil from Botryococcus braunii, to produce SAF.
+Fischer-Tropsch hydroprocessed synthesized parafﬁnic kerosene (FT-
+SPK) converts woody biomass (e.g., municipal solid waste, agricultural
+Received: 22 November 2024
+Accepted: 18 September 2025
+Check for updates
+1Agricultural and Biological Engineering, University of Illinois Urbana-Champaign, Urbana, IL, USA. 2Key Laboratory of Agricultural Engineering in Structure
+and Environment, Ministry of Agriculture and Rural Affairs, College of Water Resources and Civil Engineering, China Agricultural University, Beijing, China.
+3Matrix Laboratory, A. James Clark School of Engineering, University of Maryland, California, MD, USA. 4Chemical and Biomolecular Engineering, University of
+Illinois Urbana-Champaign, Urbana, IL, USA. 5Bioproduct, Sciences, and Engineering Laboratory, School of Engineering and Applied Science, Washington
+State University, Richland, WA, USA. 6Energy Processes and Materials Division, Energy and Environment Directorate, Paciﬁc Northwest National Laboratory,
+Richland, WA, USA.
+e-mail: yzhang1@illinois.edu
+Nature Communications|  (2025) 16:9570 
+1
+1234567890():,;
+1234567890():,;
+
+waste, forest/wood residues, energy crops) into syngas through gasi-
+ﬁcation, followed by production of hydrocarbons through FT, and
+hydroprocessing. The additional production of aromatics (FT-SPK/A)
+addresses the low aromatics content of FT-SPK fuel through the alky-
+lation of light aromatics with FT-derived oleﬁns. Synthesized iso-
+parafﬁns from hydroprocessed fermented sugars (HFS-SIP) utilizes
+microbial conversion of sugars from cellulosic biomass (e.g., corn
+stover, non-woody biomass, pretreated FOGs), to produce farnesene,
+which can then be hydroprocessed into isoparafﬁns. Alcohol-to-jet
+(ATJ) synthetic parafﬁnic kerosene produces isobutanol or ethanol via
+fermentation or gasiﬁcation of cellulosic biomass, which then undergo
+dehydration, oligomerization, and hydrogenation to form jet-range
+hydrocarbons. ATJ synthetic parafﬁnic kerosene with aromatics (ATJ-
+SKA) also addresses the low aromatic content of ATJ SAF, deriving
+aromatics from C2-C5 alcohols through additional dehydration and
+aromatization steps. Lastly, hydrothermal conversion of fatty acid
+esters and fatty acids (CHJ) treats waste and energy oils through cat-
+alytic hydrothermal liquefaction and hydroprocessing. The blend limit
+is 50% for all approved pathways, except for HFS-SIP and HC-HEFA
+SPK, which are limited to 10%. For co-processing, esters and fatty acids,
+FT hydrocarbons, and HEFA hydrocarbons are hydroprocessed with
+petroleum in a conventional reﬁnery, limited to 5%, 5%, and 10%
+blends, respectively.
+The utilization of waste biomass plays a signiﬁcant role in the
+production of biofuels for the transportation sector and reduction of
+GHG emissions. Biofuels can be deﬁned as ﬁrst-generation (edible oil
+seeds), second-generation (non-edible oil seeds, waste materials),
+third-generation (algae), and fourth-generation (genetically engi-
+neered oil crops) according to their feedstock8. In particular, second-
+generation feedstocks avoid land use and enable the recovery of car-
+bon and energy from waste streams, presenting a sustainable feed-
+stock for fuel production. Approximately 11% of bio-based energy and
+chemicals in the U.S. are produced from waste biomass9. Potential
+biomass feedstocks from waste streams include waste lipids like FOGs
+(fat, oil, and grease), food waste, algal blooms, sewage sludge, and
+agricultural and forestry residues. While catalytic hydroprocessing of
+lipid feedstocks, such as waste cooking oils, is currently the most
+competitive pathway for renewable diesel and SAF, feedstock sus-
+tainability is limited by availability and cost10. One promising feedstock
+for SAF is food waste, an impactful biomass stream that represents
+reusable carbon sources for renewable energy applications. In the
+United States, food waste is the most common discarded material for
+landﬁll and incineration11. Over 30% of food is wasted or lost in the
+global supply chain each year; In 2021, it was reported that 13.2% was
+lost in the chain from farm to consumer, while an additional 17% was
+wasted at the consumer level, including households, food service, and
+retail12. Furthermore, disposal of food waste in landﬁlls has further
+environmental
+impacts
+through
+GHG
+emissions
+during
+decomposition11. Food waste is an ideal feedstock for hydrothermal
+liquefaction (HTL), a thermochemical conversion method that reacts
+wet biomass under high heat and pressure to produce biocrude oil,
+along with aqueous, char, and gaseous byproducts. Compared to other
+thermochemical technologies, HTL has an economic advantage by
+using the inherent water content of feedstocks as a reaction medium,
+thereby avoiding the time-consuming and cost-prohibitive drying
+pretreatment step13. Moreso, it can convert a broad range of feedstock,
+including non-lipid components of biomass, such as proteins and
+carbohydrates14. While HTL biocrude is a promising substitution for
+liquid petroleum products such as transportation fuels, it possesses
+several undesirable physicochemical properties that make it unsui-
+table as a drop-in fuel, including high oxygen content; high viscosity
+and acidity; and low heating value13,15. Furthermore, biocrude oil
+derived from biogenic feedstocks contain alkali impurities and sulfur
+that can cause catalyst deactivation over time16. Nonetheless, HTL’s
+ability to convert a broad range of feedstocks gives it an advantage
+over other SAF conversion technologies, such as HEFA-SPK, which is
+sensitive to feedstock volatility, price, and availability7. For example,
+the minimum fuel selling price (MFSP) of HEFA-SPK in the United
+States ranged from $1.84–9.40/GGE, depending on feedstock source7.
+Comparatively, the MFSP of SAF from HTL has been reported from
+$2.77/GGE for sewage sludge feedstock17, $3.34/GGE for food waste18,
+and up to $5.42/GGE for cultivated algae19. Furthermore, 8-18% of costs
+were associated with the required upgrading of HTL biocrude oil,
+including hydrotreating and hydrocracking17,19. For feedstocks requir-
+ing deeper heteroatom removal, the addition of a hydrodenitrogena-
+tion unit only added $0.02/GGE19.
+Valorization of biowaste feedstocks like food waste into renew-
+able transportation fuels such as SAF promotes both feedstock and
+energy sustainability, as well as a zero-waste circular bioeconomy.
+Furthermore, this waste-to-energy paradigm contributes to the United
+Nations Sustainable Development Goals (SDG) 7, 12, and 13. In the 2023
+SDG Report, it was found that although 28.2% of electricity came from
+renewable energy sources, growth in clean energy for the transporta-
+tion sector has been much more limited, with only 4.0% from renew-
+able sources12. The aviation industry, like most of the transportation
+sector, is difﬁcult to electrify, so HTL represents a potential solution to
+pivot away from fossil fuels and achieve SDG 7 Affordable and Clean
+Energy. Furthermore, SAF from food waste directly serves SDG 12
+Responsible Consumption and Production by providing a renewable
+alternative to alleviate fossil fuel consumption, as well as utilizing a
+feedstock that helps the goal to decrease food waste and loss 50% by
+203012. Lastly, SAF production and consumption improves carbon
+circularity, therefore working toward SDG 13 Climate Action to reduce
+GHG emissions and mitigate global warming12.
+HTL biocrude must be upgraded to remove inorganic compo-
+nents and improve its fuel properties. Depending on the feedstock,
+different challenges and upgrading routes exist. For example, HTL
+feedstocks with high protein content, such as algae, typically produce
+nitrogenous biocrude that may require deeper heteroatom removal
+with more severe or multi-stage hydrotreating20,21. Lignocellulosic oil
+contains a signiﬁcant amount of aromatics desirable for SAF, but the
+complex composition of lignin compounds make them recalcitrant to
+hydrotreating, necessitating reaction engineering and catalyst devel-
+opment for efﬁcient hydrodeoxygenation22. Furthermore, HTL of high-
+lipid feedstocks typically produces heavier biocrude compounds due
+to
+repolymerization
+reactions,
+requiring
+hydrocracking
+during
+upgrading23. Common technologies used for biocrude upgrading
+include
+distillation,
+esteriﬁcation,
+emulsiﬁcation,
+hydrotreating,
+hydrocracking, and steam reforming15,24,25. Catalytic hydrotreating can
+target removal of heteroatoms, as well as improve hydrogen content
+and fuel quality of the biocrude, while avoiding carbon loss from
+decarbonylation and decarboxylation reactions20. Previous studies
+have explored hydrotreating biocrude from various feedstocks
+including lignocellulose, agricultural waste, algae, sewage sludge,
+waste cooking oil, and food waste. Molybdenum-based catalysts are
+desirable for their low cost, comparable activity to noble-metal cata-
+lysts, and effectiveness toward deoxygenation (de-O). Cobalt molyb-
+denum catalysts have been shown to be slightly more effective for
+denitrogenation (de-N) compared to nickel molybdenum. For exam-
+ple, 99% de-N was achieved for hydrotreated HTL biocrude using
+CoMo26,
+while
+NiMo
+achieved
+up
+to
+80%
+using
+single-stage
+hydrotreating27, and 92.5% using two-stage hydrotreating21. Addition-
+ally, Cronin et al. found that CoMo led to increased removal of het-
+erocyclic nitrogenates, such as pyridine and pyrimidine28. Catalysts
+with higher metal loads exhibit improved yield and de-O29, and while
+organic solvents such as methanol, ethanol, and 2-propanol can act as
+hydrogen donors, they may also cause competing reactions between
+hydrogenating the solvent and biocrude oil30.
+Hydrotreating temperatures for HTL biocrude typically range
+from 350 to 400 °C and pressures of 4–10 MPa20,27,28. The use of lower
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+2
+
+temperatures (200-325 °C) has also been explored to improve bio-
+crude stabilization for increased demetallization31,32 and de-N21.
+Depending on the reactor conﬁguration (batch vs. continuous), the
+catalyst load and retention time (RT) may be deﬁned individually or as
+a weight hourly space velocity (WHSV, h−1). In batch reactors, the
+equivalent WHSV can be deﬁned as the ratio of biocrude to catalyst
+mass divided by the RT. For continuous hydrotreating, the 0.3–1.0 h−1
+WHSV was used, with 0.5 h−1 the most common27,28,31,32. Meanwhile,
+batch reactors applied catalyst:oil mass ratios of 0.5 and RTs of 4 h,
+yielding an equivalent WHSV of 0.5 h−1, making them comparable to
+conditions in a continuous reactor20,21,32. Existing studies showed that
+temperature and pressure are signiﬁcant factors for de-O and de-N,
+while also inﬂuencing fuel quality and product yields29,33. Although
+higher temperature increased oil recovery and is required for further
+de-N, it may also lead to polymerization, condensation, and cracking
+reactions due to instability of reactive oxygenates32,34. At higher
+hydrogen pressure, the extent of de-O increased, while coking and
+decarboxylation reactions were minimized and there was improved
+hydrogenation of heterocyclic nitrogenates20,27,30. However, at severe
+pressures, polymerization of small molecules may also occur,
+decreasing the ﬁnal oil yield29. Meanwhile, low pressures may result in
+the diffusion of gases formed during hydrocracking reactions, causing
+biocrude oil to be increasingly converted into gas and lighter
+molecules29. The RT also inﬂuenced product yields and fuel quality,
+with longer times allowing for further de-O and hydrocracking
+reactions29,30. But at extended reaction times (>4 h), polymerization
+reactions occured and increased coke formation caused catalyst
+deactivation29,30.
+Although previous works have also produced SAF candidates
+through the catalytic treatment of food waste-derived precursors,
+their resulting fuel viability was restricted by blending limits, nitrogen,
+and sulfur levels. For example, Cronin et al. hydrotreated biocrude
+from HTL of food waste using CoMo and NiMo, but 0.86–1.34 wt%
+nitrogen and 0.02–0.03 wt% sulfur remained28. Meanwhile, catalytic
+upgrading of volatile fatty acids (VFA) from the anaerobic digestion of
+food waste produced a neat SAF candidate, i.e., unblended, with 26–68
+ppm nitrogen, slightly above the ASTM limit of 15 ppm16. Additionally,
+the VFA-SAF candidate was limited by its ﬂash point and low tem-
+perature viscosity, requiring at least 70% blending with Jet A to meet
+ASTM speciﬁcation limits in Tier α and β tests16. In this study, it was
+shown that cobalt molybdenum catalyst effectively upgraded food
+waste-derived HTL biocrude oil into drop-in SAF. Through parameter
+screening and optimization, a neat SAF candidate was produced that
+met preliminary ASTM qualiﬁcations for jet fuel properties, possessing
+low nitrogen and sulfur levels, thereby advancing circularity of the
+aviation sector.
+Results and discussion
+Hydrotreating parameter screening
+The products yields, elemental composition, and parameter screening
+results are displayed in Fig. 1. It was seen that oil yield generally
+decreased with combinations of higher parameter levels (Fig. 1A). This
+was mainly due to polymerization reactions occurring during exten-
+ded RTs that increased char formation, as well as increased hydro-
+cracking and gasiﬁcation reactions at high pressure and temperature.
+Greater amounts of aqueous and char products were seen at the low
+and medium temperatures, indicating that at higher severity, less
+polymerization and recondensation occurs over gasiﬁcation. Lack of
+aqueous product at higher temperatures suggested decarboxylation
+and decarbonylation pathways over hydrodeoxygenation, yielding
+gaseous products rather than water. In general, higher de-O resulted in
+increased higher heating values (HHV) (Fig. 1A, B). 76–100% de-O was
+achieved, with up to 2.21 wt% remaining oxygen in the oil. Hydro-
+treated oil with remaining oxygen were treated at lower temperature
+and RT, indicating the importance of these parameters for de-O.
+Desulfurization (de-S) was effective at higher severities, with up to 94%
+sulfur removal and 20 ppm remaining. De-N was least efﬁcient, ranging
+from 7 to 23% with 0.55–0.66 wt% nitrogen remaining in the hydro-
+treated oil.
+Improved fuel quality and heteroatom removal were obtained at
+the expense of carbon and energy recovery (Cr and Er), especially due
+to carbon losses from gasiﬁcation at severe hydrotreating conditions.
+The most signiﬁcant parameters affecting de-O, Er, and Cr were
+determined using Taguchi delta values, the difference between the
+highest and lowest mean of response (Fig. 1C). For de-O, the most
+signiﬁcant parameters were catalyst-to-oil ratio (cat:oil) > temperature
+(T) > hydrogen load-to-biocrude oxygen ratio (H:O) > retention time
+(RT), while for Cr and Er they were T > cat:oil > RT > H:O. Though H:O
+was more important for oxygen removal than carbon and energy
+recovery, the highest average de-Os were obtained at 15:1 H:O ratios.
+Therefore, T, cat:oil, and RT were selected as the parameters to
+undergo optimization for SAF production while the H:O ratio was held
+constant.
+Improved boiling point distribution and hydrocarbon composi-
+tion was also observed across changes in hydrotreating temperature
+and catalyst ratio. Temperature was the most signiﬁcant factor
+affecting the boiling point distribution of the hydrotreated biocrude
+oil (Fig. S1A). At lower temperatures, light fractions <250 °C increased
+compared to PT biocrude oil, but the amount of mid-range fractions
+from 250 to 350 °C decreased while the amount of heavier fuel frac-
+tions >350 °C increased. Therefore, at mild hydrotreating conditions,
+polymerization and coking reactions may decrease the yield of viable
+distillates in the transportation fuel range. Notably, at the highest
+H1
+H2
+H3
+H4
+H5
+H6
+H7
+H8
+H9
+0
+20
+40
+60
+80
+100
+Yield (wt%)
+Sample
+Oil
+AQ
+Char
+Gas
+HHV
+A
+40
+42
+44
+46
+48
+HHV (MJ/kg)
+H1
+H2
+H3
+H4
+H5
+H6
+H7
+H8
+H9
+0
+20
+40
+60
+80
+100
+Elemental content (wt%)
+Sample
+C
+H
+N
+O
+S
+B
+0
+40
+80
+120
+160
+Sulfur content (ppm)
+Cr
+Er
+de-O
+0
+5
+10
+15
+20
+25
+Parameter
+T
+cat:oil
+RT
+H:O
+C
+Fig. 1 | Taguchi parameter screening results for yields, oil quality, and para-
+meter signiﬁcance. A Mass balance of oil, aqueous (AQ), char, gas yields and
+higher heating value (HHV); B stacked bar elemental composition of carbon (C),
+hydrogen (H), nitrogen (N), oxygen (O), and sulfur (S); and C bar chart for Taguchi
+delta of response for the effect of temperature (T), catalyst:oil ratio (cat:oil),
+retention time (RT), and hydrogen:oxygen ratio (H:O) on deoxygenation (de-O),
+energy recovery (Er), and carbon recovery (Cr). Source data are provided as a
+Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+3
+
+temperatures, the hydrotreated biocrude oil contained >99% distillate
+fractions <250 °C, with H9 exhibiting extremely similar boiling point
+distribution to Jet-A. At the mildest conditions (H1), the amount of
+n-alkanes signiﬁcantly increased from 19.91% in the PT biocrude oil to
+84.72% after hydrotreating, indicating de-O and hydrogenation of
+unsaturated hydrocarbons and O-containing compounds such as fatty
+acids (Fig. S1B). With increased catalyst ratio (H2-3), alkenes were
+further hydrogenated, and small increases in aromatics and cycloalk-
+anes were seen. At higher temperatures, isomerization and cracking
+reactions are favored, while n-alkanes can also undergo dehy-
+drocyclization to form aromatics35,36. This caused the hydrocarbon
+distribution to further broaden and include more cycloalkanes, iso-
+alkanes, and aromatics. At elevated temperature, higher oil yield and
+de-O also improved the Cr and Er of the hydrotreated HTL biocrude
+(Fig. S1C).
+Hydrotreating parameter optimization and fuel properties
+Average carbon number and hydrocarbon type are signiﬁcant prop-
+erties in predicting the properties of SAF37,38. Having an average carbon
+number closer to conventional jet fuel’s is desirable to stay within
+ASTM speciﬁcation limits for SAF. Contour heat maps elucidated the
+effect of T, RT, and cat:oil on the average carbon number of hydro-
+treated biocrude oil (Fig. 2A–C and Table S5). It was seen that T had a
+greater effect than RT on average carbon number, with decreased
+carbon number correlated with increased hydrotreating T (Fig. 2A).
+The slight tilt of the contour lines toward the left also reﬂected
+decreased carbon number at longer RT, indicating breakdown of the
+carbon chains with limited repolymerization. Similar trends were seen
+for T and cat:oil, with decreased carbon number with increased T at all
+levels of cat:oil (Fig. 2B). Meanwhile, the change in carbon number
+across RT and cat:oil was less pronounced (Fig. 2C). A diagonal of
+slightly higher average carbon numbers was observed from high cat:oil
+and low RT to low cat:oil and high RT, showing that at mild combi-
+nations of cat:oil and RT, less cracking occurred. The diagonal pattern
+across the axis ranges was mainly attributed to the greater effect of T
+on average carbon number. For example, points on the contour line
+where average carbon number ~13, were those where different T (350
+vs. 450 °C) were used at the same RT and cat:oil. Therefore, the change
+in T caused deviations in the average carbon number. Compared to T,
+RT, and cat:oil had less effect on carbon number. Overall, the average
+carbon number further decreased at combinations of higher T, RT, and
+cat:oil. Therefore, while a higher temperature was required to achieve
+an average carbon number closer to jet fuel, consideration should be
+taken in its combination with RT and cat:oil to avoid SAF products with
+carbon chains that are too light.
+The modiﬁed Van Krevelen diagrams exhibit effective de-O and
+de-S during hydrotreating, but varying de-N (Fig. 2D–E). A majority of
+the SAF samples yielded complete oxygen and sulfur removal, with O/
+C and S/C molar ratios of 0. The H/C molar ratio of Jet-A and other
+conventional jet fuels depend on their speciﬁc composition. In this
+case, the obtained Jet-A sample was measured to have an H/C ratio of
+1.93. Nearly all the hydrotreated HTL biocrude had H/C > 1.90 and
+some had H/C > 2.00, reﬂecting their comparable elemental compo-
+sition to Jet-A, high HHV, and potential for improved combustion. A
+wide range of de-N was observed, indicating the importance of
+hydrotreating parameter tuning on nitrogen removal. Considering the
+cold-weld CHN method used, the variation may also be due to sys-
+tematic (instrumental or measurement) errors. With a nitrogen
+detection limit of 0.1%, at least 87% de-N was achieved in a few cases.
+High de-N in a single hydrotreating step may be a result of the HTL
+0.00
+0.03
+0.06
+0.09
+0.12
+0.15
+0.18
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+1.75
+1.80
+1.85
+1.90
+1.95
+2.00
+2.05
+2.10
+2.15
+2.20
+350
+400
+450
+2
+3
+4
+RT (h)
+T (°C)
+350
+400
+450
+0.1
+0.3
+0.5
+Cat:oil (w/w)
+T (°C)
+2
+3
+4
+0.1
+0.3
+0.5
+Cat:oil (w/w)
+RT (h)
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Ave. C No.
+N/C x10 (mol:mol)
+S/C x1000 (mol:mol)
+HTL biocrude (BC)
+Pretreated (PT) BC
+Hydrotreated PT
+Jet-A
+Literature
+Approved SAFs
+H/C (mol:mol)
+O/C (mol:mol)
+A
+B
+C
+D
+E
+Fig. 2 | Hydrotreating parameter effects on average carbon number (Ave. C No.)
+and the resulting heteroatom contents. Heat map contour plot showing Ave. C
+No. (weighted average of the carbon number of chemical compounds) that make
+up the hydrotreated hydrothermal liquefaction (HTL) biocrude for A retention time
+(RT) vs. temperature (T); B catalyst:oil ratio (cat:oil) vs. temperature (T);
+C catalyst:oil ratio (cat:oil) vs. retention time (RT); and modiﬁed Van Krevelen
+diagrams comparing the elemental molar ratio of D H/C (hydrogen/carbon) vs. O/C
+(oxygen/carbon); E N/C x10 (nitrogen/carbon) vs. S/C x1000 (sulfur/carbon) of HTL
+biocrude (BC), pretreated (PT) BC, Hydrotreated PT from this work, commercial
+Jet-A, hydrotreated HTL biocrude from food waste in literature28, and approved
+SAFs16. Source data are provided as a Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+4
+
+biocrude pretreatment, where the removal of salt and ash prevents
+catalyst plugging and deactivation39. Furthermore, up to 40% oxygen,
+55% sulfur, and 22% nitrogen could be removed during pretreatment,
+enabling
+additional
+stabilization
+of
+the
+biocrude
+prior
+to
+hydrotreating39. Notably, compared to a previous study that used
+CoMo and NiMo catalysts to hydrotreat HTL biocrude oil derived from
+food waste, improved de-O, de-S, and de-N was achieved in this work28.
+However, in comparison to reported hydrocarbon composition of
+approved SAFs from FT-, HEFA-, and ATJ-SPK, the H/C value from HTL
+still has room to improve16.
+Comparing the hydrocarbon type, carbon number distribution,
+and boiling point distribution of HTL biocrude oil before and after
+hydrotreating, it was conﬁrmed that hydrotreating at high tempera-
+ture produced SAF samples with composition closest to Jet-A (Fig. 3).
+Hydrotreating successfully improved the hydrocarbon composition,
+indicated by an increase in the n-alkane content of all samples (Fig. 3A).
+Like the trend seen in the parameter screening tests, hydrotreating at
+combinations of higher temperature, RT, and catalyst load further
+improved the hydrocarbon type to contain increased amounts of
+aromatics, isoalkanes, and cycloalkanes. Notably, several of the SAF
+samples contained similar or higher amounts of isoalkanes and
+cycloalkanes compared to Jet-A, along with lower aromatic content.
+This could lead to improved cold ﬂow properties and decreased
+contrails40. Notably, the Jet-A sample contained 35% aromatics and
+synthesized jet fuel must have 8-25% aromatics content. All samples
+hydrotreated at 450 °C (B2, B4, B6, B8) met the low level aromatics
+requirement of at least 8%, ranging from 9 to 13%. As seen in our SAF
+candidate, this value is also expected to increase after taking the jet cut
+from the whole hydrotreated biocrude due to the higher abundance of
+aromatics in the C8–C16 range. Recent work has also indicated that
+cycloalkanes can replace the volume swell properties of aromatics in
+jet fuel41.
+HTL biocrude oil consistently became lighter after hydrotreating.
+This was reﬂected in the boiling point distribution, where hydro-
+treating increased the fraction of distillate ranges <250 °C (Fig. 3B).
+Like what was seen during the parameter screening, hydrotreating at
+the lowest parameter levels (e.g., B5) caused polymerization reactions
+that formed heavier compounds with boiling points above 350 °C. On
+the other hand, hydrotreating at higher temperatures and combina-
+tions of increased RT and cat:oil produced samples mainly composed
+of fractions with distillate ranges <250 °C. Speciﬁcally, all samples
+hydrotreated at the highest temperature level had a boiling point
+distribution most similar to Jet-A.
+The carbon number range in Jet-A is typically C8–C16. This was
+conﬁrmed in the commercial Jet-A sample tested, where 95% of its
+compounds were within the C8-C16 range and its average carbon
+number was 11.2 (Fig. 3C). Chemical compounds were also grouped
+into <C8, C17–C20, and >C20, to represent potential distillates in the
+ranges for gasoline, diesel, and heavy oils, respectively. All samples
+that had an average carbon number similar to or less than Jet-A (<11.5)
+were those produced at high temperature during hydrotreating
+(450 °C). However, since they still contained fractions outside the
+9
+10
+11
+12
+13
+14
+15
+9
+10
+11
+12
+13
+14
+15
+BC
+PT
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+B10
+B11
+B12
+B13
+B14
+B15
+Jet-A
+aromatic
+n-alkane
+isoalkane
+cycloalkane
+alkene
+Sample
+0
+20
+40
+60
+80
+100
+Relative abundance (%)
+A
+BC
+PT
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+B10
+B11
+B12
+B13
+B14
+B15
+Jet-A
+0
+20
+40
+60
+80
+100
+Distillate range (wt%)
+Sample
+Temp. (°C)
+<150
+150-250
+250-350
+350-375
+375-550
+>550
+B
+BC
+PT
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+B10
+B11
+B12
+B13
+B14
+B15
+Jet-A
+0
+20
+40
+60
+80
+100
+Fraction (%)
+Sample
+<C8
+C8-C16
+C17-C20
+>C20
+Ave. C. No.
+C
+Fit
+95% confidence
+95% prediction
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Ave. carbon no.
+Experimental
+Predicted
+D
+R2 = 0.97
+Fig. 3 | Physicochemical fuel properties of the hydrotreated HTL biocrude oil.
+A Heat map of the relative abundance (%) of aromatic, n-alkane, isoalkane,
+cycloalkane, and alkene content; B distillate fractions at different temperature
+ranges; C carbon number range fractions (%) and average carbon number; and
+D Experimental vs. predicted average carbon numbers from regression (n = 15
+independent experiments with 2 replicates) of the hydrotreating data, where the
+center line is the linear ﬁt (y = 0.9978x + 0.032, R2 = 0.97, p = 9.37 × 10−5), dark and
+light blue shaded regions represent the 95% conﬁdence and prediction band of the
+regression, respectively. Source data are provided as a Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+5
+
+C8–C16 range, their average carbon number will likely change after
+distillation to obtain the SAF cut. Due to the importance of average
+carbon number on the chemical and handling properties of jet fuel,
+regression of the RSM data was used to predict the average carbon
+number and compare it to the experimental values (Fig. 3D). The
+predicted and experimental values were highly correlated, with an R2
+of 0.97. A 95% conﬁdence band and prediction band also demon-
+strated the ability of the model to predict new values within the
+experimental parameters.
+SAF candidacy: Tier α tests for hydrotreated HTL biocrude oil
+Based on the parameter screening and optimization, the HTL biocrude
+was hydrotreated to obtain a SAF candidate for Tier α prescreening of
+jet fuel properties that are critical for combustor operability limit. The
+SAF candidate achieved a carbon and energy recovery of 85.2 and
+90.2%, respectively. Complete de-O and de-N was achieved, along with
+a ﬁnal sulfur content of 10 ppm, meeting the 15 ppm maximum42. The
+physicochemical properties were further listed in Table S6. Compared
+to conventional jet fuel, the SAF candidate from this work contained
+higher amounts of light hydrocarbons, was within ASTM speciﬁcation
+limits for critical bulk properties, and had a comparable distillation
+range predicted within speciﬁcation limits (Fig. 4). The hydrocarbon
+compositions of both the hydrotreated HTL biocrude oil and SAF cut
+were mainly n-alkanes, followed by cycloalkanes, aromatics, and iso-
+alkanes (Fig. 4A, B). Compared to the average jet fuel carbon dis-
+tribution, the hydrotreated HTL biocrude oil contained high amounts
+of lighter (<C9) and heavier (>C13) hydrocarbons (Fig. 4A). The greater
+amount of heavy compounds in the whole hydrotreated HTL biocrude
+oil caused the average carbon number to be 12.7, slightly higher than
+jet fuel’s 11.4. However, after taking the SAF cut from C9 to C13, the
+average carbon number was more similar to jet fuel, decreasing to 10.7
+(Fig. 4B). This SAF cut represented 31.5 wt% of the hydrotreated HTL
+biocrude oil. Meanwhile, the light and heavy ends are also potential
+candidates for biobased gasoline and diesel.
+Conventional jet range
+Outside specification limits
+Spec. limit
+A
+B
+D
+C
+Fig. 4 | ASTM D4054 prescreening of HTL-SAF candidate properties. Tier α
+results for sustainable aviation fuel (SAF) candidate properties compared to con-
+ventional jet fuel, including hydrocarbon type abundance from carbon numbers
+C5–C21 (n-alkanes, isoalkanes, mono- and poly-cycloalkanes, and aromatics) and
+average carbon number of A GCxGC-FID results for hydrotreated hydrothermal
+liquefaction biocrude oil and B GCxGC-FID results for SAF cut from hydrotreated
+HTL biocrude oil; C predicted jet fuel properties for surface tension, density,
+viscosity, lower heating value (LHV), ﬂash point, derived cetane number (DCN), and
+freeze point using 10,000 rounds of random sampling from a hydrocarbon data-
+base for bulk properties prediction, where the center represents the determined
+average, solid error bars represent 68% conﬁdence interval, and dashed error bars
+represent 95% conﬁdence interval; and D predicted ASTM D86 distillation curve.
+The average conventional jet fuel experience range (green shaded region), speci-
+ﬁcation limit (red vertical line), and outside the speciﬁcation limit (red shaded
+region) is also illustrated for reference. Source data are provided as a Source
+Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+6
+
+It was observed that the surface tension (σ), density (ρ), kine-
+matic viscosity (ν), lower heating value (LHV), ﬂash point, derived
+cetane number, and freeze point were all within ASTM speciﬁcation
+limits (Fig. 4C). Notably, the density and freeze point of the SAF
+candidate were near, but still, within ASTM speciﬁcation limits, which
+was attributed to the high amount of heavy-end n-alkanes. At the
+same time, LHV was even higher than conventional jet fuel, likely due
+to the higher concentration of n-alkanes, which have high speciﬁc
+energy43. Although n-alkanes have high energy content and thermal
+stability, light n-alkanes (<nC7) can cause ﬂash point violations and
+heavy n-alkanes (>nC14) can cause freeze point violations43. Since the
+SAF cut contained >50% n-alkanes, the fuel likely has a high smoke
+point, preventing soot formation and enabling cleaner combustion.
+However, there were few isoalkanes present in the hydrotreated HTL
+biocrude oil and SAF cut. Lightly branched isoalkanes are desirable
+for jet fuel because they improve cold ﬂow properties, speciﬁc
+energy, thermal stability, and freeze point43–45. Isoalkanes improve
+the pour point and cloud point of jet fuel, which are especially
+important for the operability and performance of jet fuel at high
+altitude and low temperature46,47. Meanwhile, the high content of
+cycloalkanes and aromatics (~44%) also help to improve performance
+and handling properties of the SAF. For instance, monocycloalkanes
+improve the density, freeze point, and speciﬁc energy of the fuel,
+while polycycloalkanes increase energy density, speciﬁc energy, and
+thermal stability43. Aromatics are needed to promote seal swelling in
+jet engines, but they have high particulate emissions and cause sig-
+niﬁcant sooting during burning. Lastly, the predicted ASTM D86
+distillation curve of the SAF candidate was similar to the conven-
+tional jet range (Fig. 4D). Although the light and heavy ends fell
+slightly below the jet range, it was still within ASTM speciﬁcation
+limits. The ﬁnal boiling point for the SAF cut was set lower than the
+typical range for conventional jet fuel to address concerns about the
+freezing point. To further mitigate the freezing point issue, an
+additional isomerization step could be implemented to convert lin-
+ear alkanes into lightly branched alkanes. This adjustment would
+allow the ﬁnal boiling point to be increased to the conventional jet
+fuel range, resulting in a higher SAF yield. This food waste-derived
+HTL-SAF candidate was predicted to meet key ASTM speciﬁcations
+without blending. However, it is noted that some parameters, such as
+density and freeze point, are close to the speciﬁcation limits.
+Therefore, blending may be required if any variations in feedstock
+composition cause deviations in the resulting fuel properties. The
+mass, carbon, and energy yields for this SAF candidate (Table S7)
+provided implications for scale-up and future areas of direction.
+After HTL biocrude pretreatment, hydrotreating, and distillation to
+obtain the SAF cut, the ﬁnal mass yield from food waste was 6.94 wt
+%. For instance, improved mass transfer during hydrotreating could
+increase the oil yield and decrease losses to char and gaseous pro-
+ducts. As mentioned before, increased alkane branching can also
+help improve the hydrotreated biocrude’s ﬁnal boiling point,
+resulting in a higher SAF yield. Therefore, continuous hydrotreating,
+reaction tuning, and catalyst development present potential areas of
+work to improve viability of the HTL-SAF route.
+Circularity index
+Sustainability analysis using a circularity index (CI) demonstrated
+improved circularity in the U.S. aviation industry when implementing a
+HTL-SAF pathway. CI is a single value, between 0 and 1, that measures
+the circularity of concern in terms of consumable, renewable, and
+recoverable resources48. In this case, the energy and carbon CI was
+determined for the entire existing U.S. aviation industry’s jet fuel
+consumption and potential for SAF production from disposed food
+waste. Average consumption and production data for petroleum
+products, food waste, and the HTL process was collected for eight
+value chain categories: extraction, reﬁning, distribution, consumption,
+disposal, recovery, remake, and reuse (Tables S8 and S9). In the
+existing U.S. aviation industry, jet fuel is mainly derived from petro-
+leum products, with very little SAF consumption. In the ﬁrst half of
+2024, an average of 1,657,000 barrels of jet fuel were consumed
+per day49. Meanwhile, just 15.8 million gallons of SAF were consumed in
+202250. In 2019, it was estimated that 66.2 million wet tons of food
+waste was managed in the U.S., with 39.6 million tons going to
+landﬁlls51.
+After implementing the use of HTL and hydrotreating for food
+waste recoverable from landﬁlls, the CIs improved signiﬁcantly. Energy
+CI increased from 1.35 to 32.51% and carbon CI increased from 0.13% to
+17.12%. Despite the improved circularity through producing SAF from
+food waste, it is apparent that food waste alone will only be part of the
+solution to provide feedstocks for SAF. Speciﬁcally, municipal solid
+waste and wet waste (including food waste) is just a fraction of the
+potential sustainable biomass supply for production of liquid trans-
+portation fuels. Other emerging biomass feedstocks, such as algae,
+energy crops, forestry, agricultural, vegetable oil, and starch supplies,
+also have potential for SAF production52. Additionally, HTL biocrude
+from food waste can produce other bioproducts besides SAF (such as
+gasoline, diesel, and biobinders), so the potential CI of the overall
+system could be much higher53. Thereby, while food waste alone can
+help increase energy and carbon CI of the aviation industry by nearly
+20%, utilization of other biomass feedstocks for SAF production can ﬁll
+the gap to create a fully circular bioeconomy in the aviation industry
+and beyond.
+The pathway from food waste to SAF via HTL and hydrotreating is
+complicated, involving many factors and variations. To consider the
+uncertainty in CI under changes in pathway conditions, including
+amount of disposed and recoverable food waste, carbon and energy
+contents of food waste and SAF, and mass yields during hydrotreating
+and distillation, a Monte Carlo analysis with 1,000 simulations was
+conducted. A larger range of uncertainty was depicted for energy
+circularity, ranging from 28.26% to 48.73% compared to 14.05–26.93%
+for carbon circularity (Fig. 5A). For both CIs, higher circularity was
+observed at increased food waste recovery, which was reﬂected in its
+high Spearman’s rank correlation coefﬁcient (Fig. 5B). In the U.S.,
+59.84% of food waste is managed by landﬁlls, with the other ~40%
+managed by combustion, donation, sewer/wastewater treatment,
+composting, biochemical processing, animal feed, anaerobic diges-
+tion, and land application51. Therefore, the production of SAF and
+value of CI for the aviation industry could continue to increase if food
+waste management beyond landﬁlls was targeted for recovery in HTL
+and bioreﬁnery processes. The carbon and energy content of the food
+waste also had a relatively high correlation to their respective CIs,
+indicating the importance of the feedstock’s biochemical composition.
+Overall, increased recovery of food waste from other waste manage-
+ment practices would most greatly improve the circularity of this HTL-
+SAF pathway.
+HTL is a promising pathway to produce SAF. Although HTL can
+valorize food waste into biocrude oil, hydrotreating is still required to
+remove disadvantageous heteroatoms. It was determined that tem-
+perature, catalyst:oil ratio, and RT were the most impactful parameters
+on hydrotreating for de-O, carbon recovery, and energy recovery.
+These parameters were optimized to achieve high de-O and de-N,
+producing a SAF sample that met ASTM speciﬁcation limits for several
+fuel properties without blending. Future work may explore parametric
+tuning and catalyst development to promote isomerization during
+hydrotreating for improved cold ﬂow properties and higher SAF yield.
+Furthermore, this pathway also demonstrated improved energy and
+carbon circularity in the U.S. aviation sector, which could be further
+increased by changing food waste management practices for higher
+food waste recovery. In all, it was shown that HTL of food waste is a
+potential pathway to produce drop-in SAF for a decarbonized aviation
+industry.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+7
+
+Methods
+HTL biocrude oil
+Food waste from a local food processing plant in Champaign, IL was
+processed in a pilot-scale continuous plug ﬂow HTL reactor at 20 wt%
+solids content, 300 °C and 12.4 MPa for a 20 min RT23. Prior to
+hydrotreating, multi-stage pretreating was performed to desalt the
+biocrude using a water wash at 100 °C for 60 min; dewater according
+to ASTM D2892 Annex X1; and deash through isolation of fraction
+<350 °C via distillation39. The physicochemical characterization of the
+food processing waste feedstock, initial (BC), and pretreated (PT) HTL
+biocrude oil are in Table S2.
+Hydrotreating experiments
+Commercial catalyst CoMo/Al2O3 (ThermoFisher Scientiﬁc) was used
+to hydrotreat HTL biocrude oil. First, experiments were completed in
+triplicate for a Taguchi design L9 orthogonal array (Table S3) to screen
+the signiﬁcance of temperature, catalyst-to-oil ratio (cat:oil w/w), RT,
+and hydrogen load-to-biocrude oxygen ratio (H:O mol:mol). Then,
+experiments were completed in duplicate using a Box-Behnken design
+to optimize the parameter levels using response surface methodology
+(Table S4). Designated amounts of biocrude oil and catalyst were
+loaded into a 100 ml Series 4590 Micro Stirred Reactor (Parr Instru-
+ment Company, IL, USA). The reactor was purged to remove air,
+pressurized with hydrogen, then heated to desired reaction conditions
+with a stir rate of 350 rpm throughout the RT. After completion of the
+hydrotreating reaction, the reactor was quenched with water to cool.
+The oil and aqueous phases were collected in a pre-weighed container
+and separated by centrifugation. The catalyst and char products were
+collected separately, rinsed with DCM, and vacuum ﬁltered. The gas-
+eous phase was sampled in a gas bag (Sigma-Aldrich) for analysis. The
+reactor was rinsed with DCM to recover any residual oil, char, or cat-
+alyst. The DCM evaporated overnight at 60 °C and the ﬁnal oil and char
+mass was recorded. The oil recovered from the solvent rinse was not
+analyzed. A commercial Jet-A sample was obtained from Willard Air-
+port at the University of Illinois Urbana-Champaign (Savoy, IL, USA).
+The mass yields, carbon recovery, and energy recovery were cal-
+culated according to Eqs. 1–3, respectively.
+mx = mx
+mb
+× 100%
+ð1Þ
+Cr = Co
+Cb
+× mo × 100%
+ð2Þ
+Er = HHV o
+HHV b
+× mo × 100%
+ð3Þ
+where m = mass of product, x = producttype (o = oil, w = water, g = gas,
+c = char, b = biocrude), C = carbon content (r = recovered), Er = energy
+recovery, and HHV = higher heating value. Oil and aqueous products
+were directly measured, while char was calculated by subtracting cat-
+alyst mass from the collected solids product, and gas was calculated by
+difference.
+Heteroatom removal (de-X) was calculated based on the ele-
+mental composition of the HTL biocrude (Eq. 4):
+de  X = 1  Xfinal
+X initial
+ð4Þ
+where X = heteroatom element (ex. oxygen (O), nitrogen (N), or sulfur
+(S)), Xﬁnal = content in the upgraded biocrude, and Xinitial = content in
+the initial HTL biocrude.
+Analytical methods
+CE440 CHN analyzer (Exeter Analytical, Coventry, UK) was used to
+determine the elemental composition (carbon, hydrogen, and nitro-
+gen content). Triplicate measurements were taken from each sample,
+where tins were cold-weld shut prior to purging to minimize loss of
+volatiles. Due to the presence of air in the sample, nitrogen content
+was recalculated based on a blank. The detection limit was 0.10% for all
+elements. Oxygen was determined by difference. A PerkinElmer ICP-
+MS (Model NexION 350D) was used to measure sulfur content. Due to
+sample volume limitations, this was performed once per sample.
+Dulong’s formula54 (Eq. 5) was used to calculate the higher heating
+value (HHV).
+HHV MJ=kg
+
+
+= 0:3516 C + 1:16225 H  0:1109 O + 0:0628 N
+ð5Þ
+The weight loss curves and boiling point distribution were determined
+with a Q50 thermogravimetric analyzer (TGA) (TA Instruments, DE,
+USA). 15 mg of sample was heated from 20 to 600 °C at 20 °C/min and
+Energy
+Carbon
+15
+20
+25
+30
+35
+40
+45
+50
+Circularity index (CI, %)
+A
+Q1-Q3
+Min - max range
+Median
+Mean
+FW disposed (kg)
+FW recovered (wt%)
+FW carbon (wt%)
+FW energy (MJ/kg)
+SAF carbon (wt%)
+SAF energy (MJ/kg)
+HT yield (wt%)
+SAF yield (wt%)
+0.00
+0.25
+0.50
+0.75
+1.00
+Spearman's Rank Correlation Coefficient
+Parameters
+Energy CI
+Carbon CI
+B
+Fig. 5 | Results of the uncertainty and sensitivity analysis from 1,000 trial
+random sampling in a Monte Carlo simulation. A Box and whisker plot of the
+uncertainty range for energy and carbon circularity index (CI), where the shaded
+region represents the lower (Q1) through upper (Q3) quartile, the whiskers repre-
+sent the minimum and maximum values, the center line represents the median and
+the center point represents the mean. B Spearman’s Rank Correlation Coefﬁcient
+(correlation coefﬁcient of the corresponding parameter and CI value) for the sen-
+sitivity of energy and carbon CI for the HTL-SAF pathway, where FW food waste, HT
+hydrotreating. Source data are provided as a Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+8
+
+nitrogen ﬂow rate of 60 mL/min. The temperatures for boiling point
+ranges were selected based on literature55. It is important to note that
+thermal degradation may occur due to atmospheric conditions during
+TGA, making boiling points less accurate. The total acid number (TAN)
+was determined according to ASTM D974, in which oil sample dis-
+solved in a solution of toluene, 2-propanol, and water was titrated with
+phenolphthalein indicator and 0.1 M KOH56. Chemical composition
+was determined via gas chromatography-mass spectrometry (GC-MS),
+using a Micromass 70-VSE (Waters Corporation, MA, USA). 2 μL sample
+injected split mode in a ZB-5MS column. 30–80 °C at 25 °C/min and
+2 min hold, then increased to 220 °C at 8 °C/min, then to 280 °C at
+25 °C/min. A 70 eV electron ionization voltage was used, scanning from
+30 to 800 m/z. Peaks were analyzed using MassLynx Mass Spectro-
+metry Software according to the NIST08 Mass Spectral Database57.
+The jet fuel cut (150–230 °C) of hydrotreated HTL biocrude oil
+from this work was characterized using Tier α tests as a precursor to
+ASTM D4054 evaluation. Viability of the SAF candidate was pre-
+screened by comparing its chemical composition, distillation, and fuel
+properties to conventional jet fuel and ASTM D7566 speciﬁcations.
+Speciﬁcally, a 2D-GC method developed by the Heyne group at
+Washington State University was used to determine the hydrocarbon
+type and distribution, a distillation curve was obtained from the 2D-GC
+data to show ASTM D86 results, and the 2D-GC results were used to
+predict jet fuel properties37,38,42.
+The circularity index (CI, Eq. 6) of the system was calculated
+according to methods previously described48:
+CI = Y R
+Y =
+Pn
+i = 1RiXi + aij
+h
+i
+Xi
+
+
+Pn
+i = 1 Ci + Ri
+
+
+Xi
+ð6Þ
+where YR is the total renewable and recovered resources in a circular
+system, Y is the total output of the system, Ri is the fraction from
+renewable resources, Xi is the content of the ith category, aij is the
+fraction from recoverable resources, and Ci is the fraction from con-
+sumable resources. Uncertainty and sensitivity analysis of the CI was
+done using Monte Carlo analysis with 1000 simulations. The Spear-
+man’s rank correlation coefﬁcient was used to rank the correlation of
+each parameter between the CIs. Further explanations of the CI
+method, uncertainty, and sensitivity methods are in the Supplemen-
+tary Information.
+Data analysis was conducted in Excel (Version 2507) and Origi-
+nPro 2025 (Version 10.2 SR1).
+Reporting summary
+Further information on research design is available in the Nature
+Portfolio Reporting Summary linked to this article.
+Data availability
+Source data are provided with this paper: The data that supports the
+ﬁndings of this study are provided in the Source Data ﬁle. Source data
+are provided with this paper.
+References
+1.
+Federal Aviation Administration. Sustainable Aviation Fuels (SAF).
+https://www.faa.gov/about/ofﬁceorg/headquartersofﬁces/apl/
+sustainable-aviation-fuels-saf (2024).
+2.
+U.S. Environmental Protection Agency. EPA Inventory of U.S.
+Greenhouse Gas Emissions and Sinks: 1990-2022. EPA 430-R-24-
+004 https://www.epa.gov/ghgemissions/inventory-us-
+greenhouse-gas-emissions-and-sinks-1990-2022 (2024).
+3.
+Prussi, M. et al. CORSIA: the ﬁrst internationally adopted approach
+to calculate life-cycle GHG emissions for aviation fuels. Renew.
+Sustain. Energy Rev. 150, 111398 (2021).
+4.
+Developing Sustainable Aviation Fuel (SAF). International Air
+Transport Association https://www.iata.org/en/programs/
+environment/sustainable-aviation-fuels/ (2024).
+5.
+International Air Transport Association. Fly Net Zero. https://www.
+iata.org/en/programs/environment/ﬂynetzero/ (2021).
+6.
+ASTM. D7566-24d: standard speciﬁcation for aviation turbine fuel
+containing synthesized hydrocarbons. Annual Book of ASTM Stan-
+dards 1–16 https://doi.org/10.1520/D7566-24D (2024).
+7.
+Rosales Calderon, O. et al. Sustainable aviation fuel state-of-
+industry report: hydroprocessed esters and fatty acids pathway.
+https://doi.org/10.2172/2426563 (2024).
+8.
+Kokkinos, N. C., Emmanouilidou, E. & Sharma, S. K. Waste-to-biofuel
+production for the transportation sector. In Intelligent Transporta-
+tion System and Advanced Technology (eds Upadhyay, R. K.,
+Sharma, S. K. & Kumar, V.) 99–122. https://doi.org/10.1007/978-981-
+97-0515-3_6 (Springer, Singapore, 2024).
+9.
+U.S. Department of Energy. 2023 Billion-Ton Report: An Assessment
+of U.S. Renewable Carbon Resources. https://doi.org/10.23720/
+BT2023/2316165 (2024).
+10.
+Emmanouilidou, E., Mitkidou, S., Agapiou, A. & Kokkinos, N. C. Solid
+waste biomass as a potential feedstock for producing sustainable
+aviation fuel: a systematic review. Renew. Energy 206,
+897–907 (2023).
+11.
+Jaglo, K., Kenny, S. & Stephenson, J. From farm to kitchen: The
+Environmental Impacts of US food waste. US Environmental Pro-
+tection Agency 1–106. https://www.epa.gov/land-research/farm-
+kitchen-environmental-impacts-us-food-waste (2021).
+12.
+United Nations. The Sustainable Development Goals Report: Special
+Edition. The Sustainable development Goals Report 2023: Special
+Edition https://unstats.un.org/sdgs/report/2023/ (2023).
+13.
+Chen, W. T. et al. Renewable diesel blendstocks produced by
+hydrothermal liquefaction of wet biowaste. Nat. Sustain 1,
+702–710 (2018).
+14.
+Aierzhati, A. et al. Experimental and model enhancement of food
+waste hydrothermal liquefaction with combined effects of bio-
+chemical composition and reaction conditions. Bioresour. Technol.
+284, 139–147 (2019).
+15.
+Xiu, S. & Shahbazi, A. Bio-oil production and upgrading research: a
+review. Renew. Sustain. Energy Rev. 16, 4406–4414 (2012).
+16.
+Huq, N. A. et al. Toward net-zero sustainable aviation fuel with wet
+waste–derived volatile fatty acids. Proc. Natl. Acad. Sci. USA 118,
+e2023008118 (2021).
+17.
+Snowden-Swan, L. et al. Wet waste hydrothermal liquefaction and
+biocrude upgrading to hydrocarbon fuels: 2021 state of technol-
+ogy. Paciﬁc Northwest National Laboratory https://doi.org/10.2172/
+1863608 (2022).
+18.
+Farooq, D., Thompson, I. & Ng, K. S. Exploring the feasibility of
+producing sustainable aviation fuel in the UK using hydrothermal
+liquefaction technology: a comprehensive techno-economic and
+environmental assessment. Clean. Eng. Technol. 1, 100010 (2020).
+19.
+Zhu, Y. et al. Microalgae Hydrothermal Liquefaction and Biocrude
+Upgrading: 2022 State of Technology (Paciﬁc Northwest National
+Laboratory (PNNL), 2023).
+20. Castello, D., Haider, M. S. & Rosendahl, L. A. Catalytic upgrading of
+hydrothermal liquefaction biocrudes: different challenges for dif-
+ferent feedstocks. Renew. Energy 141, 420–430 (2019).
+21.
+Haider, M. S., Castello, D. & Rosendahl, L. A. Two-stage catalytic
+hydrotreatment of highly nitrogenous biocrude from continuous
+hydrothermal liquefaction: a rational design of the stabilization
+stage. Biomass Bioenergy 139, 105658 (2020).
+22. Stone, M. L. et al. Continuous hydrodeoxygenation of lignin to jet-
+range aromatic hydrocarbons. Joule 6, 2324–2337 (2022).
+23. Summers, S., Valentine, A., Wang, Z. & Zhang, Y. Pilot-scale con-
+tinuous plug-ﬂow hydrothermal liquefaction of food waste for
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+9
+
+biocrude production. Ind. Eng. Chem. Res. https://doi.org/10.1021/
+acs.iecr.3c01587 (2023).
+24. Elliott, D. C. Historical developments in hydroprocessing bio-oils.
+Energy Fuels 21, 1792–1815 (2007).
+25. Taghipour, A., Ramirez, J. A., Brown, R. J. & Rainey, T. J. A review of
+fractional distillation to improve hydrothermal liquefaction bio-
+crude characteristics; future outlook and prospects. Renew. Sus-
+tain. Energy Rev. 115, 109355 (2019).
+26. Albrecht, K. O. et al. Impact of heterotrophically stressed algae for
+biofuel production via hydrothermal liquefaction and catalytic
+hydrotreating in continuous-ﬂow reactors. Algal Res. 14,
+17–27 (2016).
+27.
+Subramaniam, S. et al. Extended catalyst lifetime testing for HTL
+biocrude hydrotreating to produce fuel blendstocks from wet
+wastes. ACS Sustain. Chem. Eng. 9, 12825–12832 (2021).
+28. Cronin, D. J. et al. Sustainable aviation fuel from hydrothermal
+liquefaction of wet wastes. Energies 15, 1306 (2022).
+29. Yu, J. et al. Catalytic hydrotreatment of bio-crude produced from
+the hydrothermal liquefaction of aspen wood: a catalyst screening
+and parameter optimization study. Sustain Energy Fuels 1,
+832–841 (2017).
+30. Shafaghat, H. et al. Catalytic hydrodeoxygenation of crude bio-oil in
+supercritical methanol using supported nickel catalysts. Renew
+Energy 159–166. https://doi.org/10.1016/j.renene.2018.06.
+096 (2019).
+31.
+Thorson, M. R. et al. Scaleable hydrotreating of HTL biocrude to
+produce fuel blendstocks. Energy Fuels 35, 11346–11352 (2021).
+32. Haider, M. S., Castello, D. & Rosendahl, L. A. The art of smooth
+continuous hydroprocessing of biocrudes obtained from hydro-
+thermal liquefaction: hydrodemetallization and propensity for coke
+formation. Energy Fuels 35, 10611–10622 (2021).
+33. Haider, M. S., Castello, D., Michalski, K. M., Pedersen, T. H. &
+Rosendahl, L. A. Catalytic hydrotreatment of microalgae bio-
+crude from continuous hydrothermal liquefaction: heteroatom
+removal and their distribution in distillation cuts. Energies 11,
+3360 (2018).
+34. Haider, M. S., Castello, D. & Rosendahl, L. A. Two-stage catalytic
+hydrotreatment of highly nitrogenous biocrude from continuous
+hydrothermal liquefaction: a rational design of the stabilization
+stage. Biomass Bioenergy 139, 1–37 (2020).
+35. Váchová, V. et al. Composition and properties of rapeseed oil
+hydrotreating products over CoMo/Al2O3and NiMo/Al2O3 cata-
+lysts. Energy Fuels 34, 9609–9619 (2020).
+36. Graf, D., Waßmuth, J. & Rauch, R. Co-hydroprocessing of fossil
+middle distillate and bio-derived durene-rich heavy ends under
+hydrotreating conditions. Reactions 4, 531–551 (2023).
+37. Yang, Z. et al. A GC × GC Tier α combustor operability prescreening
+method for sustainable aviation fuel candidates. Fuel 292,
+120345 (2021).
+38. Heyne, J., Rauch, B., Le Clercq, P. & Colket, M. Sustainable
+aviation fuel prescreening tools and procedures. Fuel 290,
+120004 (2021).
+39. Summers, S. et al. Multi-stage pretreatment of hydrothermal
+liquefaction biocrude oil as a precursor for sustainable aviation fuel
+production. Fuel Process. Technol. 263, 108118 (2024).
+40. Voigt, C. et al. Cleaner burning aviation fuels can reduce contrail
+cloudiness. Commun. Earth Environ. 2, 114 (2021).
+41.
+Kosir, S., Heyne, J. & Graham, J. A machine learning framework for
+drop-in volume swell characteristics of sustainable aviation fuel.
+Fuel 274, 117832 (2020).
+42. ASTM D7566: standard speciﬁcation for aviation turbine fuel con-
+taining synthesized hydrocarbons. Annu. Book ASTM Stand. https://
+doi.org/10.1520/D7566-23B (2017).
+43. Holladay, J., Abdullah, Z. & Heyne, J. Sustainable Aviation Fuel:
+Review of Technical Pathways Report. https://www.energy.gov/
+eere/bioenergy/downloads/sustainable-aviation-fuel-review-
+technical-pathways-report (2020).
+44. Mäki-Arvela, P., Kaka khel, T., Azkaar, M., Engblom, S. & Murzin, D.
+Catalytic hydroisomerization of long-chain hydrocarbons for the
+production of fuels. Catalysts 8, 534 (2018).
+45. Calemma, V., Peratello, S. & Perego, C. Hydroisomerization and
+hydrocracking of long chain n-alkanes on Pt/amorphous SiO2-
+Al2O3 catalyst. Appl Catal. A Gen. 190, 207–218 (2000).
+46. Siddiki, S. M. A. H. & Touchy, A. S. Challenges and Future Prospects
+in Heterogeneous Catalysis for Bioreﬁnery Technologies. Advanced
+Functional Solid Catalysts for Biomass Valorization. https://doi.org/
+10.1016/B978-0-12-820236-4.00010-6 (Elsevier Inc., 2020).
+47. Lois, E., Keating, E. L. & Gupta, A. K. Fuels. In Encyclopedia of Phy-
+sical Science and Technology 275–314. https://doi.org/10.1016/B0-
+12-227410-5/00268-4 (Elsevier, 2003).
+48. Zhang, Y., Summers, S., Jones, J. W. & Reid, J. F. A scalable index for
+quantifying circularity of bioeconomy systems. Resour. Conserv
+Recycl 210, 107821 (2024).
+49. U.S. Energy Information Administration. U.S. Year-to-Date Daily Average
+Supply and Disposition of Crude Oil and Petroleum Products. https://
+www.eia.gov/petroleum/supply/monthly/pdf/table4.pdf (2024).
+50. U.S. Department of Energy Alternative Fuels Data Center. Sustain-
+able Aviation Fuel Estimated Consumption. https://afdc.energy.
+gov/data/10967 (2023).
+51.
+U.S. Environmental Protection Agency. Food: Material-Speciﬁc
+Data. https://www.epa.gov/facts-and-ﬁgures-about-materials-
+waste-and-recycling/food-material-speciﬁc-data (2024).
+52. Jensen, L. L., Bonnefoy, P. A., Hileman, J. I. & Fitzgerald, J. T. The
+carbon dioxide challenge facing U.S. aviation and paths to achieve
+net zero emissions by 2050. Prog. Aerosp. Sci. 141, 100921 (2023).
+53. Watson, J. et al. Towards transportation fuel production from food
+waste: Potential of biocrude oil distillates for gasoline, diesel, and
+jet fuel. Fuel 301, 121028 (2021).
+54. Li, H. et al. Establishment and performance of a plug-ﬂow con-
+tinuous hydrothermal reactor for biocrude oil production. Fuel 280,
+118605 (2020).
+55. Speight, J. G. Handbook of Petroluem Product Analysis (CD & W
+Inc., 2015).
+56. ASTM International. ASTM D974-14: standard test method for acid
+and base number by color-indicator titration. Annual Book of ASTM
+Standards 1–7. https://doi.org/10.1520/D0974-14 (2014).
+57. NIST Chemistry WebBook, NIST Standard Reference Database
+Number 8. (National Institute of Standards and Technology, Gai-
+thersburg). https://doi.org/10.18434/T4D303.
+Acknowledgements
+The authors acknowledge funding from the U.S. Department of Energy
+(EE0009269, Y.Z.) and National Science Foundation Graduate
+Research Fellowship Program (S.S.). The authors also thank the Uni-
+versity of Illinois Materials Research Laboratory Central Research
+Facilities, School of Chemical Sciences Microanalysis Laboratory, and
+Mass Spectrometry Lab for use of their facilities and expertise. Any
+opinions, ﬁndings, and conclusions or recommendations expressed in
+this material are those of the authors and do not necessarily reﬂect the
+views of the sponsors.
+Author contributions
+S.S. and S.Y1. performed the biocrude oil hydrotreating experiments.
+S.S. performed the physicochemical characterization of biocrude oil,
+calculated the CI values, and wrote the manuscript. B.S., Z.W., J.W., S.Y3.
+and Z.Y. participated in discussion of the fuel property analysis and
+design of experiments. Z.Y. and J.S.H. performed the SAF Tier α property
+prescreening. H.K. produced the HTL biocrude oil used in this project.
+Y.Z. supervised and directed this project. All authors commented on the
+manuscript.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+10
+
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s41467-025-64645-y.
+Correspondence and requests for materials should be addressed to
+Yuanhui Zhang.
+Peer review information Nature Communications thanks Lasse Rosen-
+dahl and the other anonymous reviewer(s) for their contribution to the
+peer review of this work. A peer review ﬁle is available.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jur-
+isdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License,
+which permits any non-commercial use, sharing, distribution and
+reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the
+Creative Commons licence, and indicate if you modiﬁed the licensed
+material. You do not have permission under this licence toshare adapted
+material derived from this article or parts of it. The images or other third
+party material in this article are included in the article’s Creative
+Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons
+licence and your intended use is not permitted by statutory regulation or
+exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this licence, visit http://
+creativecommons.org/licenses/by-nc-nd/4.0/.
+© The Author(s) 2025
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+11

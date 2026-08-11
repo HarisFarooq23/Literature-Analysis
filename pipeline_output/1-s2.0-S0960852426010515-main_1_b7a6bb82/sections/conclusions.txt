@@ -1,0 +1,16 @@
+In this study, the catalytic deoxygenation of WCO to jet-like hydro­
+carbons under H2-free conditions was investigated and compared over a 
+series of transition metal-based catalysts, including a novel Ni/V2O5 
+catalyst, synthesised via wet-impregnation and subjected to different 
+treatments. The synthesized catalysts by microwave- and sonication- 
+assistance demonstrated improved physico-chemical properties which 
+contributed to their high reaction performance. These enhanced 
+methods reduced synthesis time and energy consumption while deliv­
+ering comparable or superior catalytic performance. Ni/V2O5 M 
+exhibited the best performance with a hydrocarbon yield of 96% and a 
+jet-selectivity of 78% consisting mainly of desirable n-paraffins. The 
+synergistic effect between Ni and V2O5 lead to formation of rich oxygen 
+vacancies that enhanced the DeCOx activity and produced favourable 
+Table 5 
+Comparison between existing literature and the current study on BJF production from WCO under Ni-based catalysts.
+No

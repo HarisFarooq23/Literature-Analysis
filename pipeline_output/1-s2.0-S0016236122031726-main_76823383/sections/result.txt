@@ -1,0 +1,68 @@
+Freezing point (◦C) 
+D 5972 
+−40 Jet A 
+−47 Jet A-1 (max) 
+−54.2 
+Density (kg m−3 at 15 ◦C) 
+D 4052 
+775–840 
+783.7 
+Flash point (◦C) 
+D 3828F 
+38 (min) 
+42.8 
+Smoke point (mm) 
+D 1322 
+18 (min) 
+25 
+Net heat of combustion (MJ kg−1) 
+D 4529 
+42.8 (min) 
+44.8 
+Aromatics (vol%) 
+D1319 
+25 (max) 
+3.73 
+Distillation temperature (◦C) 
+D 86D  
+137.4 
+10 % recovered (◦C)  
+205 (max) 
+166.1 
+50 % recovered (◦C)  
+Report 
+196.4 
+90 % recovered (◦C)  
+Report 
+246.7 
+Final boiling point (◦C)  
+300 (max) 
+258 
+Distillation residue (%)  
+1.5 (max) 
+0.9 
+Distillation loss (%)  
+1.5 (max) 
+0.3 
+Acidity (mg KOH g−1) 
+D 3242 
+0.1 (max) 
+0.0032 
+Viscosity (mm2s−1 at −20 ◦C) 
+D 445 
+8 (max) 
+3.57 
+Gum content (mg 100 ml−1) 
+D 381 
+7 (max) 
+4.8 
+Sulfur (wt%) 
+D 4294 
+0.30 (max) 
+0.0029  
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+11
+Data availability 
+The data that has been used is confidential.

@@ -1,0 +1,472 @@
+Hydrotreating parameter screening
+The products yields, elemental composition, and parameter screening
+results are displayed in Fig. 1. It was seen that oil yield generally
+decreased with combinations of higher parameter levels (Fig. 1A). This
+was mainly due to polymerization reactions occurring during exten-
+ded RTs that increased char formation, as well as increased hydro-
+cracking and gasiﬁcation reactions at high pressure and temperature.
+Greater amounts of aqueous and char products were seen at the low
+and medium temperatures, indicating that at higher severity, less
+polymerization and recondensation occurs over gasiﬁcation. Lack of
+aqueous product at higher temperatures suggested decarboxylation
+and decarbonylation pathways over hydrodeoxygenation, yielding
+gaseous products rather than water. In general, higher de-O resulted in
+increased higher heating values (HHV) (Fig. 1A, B). 76–100% de-O was
+achieved, with up to 2.21 wt% remaining oxygen in the oil. Hydro-
+treated oil with remaining oxygen were treated at lower temperature
+and RT, indicating the importance of these parameters for de-O.
+Desulfurization (de-S) was effective at higher severities, with up to 94%
+sulfur removal and 20 ppm remaining. De-N was least efﬁcient, ranging
+from 7 to 23% with 0.55–0.66 wt% nitrogen remaining in the hydro-
+treated oil.
+Improved fuel quality and heteroatom removal were obtained at
+the expense of carbon and energy recovery (Cr and Er), especially due
+to carbon losses from gasiﬁcation at severe hydrotreating conditions.
+The most signiﬁcant parameters affecting de-O, Er, and Cr were
+determined using Taguchi delta values, the difference between the
+highest and lowest mean of response (Fig. 1C). For de-O, the most
+signiﬁcant parameters were catalyst-to-oil ratio (cat:oil) > temperature
+(T) > hydrogen load-to-biocrude oxygen ratio (H:O) > retention time
+(RT), while for Cr and Er they were T > cat:oil > RT > H:O. Though H:O
+was more important for oxygen removal than carbon and energy
+recovery, the highest average de-Os were obtained at 15:1 H:O ratios.
+Therefore, T, cat:oil, and RT were selected as the parameters to
+undergo optimization for SAF production while the H:O ratio was held
+constant.
+Improved boiling point distribution and hydrocarbon composi-
+tion was also observed across changes in hydrotreating temperature
+and catalyst ratio. Temperature was the most signiﬁcant factor
+affecting the boiling point distribution of the hydrotreated biocrude
+oil (Fig. S1A). At lower temperatures, light fractions <250 °C increased
+compared to PT biocrude oil, but the amount of mid-range fractions
+from 250 to 350 °C decreased while the amount of heavier fuel frac-
+tions >350 °C increased. Therefore, at mild hydrotreating conditions,
+polymerization and coking reactions may decrease the yield of viable
+distillates in the transportation fuel range. Notably, at the highest
+H1
+H2
+H3
+H4
+H5
+H6
+H7
+H8
+H9
+0
+20
+40
+60
+80
+100
+Yield (wt%)
+Sample
+Oil
+AQ
+Char
+Gas
+HHV
+A
+40
+42
+44
+46
+48
+HHV (MJ/kg)
+H1
+H2
+H3
+H4
+H5
+H6
+H7
+H8
+H9
+0
+20
+40
+60
+80
+100
+Elemental content (wt%)
+Sample
+C
+H
+N
+O
+S
+B
+0
+40
+80
+120
+160
+Sulfur content (ppm)
+Cr
+Er
+de-O
+0
+5
+10
+15
+20
+25
+Parameter
+T
+cat:oil
+RT
+H:O
+C
+Fig. 1 | Taguchi parameter screening results for yields, oil quality, and para-
+meter signiﬁcance. A Mass balance of oil, aqueous (AQ), char, gas yields and
+higher heating value (HHV); B stacked bar elemental composition of carbon (C),
+hydrogen (H), nitrogen (N), oxygen (O), and sulfur (S); and C bar chart for Taguchi
+delta of response for the effect of temperature (T), catalyst:oil ratio (cat:oil),
+retention time (RT), and hydrogen:oxygen ratio (H:O) on deoxygenation (de-O),
+energy recovery (Er), and carbon recovery (Cr). Source data are provided as a
+Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+3
+
+temperatures, the hydrotreated biocrude oil contained >99% distillate
+fractions <250 °C, with H9 exhibiting extremely similar boiling point
+distribution to Jet-A. At the mildest conditions (H1), the amount of
+n-alkanes signiﬁcantly increased from 19.91% in the PT biocrude oil to
+84.72% after hydrotreating, indicating de-O and hydrogenation of
+unsaturated hydrocarbons and O-containing compounds such as fatty
+acids (Fig. S1B). With increased catalyst ratio (H2-3), alkenes were
+further hydrogenated, and small increases in aromatics and cycloalk-
+anes were seen. At higher temperatures, isomerization and cracking
+reactions are favored, while n-alkanes can also undergo dehy-
+drocyclization to form aromatics35,36. This caused the hydrocarbon
+distribution to further broaden and include more cycloalkanes, iso-
+alkanes, and aromatics. At elevated temperature, higher oil yield and
+de-O also improved the Cr and Er of the hydrotreated HTL biocrude
+(Fig. S1C).
+Hydrotreating parameter optimization and fuel properties
+Average carbon number and hydrocarbon type are signiﬁcant prop-
+erties in predicting the properties of SAF37,38. Having an average carbon
+number closer to conventional jet fuel’s is desirable to stay within
+ASTM speciﬁcation limits for SAF. Contour heat maps elucidated the
+effect of T, RT, and cat:oil on the average carbon number of hydro-
+treated biocrude oil (Fig. 2A–C and Table S5). It was seen that T had a
+greater effect than RT on average carbon number, with decreased
+carbon number correlated with increased hydrotreating T (Fig. 2A).
+The slight tilt of the contour lines toward the left also reﬂected
+decreased carbon number at longer RT, indicating breakdown of the
+carbon chains with limited repolymerization. Similar trends were seen
+for T and cat:oil, with decreased carbon number with increased T at all
+levels of cat:oil (Fig. 2B). Meanwhile, the change in carbon number
+across RT and cat:oil was less pronounced (Fig. 2C). A diagonal of
+slightly higher average carbon numbers was observed from high cat:oil
+and low RT to low cat:oil and high RT, showing that at mild combi-
+nations of cat:oil and RT, less cracking occurred. The diagonal pattern
+across the axis ranges was mainly attributed to the greater effect of T
+on average carbon number. For example, points on the contour line
+where average carbon number ~13, were those where different T (350
+vs. 450 °C) were used at the same RT and cat:oil. Therefore, the change
+in T caused deviations in the average carbon number. Compared to T,
+RT, and cat:oil had less effect on carbon number. Overall, the average
+carbon number further decreased at combinations of higher T, RT, and
+cat:oil. Therefore, while a higher temperature was required to achieve
+an average carbon number closer to jet fuel, consideration should be
+taken in its combination with RT and cat:oil to avoid SAF products with
+carbon chains that are too light.
+The modiﬁed Van Krevelen diagrams exhibit effective de-O and
+de-S during hydrotreating, but varying de-N (Fig. 2D–E). A majority of
+the SAF samples yielded complete oxygen and sulfur removal, with O/
+C and S/C molar ratios of 0. The H/C molar ratio of Jet-A and other
+conventional jet fuels depend on their speciﬁc composition. In this
+case, the obtained Jet-A sample was measured to have an H/C ratio of
+1.93. Nearly all the hydrotreated HTL biocrude had H/C > 1.90 and
+some had H/C > 2.00, reﬂecting their comparable elemental compo-
+sition to Jet-A, high HHV, and potential for improved combustion. A
+wide range of de-N was observed, indicating the importance of
+hydrotreating parameter tuning on nitrogen removal. Considering the
+cold-weld CHN method used, the variation may also be due to sys-
+tematic (instrumental or measurement) errors. With a nitrogen
+detection limit of 0.1%, at least 87% de-N was achieved in a few cases.
+High de-N in a single hydrotreating step may be a result of the HTL
+0.00
+0.03
+0.06
+0.09
+0.12
+0.15
+0.18
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+1.75
+1.80
+1.85
+1.90
+1.95
+2.00
+2.05
+2.10
+2.15
+2.20
+350
+400
+450
+2
+3
+4
+RT (h)
+T (°C)
+350
+400
+450
+0.1
+0.3
+0.5
+Cat:oil (w/w)
+T (°C)
+2
+3
+4
+0.1
+0.3
+0.5
+Cat:oil (w/w)
+RT (h)
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Ave. C No.
+N/C x10 (mol:mol)
+S/C x1000 (mol:mol)
+HTL biocrude (BC)
+Pretreated (PT) BC
+Hydrotreated PT
+Jet-A
+Literature
+Approved SAFs
+H/C (mol:mol)
+O/C (mol:mol)
+A
+B
+C
+D
+E
+Fig. 2 | Hydrotreating parameter effects on average carbon number (Ave. C No.)
+and the resulting heteroatom contents. Heat map contour plot showing Ave. C
+No. (weighted average of the carbon number of chemical compounds) that make
+up the hydrotreated hydrothermal liquefaction (HTL) biocrude for A retention time
+(RT) vs. temperature (T); B catalyst:oil ratio (cat:oil) vs. temperature (T);
+C catalyst:oil ratio (cat:oil) vs. retention time (RT); and modiﬁed Van Krevelen
+diagrams comparing the elemental molar ratio of D H/C (hydrogen/carbon) vs. O/C
+(oxygen/carbon); E N/C x10 (nitrogen/carbon) vs. S/C x1000 (sulfur/carbon) of HTL
+biocrude (BC), pretreated (PT) BC, Hydrotreated PT from this work, commercial
+Jet-A, hydrotreated HTL biocrude from food waste in literature28, and approved
+SAFs16. Source data are provided as a Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+4
+
+biocrude pretreatment, where the removal of salt and ash prevents
+catalyst plugging and deactivation39. Furthermore, up to 40% oxygen,
+55% sulfur, and 22% nitrogen could be removed during pretreatment,
+enabling
+additional
+stabilization
+of
+the
+biocrude
+prior
+to
+hydrotreating39. Notably, compared to a previous study that used
+CoMo and NiMo catalysts to hydrotreat HTL biocrude oil derived from
+food waste, improved de-O, de-S, and de-N was achieved in this work28.
+However, in comparison to reported hydrocarbon composition of
+approved SAFs from FT-, HEFA-, and ATJ-SPK, the H/C value from HTL
+still has room to improve16.
+Comparing the hydrocarbon type, carbon number distribution,
+and boiling point distribution of HTL biocrude oil before and after
+hydrotreating, it was conﬁrmed that hydrotreating at high tempera-
+ture produced SAF samples with composition closest to Jet-A (Fig. 3).
+Hydrotreating successfully improved the hydrocarbon composition,
+indicated by an increase in the n-alkane content of all samples (Fig. 3A).
+Like the trend seen in the parameter screening tests, hydrotreating at
+combinations of higher temperature, RT, and catalyst load further
+improved the hydrocarbon type to contain increased amounts of
+aromatics, isoalkanes, and cycloalkanes. Notably, several of the SAF
+samples contained similar or higher amounts of isoalkanes and
+cycloalkanes compared to Jet-A, along with lower aromatic content.
+This could lead to improved cold ﬂow properties and decreased
+contrails40. Notably, the Jet-A sample contained 35% aromatics and
+synthesized jet fuel must have 8-25% aromatics content. All samples
+hydrotreated at 450 °C (B2, B4, B6, B8) met the low level aromatics
+requirement of at least 8%, ranging from 9 to 13%. As seen in our SAF
+candidate, this value is also expected to increase after taking the jet cut
+from the whole hydrotreated biocrude due to the higher abundance of
+aromatics in the C8–C16 range. Recent work has also indicated that
+cycloalkanes can replace the volume swell properties of aromatics in
+jet fuel41.
+HTL biocrude oil consistently became lighter after hydrotreating.
+This was reﬂected in the boiling point distribution, where hydro-
+treating increased the fraction of distillate ranges <250 °C (Fig. 3B).
+Like what was seen during the parameter screening, hydrotreating at
+the lowest parameter levels (e.g., B5) caused polymerization reactions
+that formed heavier compounds with boiling points above 350 °C. On
+the other hand, hydrotreating at higher temperatures and combina-
+tions of increased RT and cat:oil produced samples mainly composed
+of fractions with distillate ranges <250 °C. Speciﬁcally, all samples
+hydrotreated at the highest temperature level had a boiling point
+distribution most similar to Jet-A.
+The carbon number range in Jet-A is typically C8–C16. This was
+conﬁrmed in the commercial Jet-A sample tested, where 95% of its
+compounds were within the C8-C16 range and its average carbon
+number was 11.2 (Fig. 3C). Chemical compounds were also grouped
+into <C8, C17–C20, and >C20, to represent potential distillates in the
+ranges for gasoline, diesel, and heavy oils, respectively. All samples
+that had an average carbon number similar to or less than Jet-A (<11.5)
+were those produced at high temperature during hydrotreating
+(450 °C). However, since they still contained fractions outside the
+9
+10
+11
+12
+13
+14
+15
+9
+10
+11
+12
+13
+14
+15
+BC
+PT
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+B10
+B11
+B12
+B13
+B14
+B15
+Jet-A
+aromatic
+n-alkane
+isoalkane
+cycloalkane
+alkene
+Sample
+0
+20
+40
+60
+80
+100
+Relative abundance (%)
+A
+BC
+PT
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+B10
+B11
+B12
+B13
+B14
+B15
+Jet-A
+0
+20
+40
+60
+80
+100
+Distillate range (wt%)
+Sample
+Temp. (°C)
+<150
+150-250
+250-350
+350-375
+375-550
+>550
+B
+BC
+PT
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+B10
+B11
+B12
+B13
+B14
+B15
+Jet-A
+0
+20
+40
+60
+80
+100
+Fraction (%)
+Sample
+<C8
+C8-C16
+C17-C20
+>C20
+Ave. C. No.
+C
+Fit
+95% confidence
+95% prediction
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Ave. carbon no.

@@ -1,0 +1,212 @@
+1.
+Federal Aviation Administration. Sustainable Aviation Fuels (SAF).
+https://www.faa.gov/about/ofﬁceorg/headquartersofﬁces/apl/
+sustainable-aviation-fuels-saf (2024).
+2.
+U.S. Environmental Protection Agency. EPA Inventory of U.S.
+Greenhouse Gas Emissions and Sinks: 1990-2022. EPA 430-R-24-
+004 https://www.epa.gov/ghgemissions/inventory-us-
+greenhouse-gas-emissions-and-sinks-1990-2022 (2024).
+3.
+Prussi, M. et al. CORSIA: the ﬁrst internationally adopted approach
+to calculate life-cycle GHG emissions for aviation fuels. Renew.
+Sustain. Energy Rev. 150, 111398 (2021).
+4.
+Developing Sustainable Aviation Fuel (SAF). International Air
+Transport Association https://www.iata.org/en/programs/
+environment/sustainable-aviation-fuels/ (2024).
+5.
+International Air Transport Association. Fly Net Zero. https://www.
+iata.org/en/programs/environment/ﬂynetzero/ (2021).
+6.
+ASTM. D7566-24d: standard speciﬁcation for aviation turbine fuel
+containing synthesized hydrocarbons. Annual Book of ASTM Stan-
+dards 1–16 https://doi.org/10.1520/D7566-24D (2024).
+7.
+Rosales Calderon, O. et al. Sustainable aviation fuel state-of-
+industry report: hydroprocessed esters and fatty acids pathway.
+https://doi.org/10.2172/2426563 (2024).
+8.
+Kokkinos, N. C., Emmanouilidou, E. & Sharma, S. K. Waste-to-biofuel
+production for the transportation sector. In Intelligent Transporta-
+tion System and Advanced Technology (eds Upadhyay, R. K.,
+Sharma, S. K. & Kumar, V.) 99–122. https://doi.org/10.1007/978-981-
+97-0515-3_6 (Springer, Singapore, 2024).
+9.
+U.S. Department of Energy. 2023 Billion-Ton Report: An Assessment
+of U.S. Renewable Carbon Resources. https://doi.org/10.23720/
+BT2023/2316165 (2024).
+10.
+Emmanouilidou, E., Mitkidou, S., Agapiou, A. & Kokkinos, N. C. Solid
+waste biomass as a potential feedstock for producing sustainable
+aviation fuel: a systematic review. Renew. Energy 206,
+897–907 (2023).
+11.
+Jaglo, K., Kenny, S. & Stephenson, J. From farm to kitchen: The
+Environmental Impacts of US food waste. US Environmental Pro-
+tection Agency 1–106. https://www.epa.gov/land-research/farm-
+kitchen-environmental-impacts-us-food-waste (2021).
+12.
+United Nations. The Sustainable Development Goals Report: Special
+Edition. The Sustainable development Goals Report 2023: Special
+Edition https://unstats.un.org/sdgs/report/2023/ (2023).
+13.
+Chen, W. T. et al. Renewable diesel blendstocks produced by
+hydrothermal liquefaction of wet biowaste. Nat. Sustain 1,
+702–710 (2018).
+14.
+Aierzhati, A. et al. Experimental and model enhancement of food
+waste hydrothermal liquefaction with combined effects of bio-
+chemical composition and reaction conditions. Bioresour. Technol.
+284, 139–147 (2019).
+15.
+Xiu, S. & Shahbazi, A. Bio-oil production and upgrading research: a
+review. Renew. Sustain. Energy Rev. 16, 4406–4414 (2012).
+16.
+Huq, N. A. et al. Toward net-zero sustainable aviation fuel with wet
+waste–derived volatile fatty acids. Proc. Natl. Acad. Sci. USA 118,
+e2023008118 (2021).
+17.
+Snowden-Swan, L. et al. Wet waste hydrothermal liquefaction and
+biocrude upgrading to hydrocarbon fuels: 2021 state of technol-
+ogy. Paciﬁc Northwest National Laboratory https://doi.org/10.2172/
+1863608 (2022).
+18.
+Farooq, D., Thompson, I. & Ng, K. S. Exploring the feasibility of
+producing sustainable aviation fuel in the UK using hydrothermal
+liquefaction technology: a comprehensive techno-economic and
+environmental assessment. Clean. Eng. Technol. 1, 100010 (2020).
+19.
+Zhu, Y. et al. Microalgae Hydrothermal Liquefaction and Biocrude
+Upgrading: 2022 State of Technology (Paciﬁc Northwest National
+Laboratory (PNNL), 2023).
+20. Castello, D., Haider, M. S. & Rosendahl, L. A. Catalytic upgrading of
+hydrothermal liquefaction biocrudes: different challenges for dif-
+ferent feedstocks. Renew. Energy 141, 420–430 (2019).
+21.
+Haider, M. S., Castello, D. & Rosendahl, L. A. Two-stage catalytic
+hydrotreatment of highly nitrogenous biocrude from continuous
+hydrothermal liquefaction: a rational design of the stabilization
+stage. Biomass Bioenergy 139, 105658 (2020).
+22. Stone, M. L. et al. Continuous hydrodeoxygenation of lignin to jet-
+range aromatic hydrocarbons. Joule 6, 2324–2337 (2022).
+23. Summers, S., Valentine, A., Wang, Z. & Zhang, Y. Pilot-scale con-
+tinuous plug-ﬂow hydrothermal liquefaction of food waste for
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+9
+
+biocrude production. Ind. Eng. Chem. Res. https://doi.org/10.1021/
+acs.iecr.3c01587 (2023).
+24. Elliott, D. C. Historical developments in hydroprocessing bio-oils.
+Energy Fuels 21, 1792–1815 (2007).
+25. Taghipour, A., Ramirez, J. A., Brown, R. J. & Rainey, T. J. A review of
+fractional distillation to improve hydrothermal liquefaction bio-
+crude characteristics; future outlook and prospects. Renew. Sus-
+tain. Energy Rev. 115, 109355 (2019).
+26. Albrecht, K. O. et al. Impact of heterotrophically stressed algae for
+biofuel production via hydrothermal liquefaction and catalytic
+hydrotreating in continuous-ﬂow reactors. Algal Res. 14,
+17–27 (2016).
+27.
+Subramaniam, S. et al. Extended catalyst lifetime testing for HTL
+biocrude hydrotreating to produce fuel blendstocks from wet
+wastes. ACS Sustain. Chem. Eng. 9, 12825–12832 (2021).
+28. Cronin, D. J. et al. Sustainable aviation fuel from hydrothermal
+liquefaction of wet wastes. Energies 15, 1306 (2022).
+29. Yu, J. et al. Catalytic hydrotreatment of bio-crude produced from
+the hydrothermal liquefaction of aspen wood: a catalyst screening
+and parameter optimization study. Sustain Energy Fuels 1,
+832–841 (2017).
+30. Shafaghat, H. et al. Catalytic hydrodeoxygenation of crude bio-oil in
+supercritical methanol using supported nickel catalysts. Renew
+Energy 159–166. https://doi.org/10.1016/j.renene.2018.06.
+096 (2019).
+31.
+Thorson, M. R. et al. Scaleable hydrotreating of HTL biocrude to
+produce fuel blendstocks. Energy Fuels 35, 11346–11352 (2021).
+32. Haider, M. S., Castello, D. & Rosendahl, L. A. The art of smooth
+continuous hydroprocessing of biocrudes obtained from hydro-
+thermal liquefaction: hydrodemetallization and propensity for coke
+formation. Energy Fuels 35, 10611–10622 (2021).
+33. Haider, M. S., Castello, D., Michalski, K. M., Pedersen, T. H. &
+Rosendahl, L. A. Catalytic hydrotreatment of microalgae bio-
+crude from continuous hydrothermal liquefaction: heteroatom
+removal and their distribution in distillation cuts. Energies 11,
+3360 (2018).
+34. Haider, M. S., Castello, D. & Rosendahl, L. A. Two-stage catalytic
+hydrotreatment of highly nitrogenous biocrude from continuous
+hydrothermal liquefaction: a rational design of the stabilization
+stage. Biomass Bioenergy 139, 1–37 (2020).
+35. Váchová, V. et al. Composition and properties of rapeseed oil
+hydrotreating products over CoMo/Al2O3and NiMo/Al2O3 cata-
+lysts. Energy Fuels 34, 9609–9619 (2020).
+36. Graf, D., Waßmuth, J. & Rauch, R. Co-hydroprocessing of fossil
+middle distillate and bio-derived durene-rich heavy ends under
+hydrotreating conditions. Reactions 4, 531–551 (2023).
+37. Yang, Z. et al. A GC × GC Tier α combustor operability prescreening
+method for sustainable aviation fuel candidates. Fuel 292,
+120345 (2021).
+38. Heyne, J., Rauch, B., Le Clercq, P. & Colket, M. Sustainable
+aviation fuel prescreening tools and procedures. Fuel 290,
+120004 (2021).
+39. Summers, S. et al. Multi-stage pretreatment of hydrothermal
+liquefaction biocrude oil as a precursor for sustainable aviation fuel
+production. Fuel Process. Technol. 263, 108118 (2024).
+40. Voigt, C. et al. Cleaner burning aviation fuels can reduce contrail
+cloudiness. Commun. Earth Environ. 2, 114 (2021).
+41.
+Kosir, S., Heyne, J. & Graham, J. A machine learning framework for
+drop-in volume swell characteristics of sustainable aviation fuel.
+Fuel 274, 117832 (2020).
+42. ASTM D7566: standard speciﬁcation for aviation turbine fuel con-
+taining synthesized hydrocarbons. Annu. Book ASTM Stand. https://
+doi.org/10.1520/D7566-23B (2017).
+43. Holladay, J., Abdullah, Z. & Heyne, J. Sustainable Aviation Fuel:
+Review of Technical Pathways Report. https://www.energy.gov/
+eere/bioenergy/downloads/sustainable-aviation-fuel-review-
+technical-pathways-report (2020).
+44. Mäki-Arvela, P., Kaka khel, T., Azkaar, M., Engblom, S. & Murzin, D.
+Catalytic hydroisomerization of long-chain hydrocarbons for the
+production of fuels. Catalysts 8, 534 (2018).
+45. Calemma, V., Peratello, S. & Perego, C. Hydroisomerization and
+hydrocracking of long chain n-alkanes on Pt/amorphous SiO2-
+Al2O3 catalyst. Appl Catal. A Gen. 190, 207–218 (2000).
+46. Siddiki, S. M. A. H. & Touchy, A. S. Challenges and Future Prospects
+in Heterogeneous Catalysis for Bioreﬁnery Technologies. Advanced
+Functional Solid Catalysts for Biomass Valorization. https://doi.org/
+10.1016/B978-0-12-820236-4.00010-6 (Elsevier Inc., 2020).
+47. Lois, E., Keating, E. L. & Gupta, A. K. Fuels. In Encyclopedia of Phy-
+sical Science and Technology 275–314. https://doi.org/10.1016/B0-
+12-227410-5/00268-4 (Elsevier, 2003).
+48. Zhang, Y., Summers, S., Jones, J. W. & Reid, J. F. A scalable index for
+quantifying circularity of bioeconomy systems. Resour. Conserv
+Recycl 210, 107821 (2024).
+49. U.S. Energy Information Administration. U.S. Year-to-Date Daily Average
+Supply and Disposition of Crude Oil and Petroleum Products. https://
+www.eia.gov/petroleum/supply/monthly/pdf/table4.pdf (2024).
+50. U.S. Department of Energy Alternative Fuels Data Center. Sustain-
+able Aviation Fuel Estimated Consumption. https://afdc.energy.
+gov/data/10967 (2023).
+51.
+U.S. Environmental Protection Agency. Food: Material-Speciﬁc
+Data. https://www.epa.gov/facts-and-ﬁgures-about-materials-
+waste-and-recycling/food-material-speciﬁc-data (2024).
+52. Jensen, L. L., Bonnefoy, P. A., Hileman, J. I. & Fitzgerald, J. T. The
+carbon dioxide challenge facing U.S. aviation and paths to achieve
+net zero emissions by 2050. Prog. Aerosp. Sci. 141, 100921 (2023).
+53. Watson, J. et al. Towards transportation fuel production from food
+waste: Potential of biocrude oil distillates for gasoline, diesel, and
+jet fuel. Fuel 301, 121028 (2021).
+54. Li, H. et al. Establishment and performance of a plug-ﬂow con-
+tinuous hydrothermal reactor for biocrude oil production. Fuel 280,
+118605 (2020).
+55. Speight, J. G. Handbook of Petroluem Product Analysis (CD & W
+Inc., 2015).
+56. ASTM International. ASTM D974-14: standard test method for acid
+and base number by color-indicator titration. Annual Book of ASTM
+Standards 1–7. https://doi.org/10.1520/D0974-14 (2014).
+57. NIST Chemistry WebBook, NIST Standard Reference Database
+Number 8. (National Institute of Standards and Technology, Gai-
+thersburg). https://doi.org/10.18434/T4D303.

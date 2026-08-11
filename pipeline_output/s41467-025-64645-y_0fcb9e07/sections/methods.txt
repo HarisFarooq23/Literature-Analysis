@@ -1,0 +1,189 @@
+HTL biocrude oil
+Food waste from a local food processing plant in Champaign, IL was
+processed in a pilot-scale continuous plug ﬂow HTL reactor at 20 wt%
+solids content, 300 °C and 12.4 MPa for a 20 min RT23. Prior to
+hydrotreating, multi-stage pretreating was performed to desalt the
+biocrude using a water wash at 100 °C for 60 min; dewater according
+to ASTM D2892 Annex X1; and deash through isolation of fraction
+<350 °C via distillation39. The physicochemical characterization of the
+food processing waste feedstock, initial (BC), and pretreated (PT) HTL
+biocrude oil are in Table S2.
+Hydrotreating experiments
+Commercial catalyst CoMo/Al2O3 (ThermoFisher Scientiﬁc) was used
+to hydrotreat HTL biocrude oil. First, experiments were completed in
+triplicate for a Taguchi design L9 orthogonal array (Table S3) to screen
+the signiﬁcance of temperature, catalyst-to-oil ratio (cat:oil w/w), RT,
+and hydrogen load-to-biocrude oxygen ratio (H:O mol:mol). Then,
+experiments were completed in duplicate using a Box-Behnken design
+to optimize the parameter levels using response surface methodology
+(Table S4). Designated amounts of biocrude oil and catalyst were
+loaded into a 100 ml Series 4590 Micro Stirred Reactor (Parr Instru-
+ment Company, IL, USA). The reactor was purged to remove air,
+pressurized with hydrogen, then heated to desired reaction conditions
+with a stir rate of 350 rpm throughout the RT. After completion of the
+hydrotreating reaction, the reactor was quenched with water to cool.
+The oil and aqueous phases were collected in a pre-weighed container
+and separated by centrifugation. The catalyst and char products were
+collected separately, rinsed with DCM, and vacuum ﬁltered. The gas-
+eous phase was sampled in a gas bag (Sigma-Aldrich) for analysis. The
+reactor was rinsed with DCM to recover any residual oil, char, or cat-
+alyst. The DCM evaporated overnight at 60 °C and the ﬁnal oil and char
+mass was recorded. The oil recovered from the solvent rinse was not
+analyzed. A commercial Jet-A sample was obtained from Willard Air-
+port at the University of Illinois Urbana-Champaign (Savoy, IL, USA).
+The mass yields, carbon recovery, and energy recovery were cal-
+culated according to Eqs. 1–3, respectively.
+mx = mx
+mb
+× 100%
+ð1Þ
+Cr = Co
+Cb
+× mo × 100%
+ð2Þ
+Er = HHV o
+HHV b
+× mo × 100%
+ð3Þ
+where m = mass of product, x = producttype (o = oil, w = water, g = gas,
+c = char, b = biocrude), C = carbon content (r = recovered), Er = energy
+recovery, and HHV = higher heating value. Oil and aqueous products
+were directly measured, while char was calculated by subtracting cat-
+alyst mass from the collected solids product, and gas was calculated by
+difference.
+Heteroatom removal (de-X) was calculated based on the ele-
+mental composition of the HTL biocrude (Eq. 4):
+de  X = 1  Xfinal
+X initial
+ð4Þ
+where X = heteroatom element (ex. oxygen (O), nitrogen (N), or sulfur
+(S)), Xﬁnal = content in the upgraded biocrude, and Xinitial = content in
+the initial HTL biocrude.
+Analytical methods
+CE440 CHN analyzer (Exeter Analytical, Coventry, UK) was used to
+determine the elemental composition (carbon, hydrogen, and nitro-
+gen content). Triplicate measurements were taken from each sample,
+where tins were cold-weld shut prior to purging to minimize loss of
+volatiles. Due to the presence of air in the sample, nitrogen content
+was recalculated based on a blank. The detection limit was 0.10% for all
+elements. Oxygen was determined by difference. A PerkinElmer ICP-
+MS (Model NexION 350D) was used to measure sulfur content. Due to
+sample volume limitations, this was performed once per sample.
+Dulong’s formula54 (Eq. 5) was used to calculate the higher heating
+value (HHV).
+HHV MJ=kg
+
+
+= 0:3516 C + 1:16225 H  0:1109 O + 0:0628 N
+ð5Þ
+The weight loss curves and boiling point distribution were determined
+with a Q50 thermogravimetric analyzer (TGA) (TA Instruments, DE,
+USA). 15 mg of sample was heated from 20 to 600 °C at 20 °C/min and
+Energy
+Carbon
+15
+20
+25
+30
+35
+40
+45
+50
+Circularity index (CI, %)
+A
+Q1-Q3
+Min - max range
+Median
+Mean
+FW disposed (kg)
+FW recovered (wt%)
+FW carbon (wt%)
+FW energy (MJ/kg)
+SAF carbon (wt%)
+SAF energy (MJ/kg)
+HT yield (wt%)
+SAF yield (wt%)
+0.00
+0.25
+0.50
+0.75
+1.00
+Spearman's Rank Correlation Coefficient
+Parameters
+Energy CI
+Carbon CI
+B
+Fig. 5 | Results of the uncertainty and sensitivity analysis from 1,000 trial
+random sampling in a Monte Carlo simulation. A Box and whisker plot of the
+uncertainty range for energy and carbon circularity index (CI), where the shaded
+region represents the lower (Q1) through upper (Q3) quartile, the whiskers repre-
+sent the minimum and maximum values, the center line represents the median and
+the center point represents the mean. B Spearman’s Rank Correlation Coefﬁcient
+(correlation coefﬁcient of the corresponding parameter and CI value) for the sen-
+sitivity of energy and carbon CI for the HTL-SAF pathway, where FW food waste, HT
+hydrotreating. Source data are provided as a Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+8
+
+nitrogen ﬂow rate of 60 mL/min. The temperatures for boiling point
+ranges were selected based on literature55. It is important to note that
+thermal degradation may occur due to atmospheric conditions during
+TGA, making boiling points less accurate. The total acid number (TAN)
+was determined according to ASTM D974, in which oil sample dis-
+solved in a solution of toluene, 2-propanol, and water was titrated with
+phenolphthalein indicator and 0.1 M KOH56. Chemical composition
+was determined via gas chromatography-mass spectrometry (GC-MS),
+using a Micromass 70-VSE (Waters Corporation, MA, USA). 2 μL sample
+injected split mode in a ZB-5MS column. 30–80 °C at 25 °C/min and
+2 min hold, then increased to 220 °C at 8 °C/min, then to 280 °C at
+25 °C/min. A 70 eV electron ionization voltage was used, scanning from
+30 to 800 m/z. Peaks were analyzed using MassLynx Mass Spectro-
+metry Software according to the NIST08 Mass Spectral Database57.
+The jet fuel cut (150–230 °C) of hydrotreated HTL biocrude oil
+from this work was characterized using Tier α tests as a precursor to
+ASTM D4054 evaluation. Viability of the SAF candidate was pre-
+screened by comparing its chemical composition, distillation, and fuel
+properties to conventional jet fuel and ASTM D7566 speciﬁcations.
+Speciﬁcally, a 2D-GC method developed by the Heyne group at
+Washington State University was used to determine the hydrocarbon
+type and distribution, a distillation curve was obtained from the 2D-GC
+data to show ASTM D86 results, and the 2D-GC results were used to
+predict jet fuel properties37,38,42.
+The circularity index (CI, Eq. 6) of the system was calculated
+according to methods previously described48:
+CI = Y R
+Y =
+Pn
+i = 1RiXi + aij
+h
+i
+Xi
+
+
+Pn
+i = 1 Ci + Ri
+
+
+Xi
+ð6Þ
+where YR is the total renewable and recovered resources in a circular
+system, Y is the total output of the system, Ri is the fraction from
+renewable resources, Xi is the content of the ith category, aij is the
+fraction from recoverable resources, and Ci is the fraction from con-
+sumable resources. Uncertainty and sensitivity analysis of the CI was
+done using Monte Carlo analysis with 1000 simulations. The Spear-
+man’s rank correlation coefﬁcient was used to rank the correlation of
+each parameter between the CIs. Further explanations of the CI
+method, uncertainty, and sensitivity methods are in the Supplemen-
+tary Information.
+Data analysis was conducted in Excel (Version 2507) and Origi-
+nPro 2025 (Version 10.2 SR1).
+Reporting summary
+Further information on research design is available in the Nature
+Portfolio Reporting Summary linked to this article.
+Data availability
+Source data are provided with this paper: The data that supports the
+ﬁndings of this study are provided in the Source Data ﬁle. Source data
+are provided with this paper.

@@ -1,0 +1,302 @@
+Ni
+V
+O
+C
+Ni/V2O5 C
+15.70 ± 1.54
+45.77 ± 2.01
+38.54 ± 1.87
+−
+Ni/V2O5 M
+18.96 ± 1.94
+45.62 ± 0.33
+35.42 ± 1.62
+−
+Ni/V2O5 S
+24.63 ± 1.07
+47.90 ± 1.17
+27.47 ± 0.95
+−
+Ni/AC C
+23.59 ± 0.76
+−
+4.89 ± 1.95
+71.82 ± 0.98
+Ni/AC M
+20.98 ± 3.61
+−
+11.14 ± 0.30
+67.89 ± 3.51
+Ni/AC S
+21.86 ± 2.88
+−
+4.32 ± 0.77
+73.82 ± 3.65
+* Values are reported as mean ± standard deviation (n = 3).
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+6
+
+clearly shows the most preserved pore structure. This finding is in 
+agreement with BET findings, whereby the AC supported catalyst 
+showed higher BET surface area due to its porous structures (see 
+Table 3). Ni/AC M demonstrates more finely dispersed surface particles, 
+and Ni/AC S displays localized pore blockage. These features align with 
+the EDX maps, Ni/AC C displays uniform Ni coverage, Ni/AC M shows 
+finely dispersed Ni, and Ni/AC S presents uneven distribution and 
+localized agglomeration. Oxygen, O, detected in Ni/AC catalyst 
+elemental mapping can be attributed to 1) NiO traces species as 
+confirmed by XRD and H2-TPR and/or 2) O in surface groups that 
+resulted from the acidification of AC with H2SO4.
+3.2. Hydrocarbon liquid product characterization
+The hydrocarbon yield of blank reaction (no catalyst) and catalyzed 
+reactions are presented in Fig. 1(c). Blank reaction is observed to have 
+Fig. 1. (a) FTIR spectra showing functional groups composition, (b) carbon number distribution, (c) hydrocarbon liquid yield, (d) hydrocarbon distribution based on 
+carbon number and (e) product distribution and mass yield liquid product from DO of WCO at 400 ℃ over 5 wt% loading of various catalysts for 2 h.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+7
+
+produced the lowest yield of hydrocarbons (58%), while catalyzed re­
+actions significantly yielded higher contents of hydrocarbon (67–96%) 
+ranked in the order Ni/V2O5 M > V2O5 > Ni/V2O5 C > Ni/AC M > Ni/ 
+V2O5 S > Ni/AC C > Ni/AC S > AC. Similarly on the same figure, for jet 
+range hydrocarbon percentage (C8-C16), catalytic reactions showed 
+higher selectivity (52–82%) than blank reaction (50%). Notably, the 
+high yield of BJF highlights strong selectivity for simultaneous DO- 
+cracking pathways, supported by the carbon number distribution 
+depicted in Fig. 1(b), where catalyzed reactions showed highest con­
+centrations of C15 likely resulting from 1) decarboxylation/decarbon­
+ylation (DeCOx) of palmitic acid, 2) hydrodeoxygenation (via in-situ 
+H2)/DeCOx and cracking of oleic acid. Note, V2O5 and Ni/V2O5 cata­
+lyst series gave rise to a noticeable higher BJF fractions (Fig. 1(d)) owing 
+to the presence of rich medium + strong acidic sites which was 
+corroborated with the fact that increase in only strong acidic sites had 
+detrimental effects on BJF selectivity as can be observed with the Ni/AC 
+catalyst series. In general Ni/V2O5 catalyst series outperformed their Ni/ 
+AC counterparts showing high DO activity likely due to the presence of 
+rich oxygen vacancies (Ov) from the vanadium oxide support. The Ni-O- 
+V interfacial sites can be analogous to Ni-Ov that are known to act as 
+adsorption sites, with string affinity for carboxyl (–COOH) and carbonyl 
+(C––O) groups, boosting DO activity (Liu et al., 2023; J. Wang et al., 
+2023). This high concentration of Ov enhances the uniform dispersion 
+of Ni across the support (Zhou et al., 2025). It can be concluded that the 
+smaller crystallite size of Ni/V2O5 M (see section 3.1), led to a higher 
+density of lattice imperfections which in turn promoted the formation of 
+more Ov sites as corroborated by XRD and H2-TPR results and therefore 
+resulted in enhanced DO activity. Indeed, AC as a standalone catalyst 
+showed limited DO activity yet resulted in a high fraction of oxygenated 
+intermediates mainly fatty aldehydes and carboxylic acids. However, Ni 
+metal doping on AC as a support was observed to yield superior DO 
+activity, highlighting the essential role of Ni in promoting C-–O bond 
+cleavage. Nonetheless, Ni/AC catalyst series lack oxygen lattice, even 
+though trace amounts of NiO are present, there is effectively limited Ov 
+that exist. Therefore, Ni/AC catalyst relies mainly on its metallic Ni sites 
+and high acidity to cleave C-–O but also risks faster deactivation, in the 
+absence of H2, by coke deposition leading to severe blockage of active Ni 
+sites.
+Chemical composition is paramount to the quality of the fuel, it can 
+also be utilized to determine the effectiveness of catalyzed reactions in 
+terms of DO activity or the extent of oxygen-containing compounds 
+removal, as shown in the product distribution results (Fig. 1(e)). Blank 
+experiment yielded significantly high carboxylic acid indicating weak 
+DO of intermediate free fatty acids, it can also be deduced that C––C 
+cleavage did not occur a great deal as evident from the presence of high 
+heavy hydrocarbons (>C16). Catalyzed reactions predominantly yielded 
+n-paraffins (alkanes) and olefins (alkenes) jet range hydrocarbons in the 
+range C8-C16. Ni/V2O5 M, Ni/V2O5 C and V2O5 were able to produce 
+highest n-paraffin content of 50%, 42% and 42% respectively, while 
+blank yielded lowest n-paraffin. It is well known that during non- 
+catalyzed thermal cracking of WCO, more olefins than paraffins are 
+typically produced, mainly due to the breakdown of unsaturated fatty 
+Fig. 2. Proposed reaction mechanism for WCO catalytic deoxygenation over Ni/V2O5 catalyst.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+8
+
+acids which are abundant in WCO (Hebish et al., 2024). Notably, Ni/ 
+V2O5 catalyst series yielded lower olefins compared to non-modified 
+V2O5 while favouring more paraffin content, suggesting strong hydro­
+genation Ni metal sites were able to saturate C––C. Studies show that 
+strongly acidic catalysts tend to give alkenes/cycloalkenes as primary 
+(Hu et al., 2019), though here V2O5 still yielded substantial alkanes, 
+likely due to secondary hydrogenation as acid sites can isomerize/crack 
+intermediates, but metal sites and/or in-situ hydrogen shift alkenes to 
+alkanes (del Campo et al., 2021). It is worth noting that olefins are prone 
+to oxidative instability and degradation during storage, as olefins readily 
+react with oxygen, forming gums and sediments (Why et al., 2022). High 
+olefin content will cause oxidation to the fuel therefore it is not 
+favourable. In general Ni/AC catalyst series produced good outcomes, 
+however owing to their high acidic nature, coke formation is highly 
+promoted which accelerates catalyst deactivation as evident from 
+literature (Li et al., 2017). In terms of total by-products, ketone, alcohol, 
+carboxylic acid and others, blank yielded the highest percentage of 43%, 
+while Ni/V2O5 M yielded the lowest percentage of only 4%.
+Based on the product composition obtained from GC–MS result 
+(liquid-phase) and GC-TCD (gas-phase), the proposed reaction pathway 
+can be outlined as shown in Fig. 2. WCO feedstock was mainly 
+comprised of long chain fatty acids including 34% palmitic acid (C16:0) 
+and 59% oleic acid (C18:1) (see Table 1). Initially, triglycerides in WCO 
+undergo self-hydrolysis via hydrogen abstraction to form glycerol and 
+free fatty acids (FFAs), mainly palmitic acid and oleic acid. The FFAs 
+adsorbed on Ni/V2O5 surface underwent DO through decarboxylation 
+(DCX), decarbonylation (DCO), hydrogenation and cracking pathways. 
+High concentration of C2n+1 hydrocarbons detected in the product was 
+consistent with the predominance of odd carbon number hydrocarbons 
+typically observed during H2-free DO, indicating that DCO, DCX and 
+cracking routes dominate over direct HDO (Zulkepli et al., 2018). For 
+palmitic acid, DCO proceeds yielding pentadecene (C15H30) as an in­
+termediate, after which the C––C bond is subsequently hydrogenated on 
+Ni sites to produce pentadecane (C15H32). Alternatively, palmitic acid 
+can undergo decarboxylation, directly producing pentadecane without 
+olefinic intermediates. Similarly for oleic acid, the DCO pathway yields 
+8-Heptadecene (C17H34) which is further hydrogenated to heptadecane 
+(C17H36) whereas the DCX route directly produces heptadecane. In 
+addition to direct DO, secondary cracking reactions via C––C cleavage 
+of fatty acids and long-chain hydrocarbons occur, followed by DO, 
+leading to the formation of a mixture of shorter-chain alkanes and al­
+kenes. Another minor but detectable pathway involves the hydrogena­
+tion of oleic acid to stearic acid (C18:0), followed by C––C bond scission 
+and partial hydrogenation to oxygenated intermediates. This route is 
+supported by the presence of trace amounts of E-15-Heptadecenal 
+(C17H32O). These aldehydes can be further hydrogenated to alcohols 
+such as 1-Heptadecanol (C17H36O), which may undergo dehydration 
+over acidic sites to generate short-chain olefins (Nugraha et al., 2024). 
+At the elevated reaction temperatures, simultaneous C––C bond scis­
+sion via β-scission and mild thermal cracking occurs, particularly in the 
+presence of acidic V2O5 support sites, which promotes formation of 
+shorter chain hydrocarbons (such as 1-octene, octane, 1-nonene, non­
+ane, 1-decene, decane, 1-undecene and undecane) and shorter chain 
+FFAs, which are then deoxygenated. Note, secondary reactions such as 
+water–gas shift (WGS), glycerol reforming and methanation generate in- 
+situ H2, enabling hydrogenation of unsaturated fatty acids into saturated 
+intermediates and olefins into saturated hydrocarbons (Asikin-Mijan 
+et al., 2022). This in-situ H2 phenomenon explains the relatively high 
+alkane-to-alkene ratios observed under H2-free DO conditions (Nugraha 
+et al., 2024). Furthermore, isomerization, and limited cyclization re­
+actions may further transform linear hydrocarbons into branched and 
+cyclic species. In line with this, our results show small amounts of cyclic 
+compounds (naphthenes), such as n-Nonylcyclohexane (C15H30) reach­
+ing up to 6%, consistent with previous studies (Zulkepli et al., 2018). In 
+summary, these results highlight the effectiveness of Ni/V2O5 in pro­
+moting the efficient DO of –COOH fragments through the DeCOx route 
+while minimizing excessive cracking which would otherwise result in 
+gaseous light hydrocarbons out of BJF range. The gaseous products were 
+evaluated by GC-TCD and depicted in Fig. S6. The gas distribution 
+consisted primarily of CO (51.2%), followed by CO2 (21.3%), H2 
+(20.3%), and a minor amount of CH4 (7.1%). CO and CO2 detected are 
+directly associated with deoxygenation via DCO and DCX pathways, 
+respectively. Indeed, the higher content of CO compared to CO2 in­
+dicates the oxygen removal occurred mainly via DCO pathway. At the 
+same time, CH4 was detected which can be attributed to secondary 
+cracking and methanation reactions (Asikin-Mijan et al., 2022). Inter­
+estingly, although a fair amount of H2 was detected in the gas phase, the 
+reaction is not favoured to have proceeded primarily through the HDO 
+pathway, this is supported by the dominance of odd-numbered hydro­
+carbons in the liquid product. The detected H2 was likely generated in- 
+situ via dehydrogenation by WGS reaction and may have contributed to 
+the hydrogenation of intermediate unsaturated hydrocarbons, leading to 
+the high selectivity towards saturated alkanes observed in the liquid 
+product.
+Fig. 1(a) illustrates the use of spectroscopic Fourier Transform 
+Infrared Spectroscopy (FTIR), for the qualitative characterization of 
+chemical functional groups present in waste cooking oil (WCO) and its 
+deoxygenated products. The FTIR spectrum of WCO exhibited distinct 
+absorption bands at 3007 cm−1, 2924 cm−1, 2855 cm−1, and 1465 cm−1, 
+along with an additional peak at 1377 cm−1, corresponding to the 
+stretching and bending vibrations of aliphatic C––H bonds (Hafriz 
+et al., 2022). Additionally, absorption peaks at 1746 cm−1 and 1165 
+cm−1 were attributed to the carbonyl (C––O) group of glycerides and the 
+C––O stretching from ester bonds in WCO, respectively (Khalit et al., 
+2021). The deoxygenation process was evidenced by a slight shift of 
+the carbonyl (C––O) absorption band from 1745 cm−1 in WCO to 1713 
+cm−1 in the deoxygenated product, along with a notable decrease in the 
+intensity of the C––O stretching band (at 1163 cm−1 in WCO). This 
+spectral transformation indicates the progression of the DO reaction. 
+The decrease in peak intensities correlated well with the reduction in 
+oxygen content observed in the final product (Aliana-Nasharuddin et al., 
+2020). The FTIR analysis of the deoxygenated liquid products revealed 
+the presence of alkane and alkene compounds, as indicated by C––H 
+stretching vibrations at 2856 cm−1 and 2924 cm−1. Furthermore, the 
+emergence of bending vibrations at 1381 cm−1 and 1462 cm−1 for 
+alkane –C––H and at 721 cm−1 and 723 cm−1 for alkene –CH=CH– 
+confirms the formation of hydrocarbon products following the DO pro­
+cess, with more prominent bands for alkane, indicating higher compo­
+sition. Furthermore, the absence of a broad, strong peak around 3400 
+cm−1 for O––H stretching and another distinct peak of H-O––H 
+bending around 1640 cm−1 indicated that no residual water is present 
+across all liquid products. This observation confirms that the sample are 
+essentially moisture-free as presence of water in the fuel has negative 
+effects on engines and fuel systems and therefore hazardous on flight 
+safety. Such effects are well documented in the literature which in­
+cludes, accelerated corrosion, poorer fuel lubricative properties, mi­
+crobial growth, degrades additives and antioxidants and restrict or 
+potentially block fuel flow in fuel systems due to icing (Chen et al., 
+2022). Overall, the microwave synthesized Ni/V2O5 catalyst was the 
+most efficient catalyst in converting the WCO, producing high content of 
+hydrocarbons and selective towards BJF fraction, with minimal un­
+wanted by-products.
+3.3. Performance comparison of non-noble metal catalyst for WCO 
+deoxygenation with present study
+The deoxygenation performance obtained in this study is compared 
+with similar Ni-based catalysts/WCO feedstocks systems from previous 
+literature (Table 5). In this study, using a microwave-assisted Ni/V2O5 
+catalyst, a 96% hydrocarbon yield with 78% BJF selectivity was ob­
+tained from the DO of WCO at 400 ℃ over 5 wt% for 2 h. Hafriz et al., 
+2022 utilized a low-cost NiO dolomite-based catalyst on WCO, however 
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+9
+
+the catalyst exhibited lower hydrocarbon yield and selectivity due to its 
+limited acidity and thermal stability as structure collapses of dolomite 
+catalyst occurs at high temperatures (>400 ℃). Several studies inves­
+tigated the HDO of WCO over Ni-Mo/alumina-silica catalyst. For 
+instance, Verma et al., 2023 reported 97% yield and 56% jet-range 
+selectivity. In a similar catalyst system, Racha et al., 2024 attained an 
+87% yield and 75% selectivity towards jet-range, attributed to the 
+enhanced acidity and good metal dispersion on the mixed oxide sup­
+ports. Despite this, the process requires high hydrogen pressure which 
+increases costs and system complexity. Razak et al., 2024 reported the 
+DO of WCO using a 5Ni5Co/SBA-15-SH catalyst producing 80% of yield 
+with 92% of bio-jet selectivity, which was credited to the high surface 
+area and enhanced acidity of the mesoporous SBA-15 support. None­
+theless, the catalyst preparation involves multiple synthesis and func­
+tionalization steps which may increase production costs and limit 
+industrial scale-up. Therefore, the Ni/V2O5 catalyst developed in this 
+study demonstrates strong potential for commercial production of BJF 
+due to its use of inexpensive materials, simple preparation method, good 
+catalyst stability and superior catalytic activity.
+3.4. Kinetic deactivation study on DO of WCO over Ni/V2O5 microwave- 
+synthesised catalyst
+The catalyst stability of Ni/V2O5 M was evaluated at 380––420 ℃. 
+The Arrhenius plot of lnkd against 1/T was constructed based on Eq.6 
+producing a linear relationship from which the activation energy of 
+deactivation (Ed) was determined (see Fig. 3 (d)). The strong linearity 
+obtained (R2 = 0.94) indicates that the deactivation rate constant fol­
+lows Arrhenius behaviour and that the reaction kinetics are well 
+described by Arrhenius equation. From the graph, the Ed of Ni/V2O5 M 
+in the DO of WCO was calculated to be 48.3 kJ/mol. This value is lower 
+than that reported by Mohmmed et al. of 62.4 kJ/mol for the DO of oleic 
+acid over coated Pd/AC (Mohammed et al., 2022) and by Hasanudin 
+et al. of 54.3 kJ/mol for the HDO of crude palm oil over Ni/Mo 
+ZrO2(Hasanudin et al., 2019). The lower Ed value of this study indicates 
+that the catalyst decay of Ni/V2O5 is much less temperature sensitive 
+and therefore the catalyst is more stable and robust. Note, Fig. 3b-c 
+shows the weight loss curve in the TGA/O2 analysis and RAMAN spectra 
+of spent catalyst after kinetic study, respectively. The weight loss 
+observed in the 200–400 ℃ region is attributed to the combustion of soft 
+amorphous coke which is known to strongly poison catalyst active sites 
+and thus cause rapid loss of catalyst activity (Li et al., 2017). In contrast, 
+weight loss occurring at temperatures above 400 ℃ is assumed to 
+resemble hard coke of graphitic structure, although these deposits are 
+more difficult to remove during regeneration, they are generally much 
+less immediately deactivating (Shakor et al., 2024). Hard coke pre­
+dominated the carbon deposits on Ni/V2O5 as evident from the weight 
+drop after 400℃. The RAMAN spectrum provided further complemen­
+tary evidence, which displayed a pronounced G band (~1596 cm−1) and 
+an extremely weak D band (~1350 cm−1). Obviously, the low D/G in­
+tensity ratio points to the presence of more ordered graphitic carbon. 
+These findings indicate that catalyst deactivation was mainly caused by 
+carbon deposition of catalysts surface, which likely blocked active sites 
+and reduced catalytic activity.

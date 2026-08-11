@@ -1,0 +1,32 @@
+[
+  {
+    "id": "fig_p1_1",
+    "image": "fig_p1_1.png",
+    "caption": "Embedded image from page 1",
+    "page": 1
+  },
+  {
+    "id": "fig_p1_2",
+    "image": "fig_p1_2.png",
+    "caption": "Embedded image from page 1",
+    "page": 1
+  },
+  {
+    "id": "fig_p1_4",
+    "image": "fig_p1_4.png",
+    "caption": "Embedded image from page 1",
+    "page": 1
+  },
+  {
+    "id": "fig_p1_5",
+    "image": "fig_p1_5.png",
+    "caption": "Embedded image from page 1",
+    "page": 1
+  },
+  {
+    "id": "fig_p8_1",
+    "image": "fig_p8_1.png",
+    "caption": "Embedded image from page 8",
+    "page": 8
+  }
+]

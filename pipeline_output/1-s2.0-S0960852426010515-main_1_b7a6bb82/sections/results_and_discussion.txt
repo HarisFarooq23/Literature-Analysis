@@ -1,0 +1,69 @@
+3.1. Characterization of synthesised catalysts
+XRD patterns (Fig. S2a-b) confirm orthorhombic V2O5 (JCPDS card 
+no 01–075-9978), and nickel vanadate phases such as Ni3(VO4), Ni 
+(V2O6) and Ni2(V2O7) in all Ni/V2O5 catalysts. The absence of distinct 
+metallic Ni or NiO indicates the formation of strong Nickel Vanadium 
+Oxide interactions during synthesis and calcination, producing mixed 
+oxide phases instead of separate Ni or NiO domains, this is in line with 
+previous reports where incorporation of Ni into oxide supports sup­
+presses Ni and NiO reflections in XRD (Adzahar et al., 2026). In the case 
+of Ni/AC catalysts result reveals sharp reflections indexed to metallic Ni 
+(FCC, JCPDS card no. 00–004-0850) implying a greater proportion of 
+crystalline Ni0 sites along with the broad band of graphitic carbon at 
+about 2θ = 26◦. Trace NiO (JCPDS card no. 01–078-0643) is only 
+detected in the C sample, whereas both M and S exhibit exclusively 
+metallic Ni, implying that M and S treatments favour full reduction of Ni 
+species during synthesis likely due to the rapid heating and accelerated 
+nucleation of M and S-assistance. This observation was previously 
+confirmed by Lim et al., 2021 from using H2-TPR where they reported 
+that sonicated catalysts display more reducible NiO, indicating a higher 
+fraction of Ni can be reduced to metallic Ni (Ni0). A similar outcome for 
+microwaved catalysts was revealed by (Aimdate et al., 2021). Further­
+more, the crystallite size was determined at the most intense peak at 2θ 
+= 44.5◦(Ni) and 2θ = 20.4◦(V2O5) for Ni/AC and Ni/V2O5 catalysts, 
+respectively (Table 3). In terms of Ni/AC catalysts, crystallite size fol­
+lowed the decreasing trend S > C > M, suggesting that M method 
+improved Ni dispersion and availability of active sites. Surprisingly, the 
+crystallite size of Ni on Ni/AC obtained from S method was the largest 
+(24 nm) among the rest AC supported catalyst. Former literature reports 
+that for carbon-based supports dispersion quality depends on sonication 
+energy density, too low energy leaves large agglomerates and too high 
+causes re-agglomeration, thereby increasing crystallite size (Rennhofer 
+and Zanghellini, 2021). For Ni/V2O5 catalyst crystallite size decreased 
+in the order C > S > M, revealing greater dispersion by M system. Note, C 
+method for both catalyst series showed to favour the formation of large 
+crystallite size and reduced dispersion. Remarkably, the notable 
+decrease in crystallinity for Ni/V2O5 M suggests greater dispersion 
+resulting in finer crystallites and greater lattice imperfections, which can 
+be attributed to the rapid disorderly atom arrangement due to micro­
+wave volumetric heating, therefore promoting the generation of more 
+interfacial Ni-O-V sites which are reported to exhibit Ni2+/Ni3+ and 
+V5+/V4+ redox couples with lattice oxygen participation and likely 
+originated from Ni3(VO4), Ni(V2O6) and Ni2(V2O7) phases (Li et al., 
+2020). Such redox-active sites are known to promote C-–O bond 
+cleavage and oxygen removal facilitating DeCOx pathways (Song et al., 
+2023).
+BET analysis (Table 3, Fig. S2c-f) shows synthesis methods strongly 
+influence surface area and porosity. As anticipated, the Ni/AC catalyst 
+series exhibited the highest surface area, owing to the inherent porous 
+structure of carbon. The BET surface area revealed was ~ 0.71–––2.56 
+m2/g and 918.95–––997.87 m2/g for Ni/V2O5 and Ni/AC series, 
+respectively. As expected, V2O5 crystallizes in dense layered structures 
+which limits the formation of pores and results in low surface area 
+(often < 5 m2/g) (Marberger et al., 2019). Interestingly, Ni/V2O5 M 
+demonstrated the ability to retain a surface area close to that of the V2O5 
+support, suggesting microwave improved dispersion compared to C and 
+S methods. Conversely, S methods resulted in detrimental surface area 
+and porosity, likely due to agglomeration caused by ultrasonic wave 
+cavitation. The N2 adsorption–desorption test shown in Fig. S2(c) car­
+ried out shows Ni/V2O5 series represented a hysteresis type III H3 
+characteristic of slit-shaped pores which was corroborated by SEM im­
+ages. In contrast, Ni/AC series displayed a hysteresis type IV H4 (Fig. S2
+(d)) linked to microporous materials with narrow slit-like pores, as 
+confirmed in SEM images (see Fig. S5c-d). Indeed, this finding in 
+agreement with XRD findings, whereby the M method capable of 
+improving the metal dispersion, preserving surface area and enhancing 
+active site accessibility. As been noted before (Horv´ath et al., 2024), 
+doping metals on a support typically reduces surface area and porosity of 
+Table 3 
+Textural properties and acidity of fresh synthesized catalysts*.

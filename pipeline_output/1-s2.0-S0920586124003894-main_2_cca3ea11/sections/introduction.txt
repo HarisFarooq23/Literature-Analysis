@@ -1,0 +1,262 @@
+As per the International Energy Agency (IEA), the aviation sector 
+accounted for 2 % of global energy-related CO2 emissions amounting to 
+800 million tons of CO2 in 2022. At present, although the aviation sector 
+accounts for a relatively small share of global emissions, it is growing 
+faster than rail, road, or shipping and is one of the most challenging 
+sectors to decarbonise. The environmental impact of petroleum-based 
+jet fuels, primarily due to the significant emission of greenhouse gases 
+(GHG), has prompted a critical examination of alternative, sustainable 
+energy sources for aviation. The petroleum-based aviation turbine fuel 
+(ATF) not only contribute to GHG emissions but also generate pollutants 
+such as NOx, SOx, CO, particulate matter, and volatile organic com­
+pounds [1]. On the other hand, aviation fuel production from sustain­
+able sources such as biomass would not only provide the solution by 
+reducing dependency on fossil fuels but also could offer a promising 
+alternative that minimizes GHG emission. The escalating global con­
+sumption of aviation fuel, predicted to increase by nearly 38 % from 
+2008 levels to 2025 [2], underscores the urgency to explore sustainable 
+alternatives. Biomass-derived aviation fuel has the potential to 
+substitute approximately 30 % of total aviation fuel, presenting a 
+long-term solution to address the aviation industry challenges [3]. In 
+addition, bio-jet fuel has the potential to reduce GHG emissions by 
+65–85 % compared to petroleum-based jet fuel, which will support 
+mitigating environmental impact from the aviation sector [4]. Various 
+pathways, including the catalytic Sugar-To-Jet (STJ), gasification fol­
+lowed by Fischer-Tropsch Synthesis (FTS), Alcohol-To-Jet (ATJ), and 
+Hydroprocessed Renewable Jet (HRJ) have been explored for 
+manufacturing sustainable aviation fuel [5–8]. Among these routes, HRJ 
+stands out as a suitable method for converting UCO and/or non-edible 
+oil or animal fat-based feedstocks into aviation fuel. This process in­
+volves hydrodeoxygenation and hydrocracking of triglycerides in UCO, 
+transforming them into straight-chain alkanes followed by catalytic 
+hydrocracking and hydroisomerization in the subsequent step to meet 
+the required standards for jet fuel. Achieving desirable cold flow prop­
+erties while retaining the fuel’s flash point necessitates the composition 
+of straight-chain alkanes and isomer alkanes within the carbon number 
+range of 9–15. 
+The current methodologies utilized in the manufacturing of bio-jet 
+fuel encounter a plethora of hurdles, primarily stemming from the 
+* Corresponding author. 
+E-mail address: chiranjeevit@bharatpetroleum.in (C. Thota).  
+Contents lists available at ScienceDirect 
+Catalysis Today 
+journal homepage: www.elsevier.com/locate/cattod 
+https://doi.org/10.1016/j.cattod.2024.114895 
+Received 5 February 2024; Received in revised form 6 June 2024; Accepted 17 June 2024
+
+Catalysis Today 442 (2024) 114895
+2
+intricate selection process of feedstock and the demanding pretreatment 
+conditions necessary due to the diverse nature and properties of vege­
+table oils [9,10]. However, amidst these challenges, UCO emerges as a 
+promising solution. Enriched with free fatty acids, UCO stands as a 
+cost-effective and environmentally sound alternative. Widely available 
+across the globe, UCO presents itself as a readily accessible resource, 
+often more economically feasible than pure vegetable oils. Leveraging 
+UCO not only holds the potential to substantially decrease 
+manufacturing expenses but also offers a sustainable solution to address 
+the environmental repercussions associated with the disposal of spent 
+oils into drainage systems [11]. The hydroconversion including hydro­
+deoxygenation of the UCO followed by hydrocracking and hydro­
+isomerization of the generated paraffins involves a complex process of 
+saturation, heteroatom removal, cracking, and isomerization, requiring 
+bi-functional catalysts. The sulfided NiMo, known for its high hydro­
+genation and hydrodesulfurization activity, is commonly employed in 
+the hydrotreatment of refinery sulfur-containing feed to produce low 
+and/or nil sulfur products such as naphtha, middle distillate viz kero­
+sene, diesel, etc [12–15]. Furthermore, the choice of support material is 
+very important for any process that involves supported catalysts. A 
+carrier is usually a high-surface area inorganic material containing a 
+complex pore structure through which catalytic materials are deposited. 
+Earlier it was thought that support only provides a surface to disperse 
+the catalytic substance to maximize the catalytic surface area. However, 
+it is now quite clear that support can and often does play a critical role in 
+maintaining the activity, selectivity, and durability of the finished 
+catalyst. By far the most common carriers used in heterogeneous cata­
+lysts are non-reducible inorganic oxides with a high surface area such as 
+Al2O3, SiO2, TiO2, Al2O3-SiO2, ZrO2 etc. Al2O3 and SiO2owing to their 
+excellent thermal and hydrothermal stability, low cost, and availability 
+in desired purity with a well-controlled range of acidity are frequently 
+employed as catalyst support. To facilitate easy access of bulk molecules 
+to the active sites located within the pores, the support must exhibit a 
+high surface area and large pore size. By changing the Al2O3/SiO2 ratios, 
+Al2O3-SiO2 supports can be designed to meet the above objectives. 
+Despite the advancements in the hydroprocessing of UCO, there is a 
+gap in understanding the activity and selectivity of sulfided catalysts 
+towards the production of jet-range (C9-C15) hydrocarbons through 
+complex hydroconversion process chemistry. The previous studies have 
+explored the catalytic hydroprocessing of UCO, revealing insights into 
+conversion rates and product yields [16–24]. However, efficient cata­
+lysts with extended lifetime and stability, especially for single-step HRJ 
+production from UCO, remain underexplored. In addressing these gaps, 
+the present study focuses on the hydroconversion of UCO over 
+Ni-Mo/Al2O3-SiO2 catalysts in a fixed-bed reactor. Phosphorus is used as 
+the second promoter in UCO hydroconversion catalyst. Phosphorus, a 
+non-metallic element often overlooked in catalyst studies compared to 
+metallic additives, plays a significant role in the NiMo/Al2O3-SiO2 
+catalyst system. Research has shown that phosphorus can stabilize the 
+structure of Al2O3 and prevent the phase transition of γ-Al2O3 to α-Al2O3 
+at high temperatures [25]. When incorporated, phosphorus decorates 
+the hydroxyl groups on the alumina surface, introducing P-OH groups 
+[26] that alter the distribution of Lewis acid and Brønsted acid sites on 
+the Al2O3 surface. This modification can have a profound impact on the 
+catalytic properties and performance of the NiMo/Al2O3-SiO2 catalyst, 
+influencing its activity and selectivity in the hydrodeoxygenation pro­
+cess for converting feedstocks like used cooking oil into sustainable 
+aviation fuel range hydrocarbons. The presence of phosphorus leads to 
+an increase in the catalytic activity and reduction of deactivation [27]. 
+The primary objective of the present study is to investigate the catalyst’s 
+suitability in producing jet-range hydrocarbon molecules viz. paraffins, 
+cycloparaffins, low aromatics with high yield, aligning with jet fuel 
+specifications. This study not only contributes valuable information for 
+optimizing hydrodeoxygenation catalyst formulation and hydro­
+conversion process conditions but also introduces suitable hydro­
+processing routes for producing Jet A-1 range aviation fuel from UCO 
+ensuring longer lifetime and stability of catalyst. 
+2. Experimental methods 
+2.1. Materials 
+Ortho-Phosphoric acid 85 % (AR) (85 % H3PO4), Spectrochem Pvt 
+Ltd, Ammonium hepta molybdate 99 % (Aldrich Chemicals) 
+((NH4)6Mo7O24.4 H2O), Nickel nitrate hexahydrate (AR grade), 
+Aluminum chloride hexahydrate (AR) (AlCl3⋅6 H2O), tetraethoxysilane 
+(TEOS) (AR), ethanol (AR) (C2H5OH) and Hydrochloric acid (AR) (HCl) 
+were purchased from S.D fine chemicals. Ltd and used as received for the 
+synthesis. For the ZSM-22 synthesis 1,6-diaminohexane NH2(CH2)6NH2, 
+potassium hydroxide (KOH), aluminum sulfate (Al2(SO4)3⋅18 H2O), and 
+colloidal silica solution (LUDOX AS-40),were obtained from Alfa Aesar, 
+Merck (India) and Sigma-Aldrich respectively. Distilled water was used 
+for making metal solutions and for catalyst preparation. Iso-octane 
+(extra pure, purity > 99 %) procured from Finar Chemicals. Sulfiding 
+agent dimethyldisulphide (>99 % pure) procured from Central Drugs 
+House Pvt. Ltd. Used cooking oil (UCO) used for experimental purpose 
+was palm oil derived UCO procured from M/s. Advaith Biofuels Ltd. 
+(India). 
+2.2. Catalysts Preparation for Hydrodeoxygenation of used cooking oil 
+The preparation of the catalyst for hydrodeoxygenation involves a 
+two-stage process. The first stage focuses on synthesizing a porous 
+support material. This support is composed of alumina (Al2O3) and silica 
+(SiO2) with tunable Al/Si ratios. The sol-gel method is employed for this 
+purpose, involving three distinct steps. and the second stage involves 
+depositing nickel (Ni) and molybdenum (Mo) onto the prepared support 
+to get the final catalyst. 
+In the first stage, Al2O3-SiO2 support synthesis process involved three 
+steps: (1) the synthesis of mixed sol; (2) the synthesis of wet gel and the 
+process of aging treatment; (3) Supercritical ethanol drying. In step 1, 
+alumina sol and silica sol were prepared separately by stirring the 
+mixture of AlCl3⋅6 H2O/EtOH/ H2O = with the mole ratio of 1/12/35 
+and TEOS/H2O/EtOH/HCl = with the mole ratio of 1/4/6/7.5×10−3 
+respectively. Then both the sols were mixed in molar ratios of Al/Si = 1/ 
+0, 2/1, 3/1 at 30◦C for 60 min to complete the hydrolysis. In step 2, 1,4- 
+dioxane was added to the mixed sol to promote condensation. This was 
+done by quickly stirring the mixture of sols at 30◦C for 15 min and sealed 
+at room temperature to form the wet gel. In the process of aging treat­
+ment, the wet gel was soaked in anhydrous ethanol at 50◦C to strengthen 
+the network and swap out the redundant water and organic matter. 
+In step 3, the wet gel was placed in an autoclave which was sealed 
+and filled with anhydrous ethanol. To ensure safety requirements, the 
+autoclave must be recharged with pure nitrogen gas to exhaust the ox­
+ygen. The absolute pressure was controlled in the range of 0.1–9.1 MPa 
+with the temperature increased to 270 ◦C at a rate of 2 ◦C/min. After the 
+heat-preservation stage, the absolute pressure was slowly reduced to 
+0.1 MPa by the slow release of the ethanol. Finally, the samples were 
+obtained at room temperature. The serial numbers of samples, 90Al- 
+10Si, and 70Al-30Si, corresponded to different mole ratios of Al/Si. 
+Al2O3–SiO2 aerogel, samples were calcined at 550 ◦C respectively for 5 h 
+with a rate of 3 ◦C/min. 
+In the second stage for the preparation of the hydrodeoxygenation 
+catalyst, the support γ-alumina (Trilobe extrudates) was first dried at 
+150◦C for 2 hours and calcined at 550◦C for 5 hours to remove moisture. 
+The pore volume was measured using the water-wetting technique. The 
+Trilobe extrudates were then impregnated with a 0.5 wt% phosphorus 
+solution (85 % H3PO4) using the incipient wetness method. This solution 
+was sprayed onto the extrudates and air-dried for 12 hours at room 
+temperature, followed by drying at 120◦C for 12 hours in an oven, and 
+then calcined at 550◦C for 5 hours to produce a phosphorus- 
+impregnated trilobe catalyst. Subsequently, 10 wt% molybdenum was 
+A. Racha et al.
+
+Catalysis Today 442 (2024) 114895
+3
+impregnated onto the phosphorus-impregnated calcined trilobe support 
+using an (NH4)6Mo7O24⋅4 H2O solution. The sample was air-dried and 
+oven-dried as previously described, followed by calcination at 550◦C for 
+5 hours to obtain MoO3 oxide-supported P-trilobe. 
+Next, a 3 wt% nickel nitrate aqueous solution (Ni(NO3)2⋅6 H2O) was 
+impregnated onto this material. The material was dried at room tem­
+perature for 12 hours, then at 110◦C for 12 hours in an oven, and finally 
+calcined at 550◦C for 5 hours in a muffle furnace, resulting in the NiMo/ 
+γ-Al2O3 catalyst. The same procedure was applied to prepare NiMo/ 
+Al2O3-SiO2 catalysts with the 90:10 and 70:30 Al2O3-SiO2 supports. 
+2.3. Preparation of hydroisomerization catalysts 
+The preparation of hydroisomerization catalysts involves two main 
+stages, the synthesis of ZSM-22 zeolite framework and the subsequent 
+incorporation of platinum on template-free ZSM-22 zeolite. 
+ZSM-22 samples (bulk molar SiAl = 45) were synthesized using 1,6- 
+diaminohexane, NH2(CH2)6NH2 (Alfa Acer, 99 %), as a structure 
+directing agent using the method reported elsewhere [28]. As per the 
+method, the crystallization of ZSM-22 was performed using gel molar 
+composition of 27NH2(CH2)6NH2/12 K2O/Al2O3/60SiO2/3670 H2O by 
+employing potassium hydroxide, KOH (Merck, India); aluminum sulfate, 
+Al2(SO4)3⋅18 H2O (Merck, India); and colloidal silica solution (LUDOX 
+AS-40, Sigma-Aldrich) as precursors. Hydrothermal crystallization of 
+the prepared gel was performed at 160◦C under stirred conditions for 
+18 hours. The crystallized samples were then filtered, washed multiple 
+times with deionized water, dried at 110◦C for 24 hours, and finally 
+calcined at 550◦C for 12 hours in the presence of air to obtain the 
+template-free ZSM-22 zeolite. The template-free zeolite was first 
+ion-exchanged to its ammonium form using a 1 M ammonium nitrate 
+solution under reflux conditions for 24 hours. The H-form of the zeolite 
+was then obtained by calcining the NH4
++-zeolite at 600◦C for 6 hours 
+under an airflow. The zeolite samples were subsequently loaded with 
+0.5 wt% platinum using tetramine platinum (II) nitrate through an 
+ion-exchange route, maintaining the solution pH around 10. The 
+Pt-loaded zeolite sample (65 wt%) was then mixed with 35 wt% 
+pseudo-boehmite and extruded into cylindrical extrudates of 1.6 mm 
+diameter and approximately 3 mm length. These extrudates were 
+calcined at 400◦C under a continuous flow of pure oxygen for 5 hours. 
+The resulting Pt/H-ZSM-22 hydroisomerization catalyst had a bulk 
+molar Si/Al ratio of 45. 
+2.4. Catalyst characterization techniques 
+The supports and catalysts were characterized by different tech­
+niques. The nitrogen (N2) adsorption-desorption profiles of catalysts 
+were measured using a Micromeritics ASAP-2020 plus surface area and 
+porosity analyzer to derive the Brunauer–Emmett–Teller (BET) surface 
+area (SBET), while the total pore volume (Vp) and average pore diam­
+eter were evaluated using the Barrett–Joyner–Halenda method. The X- 
+ray diffraction (XRD) patterns were recorded on a Panalytical AERIS X- 
+ray diffractometer with Cu Kα emission (λ = 1.5406 Å) operating at 
+40 kV and 40 mA. The framework acidity of all the samples was esti­
+mated using ammonia temperature-programmed desorption (TPD) 
+technique (Micromeritics Autochem Chemisorption analyzer). Typi­
+cally, the samples were activated under helium flow at 300 ◦C for 1 h, 
+followed by adsorption of ammonia at 100 ◦C using a gas mixture of 6 % 
+ammonia in helium at a constant flow rate of 25 mL/min. A higher 
+adsorption temperature was selected to minimize the extent of physical 
+adsorption. Furthermore, to ensure the removal of any physically 
+adsorbed ammonia, the sample was purged at 150 ◦C for 2 h under a 
+flow rate of 50 mL/min of high-purity helium (99.99 %). TPD of 
+ammonia was performed by heating the sample in the temperature 
+range 150–900 ◦C, at a rate of 10 ◦C/min and under a helium flow rate of 
+25 mL/min. The amount of ammonia desorbed from the sample was 
+determined using a thermal conductivity detector (TCD) and was used to 
+quantify acidity in terms of micromoles of ammonia desorbed per gram 
+of zeolite sample. 
+2.5. Pretreatment of the used cooking oil (UCOs) 
+Used cooking oil (UCO) underwent a multi-step purification process 
+to remove impurities and Free Fatty Acids (FFAs). The initial step 
+involved filtering the untreated Used Cooking Oil (UCO) to eliminate 
+waste residue, followed by centrifugation to separate the oil layer using 
+a washing technique (hot water extraction method). Subsequently, the 
+oil was aerated to induce bubbling in a separation funnel, facilitating the 
+separation of FFAs from the oil layer. The resulting water/oil mixture 
+underwent phase separation, yielding three distinct phases (water, FFAs, 
+and oils). 
+Finally, the purified oil layer, devoid of FFAs, was isolated and 
+subjected to evaporation to obtain the pretreated UCO, referred to 
+simply as UCO for the subsequent hydrodeoxygenation reactions. This 
+meticulous pretreatment process ensures the removal of impurities and 
+prepares the UCO for efficient utilization in further chemical 
+transformations. 
+2.6. Evaluation of catalytic activity 
+2.6.1. Hydrodeoxygenation of UCO

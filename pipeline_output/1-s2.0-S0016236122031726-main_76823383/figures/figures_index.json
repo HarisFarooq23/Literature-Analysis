@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fig_p1_1",
+    "image": "fig_p1_1.png",
+    "caption": "Embedded image from page 1",
+    "page": 1
+  },
+  {
+    "id": "fig_p1_2",
+    "image": "fig_p1_2.png",
+    "caption": "Embedded image from page 1",
+    "page": 1
+  },
+  {
+    "id": "fig_p1_3",
+    "image": "fig_p1_3.png",
+    "caption": "Embedded image from page 1",
+    "page": 1
+  },
+  {
+    "id": "fig_p3_1",
+    "image": "fig_p3_1.png",
+    "caption": "Embedded image from page 3",
+    "page": 3
+  },
+  {
+    "id": "fig_p4_1",
+    "image": "fig_p4_1.png",
+    "caption": "Embedded image from page 4",
+    "page": 4
+  },
+  {
+    "id": "fig_p7_1",
+    "image": "fig_p7_1.png",
+    "caption": "Embedded image from page 7",
+    "page": 7
+  },
+  {
+    "id": "fig_p8_1",
+    "image": "fig_p8_1.png",
+    "caption": "Embedded image from page 8",
+    "page": 8
+  },
+  {
+    "id": "fig_p9_1",
+    "image": "fig_p9_1.png",
+    "caption": "Embedded image from page 9",
+    "page": 9
+  },
+  {
+    "id": "fig_p10_1",
+    "image": "fig_p10_1.png",
+    "caption": "Embedded image from page 10",
+    "page": 10
+  },
+  {
+    "id": "fig_p11_1",
+    "image": "fig_p11_1.png",
+    "caption": "Embedded image from page 11",
+    "page": 11
+  }
+]

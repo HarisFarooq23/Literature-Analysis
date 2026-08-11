@@ -1,0 +1,62 @@
+was 
+adopted 
+to 
+complete 
+sulfidation 
+of 
+Hydro­
+deoxygenation catalyst.  
+1. The catalyst bed temperature was increased from drying temperature 
+of 120 0C to 240 0C at ramp rate of 10 C/ min while maintaining the 
+neat iso-octane flow (~ 5 mL/h/g cat). The neat iso-octane feed was 
+stopped once the catalyst bed temperature reached 180 ◦C and in­
+jection of iso-octane spiked with DMDS (2.5 mL/h/g cat) was started. 
+The concentration of DMDS was maintained at 0.6 g/L of iso-octane 
+for each gram of catalyst. The sulphidation was continued till the 
+temperature reached 240 ◦C and maintained at 240 ◦C till the time 
+H2S concentration reached 0.5 % or more at the outlet. If H2S is not 
+present then sulfidation is carried out for 4 h at 240 ◦C.  
+2. Then the catalyst bed temperature was increased to 350 ◦C at 1 ◦C 
+/min with continued DMDS feed injection. The temperature was 
+maintained at 350 ◦C till the time H2S concentration reached 1 % or 
+more at the outlet. If H2S is not present then sulfidation is carried out 
+for 4 h at 350 ◦C.  
+3. The reactor pressure is gradually increased to 6 MPa by maintaining 
+the catalyst bed temperature at 350 ◦C. Once 6 MPa hydrogen 
+pressure is achieved at 350 ◦C bed temperature, the UCO feed to the 
+reactor with H2/Oil ratio (v/v) 400 is started. 
+2.6.1.5. Product analysis. The product from the reactor outlet was 
+cooled using a heat exchanger connected to a chiller, and it was further 
+separated into gas and liquid phases in a separator. The liquid product 
+was collected and allowed to settle in a separating funnel from where 
+water formed in the reaction was separated. The hydrocarbon product 
+was dried overnight over anhydrous sodium sulfate and analysed for 
+various physical properties. The viscosity and pour points were 
+measured as per ASTM D445 & D97 respectively. SIMDIST analysis was 
+performed on liquid products to ascertain the different ranges of hy­
+drocarbons formed during the reaction. 
+2.6.2. Hydroisomerization of the hydrodeoxygenated oil 
+This was performed using a fixed-bed, up-flow reactor of dimensions 
+47 cm × 1.1 cm (internal diameter) with a catalyst bed length of 8 cm 
+and equipped with a thermowell (diameter = 3 mm, length = 40 mm) 
+for measurement of the catalyst bed temperature. The catalyst was 
+placed in the reactor to have a minimum temperature gradient and to 
+have a sufficient layer of inert material toward the input to ensure 
+proper preheating and distribution of feed before it first reached the 
+catalyst zone. During the loading process, the catalyst was typically 
+divided into multiple batches. Following each batch of the catalyst, 
+80−120 mesh sand was packed into the void spaces of the catalyst bed, 
+thus ensuring the uniformity of gas/liquid flow distribution. Typically, 
+about 5 g of catalyst extrudates were loaded in the reactor as per the 
+procedure. The catalyst was dried under nitrogen flow at 100 mL/min 
+for 12 h at a temperature of 120 ◦C followed by reduction for a period of 
+5 h at 300 ◦C. The system pressure and temperature were brought to the 
+desired operating conditions, and the HDO feed was pumped at the rate 
+of 7.2 mL/h in the reactor using a high-performance liquid chroma­
+tography pump (HPLC pump). The product from the reactor outlet was 
+cooled using a heat exchanger connected to a chiller, and it was further 
+separated into gas and liquid phases in a separator. Liquid products were 
+collected and subjected to simulated distillation (SIMDIST) analysis. 
+Further D-86 analysis was carried out on the liquid products for 
+obtaining the hydroisomerised Kero fraction (150–300 ◦C). This pour- 
+point of this fraction was measured following the ASTM D97 method.

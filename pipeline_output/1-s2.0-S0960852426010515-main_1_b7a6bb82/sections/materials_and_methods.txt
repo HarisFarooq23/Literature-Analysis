@@ -1,0 +1,112 @@
+2.1. Materials
+Commercial Vanadium Oxide (V2O5) with purity > 99.6% was pur­
+chased from Sigma-Aldrich, USA. Nickel (II) Nitrate Hexahydrate (Ni 
+(NO3)2⋅6H2O) with 99% purity, Activated Carbon (AC) powder was 
+supplied by Chemiz (M) Sdn. Bhd, Malaysia and Sulfuric Acid (98% 
+purity) was procured from J.T. Baker, USA and n-Hexane GC grade 
+procured from Supelco, Germany. Waste cooking oil (WCO) derived 
+from palm oil feedstocks was obtained from a local street vendor in 
+Kuala Lumpur, Malaysia. The oil obtained was left to rest for 48 h before 
+carefully decanting to leave behind large impurity solids. Whatman 
+grade 1 (11 μm) filter paper was used to filter finer impurities. Pre­
+heating at 110 ℃ for 2 h was necessary to remove water content. The 
+analysis of fatty acid composition of WCO is exhibited in Table 1. The 
+acid value and free fatty acid (FFA) were quantified, and the results were 
+consistent with the typical range reported in the literature (Plata et al., 
+2022).
+Catalysts Synthesis and Treatments.
+Ni/V2O5 was prepared using the wet-impregnation method where a 
+1:6.5 solid-to-liquid ratio was employed based on the support water 
+solubility of 515 g/l according to Sigma Aldrich (USA). A nickel loading 
+of 20 wt% was selected based on prior studies, whereby this loading was 
+associated with high density of accessible Ni sites and high catalytic rate 
+without excessive sintering or pore blockage (Jeon et al., 2022). 
+Therefore, 9.92 g of Ni(NO3)2⋅6H2O was dissolved in 15.53 ml of 
+deionised water to produce Ni salt (20 wt%) which was added dropwise 
+into 8 g of V2O5 and mixed continuously at room temperature for 
+approximately 12 h impregnation time, this was denoted as Ni/V2O5 
+Conventional (C). In another instance the Ni salt (20 wt%) was incor­
+porated into the V2O5 and exposed to 80 W microwave irradiation at 
+210 rpm stirring speed for 30 min with 5 s on and 25 s off cycles using a 
+household microwave oven (Sharp, Japan) and left to rest for 1 h, this 
+was marked as Ni/V2O5 Microwave (M). Another case, the impregnated 
+sample was subjected to sonication performed at 60% amplitude (500 
+W, 20 kHz) for 30 min, utilizing a pulsed mode with 5 s on and 25 s off 
+cycles and left to rest for 1 h, this was represented as Ni/V2O5 Sonicator 
+(S). Similar procedures were carried out for Ni/AC C, M and S, respec­
+tively. However, prior to use, the commercial activated carbon under­
+went chemical activation by reflux with sulfuric acid at 150 ◦C under a 
+nitrogen atmosphere for 12 h. The sample was subsequently washed 
+with warm distilled water (>85 ℃) until a neutral pH (pH = 7) was 
+achieved, ensuring the removal of residual sulfate ions and other un­
+wanted impurities. Finally, it was subjected to drying in an oven at 100 
+℃ for 12 h. All impregnated samples were dried at 100 ℃ for 24 h. 
+Additionally, the catalysts underwent a necessary pre-treatment step of 
+calcination where V2O5 was calcined at 600 ℃ for 4 h in air, while Ni/ 
+AC and Ni/V2O5 were calcined at 600 ℃ for 4 h in a N2 inert environ­
+ment, to boost their activity for the impending DO process. For com­
+parison, the estimated energy consumption of each synthesis route is 
+summarized in Table 2. It is worth noting that M and S methods required 
+approximately 95% less time compared to conventional stirring, while 
+also consuming significantly lower energy, with reductions of about 
+67–77%.
+2.2. Catalysts characterization
+The specific surface area, pore volume, and pore size distribution of 
+the samples were determined using nitrogen adsorption–desorption 
+isotherms measured at liquid nitrogen temperature (−196 ◦C). The 
+analysis was performed using a Micromeritics TriStar II PLUS. Prior to 
+analysis, the samples were degassed under vacuum at 150 ◦C for 4 h, to 
+remove any impurity gas or vapours which may have adsorbed onto the 
+surface from the ambient air. The surface area was calculated using the 
+Brunauer–Emmett–Teller (BET) method, while the pore size distribution 
+was obtained using the Barrett–Joyner–Halenda (BJH) method. The 
+crystalline phases and structural properties of the catalysts were ana­
+lysed using powder X-ray diffraction (XRD). The measurements were 
+carried out on a Bruker D8 Advance equipped with Cu Kα radiation (λ =
+1.54060 Å), operated at 40.0 kV and 40.0 mA. Scans were conducted 
+over a 2θ range of 5◦- 80◦at a scanning rate of 0.0384◦/min. The 
+resulting diffractograms were compared with standard reference pat­
+terns from the International Centre for Diffraction Data (ICDD) to 
+identify crystalline phases, and crystallite size was calculated using 
+Debye-Scherrer equation. Thermal stability of the samples was exam­
+ined using thermogravimetric analysis (TGA). The analysis was per­
+formed using a Mettler Toledo TGA/SDTA 851e. Approximately 10 mg 
+of sample was placed in a ceramic crucible and heated 25 ◦C to 900 ◦C at 
+a heating rate of 30 ◦C/min under a N2 flow of 40 mL/min. The acidity of 
+the catalyst was evaluated using temperature programmed desorption 
+with ammonia (TPD-NH3) analysis on a Micromeritics AutoChem II Plus. 
+The sample was pretreated in N2 at 300 ◦C for 30 min, then cooled to 
+50 ◦C and exposed to a 5% NH3/He gas mixture for 30 min. After 
+flushing with He for another 30 min, the temperature was ramped up to 
+900 ◦C, and the desorbed ammonia was detected by a thermal conduc­
+tivity detector (TCD). The catalyst reducibility was assessed using 
+Temperature programmed reduction (H2-TPR) analysis on a Micro­
+meritics AutoChem II Plus. The sample was first pretreated in N2 flow of 
+20 cm3/min at 150℃ for 1 hr, followed by cooling to ambient temper­
+ature. The catalyst was then subjected to a 10% H2/N2 gas mixture, and 
+the temperature was increased to 900℃ at a rate of 15 ℃/min while H2 
+Table 1 
+Fatty acid composition of WCO*.
+Properties
+WCO
+FFA Content (%)
+0.55 ± 0.04
+Acid Value (mg KOH/g)
+1.1033 ± 0.07
+Fatty Acid Composition (%)
+​
+Myristic acid (C14)
+0.91 ± 0.37
+Palmitic acid (C16:0)
+34.42 ± 0.21
+Palmitoleic acid (C16:1)
+0.60 ± 0.20
+Margaric acid (C17:0)
+0.10 ± 0.07
+Oleic Acid (C18:1)
+59.36 ± 0.36
+Others
+4.61 ± 0.44
+* Values are reported as mean ± standard deviation (n = 3).
+Table 2 
+Energy consumption of different synthesis methods*.

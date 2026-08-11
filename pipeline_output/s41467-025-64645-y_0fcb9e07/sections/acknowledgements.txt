@@ -1,0 +1,58 @@
+The authors acknowledge funding from the U.S. Department of Energy
+(EE0009269, Y.Z.) and National Science Foundation Graduate
+Research Fellowship Program (S.S.). The authors also thank the Uni-
+versity of Illinois Materials Research Laboratory Central Research
+Facilities, School of Chemical Sciences Microanalysis Laboratory, and
+Mass Spectrometry Lab for use of their facilities and expertise. Any
+opinions, ﬁndings, and conclusions or recommendations expressed in
+this material are those of the authors and do not necessarily reﬂect the
+views of the sponsors.
+Author contributions
+S.S. and S.Y1. performed the biocrude oil hydrotreating experiments.
+S.S. performed the physicochemical characterization of biocrude oil,
+calculated the CI values, and wrote the manuscript. B.S., Z.W., J.W., S.Y3.
+and Z.Y. participated in discussion of the fuel property analysis and
+design of experiments. Z.Y. and J.S.H. performed the SAF Tier α property
+prescreening. H.K. produced the HTL biocrude oil used in this project.
+Y.Z. supervised and directed this project. All authors commented on the
+manuscript.
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+10
+
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s41467-025-64645-y.
+Correspondence and requests for materials should be addressed to
+Yuanhui Zhang.
+Peer review information Nature Communications thanks Lasse Rosen-
+dahl and the other anonymous reviewer(s) for their contribution to the
+peer review of this work. A peer review ﬁle is available.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jur-
+isdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License,
+which permits any non-commercial use, sharing, distribution and
+reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the
+Creative Commons licence, and indicate if you modiﬁed the licensed
+material. You do not have permission under this licence toshare adapted
+material derived from this article or parts of it. The images or other third
+party material in this article are included in the article’s Creative
+Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons
+licence and your intended use is not permitted by statutory regulation or
+exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this licence, visit http://
+creativecommons.org/licenses/by-nc-nd/4.0/.
+© The Author(s) 2025
+Article
+https://doi.org/10.1038/s41467-025-64645-y
+Nature Communications|  (2025) 16:9570 
+11

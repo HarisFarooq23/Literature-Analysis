@@ -1,0 +1,109 @@
+3.1. Catalyst characterisation 
+3.1.1. X-ray diffraction 
+The acquired X-ray diffraction (XRD) patterns covered an angular 
+range of 2θ = 10–80◦. The patterns were recorded with a step size of 
+0.01◦and a step acquisition time of 0.5 s. The average crystallite size, L, 
+was calculated using the Scherrer Eq. (1).  
+L= Kλ/βcos(θ)                                                                               (1) 
+where K is a dimensionless shape factor, with a value close to unity; λ is 
+the wavelength of the X-ray radiation; β is the line broadening at half the 
+maximum intensity (FWHM), and θ is the Bragg angle. Instrument 
+broadening was considered. 
+X-ray diffraction (XRD) analysis provided insights into the crystal­
+linity and distribution of NiMo catalysts supported on various materials. 
+Despite γ-Al2O3 predominant amorphous nature and well-dispersed 
+active species, subtle distinctions became apparent with increasing sil­
+ica content. The catalyst with Al2O3/SiO2 ratio of 90:10 showed faint 
+signals suggesting residual silica, while the catalyst with Al2O3/SiO2 
+ratio of 70:30 catalyst exhibited a broad hump indicative of amorphous 
+silica. Crystalline phases of MoO3, NiO, and their interaction product 
+(NiMoO4) remained elusive, particularly in the high-silica catalyst. The 
+crystallite size as estimated for Ni from the Scherrer Eq. (1) is 4 nm 
+possibly existing as nanoscale crystallites (sub-4 nm) or well-dispersed 
+species on the high surface area supports. No NiMoO4 peaks suggested 
+a potential low abundance or potential amorphous state. 
+The peaks observed around 2θ values of approximately 37.5◦, 45.9◦, 
+and 67.5◦; corresponding to the (311), (400), and (440) crystallographic 
+planes, respectively; confirm the gamma alumina. The peak around 21◦
+corresponds to the SiO2 (101) inclusion in 90:10 and 70:30 Alumina: 
+Silica supports. The incorporation of more silica has increased the 
+crystallinity of the support as reflected in 70:30 Alumina: Silica support. 
+There are no evident peaks of Ni and Mo in the XRD pattern of the 
+catalyst indicating higher dispersion and a high amorphous nature of the 
+support.  
+To further investigate the catalyst’s composition and validate the 
+good dispersion of metal oxides on the support we performed XRD 
+analysis of the catalyst at higher temperatures (up to 1000◦C). Fig. 3. 
+Well-dispersed metal oxides like NiMo on Al2O3-SiO2 (70:30) support 
+typically exhibit good stability at calcination temperatures up to 750 ◦C. 
+Fig. 1. X-ray analysis of (a) γ-Al2O3 (b) Al2O3-SiO2 (90:10) (c) Al2O3-SiO2 
+(70:30) (d) NiMo/γ-Al2O3 (e) NiMo/ Al2O3-SiO2 (90:10) (f) NiMo/ Al2O3- 
+SiO2 (70:30). 
+A. Racha et al.
+
+Catalysis Today 442 (2024) 114895
+5
+Interestingly, we observed an increase in the intensity of the peaks 
+around 46◦and 66.7◦at higher temperatures (900 & 1000 ◦C). This 
+could suggest the presence of (111) and (211) planes of Ni and Mo 
+species, respectively. Additionally, Scherrer equation analysis of the 
+XRD pattern revealed a crystallite size of approximately 60 nm for the 
+intense metal oxide peaks, further supporting the presence of highly 
+dispersed nanoparticles at temperatures below 550 ◦C. High tempera­
+tures can induce phase transformations in the metal oxides, influencing 
+their crystallinity properties. Optimizing the calcination process re­
+quires balancing these factors to achieve well-dispersed and catalytically 
+active nanoparticles. 
+3.1.2. Textural properties 
+Nitrogen adsorption-desorption isotherms (Fig. 4) provide valuable 
+insights into the textural properties of γ-Al2O3 and Al2O3-SiO2 supports. 
+All samples exhibit type IV isotherms, indicating mesoporous structures 
+with narrow pore size distributions. Hysteresis loops confirm the pres­
+ence of mesopores, particularly for γ-Al2O3, Al2O3-SiO2 (90:10) and 
+Al2O3-SiO2 (70:30). Specific surface area was calculated from adsorp­
+tion data in the range (0.01 < P/Po < 0.08). The surface area decreases 
+with increasing SiO2 content: γ-Al2O3 (250.14 m2/g) > Al2O3-SiO2 
+(90:10) (224.30 m2/g) > Al2O3-SiO2 (70:30) (190.52 m2/g) given in  
+Table 1. The observed decrease in surface area with increasing SiO2 
+content in Al2O3-SiO2 supports can be attributed to the modification of 
+Fig. 2. X-ray analysis of NiMo/Al2O3-SiO2 (70:30) at (a) 550 ◦C (b) 600 ◦C, (d) 
+650 ◦C (e) 700 ◦C (f) 750 ◦C (g) 900 ◦C (h) 1000 ◦C. 
+Fig. 3. BET analysis of (a) γ-Al2O3 (b)Al2O3-SiO2 (90:10) (c)Al2O3-SiO2 (70:30).  
+A. Racha et al.
+
+Catalysis Today 442 (2024) 114895
+6
+the alumina’s pore structure by silica. This phenomenon likely occurs 
+through a combination of factors. Firstly, SiO2 particles may act as pore 
+fillers, occupying the voids within the Al2O3 matrix and reducing the 
+accessible surface area. Secondly, silica deposition can lead to a denser 
+and smoother surface, diminishing the inherent roughness of alumina 
+and thereby decreasing the overall surface area available for adsorption. 
+Additionally, the presence of SiO2 might influence the pore size distri­
+bution, potentially hindering the formation of smaller mesopores which 
+contribute more significantly to the total surface area. Finally, during 
+synthesis, SiO2 could promote the aggregation of alumina particles, 
+resulting in larger clusters with a lower total surface area compared to 
+the sum of individual particles. These combined effects of pore filling, 
+surface smoothing, altered pore size distribution, and particle aggrega­
+tion contribute to the observed decrease in surface area with increasing 
+SiO2 content in Al2O3-SiO2 supports [29]. The total pore volume 
+(assessed at P/Po = 0.95) and average pore diameter (BJH method) 
+increase with increasing SiO2 content. γ-Al2O3 shows the smallest pore 
+volume (0.60 cm3/g) and narrowest average pore diameter (52.85 Å), 
+indicating a more confined network. Higher SiO2 content leads to pore 
+structures with larger pore volumes and diameters. The surface areas 
+and pore volumes of the impregnated active catalysts varied in the range 
+(151–210 m2/g and 0.4–0.5 mL/g, respectively), highlighting the in­
+fluence of metal deposition on textural properties. 
+3.1.3. Ammonia temperature programmed desorption (NH3-TPD) 
+The ammonia temperature-programmed desorption (NH3-TPD) re­
+sults highlight the critical role of the Al2O3:SiO2 ratio in fine-tuning the 
+acidity of catalyst supports and NiMo bimetal catalysts, which signifi­
+cantly impacts the selectivity and conversion of sustainable aviation fuel 
+(SAF) range hydrocarbon molecules. The γ-Al2O3 support exhibits a 
+notable presence of weak and strong acid sites, while the introduction of 
+SiO2 in the Al2O3:SiO2 mixtures enhances both weak and strong acid 
+Fig. 4. BET analysis of (d) NiMo/γ-Al2O3, (e) NiMo/Al2O3-SiO2 (90:10), (f) NiMo/Al2O3-SiO2 (70:30).  
+Table 1 
+Surface Area and pore size distribution analysis.

@@ -1,0 +1,283 @@
+Catalyst:WCO
+Solvent
+Performance (%)
+Ref.
+1
+Spent FCC
+FCC-unit
+(bench scale)
+480 ◦C, 1 bar
+3.5:1
+Solvent free
+YLPG = 14–18
+Ygasoline = 40–42
+Ydiesel = 25–29
+[135]
+2
+Ni-MoS2/Al2O3
+Fixed-bed
+420 ◦C, LHSV of 1 h−1,
+10 bar a
+-
+Solvent free
+X = 96.6
+SC8-C16 = 55.6
+[21]
+3
+Ni-MoS2/
+Al2O3-SiO2
+Fixed-bed
+350 ◦C, WHSV of 1.1 h−1,
+60 bar a
+-
+Solvent free
+X = 86.69
+SC8-C16 = 74.8
+[136]
+4
+Ni-Co/
+SBA-15-SH
+Semi-batch
+350 ◦C, 2 h, 5 bar b
+1:20
+Solvent free
+SC8-C16 = 92
+[137]
+5
+Ni-Co/TiO2
+Batch
+350 ◦C, 3 h, 1 bar b
+3:100
+Solvent free
+SC8-C16 = 44.5
+[138]
+6
+Ni/PO4–ZrO2
+Semi-batch
+350 ◦C, 2 h,
+atmospheric pressure
+-
+Solvent free
+YC8-C16 = 54.7
+[139]
+7
+Ni/Al2O3
+Batch
+350 ◦C, 1 h, 6 bar b
+1:200
+Solvent free
+YC8-C16 = 80.2
+[140]
+8
+Pt–Fe2O3–ZrO2
+Batch
+375 ◦C, 4.5 h, 10 bar a
+1:20
+Solvent free
+Not specified
+[141]
+9
+Co-Mo/CNT
+Batch
+350 ◦C, 5 h, 70 bar a
+1:10
+n-decane
+X = 100
+SC8-C16 = 15.4
+[64]
+10
+Mo2C /CNF
+Fixed-bed
+350 ◦C, 70 bar a, WHSV of
+0.05 mLWCO gcat−1 min−1,
+-
+n-decane
+YC15-C18 = 87
+[110]
+11
+Ni2P/AC
+Fixed-bed
+300 ◦C, 1 bar a, GHSV c of
+2.33 min−1
+1:10
+n-heptane
+X = 89
+YC15-C18 = 77.4
+[142]
+13
+Co-Mo/
+CNT+H-ZSM-5
+Fixed-bed
+325 ◦C, 70 bar a, WHSV of
+0.05 gWCO gcat−1 min−1
+-
+n-decane
+SC8-C16 = 30.6
+[143]
+a Initial H2 pressure at room temperature; b Initial N2 pressure at room temperature; c Gas hourly space velocity.
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+23 of 36
+Later, Verma et al. [21] conducted a comprehensive reaction parameters optimization
+study over a commercial sulfided Ni-Mo/Al2O3 catalyst using a filtered WCO with 320 and
+390 ppm of N and S, respectively. Under optimal conditions, the catalyst achieved 96.6%
+WCO conversion and 55.6% selectivity to SAF-range hydrocarbons, with a remarkable
+isomer yield of 82.9% and an iso/n ratio of 4.8 (entry 2, Table 5). The jet fraction consisted
+mainly of paraffins (43.6%), followed by naphthenes (8.2%) and very low aromatic content
+(3.73%). Heteroatom removal was almost complete (99.9% of N, 94.3% of S, and 99.9% of O)
+during hydroprocessing.
+In addition to these advances, Racha et al. [136] provided further insight into the
+catalytic upgrading of WCO through a two-step reaction: hydroprocessing route followed
+by isomerization. The authors also tested bimetallic Ni-Mo as a metal phase (Mo in its
+sulfide form) but supported on mixed Al2O3-SiO2 oxides. The study focused on how the
+Al2O3:SiO2 ratio influences textural properties, metal-support interactions, and the forma-
+tion of active MoS2 phases. Among the evaluated formulations, the catalyst supported on
+Al2O3-SiO2 with a 70:30 ratio showed the best performance during the HDO step, achieving
+86.69% conversion of degummed WCO and 74.8% selectivity to SAF-range hydrocarbons
+under relatively mild conditions (entry 3, Table 5).
+Recent advances in Ni- and NiCo-based catalysts have demonstrated their strong
+potential for converting WCO into SAF. Razak et al. [137] showed that bimetallic Ni-Co
+catalysts supported on SBA-15 exhibit enhanced activity when the support is functionalized
+with -SH groups, which improves surface area, pore size, and acidity. Metal load was also a
+key factor in the performance, since excessive metal loading (10 wt.%) reduced accessibility
+to active sites, whereas the Ni-Co/SBA-15-SH catalyst achieved the best performance under
+H2-free reaction, producing 80% hydrocarbon yield with 92% SAF selectivity (entry 4,
+Table 5). Also under hydrogen-free conditions, Goh et al. [138] developed a Ni-Co/TiO2 cat-
+alyst capable of efficiently deoxygenating WCO, achieving 83.13% deoxygenation and 44.5%
+selectivity to jet fuel under optimized parameters identified by Box–Behnken methodology
+(entry 5, Table 5).
+Focusing on monometallic Ni systems, Saviola et al. [139] synthesized Ni supported
+on PO4–ZrO2 nanocatalysts, reporting superior acidity, dispersion, and activity compared
+to conventional wet impregnation. Their optimal catalyst 1 wt.% Ni/ PO4–ZrO2 yielded
+54.7% of SAF (entry 6, Table 5). After five consecutive runs, SAF yield slightly declines to
+41.1%. A different approach was explored by Khan et al. [140], who proposed a synergistic
+thermocatalytic process coupling catalytic cracking with in situ hydrogen production, using
+a Ni/Al2O3 catalyst. Under optimized conditions, the process yielded 80.2% of C8-C16,
+with minimal coke (1%), offering a cost-effective dual-output route aligned with circular
+economy goals (entry 7, Table 5).
+Beyond Ni- and Co-based systems, several studies have explored alternative catalytic
+formulations for WCO upgrading. Jamil et al. [141] developed a novel Pt–Fe2O3–ZrO2
+catalyst with elevated acidity, porosity, and metal dispersion, enabling 91.3% of total
+deoxygenation and the formation of hydrocarbons in the diesel and aviation ranges (entry 8,
+Table 5).
+Although carbon-based catalysts remain scarce in the hydroprocessing of WCO, the
+available studies clearly demonstrate their strong potential. Ferreira et al. [65] evaluated
+Ni(Co)-Mo bimetallic catalysts supported on CNT and CNTox for WCO upgrading. Char-
+acterization results showed the presence of MoO2 species in all evaluated catalysts, as well
+as mixed Co-Mo oxides. Additionally, no significant differences in the total acidity of the
+catalysts supported on pristine CNT and oxidatively treated CNT were identified. This
+was reflected in the similar performance observed during the screening of the prepared
+materials. The Ni–Mo/CNTox catalyst showed no deactivation after four consecutive
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+24 of 36
+reactions, reaffirming the excellent stability of carbon-based catalysts in hydrotreatment
+reactions. The presence of Co led to the production of isomers in the range of the C8-C16
+(entry 9, Table 5). However, the catalysts were more selective to the green diesel range
+(around 70%), confirming the higher capacity for deoxygenating triglycerides and less
+capability to crack high molecules into small ones.
+Muñoz-Arjona et al. [110] showed that Mo2C supported on CNF (Mo2C/CNF) is
+highly effective for HDO, first using stearic acid as a model compound and then applying
+the catalyst to real WCO in a trickle-bed reactor. At 350 ◦C, Mo2C/CNF achieved up to
+87 mol.% C15–C18 hydrocarbons, predominantly through the direct HDO route, but with
+minimal cracking (entry 10, Table 5). Earlier work by Pham et al. [142] also demonstrated the
+viability of carbon support, using activated-carbon-supported nickel phosphides (Ni2P/AC)
+for atmospheric-pressure HDO of WCO. The authors achieved more than 85% oxygen
+removal and produced mainly n-alkanes in the C15–C19 range (entry 11, Table 5). Ribeiro
+et al. [143] investigated the conversion of WCO using a physical mixture of Co-Mo/CNT
+and H-ZSM-5 in continuous and discontinuous modes. A high content of aromatics
+was obtained with these catalysts in the reaction performed in batch (around 75% of
+selectivity). On the other hand, the physical mixture provided a higher selectivity in C8-C16
+hydrocarbons when performed in a fixed-bed reactor (entry 12, Table 5), showing the
+importance of aligning catalyst properties with suitable reaction systems to maximize the
+selectivity in the desired products.
+Based on the compilation of the main results reported in the literature, there remains
+significant room for the development of carbon-based catalysts, particularly those based
+on CNT. Important knowledge gaps persist regarding how modifications to the surface
+chemistry of these materials, especially the introduction of acidic functional groups through
+nitric acid oxidation, can influence product selectivity within the C8–C16 hydrocarbon range.
+Furthermore, the literature demonstrates that metal-supported carbon catalysts exhibit
+excellent performance in deoxygenation reactions via HDO, with Mo standing out as an
+effective active metal phase. Nevertheless, the promotion of cracking and isomerization
+reactions remains limited when carbon-based catalysts are employed. Beyond surface
+acidity modification, the incorporation of acidic solids (such as zeolites), either through
+simple physical mixtures or the formation of hybrid materials, has been scarcely explored,
+highlighting the need for further systematic investigations.
+6. Catalytic Upgrading of Plastic Waste
+In addition to lipid-based feedstocks, other second-generation sources have gained in-
+creasing attention as complementary routes to meet the growing demand for SAF. Although
+WCO represents an attractive low-cost and low-carbon feedstock, its limited availability is
+insufficient to sustain large-scale SAF production [52]. In this context, alternative feedstocks
+such as plastic waste emerge as promising candidates due to their high hydrocarbon content,
+wide availability, and the urgent need for environmentally responsible disposal pathways.
+Global plastic consumption has increased significantly over recent decades, leading to
+a substantial rise in plastic waste generation. This growing volume places significant pres-
+sure on waste management systems and represents an environmental concern. Since 1950,
+approximately 6.3 billion tons of plastic have been produced worldwide, of which only
+about 9% has been recycled [144].
+From creation to disposal, plastic has detrimental consequences on the ecosystem.
+Its end of life causes a number of issues, including the release of toxic gases through
+incineration, the formation of microplastics during degradation in the environment or in
+landfills, which have an impact on human and animal health, and contribute to landfill
+overload due to its prolonged degradation time, even though its production involves the
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+25 of 36
+consumption of fossil resources and the emission of GHG [14]. In this context, promoting
+an appropriate and sustainable end-of-life destination for plastics is crucial to minimize
+environmental damage and ensure long-term ecological balance.
+There are several classification systems for different types of plastics, which mainly
+depend on the stage of the plastic life cycle considered. One of the most widely used
+systems is the resin identification code (RIC), designed for both the use and end-of-life
+phases and commonly found on consumer packaging. Developed to support recycling
+processes, RIC originated the ASTM D7611/D7611M-20. This system defines standardized
+symbols and numerical codes for six packaging plastics: polyethylene terephthalate (PET),
+high-density polyethylene (HDPE), polyvinyl chloride (PVC), low-density polyethylene
+(LDPE), polypropylene (PP), and polystyrene (PS) (all numbered from one to six, while
+code seven is reserved for other polymers) [145].
+Overall, plastics are distinguished by their chemical composition, with each polymer
+consisting of repeating monomer units. Figure 9 illustrates the RIC and the condensed
+molecular formula of each polymer. They are composed mainly of C and H atoms and, in
+some cases, heteroatoms like O and Cl. Their C–C bonds can be cleaved by hydrogenoly-
+sis reactions in the presence of hydrogen pressure, temperature, and a metal-supported
+catalyst [13,146]. The produced hydrocarbons can undergo cracking and isomerization
+reactions. In this perspective, plastics are attractive feedstocks for jet fuel production due
+to their chemical structure and the urgency to give a final disposition to plastic waste.
+Figure 9. Plastic recycling RICs and their molecular formula.
+The production of aviation fuel from plastic residues is not yet consolidated as one of
+the technologies defined by the ASTM. However, advances regarding the development of a
+new technological route to convert plastics have been recently debated by the ASTM Com-
+mittee D02 on Petroleum Products, Liquid Fuels and Lubricants. The proposed standard
+route, plastic-to-jet synthetic kerosene with aromatics (PtJ-SKA), admits that the feedstock
+is a waste plastic processed oil made from post-consumer waste plastic mainly composed
+of LDPE, HDPE, and PP [147]. Consequently, studies involving the conversion of these
+feedstocks have been emerging in recent years. The most widely produced industrial
+polymers are LDPE and HDPE, and, therefore, they are also the most commonly studied in
+the literature [12]. From a process point of view, their conversion could be approached by
+applying catalytic systems analogous to those used in the upgrading of lipid-based feed-
+https://doi.org/10.3390/su18104727
+
+Sustainability 2026, 18, 4727
+26 of 36
+stocks to SAF, adapting reaction conditions and catalyst formulations to accommodate the
+polymeric nature of plastics. However, it is important to note that, while lipid conversion
+is mainly governed by deoxygenation pathways, the conversion of polyolefins involves
+hydrogenolysis at metal sites and cracking reactions over both metal and acid sites.
+Different catalysts have been developed to convert plastic into liquid fuels. Noble
+metals such as Ru have a special role in hydrogenolysis reactions and are mostly applied
+in polymer reactions. Commercial Ru/C was studied by Jia et al. [148], Rorrer et al. [149],
+and Chen et al. [146] to convert HDPE and LDPE into liquid fuels. The results showed
+great performance of this catalyst, with a 99–100% conversion and selectivity of 60% in
+C8-C16 (entry 1, Table 6), a liquid yield of 45% (entry 2, Table 6), and selectivity of 57%
+in C12-C20 (entry 3, Table 6). Despite differences in the use of Ru/C, some consistent
+trends can be observed. Complete conversion is achieved in all cases, confirming its high
+activity for hydrogenolysis. However, product distribution depends strongly on reaction
+conditions. Higher temperatures and shorter times favor C8–C16 hydrocarbons, whereas
+milder conditions require longer reaction times and tend to produce heavier fractions or
+lower liquid yields.
+Table 6. Results of the catalytic conversion of different polymers a.
+Entry
+Polymer

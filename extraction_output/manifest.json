@@ -1,0 +1,20 @@
+{
+  "llm_extract_version": "0.1.0",
+  "generated_at": "2026-08-11T07:07:02.968069+00:00",
+  "domain": "biodiesel",
+  "models": {
+    "primary": "qwen2.5vl:3b",
+    "cross_check": "qwen2.5vl:3b",
+    "tie_breaker": "qwen2.5vl:3b",
+    "vision": "qwen2.5vl:3b"
+  },
+  "figure_vision_enabled": true,
+  "tables_included": true,
+  "n_papers_clean": 6,
+  "n_papers_failed": 0,
+  "n_unresolved_field_flags": 0,
+  "agreement_status_counts": {
+    "full_agreement": 6
+  },
+  "source_pipeline_output_root": "pipeline_output"
+}

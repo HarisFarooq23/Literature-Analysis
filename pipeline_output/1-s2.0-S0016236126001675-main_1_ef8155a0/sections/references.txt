@@ -1,0 +1,469 @@
+[1] Bergero C, Gosnell G, Gielen D, Kang S, Bazilian M, Davis SJ. Pathways to net- 
+zero emissions from aviation. Nat Sustain 2023;6(4):404–14. https://doi.org/ 
+10.1038/s41893-022-01046-9.
+[2] Hoelzen J, Silberhorn D, Zill T, Bensmann B, Hanke-Rauschenbach R. Hydrogen- 
+powered aviation and its reliance on green hydrogen infrastructure – review and 
+research gaps. Int J Hydrogen Energy 2022;47(5):3108–30. https://doi.org/ 
+10.1016/j.ijhydene.2021.10.239.
+[3] Song Z, Li Z, Liu Z. Comparison of emission properties of sustainable aviation 
+fuels and conventional aviation fuels: a review. Appl Sci 2024. https://doi.org/ 
+10.3390/app14135484.
+[4] Azzena U, Montenero A, Carraro M, Crisafulli R, De Luca L, Gaspa S, et al. 
+Recovery, purification, analysis and chemical modification of a waste cooking oil. 
+Waste Biomass Valoriz 2023;14(1):145–57. https://doi.org/10.1007/s12649- 
+022-01845-3.
+[5] Delzeit R, Heimann T, Schuenemann F, Soeder M. Using used cooking oil (uco) 
+for biofuel production: effects on global land use and interlinkages with food and 
+feed production. 2019. https://ageconsearch.umn.edu/record/333075/files/ 
+9337.
+[6] Kumar A, Bhayana S, Singh PK, Tripathi AD, Paul V, Balodi V, et al. Valorization 
+of used cooking oil: challenges, current developments, life cycle assessment and 
+future prospects. Discover Sustainability 2025;6(1):1–31. https://doi.org/ 
+10.1007/s43621-025-00905-7.
+[7] Awogbemi O, Onuh EI, Inambao FL. Comparative study of properties and fatty 
+acid composition of some neat vegetable oils and waste cooking oils. Int J Low- 
+Carbon Technol 2019;14(3):417–25. https://doi.org/10.1093/ijlct/ctz038.
+[8] Awogbemi O, Kallon DVV, Aigbodion VS, Panda S. Advances in biotechnological 
+applications of waste cooking oil. Case Stud Chem Environ Eng 2021;4:100158. 
+https://doi.org/10.1016/j.cscee.2021.100158.
+[9] Al-Sabawi M, Chen J, Ng S. Fluid catalytic cracking of biomass-derived oils and 
+their blends with petroleum feedstocks: a review. Energy Fuels 2012;26(9): 
+5355–72. https://doi.org/10.1021/ef3006417.
+[10] Olu-Arotiowa OA, Odesanmi AA, Adedotun BK, Ajibade OA, Olasesan IP, 
+Odofin OI, et al. Review on environmental impact and valourization of waste 
+cooking oil. Lautech Journal of Engineering and Technology 2022;16(1):144–63. 
+https://laujet.com/index.php/laujet/article/view/527.
+[11] Doliente SS, Narayan ANA, Tapia JFD, Samsatli NJ, Zhao Y, Samsatli S. Bio- 
+aviation fuel: a comprehensive review and analysis of the supply chain 
+components. Front Energy Res 2020. https://doi.org/10.3389/fenrg.2020.00110.
+[12] Shehab M, Moshammer K, Franke M, Zondervan E. Analysis of the potential of 
+meeting the eu’s sustainable aviation fuel targets in 2030 and 2050. 
+Sustainability 2023. https://doi.org/10.3390/su15129266.
+[13] Azahar WNAW, Jaya RP, Hainin MR, Bujang M, Ngadi N. Chemical modification 
+of waste cooking oil to improve the physical and rheological properties of asphalt 
+binder. Constr Build Mater 2016;126:218-26. https://Doi: 10.1016/j. 
+conbuildmat.2016.09.032.
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+14
+
+[14] Nath S, Boahene P, Dalai A. Conversion of co-hydrothermal liquefaction biocrude 
+into high-quality biofuels via hydrodeoxygenation: process optimization and 
+analysis. J Anal Appl Pyrolysis 2025;192:107275. https://Doi: 10.1016/j. 
+jaap.2025.107275.
+[15] Wang C, Li T, Xu W, Wang S, Wang K. Recent advances in co-processing biomass 
+feedstock with petroleum feedstock: a review. Front Energy 2024;18(6):735–59. 
+https://doi.org/10.1007/s11708-024-0920-1.
+[16] Monteiro RRC, Dos Santos IA, Arcanjo MRA, Cavalcante CL, de Luna FMT, 
+Fernandez-Lafuente R, et al. Production of jet biofuels by catalytic 
+hydroprocessing of esters and fatty acids: a review. Catalysts 2022. https://doi. 
+org/10.3390/catal12020237.
+[17] Foo WH, Chia WY, Tang DYY, Koay SSN, Lim SS, Chew KW. The conundrum of 
+waste cooking oil: transforming hazard into energy. J Hazard Mater 2021;417: 
+126129. https://doi.org/10.1016/j.jhazmat.2021.126129.
+[18] Lachos-Perez D, Martins-Vieira JC, Missau J, Anshu K, Siakpebru OK, 
+Thengane SK, et al. Review on biomass pyrolysis with a focus on bio-oil 
+upgrading techniques. Analytica 2023;4(2):182–205. https://doi.org/10.3390/ 
+analytica4020015.
+[19] Wei H, Liu W, Chen X, Yang Q, Li J, Chen H. Renewable bio-jet fuel production 
+for aviation: a review. Fuel (Lond) 2019;254:115599. https://doi.org/10.1016/j. 
+fuel.2019.06.007.
+[20] Emmanouilidou E, Mitkidou S, Agapiou A, Kokkinos NC. Solid waste biomass as a 
+potential feedstock for producing sustainable aviation fuel: a systematic review. 
+Renew Energy 2023;206:897–907. https://doi.org/10.1016/j. 
+renene.2023.02.113.
+[21] Chen R, Wang W. The production of renewable aviation fuel from waste cooking 
+oil. Part i: bio-alkane conversion through hydro-processing of oil. Renew. Energy 
+2019;135:819–35. https://doi.org/10.1016/j.renene.2018.12.048.
+[22] Re˜nones P, M´armol P, García-P´erez D, Morales-Delarosa S, Campos-Martin JM. 
+Efficient hydrodeoxygenation of used cooking oil using molybdenum phosphide 
+on silica supports for sustainable green fuel production. Catal Today 2025;459: 
+115419. https://doi.org/10.1016/j.cattod.2025.115419.
+[23] Chen C, Liang W. Behavioral drivers of waste cooking oil recycling in china’s 
+catering industry: an economic perspective. Environ Challenges 2025;20:101235. 
+https://doi.org/10.1016/j.envc.2025.101235.
+[24] Carrasco-Su´arez MT, Romero-Izquierdo AG, Guti´errez-Antonio C, G´omez- 
+Castro FI, Hern´andez S. Production of renewable aviation fuel by waste cooking 
+oil processing in a biorefinery scheme: intensification of the purification zone. 
+Chem Eng Process - Process Intesif 2022;181:109103. https://doi.org/10.1016/j. 
+cep.2022.109103.
+[25] Mannion LA, Bell A, Watson-Murphy T, Kelly M, Ghaani MR, Dooley S. A physics 
+constrained methodology for the life cycle assessment of sustainable aviation fuel 
+production. Biomass Bioenergy 2024;185:107169. https://doi.org/10.1016/j. 
+biombioe.2024.107169.
+[26] Watson MJ, Machado PG, Da Silva AV, Saltar Y, Ribeiro CO, Nascimento CAO, 
+et al. Sustainable aviation fuel technologies, costs, emissions, policies, and 
+markets: a critical review. J Clean Prod 2024;449:141472. https://doi.org/ 
+10.1016/j.jclepro.2024.141472.
+[27] Kramer S, Andac G, Heyne J, Ellsworth J, Herzig P, Lewis K. Perspectives on fully 
+synthesized sustainable aviation fuels: direction and opportunities. Front Energy 
+Res 2022:9. https://doi.org/10.3389/fenrg.2021.782823.
+[28] Morgan AS, Hossain MZ, Chowdhury MBI, Charpentier P. Scco2 decarboxylation 
+of oleic acid to green diesel. J Supercrit Fluids 2024;205:106120. https://doi.org/ 
+10.1016/j.supflu.2023.106120.
+[29] Rosales Calderon O, Tao L, Abdullah Z, Talmadge M, Milbrandt A, Smolinski S, 
+et al. Sustainable aviation fuel state-of-industry report: hydroprocessed esters and 
+fatty acids pathway.: National Renewable Energy Laboratory (NREL). Golden, CO 
+(United States) 2024. https://www.nrel.gov/docs/fy24osti/87803.
+[30] Holladay J, Abdullah Z, Heyne J. Sustainable aviation fuel: review of technical 
+pathways 2020. https://www.energy.gov/sites/prod/files/2020/09/f78/beto- 
+sust-aviation-fuel-sep-2020.
+[31] Goh BHH, Chong CT, Ong HC, Seljak T, Katraˇsnik T, J´ozsa V, et al. Recent 
+advancements in catalytic conversion pathways for synthetic jet fuel produced 
+from bioresources. Energy Convers Manag 2022;251:114974. https://doi.org/ 
+10.1016/j.enconman.2021.114974.
+[32] Cabrera E, de Sousa JMM. Use of sustainable fuels in aviation—a review. Energies 
+2022. https://doi.org/10.3390/en15072440.
+[33] Chong CT, Ng J. Chapter 2 - biojet fuel production pathways. In: Chong CT, Ng J, 
+editors. Biojet Fuel in Aviation Applications: Elsevier; 2021. pp. 81-141. https:// 
+www.sciencedirect.com/science/article/pii/B9780128228548000032.
+[34] Ding S, Fernandez Ainaga DL, Hu M, Qiu B, Khalid U, Agostino D, et al. Spatial 
+segregation of catalytic sites within pd doped h-zsm-5 for fatty acid 
+hydrodeoxygenation to alkanes. Nat Commun 2024;15(1):7718. https://doi.org/ 
+10.1038/s41467-024-51925-2.
+[35] Lin C, Chen Y, Wang W. The production of bio-jet fuel from palm oil derived 
+alkanes. Fuel (Lond) 2020;260:116345. https://doi.org/10.1016/j. 
+fuel.2019.116345.
+[36] D C. Specification for aviation turbine fuel containing synthesized hydrocarbons. 
+Astm International: West Conshohocken, Pa, Usa 2011.
+[37] Santillan Jimenez E, Crocker M. Catalytic deoxygenation of fatty acids and their 
+derivatives to hydrocarbon fuels via decarboxylation/decarbonylation. J Chem 
+Technol Biotechnol 2012;87(8):1041–50. https://doi.org/10.1021/ef060455v.
+[38] Misra P, Alvarez-Majmutov A, Chen J. Isomerization catalysts and technologies 
+for biorefining: opportunities for producing sustainable aviation fuels. Fuel 
+(Lond) 2023;351:128994. https://doi.org/10.1016/j.fuel.2023.128994.
+[39] Gł´owka M, W´ojcik J, Boberski P, Białecki T, Gawron B, Skolniak M, et al. 
+Sustainable aviation fuel – comprehensive study on highly selective isomerization 
+route towards hefa based bioadditives. Renew Energy 2024;220:119696. https:// 
+doi.org/10.1016/j.renene.2023.119696.
+[40] Dhar A, Vekariya RL, Bhadja P. N-alkane isomerization by catalysis—a method of 
+industrial importance: an overview. Cogent Chem 2018;4(1):1514686. https:// 
+doi.org/10.1080/23312009.2018.1514686.
+[41] Su-Ungkavatin P, Tiruta-Barna L, Hamelin L. Biofuels, electrofuels, electric or 
+hydrogen?: a review of current and emerging sustainable aviation systems. Prog 
+Energy Combust Sci 2023;96:101073. https://doi.org/10.1016/j. 
+pecs.2023.101073.
+[42] Kallupalayam Ramasamy K, Thorson MR, Billing JM, Holladay JE, Drennan C, 
+Hoffman B, et al. Hydrothermal liquefaction: path to sustainable aviation fuel.: 
+Pacific Northwest National Lab. (PNNL), Richland, WA (United States) 2021. 
+https://doi.org/10.2172/1821809.
+[43] Eswaran S, Subramaniam S, Geleynse S, Brandt K, Wolcott M, Zhang X. Techno- 
+economic analysis of catalytic hydrothermolysis pathway for jet fuel production. 
+Renew Sustain Energy Rev 2021;151:111516. https://doi.org/10.1016/j. 
+rser.2021.111516.
+[44] Zhang M, Wu Y, Han X, Zeng Y, Xu CC. Upgrading pyrolysis oil by catalytic 
+hydrodeoxygenation reaction in supercritical ethanol with different hydrogen 
+sources. Chem Eng J 2022;446:136952. https://doi.org/10.1016/j. 
+cej.2022.136952.
+[45] Shafaghat H, Kim JM, Lee I, Jae J, Jung S, Park Y. Catalytic hydrodeoxygenation 
+of crude bio-oil in supercritical methanol using supported nickel catalysts. Renew 
+Energy 2019;144:159–66. https://doi.org/10.1016/j.renene.2018.06.096.
+[46] Li L, Coppola E, Rine J, Miller JL, Walker D. Catalytic hydrothermal conversion of 
+triglycerides to non-ester biofuels. Energy Fuels 2010;24(2):1305–15. https://doi. 
+org/10.1021/ef901163a.
+[47] Aturagaba G, Egesa D, Usman MO, Mubiru E, Tebandeke E. Production of 
+advanced biofuels: a review of catalytic hydrothermal liquefaction of biomass 
+using iron-based catalysts. Journal of Sustainable Bioenergy Systems 2025;15(2): 
+17–38. https://doi.org/10.4236/jsbs.2025.152002.
+[48] Aslam R, Salman M, Majid AUR, Munir D. Hydrothermal-liquefaction of kitchen 
+waste in the presence of hzsm-5 and silica-based meso/micro-porous composite 
+catalyst and hydrogen gas. Iran J Chem Chem Eng 2024;43(1):193–203. https:// 
+doi.org/10.30492/ijcce.2023.561149.5560.
+[49] Chen PH, Lee U, Liu X, Cai H, Wang M. Life-cycle analysis of sustainable aviation 
+fuel production through catalytic hydrothermolysis. Biofuels Bioprod Biorefin 
+2024;18(1):42–54. https://doi.org/10.1002/bbb.2574.
+[50] Wu X, Zhang H, Hu C, Bao X, Yuan P. Advances in enhancing 
+hydrodeoxygenation selectivity of lignin-derived oxygenates: from synthetic 
+strategies to fundamental techniques. Green Energy Environ 2025;10(2): 
+292–321. https://doi.org/10.1016/j.gee.2024.05.004.
+[51] Jideani T, Seroka NS, Khotseng L. Advancements in catalyst design for biomass- 
+derived bio-oil upgrading to sustainable biojet fuel: a comprehensive review. 
+Chemistryopen:e202500353. Doi: 10.1002/open.202500353.
+[52] Morgan F, Schaugaard R, Anderson D, Schlegel HB, Verani CN. Distinct bimetallic 
+cooperativity among water reduction catalysts containing [coiiicoiii],[niiiniii], 
+and [zniiznii] cores. Chemistry–a. European Journal 2022;28(23):e202104426. 
+https://doi.org/10.1002/chem.202104426.
+[53] Liu W, Yang Y, Chen L, Xu E, Xu J, Hong S, et al. Atomically-ordered active sites 
+in nimo intermetallic compound toward low-pressure hydrodeoxygenation of 
+furfural. Appl Catal B 2021;282:119569. https://doi.org/10.1016/j. 
+apcatb.2020.119569.
+[54] Cai Z, Xiao D, Do LH. Cooperative heterobimetallic catalysts in coordination 
+insertion polymerization. Comments Mod Chem a Comments Inorg Chem 2019; 
+39(1):27–50. https://doi.org/10.1080/02603594.2019.1570165.
+[55] Yan J, Zhang H, Yang Z, Li Y. Boosting bio-lipids hydrodeoxygenation via highly 
+dispersed and coking-resistance bimetallic ni-la/sio2 catalyst. J Environ Chem 
+Eng 2025;13(1):114968. https://doi.org/10.1016/j.jece.2024.114968.
+[56] Fu L, Ba W, Li Y, Li X, Zhao J, Zhang S, et al. Hydrodeoxygenation of non-edible 
+bio-lipids to renewable hydrocarbons over mesoporous sio2-tio2 supported nimo 
+bimetallic catalyst. Appl Catal A 2022;633:118475. https://doi.org/10.1016/j. 
+apcata.2021.118475.
+[57] Takahashi N, Suda A, Hachisuka I, Sugiura M, Sobukawa H, Shinjoh H. Sulfur 
+durability of nox storage and reduction catalyst with supports of tio2, zro2 and 
+zro2-tio2 mixed oxides. Appl Catal B 2007;72(1):187–95. https://doi.org/ 
+10.1016/j.apcatb.2006.10.014.
+[58] Visiamah F, Trisunaryanti W, Triyono. Microwave-assisted coconut wood carbon- 
+based catalyst impregnated by ni and/or pt for bio-jet fuel range hydrocarbons 
+production from calophyllum inophyllum l. Oil using modified-microwave 
+reactor. Case Stud Chem Environ Eng 2024;9:100722. https://doi.org/10.1016/j. 
+cscee.2024.100722.
+[59] Do PT, Foster AJ, Chen J, Lobo RF. Bimetallic effects in the hydrodeoxygenation 
+of meta-cresol on γ-al 2 o 3 supported pt–ni and pt–co catalysts. Green Chem 
+2012;14(5):1388–97. https://doi.org/10.1039/C2GC16544A.
+[60] Oh S, Lee JH, Choi I, Choi JW. Enhancement of bio-oil hydrodeoxygenation 
+activity over ni-based bimetallic catalysts supported on sba-15. Renew Energy 
+2020;149:1–10. https://doi.org/10.1016/j.renene.2019.12.027.
+[61] Tao M, Zhou C, Shi Y, Meng X, Gu J, Gao W, et al. Enhanced sintering resistance 
+of bimetal/sba-15 catalysts with promising activity under a low temperature for 
+co methanation. RSC Adv 2020;10(35):20852–61. https://doi.org/10.1039/ 
+D0RA02168G.
+[62] Razak NAA, Taufiq-Yap YH, Derawi D. Catalytic deoxygenation of waste cooking 
+oil for sustainable bio-jet fuel: a comparative study of ni-co/sba-15 and ni-co/sba- 
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+15
+
+15-sh catalysts. J Anal Appl Pyrol 2024;178:106369. https://doi.org/10.1016/j. 
+jaap.2024.106369.
+[63] Derawi D, Azira Abdul Razak N, Sakinah Saadon N, Abdul Bar N, Taufiq-Yap YH. 
+Conversion of palm fatty acid distillate to bio-jet fuel-range hydrocarbons over 
+bimetallic nico/sba-15-nh2 catalyst. Fuel (Lond) 2025;380:133192. https://doi. 
+org/10.1016/j.fuel.2024.133192.
+[64] Wang T, Zhang W, Li Y, Li F, Liu J, Fan L, et al. Quantitative synergy between 
+metal and acid centers over the ni/beta bifunctional catalyst for methyl laurate 
+hydrodeoxygenation to bio-jet fuel. Fuel Process Technol 2023;241:107602. 
+https://doi.org/10.1016/j.fuproc.2022.107602.
+[65] Cao X, Zhao J, Long F, Zhang X, Xu J, Jiang J. Al-modified pd@msio2 core-shell 
+catalysts for the selective hydrodeoxygenation of fatty acid esters: influence of 
+catalyst structure and al atoms incorporation. Appl Catal B 2022;305:121068. 
+https://doi.org/10.1016/j.apcatb.2022.121068.
+[66] Yang S, Liu X, Zhang X, Sun W, Ma Q, Song N, et al. Isomerization properties of 
+pt/sapo-11 catalysts for the production of bio-aviation kerosene. Catalysts 2023; 
+13(7):1100. https://doi.org/10.3390/catal13071100.
+[67] Ding Y, Wang H, Xiang M, Yu P, Li R, Ke Q. The effect of ni-zsm-5 catalysts on 
+catalytic pyrolysis and hydro-pyrolysis of biomass. Front Chem 2020;8:790. 
+https://doi.org/10.3389/fchem.2020.00790.
+[68] Li X, Fan Q, Wu Y, Lin X, Ma S, Li S, et al. Enhancing hydrodeoxygenation- 
+isomerization of fame over m-sapo-11 in one-step process: effect of in-situ 
+isomorphic substitution of transition metals and synergy of ptxsny alloy. Chem 
+Eng J 2023;452:139528. https://doi.org/10.1016/j.cej.2022.139528.
+[69] Li S. Nanosized zeolites directed by easily accessible non-surfactant diquats: 
+synthesis, crystallization mechanism and catalytic applications. Eindhoven: 
+Eindhoven University of Technology; 2022. p. 217.
+[70] Valle B, Palos R, Bilbao J, Gayubo AG. Role of zeolite properties in bio-oil 
+deoxygenation and hydrocarbons production by catalytic cracking. Fuel Process 
+Technol 2022;227:107130. https://doi.org/10.1016/j.fuproc.2021.107130.
+[71] Degnan TF, Kennedy CR. Impact of catalyst acid/metal balance in 
+hydroisomerization of normal paraffins. AIChE J 1993;39(4).
+[72] Hartati H, Firda PBD, Prasetyoko D, Anggoro DD, Bahruji H, Sakti SCW, et al. 
+Conversion of volcano mud and marble waste to ni/ca/zsm-5 catalyst for bio-jet 
+fuel production from waste cooking oil and the effect of ni loading. Fuel (Lond) 
+2025;400:135756. https://doi.org/10.1016/j.fuel.2025.135756.
+[73] Song X, Bai X, Wu W, Kikhtyanin OV, Zhao A, Xiao L, et al. The effect of 
+palladium loading on the catalytic performance of pd/sapo-11 for n-decane 
+hydroisomerization. Mol Catal 2017;433:84–90. https://doi.org/10.1016/j. 
+mcat.2016.12.017.
+[74] Saviola AJ, Wijaya K, Syoufian A, Saputri WD, Saputra DA, Aziz ITA, et al. 
+Hydroconversion of used palm cooking oil into bio-jet fuel over phosphoric acid- 
+modified nano-zirconia catalyst. Case Stud Chem Environ Eng 2024;9:100653. 
+https://doi.org/10.1016/j.cscee.2024.100653.
+[75] Fu Q, Jiang H, Wang Y, Wang H, Zhao X. Recent advances in metal–organic 
+framework based heterogeneous catalysts for furfural hydrogenation reactions. 
+Mater Chem Front 2023;7(4):628–42. https://doi.org/10.1039/d2qm01181f.
+[76] Liu P, Xu J, Li J, Zhou M, Shang S, Zhao J, et al. Catalytic hydrotreatment of 
+triglycerides and various renewable oils into green diesel over metal–organic 
+frameworks derived ni@c catalyst. Biomass Convers Biorefin 2023;13(10): 
+9045–56. https://doi.org/10.1007/s13399-021-01746-w.
+[77] Sammoury H. Synthesis of new zeolitic materials for hydroisomerization of n- 
+alkanes by bifunctional catalysis to obtain medium distillates (c10-c14).: 
+Universit´e de Poitiers. Universit´e Libanaise 2017. https://api.semanticscholar.org 
+/CorpusID:103724073.
+[78] Mohammed ST, Gheni SA, Aqar DY, Hamad KI, Ahmed SMR, Mahmood MA, et al. 
+Evaluation and optimal design of a high stability hydrothermal deoxygenation 
+process for production of green diesel fuel via deoxygenation of waste cooking oil. 
+Process Saf Environ Prot 2022;159:489–99. https://doi.org/10.1016/j. 
+psep.2022.01.006.
+[79] Goh BHH, Chong CT, Ng J. Hydrogen-free deoxygenation of waste cooking oil 
+over unreduced bimetallic nico catalysts for biojet fuel production. Chem Eng 
+Trans 2023;106:721–6. https://doi.org/10.3303/cet23106121.
+[80] Li T, Cheng J, Huang R, Zhou J, Cen K. Conversion of waste cooking oil to jet 
+biofuel with nickel-based mesoporous zeolite y catalyst. Bioresour Technol 2015; 
+197:289–94. https://doi.org/10.1016/j.biortech.2015.08.115.
+[81] Trisunaryanti W, Wijaya K, Kartini I, Purwono S, Rodiansono MA, et al. 
+Hydrodeoxygenation of refined palm kernel oil (rpko) into bio-jet fuel using mo/ 
+h-zsm-5 catalysts. React Kinet Mech Catal 2024;137(2):843–78. https://doi.org/ 
+10.1007/s11144-023-02560-3.
+[82] M¨aki-Arvela P, Martínez-Klimov M, Murzin DY. Hydroconversion of fatty acids 
+and vegetable oils for production of jet fuels. Fuel (Lond) 2021;306:121673. 
+https://doi.org/10.1016/j.fuel.2021.121673.
+[83] Zhang W, Wang T, Gao Y, Xue Y, Li F, Pang C, et al. Highly efficient ni/beta 
+catalyst for one-step hydrodeoxygenation-isomerization of fatty acid ester to bio- 
+jet fuel. Fuel (Lond) 2025;381:133586. https://doi.org/10.1016/j. 
+fuel.2024.133586.
+[84] Zhang Z, Wang Q, Chen H, Zhang X. Hydroconversion of waste cooking oil into 
+bio-jet fuel over a hierarchical nimo/usy@ al-sba-15 zeolite. Chem Eng Technol 
+2018;41(3):590–7. https://doi.org/10.1002/ceat.201600601.
+[85] Goh BHH, Chong CT, Milano J, Tiong SK, Cui Y, Ng J. Response optimisation of 
+tio2-supported bimetallic nico catalyst for the cracking and deoxygenation of 
+waste cooking oil into jet-fuel range hydrocarbon fuels under non-hydrogen 
+environment. Energy (Oxf) 2024;309:133057. https://doi.org/10.1016/j. 
+energy.2024.133057.
+[86] Ibrahim MA, El-Araby R, Abdelkader E, Saied ME, Abdelsalam AM, Ismail EH. 
+Waste cooking oil processing over cobalt aluminate nanoparticles for liquid 
+biofuel hydrocarbons production. Sci Rep 2023;13(1):3876. https://doi.org/ 
+10.1038/s41598-023-30828-0.
+[87] Perera SM, Wickramasinghe C, Samarasiri B, Narayana M. Modeling of 
+thermochemical conversion of waste biomass–a comprehensive review. Biofuel 
+Res J 2021;8(4):1481–528. https://doi.org/10.18331/BRJ2021.8.4.3.
+[88] Shah AA, Sharma K, Haider MS, Toor SS, Rosendahl LA, Pedersen TH, et al. The 
+role of catalysts in biomass hydrothermal liquefaction and biocrude upgrading. 
+Processes 2022:207. https://doi.org/10.3390/pr10020207. Doi: 10.1016/j. 
+fuel.2020.119053.
+[89] Nagappan S, Bhosale RR, Nguyen DD, Chi NTL, Ponnusamy VK, Woong CS, et al. 
+Catalytic hydrothermal liquefaction of biomass into bio-oils and other value- 
+added products–a review. Fuel (Lond) 2021;285:119053. https://doi.org/ 
+10.1016/j.fuel.2020.119053.
+[90] Liu M, Zeng Y. Key processing factors in hydrothermal liquefaction and their 
+impacts on corrosion of reactor alloys. Sustainability 2023:9317. https://doi.org/ 
+10.3390/su15129317.
+[91] Stummann MZ, Høj M, Gabrielsen J, Clausen LR, Jensen PA, Jensen AD. 
+A perspective on catalytic hydropyrolysis of biomass. Renew Sustain Energy Rev 
+2021;143:110960. https://doi.org/10.1016/j.rser.2021.110960.
+[92] Dimitriadis A, Bezergianni S. Hydrothermal liquefaction biocrude stabilization 
+via hydrotreatment. Energies 2024:1437. https://doi.org/10.3390/en17061437.
+[93] de Medeiros AM, de Sousa CK, de Macˆedo MLG, de Morais Araújo AM, Da 
+Silva DR, Gondim AD. Catalytic pyrolysis of coconut oil with ni/sba-15 for the 
+production of bio jet fuel. RSC Adv 2022;12(16):10163–76. https://doi.org/ 
+10.1039/d2ra00866a.
+[94] Bagnato G, Horgan J, Sanna A. Techno-economic assessment of two-stage 
+hydropyrolysis of lignin for btx production using iron-based catalysts††electronic 
+supplementary information (esi) available. See doi: Doi: 10.1039/d4su00652f. 
+Rsc Sustainability 2024;3(3):1448-60. Doi: 10.1039/d4su00652f.
+[95] Silva IF, Shekova I, Volkel A, Al Naji M, Antonietti M. Lignosulfonate-based 
+carbon-supported pellets catalyst to enhance sustainable biofuel production from 
+waste cooking oil. ChemSusChem 2024;17(17):e202301786. https://doi.org/ 
+10.1002/cssc.202301786.
+[96] Marchesan AN, de Mesquita Sampaio IL, Chagas MF, Generoso WC, 
+Hernandes TAD, Morais ER, et al. Alternative feedstocks for sustainable aviation 
+fuels: assessment of sugarcane-derived microbial oil. Bioresour Technol 2025; 
+416:131772. https://doi.org/10.1016/j.biortech.2024.131772.
+[97] Wang H, Li G, Rogers K, Lin H, Zheng Y, Ng S. Hydrotreating of waste cooking oil 
+over supported comos catalyst – catalyst deactivation mechanism study. Mol 
+Catal 2017;443:228–40. https://doi.org/10.1016/j.mcat.2017.10.016.
+[98] Yao D, Yang H, Hu Q, Chen Y, Chen H, Williams PT. Carbon nanotubes from post- 
+consumer waste plastics: investigations into catalyst metal and support material 
+characteristics. Appl Catal B 2021;280:119413. https://doi.org/10.1016/j. 
+apcatb.2020.119413.
+[99] Wu P, Ding S, Shen K, Yang H, Wang S, Zhang S, et al. Enhanced performance and 
+dft study of sulfur poisoning mechanism of modified al2o3 catalyst in cos 
+hydrolysis. Fuel (Lond) 2023;337:127163. https://doi.org/10.1016/j. 
+fuel.2022.127163.
+[100] Mitchell S, Michels N, P´erez-Ramírez J. From powder to technical body: the 
+undervalued science of catalyst scale up. Chem Soc Rev 2013;42(14):6094–112. 
+https://doi.org/10.1039/c3cs60076a.
+[101] Say Z, Tohumeken M, Ozensoy E. Spectroscopic investigation of sulfur-resistant 
+pt/k2o/zro2/tio2/al2o3 nsr/lnt catalysts. Catal Today 2016;267:167–76. https:// 
+doi.org/10.1016/j.cattod.2015.12.013.
+[102] Ng KS, Farooq D, Yang A. Global biorenewable development strategies for 
+sustainable aviation fuel production. Renew Sustain Energy Rev 2021;150: 
+111502. https://doi.org/10.1016/j.rser.2021.111502.
+[103] Zhang X, Chen YB, Li XY, Souliyathai D, Zhang SP, Wang Q, et al. One-step 
+preparation of biological aviation kerosene by catalytic hydrogenation of waste 
+lard over pt/sapo-11. Iop Conference Series: Earth and Environmental Science 
+2017;93(1):12003. https://10.1088/1755-1315/93/1/012003.
+[104] Bie Y. Hydrodeoxygenation of fatty acid esters for biofuel production over sulfur- 
+free catalysts. 2022. https://api.semanticscholar.org/CorpusID:253985497.
+[105] Pourzolfaghar H, Abnisa F, Wan Daud WMA, Aroua MK. Atmospheric 
+hydrodeoxygenation of bio-oil oxygenated model compounds: a review. J Anal 
+Appl Pyrol 2018;133:117–27. https://doi.org/10.1016/j.jaap.2018.04.013.
+[106] Savenkova IV, Nikulin AA. Transformation of combined raw materials on zeolite- 
+containing catalysts. Oil and Gas Technologies and Environmental Safety 2024. 
+https://doi.org/10.24143/1812-9498-2024-1-7-14.
+[107] Congxin W, Qianhe L, Xuebin L, Lijun Y, Chen L, Lei W, et al. Influence of reaction 
+conditions on one - step hydrotreatment of lipids in the production of iso - alkanes 
+over pt/sapo - 11. 2013. Doi: 10.1016/S1872-2067(11)60524-X.
+[108] Why ESK, Ong HC, Lee HV, Gan YY, Chen W, Chong CT. Renewable aviation fuel 
+by advanced hydroprocessing of biomass: challenges and perspective. Energy 
+Convers Manag 2019;199:112015. https://doi.org/10.1016/j. 
+enconman.2019.112015.
+[109] Ahmed HA, Altalhi AA, Elbanna SA, El-Saied HA, Farag AA, Negm NA, et al. Effect 
+of reaction parameters on catalytic pyrolysis of waste cooking oil for production 
+of sustainable biodiesel and biojet by functionalized montmorillonite/chitosan 
+nanocomposites. ACS Omega 2022;7(5):4585–94. https://doi.org/10.1021/ 
+acsomega.1c06518.
+[110] Wang M, Dewil R, Maniatis K, Wheeldon J, Tan T, Baeyens J, et al. Biomass- 
+derived aviation fuels: challenges and perspective. Prog Energy Combust Sci 
+2019;74:31–49. https://doi.org/10.1016/j.pecs.2019.04.004.
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+16
+
+[111] Bayat H, Dehghanizadeh M, Jarvis JM, Brewer CE, Jena U. Hydrothermal 
+liquefaction of food waste: effect of process parameters on product yields and 
+chemistry. Front Sustainable Food Syst 2021. https://doi.org/10.3389/ 
+fsufs.2021.658592.
+[112] Yang E, Chon K, Kim K, Le GTH, Nguyen HY, Le TTQ, et al. Pretreatments of 
+lignocellulosic and algal biomasses for sustainable biohydrogen production: 
+recent progress, carbon neutrality, and circular economy. Bioresour Technol 
+2023;369:128380. https://doi.org/10.1016/j.biortech.2022.128380.
+[113] Bao R, Wang S, Feng J, Liu K, Liu H, Zhang F, et al. Comprehensive utilization for 
+hydrothermal conversion products of food waste. J Clean Prod 2024;453:142115. 
+https://doi.org/10.1016/j.jclepro.2024.142115.
+[114] El-Araby R, Abdelkader E, El Diwani G, Hawash SI. Bio-aviation fuel via catalytic 
+hydrocracking of waste cooking oils. Bull Natl Res Cent 2020;44(1):177. https:// 
+doi.org/10.1186/s42269-020-00425-6.
+[115] Sekar D, Arumugam P, Roman T. Unveiling the role of pd-ni @ 2d/3d catalyst for 
+the production of bio-jet(a) fuel analogues from biomass-derived compound: 
+multi-parameter optimization and kinetic-thermodynamic investigation. Energy 
+(Oxf) 2025;316:134423. https://doi.org/10.1016/j.energy.2025.134423.
+[116] Starck L, Pidol L, Jeuland N, Chapus T, Bogers P, Bauldreay J. Production of 
+hydroprocessed esters and fatty acids (hefa)–optimisation of process yield. Oil & 
+Gas Science and Technology-Revue D’Ifp Energies Nouvelles 2016;71(1):10. 
+https://doi.org/10.2516/ogst/2014007.
+[117] Jeon H, Park JY, Ok M, Han GB, Lee JW, Kim J. Analysis of the relationship 
+between the low-temperature properties and distillation profiles of hefa- 
+processed bio-jet fuel. Sustainability 2023;15(1):799. https://doi.org/10.3390/ 
+su15010799.
+[118] Li X, Chen Y, Hao Y, Zhang X, Du J, Zhang A. Optimization of aviation kerosene 
+from one-step hydrotreatment of catalytic jatropha oil over sdbs-pt/sapo-11 by 
+response surface methodology. Renew Energy 2019;139:551–9. https://doi.org/ 
+10.1016/j.renene.2019.01.085.
+[119] Ameen M, Azizan MT, Yusup S, Ramli A, Shahbaz M, Aqsha A, et al. Parametric 
+studies on hydrodeoxygenation of rubber seed oil for diesel range hydrocarbon 
+production. Energy Fuels 2020;34(4):4603–17. https://doi.org/10.1021/acs. 
+energyfuels.9b03692.
+[120] Hassan SH, Attia NK, El Diwani GI, Amin SK, Ettouney RS, El-Rifai MA. Catalytic 
+hydrocracking of jatropha oil over natural clay for bio-jet fuel production. Sci Rep 
+2023;13(1):13419. https://doi.org/10.1038/s41598-023-40500-2.
+[121] Seber G, Escobar N, Valin H, Malina R. Uncertainty in life cycle greenhouse gas 
+emissions of sustainable aviation fuels from vegetable oils. Renew Sustain Energy 
+Rev 2022;170:112945. https://doi.org/10.1016/j.rser.2022.112945.
+[122] Ganesan R, Subramaniam S, Paramasivam R, Sabir JSM, Femilda Josephin JS, 
+Brindhadevi K, et al. A study on biofuel produced by catalytic cracking of mustard 
+and castor oil using porous hβ and almcm-41 catalysts. Sci Total Environ 2021; 
+757:143781. https://doi.org/10.1016/j.scitotenv.2020.143781.
+[123] Yu G, Zhang Y, Schideman L, Funk T, Wang Z. Distributions of carbon and 
+nitrogen in the products from hydrothermal liquefaction of low-lipid microalgae. 
+Energy Environ Sci 2011;4(11):4587–95. https://doi.org/10.1039/C1EE01541A.
+[124] Biswas B, Rahman T, Adhikari S. Mono-and bi-metal catalytic hydrothermal 
+liquefaction of food waste: screening the process parameter on product yield and 
+characterizations. J Clean Prod 2024;471:143398. https://doi.org/10.1016/j. 
+jclepro.2024.143398.
+[125] Sedtabute S, Vitidsant T, Ngamcharussrivichai C. Production of jet fuel-range bio- 
+hydrocarbons over nickel-based catalysts through hydrothermolysis without 
+external h2: effect of nanoporous supports. Energy Convers Manag 2025;331: 
+119679. https://doi.org/10.1016/j.enconman.2025.119679.
+[126] Prestigiacomo C, Scialdone O, Galia A. Hydrothermal liquefaction of wet biomass 
+in batch reactors: critical assessment of the role of operating parameters as a 
+function of the nature of the feedstock. J Supercrit Fluids 2022;189:105689. 
+https://doi.org/10.1016/j.supflu.2022.105689.
+[127] Jr. Andrew A. Peterson FDRV. Thermochemical biofuel production in 
+hydrothermal media: a review of sub- and supercritical water technologies 2008. 
+https://10.1039/b810100k.
+[128] Granados Focil AA, Granados F´ocil S, Conde Sotelo VM, Grimm RL, Gonz´alez 
+García F, Rojas Santiago E, et al. Development of bifunctional 
+hydrodeoxygenation catalyst rh-hy for the generation of biomass-derived high- 
+energy-density fuels. Energy Technol (Weinh) 2019;7(6):1801112. https://doi. 
+org/10.1002/ente.201801112.
+Z. Huang et al.                                                                                                                                                                                                                                  
+Fuel 414 (2026) 138414 
+17

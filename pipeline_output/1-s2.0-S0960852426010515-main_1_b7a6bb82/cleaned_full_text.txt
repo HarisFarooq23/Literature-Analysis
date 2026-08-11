@@ -1,0 +1,1499 @@
+Evaluation of nickel supported vanadium and carbon catalyst for 
+sustainable aviation fuel production from waste cooking oil
+Anas Ahmed Hebish a,b
+, Nurin Wahidah Mohd Zulkifli a,b,*, Nurhidayatullaili Muhd Julkapli c,  
+Muhamad Fazly Abdul Patah d, N. Asikin-Mijan e, Syawal Mohd Yusof e, Salma Samidin f
+a Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya, Kuala Lumpur 50603, Malaysia
+b Centre for Energy Sciences, Universiti Malaya, Kuala Lumpur 50603, Malaysia
+c Nanotechnology & Catalysis Research Centre (NANOCAT), Institute for Advanced Studies, Universiti Malaya, Kuala Lumpur 50603, Malaysia
+d Department of Chemical Engineering, Faculty of Engineering, Universiti Malaya, 50603 Kuala Lumpur, Malaysia
+e Department of Chemical Sciences, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43600 Bangi, Selangor Darul Ehsan, Malaysia
+f Department of Chemical and Process Engineering, Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia (UKM), 43650 UKM Bangi, Selangor, 
+Malaysia
+H I G H L I G H T S
+G R A P H I C A L A B S T R A C T
+• Enhanced 
+catalyst 
+physicochemical 
+properties achieved via microwave 
+method.
+• Microwave-assisted Ni/V2O5 
+catalyst 
+achieved 96% hydrocarbon yield.
+• Energy reduced by 68–77% with mi­
+crowave and sonication synthesis.
+• Ni/V2O5 shows high jet-fraction selec­
+tivity and strong stability.
+• TGA and RAMAN confirmed carbon 
+deposition as the cause of Ni/V2O5 
+deactivation.
+A R T I C L E I N F O
+Keywords:
+Deoxygenation
+Waste cooking oil
+Nickel
+Vanadium Oxide
+Microwave-assisted synthesis
+A B S T R A C T
+Developing sustainable aviation fuel (SAF) is essential for achieving net-zero emissions, yet economic viability 
+remains a major challenge. In this study, the catalytic deoxygenation (DO) of waste cooking oil was investigated 
+using nickel promoted catalyst such as Ni/V2O5 and Ni/AC, which were synthesized via wet-impregnation using 
+treatments of microwave irradiation (M), sonication (S) and conventional stirring (C). Physico-chemical prop­
+erties revealed an M method showed improved surface area, high pore volume, enhanced nickel dispersion, 
+optimized acidity than S and C method, suggesting M method induced the formation of metallic phase through 
+fast, volumetric heating that accelerated reduction, nucleation and crystallization. Similarly, with DO activity, 
+Ni/V2O5 M showed comparable or superior performance to C and S method at 95% reduced time, 68% less 
+energy consumption with 96% hydrocarbon liquid yield and 78% jet-fraction selectivity under H2-free condition 
+at 400 ℃ for 2 h over 5 wt% loading. Enhanced performance is attributed to the strong metal-support interaction, 
+where Ni-O-V interfacial sites generated rich oxygen vacancies that promote DO while Ni0 facilitated 
+* Corresponding author.
+E-mail address: nurinmz@um.edu.my (N.W. Mohd Zulkifli). 
+Contents lists available at ScienceDirect
+Bioresource Technology
+journal homepage: www.elsevier.com/locate/biortech
+https://doi.org/10.1016/j.biortech.2026.134969
+Received 6 February 2026; Received in revised form 13 May 2026; Accepted 23 May 2026  
+Bioresource Technology 456 (2026) 134969 
+Available online 25 May 2026 
+0960-8524/© 2026 Published by Elsevier Ltd.
+
+hydrogenation of unsaturated intermediates and hydrocarbons to produce high n-paraffins. Kinetic studies 
+confirmed catalyst stability with low deactivation energy (48.3  kJ/mol) and strong Arrhenius correlation (R2 =
+0.94). These findings highlight Ni/V2O5 as a promising, energy-efficient catalyst for SAF production from waste 
+feedstocks, offering a scalable route toward sustainable aviation.
+1. Introduction
+The aviation industry faces an urgent need for sustainable fuels to 
+mitigate climate change. The negative environmental impacts of fossil- 
+based fuels, coupled with their rapid depletion and volatile market 
+prices, have intensified global efforts to develop clean and renewable 
+energy alternatives. The aviation sector faces growing challenges as air 
+travel demand continues to rise, leading to increasing CO2 emissions 
+that significantly contribute to climate change (Adzahar et al., 2026). 
+Bio-jet fuel (BJF), composed primarily of C8-C16 hydrocarbons, has 
+emerged as a promising sustainable alternative. BJF cuts life-cycle 
+greenhouse gases while maintaining drop-in compatibility, in addition 
+to lower sulfur content, lower tailpipe emissions, high thermal stability, 
+and favourable cold-flow properties (Hebish et al., 2024). Triglyceride 
+oils represent attractive feedstocks for BJF production, as their long- 
+chain fatty acids closely resemble hydrocarbons. However, upgrading 
+and oxygen removal are required, typically achieved through deoxy­
+genation (DO) and hydrodeoxygenation (HDO). HDO relies on sub­
+stantial amounts of high-pressure hydrogen gas, which raises safety 
+concerns over storage, delivery and operational hazards and undermines 
+sustainability, since clean H2 production is far from commercialization 
+and thus approximately 96% of global hydrogen is currently derived 
+from non-renewable sources such as naphtha natural gas reforming. In 
+contrast, DO does not require external H2 input; instead, oxygen is 
+removed through decarboxylation (CO2 release) or decarbonylation (CO 
+and H2O release) collectively referred to as DeCox pathways, offering a 
+more sustainable H2-free pathway for BJF production. Note, CO and CO2 
+gases by-products of DO reaction can be captured and not released into 
+the environment. On an industrial or pilot scale with a complete system, 
+these gases will be recycled back and used as feedstocks to produce other 
+valuable chemicals and intermediates such as methane, urea, syngas etc 
+(James et al., 2023; Zhang et al., 2020). Several studies have reported on 
+the promising potential of DO reactions. For instance, Why et al., 2022
+reported a 96% liquid yield and 73% jet fuel selectivity for the DO of 
+palm kernel oil under Pd/C. In another study, Asikin-Mijan et al., 2022
+observed 77% hydrocarbon yield and 64% jet fuel selectivity for the DO 
+of tung oil under CoW/SiO2-Al2O3. Furthermore, the DO of soybean oil 
+under NbOPO4 was found to yield 91% liquid product and 58% jet-range 
+selectivity (Scaldaferri and Pasa, 2019). Despite these advances, catalyst 
+efficiency and energy consumption remain critical challenges.
+Waste Cooking Oil (WCO) is a major byproduct of food preparation, 
+and improper disposal poses serious environmental hazards. Globally, 
+around 16.5 million tonnes of WCO are generated annually, creating 
+challenges for environmentally safe disposal (Sharma et al., 2021). 
+Palm-based WCO, comprising mainly of palmitic acid (C16:0) and oleic 
+acid (C18:1), presents an attractive feedstock to produce BJF. In fact, 
+WCO can produce highly competitive fuel and potentially most cost- 
+effective, along with avoiding disposal hazards and avoiding direct 
+competition with edible oil feedstocks in the food supply chain (Detsios 
+et al., 2023).
+Although noble metal catalysts exhibit excellent DO performance, 
+their prohibitive cost and scarcity limit large-scale application (Hebish 
+et al., 2024). Similarly, sulfided catalysts, despite their effectiveness, 
+face challenges such as sulfur leaching and contamination of the final 
+product, making them less desirable as catalysts for biofuel synthesis 
+(Gamal et al., 2020). Consequently, this has driven the search for 
+affordable, sulfur-free alternatives. In this regard, transition metals and 
+their oxides have emerged as promising alternatives. Among them, Ni- 
+based catalysts offer a sustainable and industrial relevant alternative 
+in upgrading of triglyceride oils for biofuel production owing to their 
+relatively low cost and scalability and demonstrated strong 
+hydrogenation-DO capability and high catalytic activity (Aliana- 
+Nasharuddin et al., 2020; Hafriz et al., 2022; Hartono et al., 2023; Khalit 
+et al., 2021). As reported by Morgan et al., Ni showed higher DO and 
+cracking activity than Pd/Pt on similar supports, yielding more C8-C17 
+hydrocarbons (Morgan et al., 2010). Similar behaviour was observed by 
+Jeon et al. during the DO of oleic acid over a Ni-CeZrO2 catalyst, which 
+attained ~ 98% conversion C9-C18 hydrocarbon fraction of 34% and an 
+oxygen removal efficiency of ~ 96% (Jeon et al., 2019). Furthermore, in 
+a comparative study conducted by Hafriz and colleagues, transition 
+metals Ni, Zn, Cu, Co and Fe were evaluated as catalyst promoters. 
+Among these catalysts, findings reveal the Ni-based catalyst system 
+exhibited the highest conversion activity (67%), high portion of satu­
+rated hydrocarbons (80%), and highest selectivity towards green diesel 
+(55%) and BJF (39%) (Hafriz et al., 2020). Collectively, these studies 
+clearly demonstrate that Ni-promoted catalysts enhance DO activity. 
+Among Ni-based catalyst, Ni supported on activated carbon (AC) shows 
+great potential. Previously, Wu et al. performed DO on stearic acid over 
+Ni/AC achieving an almost complete conversion with heptadecane (C17) 
+selectivity of ~ 80% (Wu et al., 2016). The research group of (Khalit 
+et al., 2021) tested Ni catalyst over various supports of AC, zeolite, 
+and reduced graphene oxide for the DO of WCO to produce green diesel. 
+In their work, Ni/AC was reported the most active catalyst by giving 
+90% hydrocarbon yield and 89% selectivity towards n-(C15 + C17) owing 
+to its good physicochemical properties of porosity, high surface area and 
+high number of acid-base sites. It is noteworthy that, vanadium pent­
+oxide (V2O5) is widely recognized as a cost-effective, thermally stable 
+catalytic material with excellent redox and oxygen transfer properties 
+that has great value in the industry (Marberger et al., 2019). Despite this, 
+as far as we know the utilization of V2O5 support remains unexplored in 
+DO reaction.
+Recent studies show promising results in microwave irradiation (M) 
+and sonication (S)-assisted synthesis techniques of active catalysts for 
+biofuel upgrading, whereby these treatments resulted in enhanced 
+physicochemical properties and catalytic performance (Luo et al., 2022). 
+M method induces volumetric heating that leads to uniform temperature 
+distribution, accelerated nucleation and improved metal dispersion on 
+support. Furthermore, atoms movement occurs where angles of atoms 
+will shift and open up the active sites. It is also reported that catalyst 
+exhibited more porosity and higher surface area following microwave 
+exposure (Burakova et al., 2018). For instance, Xue et al. reported the 
+development of Ni2P/SiO2 catalysts using M method and the result 
+shows enhanced dispersion of Ni2P particles on support and catalytic 
+performance in the HDO of methyl palmitate (Xue et al., 2015). Simi­
+larly, ultrasonic approaches exploit acoustic cavitation to induce local­
+ised hotspots and micro-mixing resulting in enhanced catalyst surface 
+properties and metal dispersion and thus improve catalytic activity (Li 
+et al., 2021). In a study conducted by (Ameen et al., 2019) Ni-Mo/ 
+γ-Al2O3 catalyst synthesis by ultrasound achieved significantly higher 
+hydrocarbon yields (80.87%) during the HDO of rubber seed oil 
+compared to conventional prepared catalyst (63.3%).
+To the best of the authors’ knowledge, no systematic study has 
+directly compared M and S treatments of the same catalyst formulation 
+for triglyceride DO with focus on jet-fuel range hydrocarbons. Further­
+more, although Ni-based catalysts have been extensively studied and 
+V2O5 exhibits excellent potential as a catalyst support, the Ni/V2O5 
+bimetallic catalyst remains largely unexplored, despite its potential 
+synergistic effects that could significantly enhance catalytic activity. 
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+2
+
+Due to this reason, hence the present study, we developed a series of 
+inexpensive Ni/V2O5 and compare with performance of established 
+effective Ni/AC catalysts, using different synthesis treatments (conven­
+tional, microwave and sonication), for the effective DO of WCO into 
+biojet fuel product. To evaluate the effect of the treatments, the catalysts 
+properties were studied through various characterizations, and the 
+catalytic performance was assessed by analysing their respective liquid 
+product with regards to BJF selectivity. Additionally, kinetic deactiva­
+tion study was also carried out to provide insights into catalyst deacti­
+vation to assess the catalyst further.
+2. Materials and methods
+2.1. Materials
+Commercial Vanadium Oxide (V2O5) with purity > 99.6% was pur­
+chased from Sigma-Aldrich, USA. Nickel (II) Nitrate Hexahydrate (Ni 
+(NO3)2⋅6H2O) with 99% purity, Activated Carbon (AC) powder was 
+supplied by Chemiz (M) Sdn. Bhd, Malaysia and Sulfuric Acid (98% 
+purity) was procured from J.T. Baker, USA and n-Hexane GC grade 
+procured from Supelco, Germany. Waste cooking oil (WCO) derived 
+from palm oil feedstocks was obtained from a local street vendor in 
+Kuala Lumpur, Malaysia. The oil obtained was left to rest for 48 h before 
+carefully decanting to leave behind large impurity solids. Whatman 
+grade 1 (11 μm) filter paper was used to filter finer impurities. Pre­
+heating at 110 ℃ for 2 h was necessary to remove water content. The 
+analysis of fatty acid composition of WCO is exhibited in Table 1. The 
+acid value and free fatty acid (FFA) were quantified, and the results were 
+consistent with the typical range reported in the literature (Plata et al., 
+2022).
+Catalysts Synthesis and Treatments.
+Ni/V2O5 was prepared using the wet-impregnation method where a 
+1:6.5 solid-to-liquid ratio was employed based on the support water 
+solubility of 515 g/l according to Sigma Aldrich (USA). A nickel loading 
+of 20 wt% was selected based on prior studies, whereby this loading was 
+associated with high density of accessible Ni sites and high catalytic rate 
+without excessive sintering or pore blockage (Jeon et al., 2022). 
+Therefore, 9.92 g of Ni(NO3)2⋅6H2O was dissolved in 15.53 ml of 
+deionised water to produce Ni salt (20 wt%) which was added dropwise 
+into 8 g of V2O5 and mixed continuously at room temperature for 
+approximately 12 h impregnation time, this was denoted as Ni/V2O5 
+Conventional (C). In another instance the Ni salt (20 wt%) was incor­
+porated into the V2O5 and exposed to 80 W microwave irradiation at 
+210 rpm stirring speed for 30 min with 5 s on and 25 s off cycles using a 
+household microwave oven (Sharp, Japan) and left to rest for 1 h, this 
+was marked as Ni/V2O5 Microwave (M). Another case, the impregnated 
+sample was subjected to sonication performed at 60% amplitude (500 
+W, 20 kHz) for 30 min, utilizing a pulsed mode with 5 s on and 25 s off 
+cycles and left to rest for 1 h, this was represented as Ni/V2O5 Sonicator 
+(S). Similar procedures were carried out for Ni/AC C, M and S, respec­
+tively. However, prior to use, the commercial activated carbon under­
+went chemical activation by reflux with sulfuric acid at 150 ◦C under a 
+nitrogen atmosphere for 12 h. The sample was subsequently washed 
+with warm distilled water (>85 ℃) until a neutral pH (pH = 7) was 
+achieved, ensuring the removal of residual sulfate ions and other un­
+wanted impurities. Finally, it was subjected to drying in an oven at 100 
+℃ for 12 h. All impregnated samples were dried at 100 ℃ for 24 h. 
+Additionally, the catalysts underwent a necessary pre-treatment step of 
+calcination where V2O5 was calcined at 600 ℃ for 4 h in air, while Ni/ 
+AC and Ni/V2O5 were calcined at 600 ℃ for 4 h in a N2 inert environ­
+ment, to boost their activity for the impending DO process. For com­
+parison, the estimated energy consumption of each synthesis route is 
+summarized in Table 2. It is worth noting that M and S methods required 
+approximately 95% less time compared to conventional stirring, while 
+also consuming significantly lower energy, with reductions of about 
+67–77%.
+2.2. Catalysts characterization
+The specific surface area, pore volume, and pore size distribution of 
+the samples were determined using nitrogen adsorption–desorption 
+isotherms measured at liquid nitrogen temperature (−196 ◦C). The 
+analysis was performed using a Micromeritics TriStar II PLUS. Prior to 
+analysis, the samples were degassed under vacuum at 150 ◦C for 4 h, to 
+remove any impurity gas or vapours which may have adsorbed onto the 
+surface from the ambient air. The surface area was calculated using the 
+Brunauer–Emmett–Teller (BET) method, while the pore size distribution 
+was obtained using the Barrett–Joyner–Halenda (BJH) method. The 
+crystalline phases and structural properties of the catalysts were ana­
+lysed using powder X-ray diffraction (XRD). The measurements were 
+carried out on a Bruker D8 Advance equipped with Cu Kα radiation (λ =
+1.54060 Å), operated at 40.0 kV and 40.0 mA. Scans were conducted 
+over a 2θ range of 5◦- 80◦at a scanning rate of 0.0384◦/min. The 
+resulting diffractograms were compared with standard reference pat­
+terns from the International Centre for Diffraction Data (ICDD) to 
+identify crystalline phases, and crystallite size was calculated using 
+Debye-Scherrer equation. Thermal stability of the samples was exam­
+ined using thermogravimetric analysis (TGA). The analysis was per­
+formed using a Mettler Toledo TGA/SDTA 851e. Approximately 10 mg 
+of sample was placed in a ceramic crucible and heated 25 ◦C to 900 ◦C at 
+a heating rate of 30 ◦C/min under a N2 flow of 40 mL/min. The acidity of 
+the catalyst was evaluated using temperature programmed desorption 
+with ammonia (TPD-NH3) analysis on a Micromeritics AutoChem II Plus. 
+The sample was pretreated in N2 at 300 ◦C for 30 min, then cooled to 
+50 ◦C and exposed to a 5% NH3/He gas mixture for 30 min. After 
+flushing with He for another 30 min, the temperature was ramped up to 
+900 ◦C, and the desorbed ammonia was detected by a thermal conduc­
+tivity detector (TCD). The catalyst reducibility was assessed using 
+Temperature programmed reduction (H2-TPR) analysis on a Micro­
+meritics AutoChem II Plus. The sample was first pretreated in N2 flow of 
+20 cm3/min at 150℃ for 1 hr, followed by cooling to ambient temper­
+ature. The catalyst was then subjected to a 10% H2/N2 gas mixture, and 
+the temperature was increased to 900℃ at a rate of 15 ℃/min while H2 
+Table 1 
+Fatty acid composition of WCO*.
+Properties
+WCO
+FFA Content (%)
+0.55 ± 0.04
+Acid Value (mg KOH/g)
+1.1033 ± 0.07
+Fatty Acid Composition (%)
+​
+Myristic acid (C14)
+0.91 ± 0.37
+Palmitic acid (C16:0)
+34.42 ± 0.21
+Palmitoleic acid (C16:1)
+0.60 ± 0.20
+Margaric acid (C17:0)
+0.10 ± 0.07
+Oleic Acid (C18:1)
+59.36 ± 0.36
+Others
+4.61 ± 0.44
+* Values are reported as mean ± standard deviation (n = 3).
+Table 2 
+Energy consumption of different synthesis methods*.
+Synthesis 
+Method
+Equipment
+Power, P 
+(W)
+Time, t 
+(h)
+Total energy 
+Consumption (kWh) 
+= P*t
+Conventional
+Magnetic 
+Stirrer
+15.0 ±
+0.8
+12.00 
+± 0.00
+0.180 ± 0.010
+Microwave- 
+assisted
+Microwave 
+Oven
+80.0 ±
+4.0
+0.50 ±
+0.00
+0.058 ± 0.003
+Overhead 
+Stirrer
+35.0 ±
+1.8
+0.50 ±
+0.00
+Sonication- 
+assisted
+Sonicator
+500.0 ±
+25.0
+0.08 ±
+0.000
+0.042 ± 0.002
+* Values are reported as nominal ± uncertainty.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+3
+
+consumption was monitored by a TCD detector. The surface morphology 
+and elemental composition of the samples were analysed using scanning 
+electron microscopy (SEM) coupled with energy dispersive X-ray spec­
+troscopy (EDX). The measurements were performed on a SEM Phenom 
+ProX, Thermo Fisher operated at an accelerating voltage of 15 kV. 
+Samples were coated with a thin layer of gold. Elemental mapping was 
+conducted using EDX to determine the elemental distribution and 
+composition. Moreover, for the kinetic deactivation study, the deposited 
+coke on the spent catalysts surface was characterized using TGA (Toledo 
+TGA/SDTA 851e), heating from 25 ℃ to 1000 ℃ with a ramp of 30 
+℃/min under 40 mL/min of O2 and RAMAN spectroscopy (Renishaw 
+inVia Microscope) with a laser excitation (514 nm).
+2.3. Catalytic DO reaction
+The experimental setup for the deoxygenation (DO) process, as 
+illustrated in Fig. S1, comprised a 500 mL triple-necked semi-batch 
+reactor coupled with a condensing system. Initially, the non-pressurized 
+reactor was purged with N2 to establish an inert environment by elim­
+inating all O2. Subsequently, 15 g of WCO and 5 wt% catalyst were 
+introduced into the reactor. The reaction mixture was then subjected to 
+controlled heating and continuous stirring at 400 ℃ and 300 rpm using a 
+heating mantle and stirrer equipped with a PID temperature controller, 
+while maintaining a steady N2 gas flow of 20 mL/min for 2 h in atmo­
+spheric pressure. Throughout the reaction, vaporized products were 
+condensed via a cooling chamber maintained at 20 ◦C, with the resulting 
+liquid deoxygenated product collected in a small vessel, weighed and 
+subsequently analysed by gas chromatography with a flame ionization 
+detector (GC-FID), gas chromatography-mass spectrometry (GC–MS) 
+and Fourier transform infrared spectrometry (FTIR). The gaseous 
+products were collected after 1 h reaction time and further analysed by 
+gas chromatography with thermal conductivity detector (GC-TCD). To 
+ensure statistical reliability, the DO process was replicated thrice, and 
+the average result was calculated.
+2.4. Liquid product analysis
+The hydrocarbon yield was evaluated by GC-FID using an AGILENT 
+7890A coupled with a HP-5 capillary column (0.25 µm x 0.32 mm x 30 
+m) and utilising alkane and alkene (C8-C20) standard acquired from 
+Sigma Aldrich (USA). Prior to analysis, the deoxygenated liquid product 
+was diluted with GC-grade n-hexane, and ~ 2 µL of sample was injected 
+into the GC system equipped with an FID detector. Helium was used as 
+the carrier gas. The injector and detector temperatures were set at 250 
+℃ and 300 ℃, respectively. The oven temperature was initially held at 
+40 ℃ for 6 min, then ramped to 270 ℃ at a rate of 7 ℃/min. Each 
+sample was analysed in triplicate to ensure reproducibility The con­
+centration of various hydrocarbons (jet-range hydrocarbons: n-paraffin 
+and olefin, naphthene, aromatic and heavy hydrocarbon (C > 16)) and 
+byproducts or others (e.g. ketone, alcohol, and carboxylic acid) were 
+identified with GC–MS, using SHIMADZU GC-TQ8030 equipped with a 
+SH-5MS capillary column (thickness: 0.25 µm x length: 30 m x diameter: 
+0.25 mm), with analysis carried out under similar operating conditions 
+to GC-FID. Compounds were identified from the GC–MS spectra using 
+the National Institute of Standards and Technology (NIST) library based 
+on a probability match of 95% or higher. Fourier transform infrared 
+(FTIR) spectroscopy was performed using a Shimadzu IRAffinity-1S 
+spectrophotometer. Spectra were recorded in the range of 650–4000 
+cm−1 to identify the chemical functional groups present in the liquid 
+product. Gas products collected were analysed by the Agilent USA model 
+GC6890 N equipped with a TCD via an offline sampling method to 
+determine the composition and concentration of the gases produced 
+during reaction. The mass yield, hydrocarbon yield and jet-selectivity 
+were calculated using Eqs. (1) to (3), respectively. 
+Mass Yield (%) = mass of liquid product
+mass of WCO
+× 100
+(1) 
+BJFSelectivty(%) = Σareaof alkane(C8 −C16)+ Σareaof alkene(C8 −C16)
+Σareaof hydrocarbonproduct
+(3) 
+2.5. Kinetic deactivation study
+The catalyst stability of Ni/V2O5 M was investigated at different 
+temperatures (380 ℃, 400 ℃ and 420 ℃) for the DO of WCO and the 
+relative rate was plotted against time-on-stream as shown in Fig. 3a-c. 
+The ratio of hydrocarbon yield (C8-C20) at time t, CHCt to the initial 
+hydrocarbon yield (C8-C20) at time = 0, CHC0 is referred to as the 
+relative catalytic activity, at. Based on previous studies, the Levenspiel 
+power-law deactivation model is a widely used approach for systems 
+with relatively fast catalyst deactivation such as those used for biofuel 
+conversion (Shakor and Al-Shafei, 2023). In this modelling approach, 
+several assumptions were made; single dominant deactivation mecha­
+nism of coke formation resulting in blocking or fouling active sites, no 
+catalyst regeneration during reaction, the relative hydrocarbon yield is 
+directly proportional to catalyst activity and at t = 0, catalyst is fully 
+activated (i.e.a0 = 1). Given the assumptions, the model can be 
+expressed as follows Eq. (4). 
+at = [1 + (m −1)kdt ]−
+1
+m−1
+(4) 
+Where at is the relative catalytic activity (at =
+CHCt
+CHC0 ), kd is the 
+deactivation rate constant, m is the deactivation order and t is the time- 
+on-stream (min). The model activity profile was fitted by obtaining the 
+parameters (kd and m) using the GRG non-linear least-squares regression 
+via Excel SOLVER, which minimized the sum of squared errors (SSE) 
+between experimental and model-predicted activity. The experimental 
+results show a progressive decline in relative catalytic activity across all 
+temperatures, which can be attributed to coke generation and its accu­
+mulation on the catalyst surface, leading to pore blockage and active-site 
+deactivation. The results reveal that the 2nd order power-law model (m 
+= 2) produced the best fitting as shown. The goodness of fit was assessed 
+by the coefficient of determination R2 yielding acceptable values 
+(0.81–0.98). Furthermore, Arrhenius plot was drawn to determine the 
+activation energy of deactivation, Ed, which reflects the temperature 
+dependence of the deactivation rate (Shakor and Al-Shafei, 2023). We 
+assume the deactivation rate constant follows the Arrhenius form. 
+kd(T) = Ae−Ed/(RT)
+(5) 
+lnkd = lnA −Ed
+R ⋅1
+T
+(6) 
+Hydrocarbon Yield (%) = Σ area of alkane (C8 −C20) + Σ area of alkene (C8 −C20)
+Σ area of hydrocarbon product
+(2) 
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+4
+
+where kd is the deactivation rate constant, A is the frequency factor, Ed is 
+the activation energy of deactivation, R is the universal gas constant and 
+T is temperature in kelvin. The activation energy of deactivation (Ed) 
+was determined using the Arrhenius equation by plotting lnkd against 1/ 
+T.
+3. Results and discussion
+3.1. Characterization of synthesised catalysts
+XRD patterns (Fig. S2a-b) confirm orthorhombic V2O5 (JCPDS card 
+no 01–075-9978), and nickel vanadate phases such as Ni3(VO4), Ni 
+(V2O6) and Ni2(V2O7) in all Ni/V2O5 catalysts. The absence of distinct 
+metallic Ni or NiO indicates the formation of strong Nickel Vanadium 
+Oxide interactions during synthesis and calcination, producing mixed 
+oxide phases instead of separate Ni or NiO domains, this is in line with 
+previous reports where incorporation of Ni into oxide supports sup­
+presses Ni and NiO reflections in XRD (Adzahar et al., 2026). In the case 
+of Ni/AC catalysts result reveals sharp reflections indexed to metallic Ni 
+(FCC, JCPDS card no. 00–004-0850) implying a greater proportion of 
+crystalline Ni0 sites along with the broad band of graphitic carbon at 
+about 2θ = 26◦. Trace NiO (JCPDS card no. 01–078-0643) is only 
+detected in the C sample, whereas both M and S exhibit exclusively 
+metallic Ni, implying that M and S treatments favour full reduction of Ni 
+species during synthesis likely due to the rapid heating and accelerated 
+nucleation of M and S-assistance. This observation was previously 
+confirmed by Lim et al., 2021 from using H2-TPR where they reported 
+that sonicated catalysts display more reducible NiO, indicating a higher 
+fraction of Ni can be reduced to metallic Ni (Ni0). A similar outcome for 
+microwaved catalysts was revealed by (Aimdate et al., 2021). Further­
+more, the crystallite size was determined at the most intense peak at 2θ 
+= 44.5◦(Ni) and 2θ = 20.4◦(V2O5) for Ni/AC and Ni/V2O5 catalysts, 
+respectively (Table 3). In terms of Ni/AC catalysts, crystallite size fol­
+lowed the decreasing trend S > C > M, suggesting that M method 
+improved Ni dispersion and availability of active sites. Surprisingly, the 
+crystallite size of Ni on Ni/AC obtained from S method was the largest 
+(24 nm) among the rest AC supported catalyst. Former literature reports 
+that for carbon-based supports dispersion quality depends on sonication 
+energy density, too low energy leaves large agglomerates and too high 
+causes re-agglomeration, thereby increasing crystallite size (Rennhofer 
+and Zanghellini, 2021). For Ni/V2O5 catalyst crystallite size decreased 
+in the order C > S > M, revealing greater dispersion by M system. Note, C 
+method for both catalyst series showed to favour the formation of large 
+crystallite size and reduced dispersion. Remarkably, the notable 
+decrease in crystallinity for Ni/V2O5 M suggests greater dispersion 
+resulting in finer crystallites and greater lattice imperfections, which can 
+be attributed to the rapid disorderly atom arrangement due to micro­
+wave volumetric heating, therefore promoting the generation of more 
+interfacial Ni-O-V sites which are reported to exhibit Ni2+/Ni3+ and 
+V5+/V4+ redox couples with lattice oxygen participation and likely 
+originated from Ni3(VO4), Ni(V2O6) and Ni2(V2O7) phases (Li et al., 
+2020). Such redox-active sites are known to promote C-–O bond 
+cleavage and oxygen removal facilitating DeCOx pathways (Song et al., 
+2023).
+BET analysis (Table 3, Fig. S2c-f) shows synthesis methods strongly 
+influence surface area and porosity. As anticipated, the Ni/AC catalyst 
+series exhibited the highest surface area, owing to the inherent porous 
+structure of carbon. The BET surface area revealed was ~ 0.71–––2.56 
+m2/g and 918.95–––997.87 m2/g for Ni/V2O5 and Ni/AC series, 
+respectively. As expected, V2O5 crystallizes in dense layered structures 
+which limits the formation of pores and results in low surface area 
+(often < 5 m2/g) (Marberger et al., 2019). Interestingly, Ni/V2O5 M 
+demonstrated the ability to retain a surface area close to that of the V2O5 
+support, suggesting microwave improved dispersion compared to C and 
+S methods. Conversely, S methods resulted in detrimental surface area 
+and porosity, likely due to agglomeration caused by ultrasonic wave 
+cavitation. The N2 adsorption–desorption test shown in Fig. S2(c) car­
+ried out shows Ni/V2O5 series represented a hysteresis type III H3 
+characteristic of slit-shaped pores which was corroborated by SEM im­
+ages. In contrast, Ni/AC series displayed a hysteresis type IV H4 (Fig. S2
+(d)) linked to microporous materials with narrow slit-like pores, as 
+confirmed in SEM images (see Fig. S5c-d). Indeed, this finding in 
+agreement with XRD findings, whereby the M method capable of 
+improving the metal dispersion, preserving surface area and enhancing 
+active site accessibility. As been noted before (Horv´ath et al., 2024), 
+doping metals on a support typically reduces surface area and porosity of 
+Table 3 
+Textural properties and acidity of fresh synthesized catalysts*.
+Catalyst
+XRD
+BET Textural Properties
+TPD-NH3 Acidity
+Crystallite sizea
+(nm)
+Surface areab
+(m2/g)
+Total pore volumec
+(cm3/g)
+Average pore sizec
+(nm)
+Temperatured
+(℃)
+Amount of NH3 adsorbedd
+(µmol/g)
+Total number of acidic 
+sitesd (µmol/g)
+V2O5
+62.3e ± 2.7
+2.62 ± 0.02
+0.0062 ± 0.0003
+14.95 ± 0.73
+413.0 ± 14.1
+88.4 ± 7.0
+211.0 ± 12.5
+676.1 ± 8.1
+31.8 ± 3.2
+889.6 ± 11.6
+90.8 ± 8.5
+Ni/V2O5 
+C
+77.4e ± 4.2
+1.90 ± 0.01
+0.0082 ± 0.0000
+34.18 ± 0.25
+398.2 ± 6.0
+77.8 ± 9.9
+110.8 ± 11.3
+​
+659.8 ± 5.5
+9.1 ± 3.3
+​
+884.4 ± 8.7
+23.9 ± 4.1
+Ni/V2O5 
+M
+60.8e ± 2.4
+2.56 ± 0.02
+0.0120 ± 0.0001
+29.22 ± 0.33
+405.1 ± 2.8
+151.6 ± 4.8 ±
+517.2 ± 9.5
+​
+768.6 ± 4.4
+365.4 ± 2.8
+Ni/V2O5 
+S
+63.9e ± 3.5
+0.71 ± 0.01
+0.0031 ± 0.0001
+27.33 ± 0.96
+418.3 ± 6.4
+22.0 ± 7.3
+130.4 ± 10.0
+​
+613.7 ± 11.3
+27.7 ± 4.9
+​
+892.2 ± 9.4
+80.7 ± 6.6
+Ni/AC C
+21.2f ± 4.0
+961.99 ± 0.03
+0.2730 ± 0.0004
+4.37 ± 0.01
+688.0 ± 8.5
+1612.3 ± 3.2
+1867.6 ± 4.5
+​
+874.8 ± 6.2
+255.3 ± 2.9
+Ni/AC M
+19.1f ± 2.9
+997.87 ± 0.01
+0.1070 ± 0.0002
+3.07 ± 0.01
+682.4 ± 7.7
+976.4 ± 8.4
+1113.8 ± 7.9
+​
+899.3 ± 5.0
+137.4 ± 5.1
+Ni/AC S
+23.5f ± 3.6
+918.95 ± 0.02
+0.3052 ± 0.0001
+5.05 ± 0.00
+661.2 ± 13.1
+1113.7 ± 3.3
+1488.7 ± 6.1
+​
+901.0 ± 6.7
+375.0 ± 5.4
+* Values are reported as mean ± standard deviation (n = 3).
+a Obtained from Debye Scherrer equation
+b Obtained from Brunauer-Emmett-Teller (BET) theory analysis.
+c Obtained from Barrett–Joyner–Halenda (BJH) analysis.
+d Obtained from Temperature programmed desorption of ammonia.
+e Crystallite size calculated at 2θ = 20.4◦.
+f Crystallite size calculated at 2θ = 44.5◦.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+5
+
+the catalyst as metal particles fill in the voids of the support. However, 
+Ni/V2O5 (27.33–––34.18 nm) series showed substantially larger pore 
+sizes than its parent support (V2O5 (14.95 nm)). According to literature, 
+this can be attributed to metal dopant facilitating distortion and defect 
+formation of the V-O lattice which promotes interlayer expansion 
+leading to a more open pore structure (Liu et al., 2018). Indeed, larger 
+pore size is needed for eliminating mass transfer limitation with power 
+of reactant movement is (>7x), thereby, allow the reactants to access 
+more active sites, subsequently, increasing overall catalyst performance 
+(S. Wang et al., 2023). Overall, this highlights that larger pore size can 
+be more critical than high surface area properties, in terms of DO ac­
+tivity, by improved accessibility and mass transport for bulky WCO 
+reactants.
+The H2-TPR profiles of V2O5 and Ni/V2O5 catalyst series, shown in 
+Fig. S3(a), reveal that the incorporation of Ni significantly enhances the 
+reducibility of V2O5. While pure V2O5 exhibits high-temperature 
+reduction peaks (~580-830℃), Ni/V2O5 catalysts display prominent 
+low-temperature peaks (~490-580℃) indicating the presence of more 
+easily reducible oxygen species. This shift to lower temperature suggests 
+that Ni addition facilitates the formation of oxygen vacancies (Ov), 
+particularly at the Ni-O-V interface sites. The higher peak area of Ni/ 
+V2O5 M and therefore the higher total H2 consumed implies greater 
+concentration of reactive Ov, providing more active site for enhanced 
+DO. The rapid microwave heating promotes accelerated nucleation 
+leading to lattice imperfections that generate Ni-O-V interface sites with 
+rich Ov.
+The H2-TPR profiles of Ni/AC catalyst series is depicted in Fig. S3(b). 
+Indeed, all catalysts exhibited a single peak with varying intensity and 
+broadness. Ni/AC C exhibited a broad and intense reduction peak cen­
+tred at ~ 285℃ which indicates the presence of relatively high amount 
+of reducible NiO species alongside Ni. This observation corroborates the 
+XRD results, where NiO species in C method were present above the 
+detection limit and therefore identified. Interestingly, the M and S 
+methods display substantially lower hydrogen consumption with 
+reduction peaks centred at 220℃ and 250℃, respectively. The weaker 
+peak intensity and lower temperature are attributed to the presence of 
+minimal NiO species that have formed a thin layer on the surface due to 
+partial oxidation of metallic Ni upon exposure to air. Thus, the nickel 
+phase is predominantly in the metallic state. This result was also in 
+accordance with XRD findings, where trace NiO was below detection 
+limit and therefore not identified.
+Catalyst acidity is crucial for facilitating the cleavage of both C-–O 
+and C––C bonds during the DO reaction (Asikin-Mijan et al., 2017). 
+Therefore, acidity characteristics of the synthesized catalyst were eval­
+uated by TPD-NH3, and the profiles for the Ni/V2O5 and Ni/AC catalyst 
+series are presented in Fig. S3(c) and (d), respectively, and total acid 
+sites are summarized in Table 3. From the outset, the acidity profiles 
+show significant variations influenced by support type and treatment 
+method. All the catalysts displayed three principal desorption regions 
+corresponding to weak acid sites (< 250 ℃), medium acid sites (250 ℃ 
+−
+500 ℃) and strong acid sites (> 500 ℃). The total acid sites of the 
+catalysts are in the increasing order, Ni/V2O5 C < Ni/V2O5 S < V2O5 <
+Ni/V2O5 M < Ni/AC M < Ni/AC S < Ni/AC C. Indeed, the acid rich 
+species of activated carbon is attributed to the presence of surface ox­
+ygen functional groups, including lactonic, carboxylic, and phenolic 
+groups (Khalit et al., 2021). These organic groups are ascribed to the 
+acidification of AC via concentrated acid, this observation is in line with 
+the findings of Asikin-Mijan et al. and Gamal et al. (Asikin-Mijan et al., 
+2017; Gamal et al., 2020). It is important to note that an excessive 
+density of acidic sites can promote undesirable side reactions, leading to 
+accelerated coke formation and consequently severe catalyst deactiva­
+tion (Aliana-Nasharuddin et al., 2020; Khalit et al., 2021). Thus, higher 
+acidity in Ni/AC catalysts may enhance DO activity but risks coke for­
+mation. From the TPD-NH3 graph (Fig. S4), original V2O5 is acidic which 
+can be attributed to NH3 desorbed from Lewis sites (Tmax ≈150 ℃), 
+weak Brønsted sites (Tmax ≈410 ℃) and strong Brønsted sites (Tmax ≈
+680 ℃) (Mulyatun et al., 2024). The Brønsted sites are mainly associated 
+with V4+–OH groups, while Lewis acidity originates from exposed V5+
+centres capable of accepting electron pairs (Zhao et al., 2018). It is 
+observed that the integration of Ni into V2O5 and the treatment process 
+influenced the degree of Ni dispersion (see XRD) and the accessibility of 
+acid sites, hence altered the final acidity profile. For instance, Ni/V2O5 C 
+showed the lowest acidity (111 µmol/g) likely due to agglomerated Ni 
+species partially blocking acidic sites as a result of using bare stirring. In 
+the contrary, Ni/V2O5 M displays the highest acidity (517 µmol/g) 
+owing to the rapid nucleation and finer Ni dispersion that preserves 
+surface VOH groups while likely exposing additional Lewis sites. Ni/ 
+V2O5 S yielded intermediate acidity, consistent with moderate 
+improvement in metal distribution. Ni/AC catalysts exhibited a different 
+acidity pattern, possessing a substantial amount of strong superacid sites 
+(T > 500 ℃). Among these, Ni/AC C showed the highest acidity (1867 
+µmol/g), followed by S and M, indicating that conventional stirring, for 
+Ni/AC catalyst series, enhanced Ni anchoring and density of accessible 
+Brønsted and Lewis superacid sites.
+Fig. S3e-f shows the thermal stability of the Ni/V2O5 and Ni/AC 
+catalysts respectively. For Ni supported on V2O5 catalysts, thermal 
+degradation was minimal with a mere total weight loss of 1%. Regarding 
+Ni/V2O5, the mass profiles (Fig. S3(e)) of microwave- and convention­
+ally prepared samples were nearly identical indicating that both 
+methods produced stable oxide surfaces. As for Ni/AC, the figure shows 
+clear synthesis effect on thermal stability of the AC-supported catalyst. 
+The mass profiles of these catalysts can be categorized into three distinct 
+regions; region I (low temperature) which corresponds to weight loss 
+from trapped moisture and volatiles removal, region II (moderate tem­
+peratures up to ~ 700 ℃) weight loss in this region is often attributed to 
+surface groups decomposition and region III where high temperature 
+loss is linked to pyrolysis of more stable carbonaceous species and 
+structural changes. Ni/AC M exhibits noticeably greater mass loss than 
+Ni/AC C, with the later retaining 10% more weight. This is in agreement 
+with reports that microwave treatment introduces additional oxygen­
+ated surface groups and disrupts the carbon matrix structure (Aimdate 
+et al., 2021).
+The SEM imaging and EDX elemental mapping are illustrated in 
+Fig. S5 and tabulated in Table 4. For Ni/V2O5 catalysts, Ni/V2O5 C 
+exhibited large, block-like crystalline structures which have been asso­
+ciated in prior studies with high crystallinity and limited metal disper­
+sion (Yan et al., 2024), whereas Ni/V2O5 M shows smaller, layered plate- 
+like features likely caused by microwave induced fragmentation and 
+improved dispersion. For sonicated Ni/V2O5, more irregular crystalline 
+structures and agglomerated particles were observed. EDX elemental 
+mapping confirms the presence of Ni, V and O in all samples but high­
+lights difference in metal distribution. For instance, Ni/V2O5 C exhibits 
+Ni concentrated in localized patches or hot spots, implying partial 
+agglomeration while Ni/V2O5 M demonstrates a notably uniform Ni 
+distribution where the Ni species (~19%) was found to be comparable to 
+the theoretical value (20%). Ni/V2O5 S shows moderate dispersion with 
+some residual clustering. For Ni/AC catalyst, all samples retain the 
+characteristic porous texture of activated carbon, however Ni/AC C 
+Table 4 
+EDX elemental composition of catalysts*.
+Catalyst
+Elemental composition (%)
+Experimental
+Ni
+V
+O
+C
+Ni/V2O5 C
+15.70 ± 1.54
+45.77 ± 2.01
+38.54 ± 1.87
+−
+Ni/V2O5 M
+18.96 ± 1.94
+45.62 ± 0.33
+35.42 ± 1.62
+−
+Ni/V2O5 S
+24.63 ± 1.07
+47.90 ± 1.17
+27.47 ± 0.95
+−
+Ni/AC C
+23.59 ± 0.76
+−
+4.89 ± 1.95
+71.82 ± 0.98
+Ni/AC M
+20.98 ± 3.61
+−
+11.14 ± 0.30
+67.89 ± 3.51
+Ni/AC S
+21.86 ± 2.88
+−
+4.32 ± 0.77
+73.82 ± 3.65
+* Values are reported as mean ± standard deviation (n = 3).
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+6
+
+clearly shows the most preserved pore structure. This finding is in 
+agreement with BET findings, whereby the AC supported catalyst 
+showed higher BET surface area due to its porous structures (see 
+Table 3). Ni/AC M demonstrates more finely dispersed surface particles, 
+and Ni/AC S displays localized pore blockage. These features align with 
+the EDX maps, Ni/AC C displays uniform Ni coverage, Ni/AC M shows 
+finely dispersed Ni, and Ni/AC S presents uneven distribution and 
+localized agglomeration. Oxygen, O, detected in Ni/AC catalyst 
+elemental mapping can be attributed to 1) NiO traces species as 
+confirmed by XRD and H2-TPR and/or 2) O in surface groups that 
+resulted from the acidification of AC with H2SO4.
+3.2. Hydrocarbon liquid product characterization
+The hydrocarbon yield of blank reaction (no catalyst) and catalyzed 
+reactions are presented in Fig. 1(c). Blank reaction is observed to have 
+Fig. 1. (a) FTIR spectra showing functional groups composition, (b) carbon number distribution, (c) hydrocarbon liquid yield, (d) hydrocarbon distribution based on 
+carbon number and (e) product distribution and mass yield liquid product from DO of WCO at 400 ℃ over 5 wt% loading of various catalysts for 2 h.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+7
+
+produced the lowest yield of hydrocarbons (58%), while catalyzed re­
+actions significantly yielded higher contents of hydrocarbon (67–96%) 
+ranked in the order Ni/V2O5 M > V2O5 > Ni/V2O5 C > Ni/AC M > Ni/ 
+V2O5 S > Ni/AC C > Ni/AC S > AC. Similarly on the same figure, for jet 
+range hydrocarbon percentage (C8-C16), catalytic reactions showed 
+higher selectivity (52–82%) than blank reaction (50%). Notably, the 
+high yield of BJF highlights strong selectivity for simultaneous DO- 
+cracking pathways, supported by the carbon number distribution 
+depicted in Fig. 1(b), where catalyzed reactions showed highest con­
+centrations of C15 likely resulting from 1) decarboxylation/decarbon­
+ylation (DeCOx) of palmitic acid, 2) hydrodeoxygenation (via in-situ 
+H2)/DeCOx and cracking of oleic acid. Note, V2O5 and Ni/V2O5 cata­
+lyst series gave rise to a noticeable higher BJF fractions (Fig. 1(d)) owing 
+to the presence of rich medium + strong acidic sites which was 
+corroborated with the fact that increase in only strong acidic sites had 
+detrimental effects on BJF selectivity as can be observed with the Ni/AC 
+catalyst series. In general Ni/V2O5 catalyst series outperformed their Ni/ 
+AC counterparts showing high DO activity likely due to the presence of 
+rich oxygen vacancies (Ov) from the vanadium oxide support. The Ni-O- 
+V interfacial sites can be analogous to Ni-Ov that are known to act as 
+adsorption sites, with string affinity for carboxyl (–COOH) and carbonyl 
+(C––O) groups, boosting DO activity (Liu et al., 2023; J. Wang et al., 
+2023). This high concentration of Ov enhances the uniform dispersion 
+of Ni across the support (Zhou et al., 2025). It can be concluded that the 
+smaller crystallite size of Ni/V2O5 M (see section 3.1), led to a higher 
+density of lattice imperfections which in turn promoted the formation of 
+more Ov sites as corroborated by XRD and H2-TPR results and therefore 
+resulted in enhanced DO activity. Indeed, AC as a standalone catalyst 
+showed limited DO activity yet resulted in a high fraction of oxygenated 
+intermediates mainly fatty aldehydes and carboxylic acids. However, Ni 
+metal doping on AC as a support was observed to yield superior DO 
+activity, highlighting the essential role of Ni in promoting C-–O bond 
+cleavage. Nonetheless, Ni/AC catalyst series lack oxygen lattice, even 
+though trace amounts of NiO are present, there is effectively limited Ov 
+that exist. Therefore, Ni/AC catalyst relies mainly on its metallic Ni sites 
+and high acidity to cleave C-–O but also risks faster deactivation, in the 
+absence of H2, by coke deposition leading to severe blockage of active Ni 
+sites.
+Chemical composition is paramount to the quality of the fuel, it can 
+also be utilized to determine the effectiveness of catalyzed reactions in 
+terms of DO activity or the extent of oxygen-containing compounds 
+removal, as shown in the product distribution results (Fig. 1(e)). Blank 
+experiment yielded significantly high carboxylic acid indicating weak 
+DO of intermediate free fatty acids, it can also be deduced that C––C 
+cleavage did not occur a great deal as evident from the presence of high 
+heavy hydrocarbons (>C16). Catalyzed reactions predominantly yielded 
+n-paraffins (alkanes) and olefins (alkenes) jet range hydrocarbons in the 
+range C8-C16. Ni/V2O5 M, Ni/V2O5 C and V2O5 were able to produce 
+highest n-paraffin content of 50%, 42% and 42% respectively, while 
+blank yielded lowest n-paraffin. It is well known that during non- 
+catalyzed thermal cracking of WCO, more olefins than paraffins are 
+typically produced, mainly due to the breakdown of unsaturated fatty 
+Fig. 2. Proposed reaction mechanism for WCO catalytic deoxygenation over Ni/V2O5 catalyst.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+8
+
+acids which are abundant in WCO (Hebish et al., 2024). Notably, Ni/ 
+V2O5 catalyst series yielded lower olefins compared to non-modified 
+V2O5 while favouring more paraffin content, suggesting strong hydro­
+genation Ni metal sites were able to saturate C––C. Studies show that 
+strongly acidic catalysts tend to give alkenes/cycloalkenes as primary 
+(Hu et al., 2019), though here V2O5 still yielded substantial alkanes, 
+likely due to secondary hydrogenation as acid sites can isomerize/crack 
+intermediates, but metal sites and/or in-situ hydrogen shift alkenes to 
+alkanes (del Campo et al., 2021). It is worth noting that olefins are prone 
+to oxidative instability and degradation during storage, as olefins readily 
+react with oxygen, forming gums and sediments (Why et al., 2022). High 
+olefin content will cause oxidation to the fuel therefore it is not 
+favourable. In general Ni/AC catalyst series produced good outcomes, 
+however owing to their high acidic nature, coke formation is highly 
+promoted which accelerates catalyst deactivation as evident from 
+literature (Li et al., 2017). In terms of total by-products, ketone, alcohol, 
+carboxylic acid and others, blank yielded the highest percentage of 43%, 
+while Ni/V2O5 M yielded the lowest percentage of only 4%.
+Based on the product composition obtained from GC–MS result 
+(liquid-phase) and GC-TCD (gas-phase), the proposed reaction pathway 
+can be outlined as shown in Fig. 2. WCO feedstock was mainly 
+comprised of long chain fatty acids including 34% palmitic acid (C16:0) 
+and 59% oleic acid (C18:1) (see Table 1). Initially, triglycerides in WCO 
+undergo self-hydrolysis via hydrogen abstraction to form glycerol and 
+free fatty acids (FFAs), mainly palmitic acid and oleic acid. The FFAs 
+adsorbed on Ni/V2O5 surface underwent DO through decarboxylation 
+(DCX), decarbonylation (DCO), hydrogenation and cracking pathways. 
+High concentration of C2n+1 hydrocarbons detected in the product was 
+consistent with the predominance of odd carbon number hydrocarbons 
+typically observed during H2-free DO, indicating that DCO, DCX and 
+cracking routes dominate over direct HDO (Zulkepli et al., 2018). For 
+palmitic acid, DCO proceeds yielding pentadecene (C15H30) as an in­
+termediate, after which the C––C bond is subsequently hydrogenated on 
+Ni sites to produce pentadecane (C15H32). Alternatively, palmitic acid 
+can undergo decarboxylation, directly producing pentadecane without 
+olefinic intermediates. Similarly for oleic acid, the DCO pathway yields 
+8-Heptadecene (C17H34) which is further hydrogenated to heptadecane 
+(C17H36) whereas the DCX route directly produces heptadecane. In 
+addition to direct DO, secondary cracking reactions via C––C cleavage 
+of fatty acids and long-chain hydrocarbons occur, followed by DO, 
+leading to the formation of a mixture of shorter-chain alkanes and al­
+kenes. Another minor but detectable pathway involves the hydrogena­
+tion of oleic acid to stearic acid (C18:0), followed by C––C bond scission 
+and partial hydrogenation to oxygenated intermediates. This route is 
+supported by the presence of trace amounts of E-15-Heptadecenal 
+(C17H32O). These aldehydes can be further hydrogenated to alcohols 
+such as 1-Heptadecanol (C17H36O), which may undergo dehydration 
+over acidic sites to generate short-chain olefins (Nugraha et al., 2024). 
+At the elevated reaction temperatures, simultaneous C––C bond scis­
+sion via β-scission and mild thermal cracking occurs, particularly in the 
+presence of acidic V2O5 support sites, which promotes formation of 
+shorter chain hydrocarbons (such as 1-octene, octane, 1-nonene, non­
+ane, 1-decene, decane, 1-undecene and undecane) and shorter chain 
+FFAs, which are then deoxygenated. Note, secondary reactions such as 
+water–gas shift (WGS), glycerol reforming and methanation generate in- 
+situ H2, enabling hydrogenation of unsaturated fatty acids into saturated 
+intermediates and olefins into saturated hydrocarbons (Asikin-Mijan 
+et al., 2022). This in-situ H2 phenomenon explains the relatively high 
+alkane-to-alkene ratios observed under H2-free DO conditions (Nugraha 
+et al., 2024). Furthermore, isomerization, and limited cyclization re­
+actions may further transform linear hydrocarbons into branched and 
+cyclic species. In line with this, our results show small amounts of cyclic 
+compounds (naphthenes), such as n-Nonylcyclohexane (C15H30) reach­
+ing up to 6%, consistent with previous studies (Zulkepli et al., 2018). In 
+summary, these results highlight the effectiveness of Ni/V2O5 in pro­
+moting the efficient DO of –COOH fragments through the DeCOx route 
+while minimizing excessive cracking which would otherwise result in 
+gaseous light hydrocarbons out of BJF range. The gaseous products were 
+evaluated by GC-TCD and depicted in Fig. S6. The gas distribution 
+consisted primarily of CO (51.2%), followed by CO2 (21.3%), H2 
+(20.3%), and a minor amount of CH4 (7.1%). CO and CO2 detected are 
+directly associated with deoxygenation via DCO and DCX pathways, 
+respectively. Indeed, the higher content of CO compared to CO2 in­
+dicates the oxygen removal occurred mainly via DCO pathway. At the 
+same time, CH4 was detected which can be attributed to secondary 
+cracking and methanation reactions (Asikin-Mijan et al., 2022). Inter­
+estingly, although a fair amount of H2 was detected in the gas phase, the 
+reaction is not favoured to have proceeded primarily through the HDO 
+pathway, this is supported by the dominance of odd-numbered hydro­
+carbons in the liquid product. The detected H2 was likely generated in- 
+situ via dehydrogenation by WGS reaction and may have contributed to 
+the hydrogenation of intermediate unsaturated hydrocarbons, leading to 
+the high selectivity towards saturated alkanes observed in the liquid 
+product.
+Fig. 1(a) illustrates the use of spectroscopic Fourier Transform 
+Infrared Spectroscopy (FTIR), for the qualitative characterization of 
+chemical functional groups present in waste cooking oil (WCO) and its 
+deoxygenated products. The FTIR spectrum of WCO exhibited distinct 
+absorption bands at 3007 cm−1, 2924 cm−1, 2855 cm−1, and 1465 cm−1, 
+along with an additional peak at 1377 cm−1, corresponding to the 
+stretching and bending vibrations of aliphatic C––H bonds (Hafriz 
+et al., 2022). Additionally, absorption peaks at 1746 cm−1 and 1165 
+cm−1 were attributed to the carbonyl (C––O) group of glycerides and the 
+C––O stretching from ester bonds in WCO, respectively (Khalit et al., 
+2021). The deoxygenation process was evidenced by a slight shift of 
+the carbonyl (C––O) absorption band from 1745 cm−1 in WCO to 1713 
+cm−1 in the deoxygenated product, along with a notable decrease in the 
+intensity of the C––O stretching band (at 1163 cm−1 in WCO). This 
+spectral transformation indicates the progression of the DO reaction. 
+The decrease in peak intensities correlated well with the reduction in 
+oxygen content observed in the final product (Aliana-Nasharuddin et al., 
+2020). The FTIR analysis of the deoxygenated liquid products revealed 
+the presence of alkane and alkene compounds, as indicated by C––H 
+stretching vibrations at 2856 cm−1 and 2924 cm−1. Furthermore, the 
+emergence of bending vibrations at 1381 cm−1 and 1462 cm−1 for 
+alkane –C––H and at 721 cm−1 and 723 cm−1 for alkene –CH=CH– 
+confirms the formation of hydrocarbon products following the DO pro­
+cess, with more prominent bands for alkane, indicating higher compo­
+sition. Furthermore, the absence of a broad, strong peak around 3400 
+cm−1 for O––H stretching and another distinct peak of H-O––H 
+bending around 1640 cm−1 indicated that no residual water is present 
+across all liquid products. This observation confirms that the sample are 
+essentially moisture-free as presence of water in the fuel has negative 
+effects on engines and fuel systems and therefore hazardous on flight 
+safety. Such effects are well documented in the literature which in­
+cludes, accelerated corrosion, poorer fuel lubricative properties, mi­
+crobial growth, degrades additives and antioxidants and restrict or 
+potentially block fuel flow in fuel systems due to icing (Chen et al., 
+2022). Overall, the microwave synthesized Ni/V2O5 catalyst was the 
+most efficient catalyst in converting the WCO, producing high content of 
+hydrocarbons and selective towards BJF fraction, with minimal un­
+wanted by-products.
+3.3. Performance comparison of non-noble metal catalyst for WCO 
+deoxygenation with present study
+The deoxygenation performance obtained in this study is compared 
+with similar Ni-based catalysts/WCO feedstocks systems from previous 
+literature (Table 5). In this study, using a microwave-assisted Ni/V2O5 
+catalyst, a 96% hydrocarbon yield with 78% BJF selectivity was ob­
+tained from the DO of WCO at 400 ℃ over 5 wt% for 2 h. Hafriz et al., 
+2022 utilized a low-cost NiO dolomite-based catalyst on WCO, however 
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+9
+
+the catalyst exhibited lower hydrocarbon yield and selectivity due to its 
+limited acidity and thermal stability as structure collapses of dolomite 
+catalyst occurs at high temperatures (>400 ℃). Several studies inves­
+tigated the HDO of WCO over Ni-Mo/alumina-silica catalyst. For 
+instance, Verma et al., 2023 reported 97% yield and 56% jet-range 
+selectivity. In a similar catalyst system, Racha et al., 2024 attained an 
+87% yield and 75% selectivity towards jet-range, attributed to the 
+enhanced acidity and good metal dispersion on the mixed oxide sup­
+ports. Despite this, the process requires high hydrogen pressure which 
+increases costs and system complexity. Razak et al., 2024 reported the 
+DO of WCO using a 5Ni5Co/SBA-15-SH catalyst producing 80% of yield 
+with 92% of bio-jet selectivity, which was credited to the high surface 
+area and enhanced acidity of the mesoporous SBA-15 support. None­
+theless, the catalyst preparation involves multiple synthesis and func­
+tionalization steps which may increase production costs and limit 
+industrial scale-up. Therefore, the Ni/V2O5 catalyst developed in this 
+study demonstrates strong potential for commercial production of BJF 
+due to its use of inexpensive materials, simple preparation method, good 
+catalyst stability and superior catalytic activity.
+3.4. Kinetic deactivation study on DO of WCO over Ni/V2O5 microwave- 
+synthesised catalyst
+The catalyst stability of Ni/V2O5 M was evaluated at 380––420 ℃. 
+The Arrhenius plot of lnkd against 1/T was constructed based on Eq.6 
+producing a linear relationship from which the activation energy of 
+deactivation (Ed) was determined (see Fig. 3 (d)). The strong linearity 
+obtained (R2 = 0.94) indicates that the deactivation rate constant fol­
+lows Arrhenius behaviour and that the reaction kinetics are well 
+described by Arrhenius equation. From the graph, the Ed of Ni/V2O5 M 
+in the DO of WCO was calculated to be 48.3 kJ/mol. This value is lower 
+than that reported by Mohmmed et al. of 62.4 kJ/mol for the DO of oleic 
+acid over coated Pd/AC (Mohammed et al., 2022) and by Hasanudin 
+et al. of 54.3 kJ/mol for the HDO of crude palm oil over Ni/Mo 
+ZrO2(Hasanudin et al., 2019). The lower Ed value of this study indicates 
+that the catalyst decay of Ni/V2O5 is much less temperature sensitive 
+and therefore the catalyst is more stable and robust. Note, Fig. 3b-c 
+shows the weight loss curve in the TGA/O2 analysis and RAMAN spectra 
+of spent catalyst after kinetic study, respectively. The weight loss 
+observed in the 200–400 ℃ region is attributed to the combustion of soft 
+amorphous coke which is known to strongly poison catalyst active sites 
+and thus cause rapid loss of catalyst activity (Li et al., 2017). In contrast, 
+weight loss occurring at temperatures above 400 ℃ is assumed to 
+resemble hard coke of graphitic structure, although these deposits are 
+more difficult to remove during regeneration, they are generally much 
+less immediately deactivating (Shakor et al., 2024). Hard coke pre­
+dominated the carbon deposits on Ni/V2O5 as evident from the weight 
+drop after 400℃. The RAMAN spectrum provided further complemen­
+tary evidence, which displayed a pronounced G band (~1596 cm−1) and 
+an extremely weak D band (~1350 cm−1). Obviously, the low D/G in­
+tensity ratio points to the presence of more ordered graphitic carbon. 
+These findings indicate that catalyst deactivation was mainly caused by 
+carbon deposition of catalysts surface, which likely blocked active sites 
+and reduced catalytic activity.
+4. Conclusions
+In this study, the catalytic deoxygenation of WCO to jet-like hydro­
+carbons under H2-free conditions was investigated and compared over a 
+series of transition metal-based catalysts, including a novel Ni/V2O5 
+catalyst, synthesised via wet-impregnation and subjected to different 
+treatments. The synthesized catalysts by microwave- and sonication- 
+assistance demonstrated improved physico-chemical properties which 
+contributed to their high reaction performance. These enhanced 
+methods reduced synthesis time and energy consumption while deliv­
+ering comparable or superior catalytic performance. Ni/V2O5 M 
+exhibited the best performance with a hydrocarbon yield of 96% and a 
+jet-selectivity of 78% consisting mainly of desirable n-paraffins. The 
+synergistic effect between Ni and V2O5 lead to formation of rich oxygen 
+vacancies that enhanced the DeCOx activity and produced favourable 
+Table 5 
+Comparison between existing literature and the current study on BJF production from WCO under Ni-based catalysts.
+No
+Catalyst
+Feed
+Reaction Conditions
+Catalyst 
+Stability
+Hydrocarbon 
+Yield (%)
+BJF Selectivity 
+(%)
+Ref.
+1
+Ni/V2O5
+WCO
+T = 400 ℃, t = 2h, catalyst loading = 5 wt%, metal% =
+20 wt% Ni, N2 gas at 20 mL/min
+Ed
+a = 48.3 kJ/ 
+mol, 
+stable > 8h 
+TOSb
+96
+78
+Present study
+2
+NiO-Dolomite
+WCO
+T = 400 ℃, t = 0.875 h, catalyst loading = 3.25 wt%, 
+metal% = 5 wt% Ni N2 gas at 175 mL/min
+NRc
+61
+72
+(Hafriz et al., 2022)
+3
+5Ni5Co/SBA- 
+15-SH
+WCO
+T = 350 ℃, t = 2h, catalyst loading = 5 wt%, metal% =
+5 wt% Ni, 5 wt% Co, N2 gas at 20 mL/min
+stable up to 
+3rd cycle
+80
+92
+(Razak et al., 2024)
+4d
+Ni-Mo/ 
+Al2O3-SiO2
+WCO
+T = 350 ℃, WHSV = 1.1 h−1, metal% = 3 wt% Ni, 10 wt 
+% Mo, H2 gas at 60 bar
+stable > 100 h 
+TOS
+87
+75
+(Racha et al., 2024)
+5d
+Ni-Mo/ 
+Al2O3-SiO2
+WCO
+T = 420 ℃, LHSV = 1h−1, H2/oil = 2200 NL/L at 100 
+bar
+stable > 220 h 
+TOS
+97
+56
+(Verma et al., 2023)
+6
+Ni/palygorskite
+WCO
+T = 310 ℃, t = 9h, metal% = 30 wt% Ni, catalyst 
+loading = 1 wt%, H2 gas at 40 bar
+NR
+82
+NR
+(Lycourghiotis et al., 
+2019)
+7
+Ni/Meso-Y
+WCO
+T = 400 ℃, t = 8h, catalyst loading = 5 wt%, metal% =
+10 wt%, H2 gas at 30 bar
+NR
+NR
+41
+(Li et al., 2015)
+8d
+Ni2P/AC
+WCO
+T = 300 ℃, 1.2 wt% in n-heptane, GHSV = 139.8 h−1, 
+H2 at 1 bar
+NR
+77
+NR
+(Pham et al., 2019)
+9
+Ni/AC
+WCO
+T = 350 ℃, t = 3h, catalyst loading = 5 wt%, metal% =
+20 wt% Ni, N2 gas at 10 mL/min
+stable up to 
+4th cycle
+90
+66
+(Khalit et al., 2021)
+10
+Ni/CeZrO2
+Oleic 
+Acid
+T = 300 ℃, t = 3h, catalyst loading = 3 wt%, metal% =
+20 wt%, 20% H2/N2 at 1 bar
+NR
+98
+20
+(Jeon et al., 2019)
+11d
+Ni/Mo ZrO2
+CPOe
+T = 400-500℃, WHSV = 5–25 h−1, H2 at 60 mL/min
+Ed = 54.3 kJ/ 
+mol
+NR
+NR
+(Hasanudin et al., 
+2019)
+a Ed = Activation energy of deactivation (see section 3.4).
+b catalyst retains > 70% of its catalytic activity after 8 h TOS.
+c NR = Not reported.
+d Fixed bed reactor.
+e CPO = crude palm oil.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+10
+
+selectivity. Kinetic results established that deactivation of Ni/V2O5 
+catalyst is resilient to temperature changes and therefore possess high 
+stability. Therefore, given its low-cost and high activity, Ni/V2O5 cata­
+lyst is promising for the industrial scale-up and the maturity of the DO of 
+WCO in the absence of H2. In future studies, the enhanced properties 
+achievable through microwave and sonication assistance should be 
+consistently exploited and even extended to existing catalyst systems to 
+maximize catalytic performance and increase efficiency.
+CRediT authorship contribution statement
+Anas Ahmed Hebish: Writing – review & editing, Writing – original 
+draft, Methodology, Investigation, Formal analysis. Nurin Wahidah 
+Mohd Zulkifli: Writing – review & editing, Supervision, Resources, 
+Conceptualization. Nurhidayatullaili Muhd Julkapli: Writing – re­
+view & editing, Supervision, Conceptualization. Muhamad Fazly 
+Abdul Patah: Writing – review & editing, Supervision, Conceptualiza­
+tion. N. Asikin-Mijan: Writing – review & editing, Validation, Super­
+vision, Resources, Methodology, Conceptualization. Syawal Mohd 
+Yusof: Resources. Salma Samidin: Resources, Investigation.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Fig. 3. Plot of relative rate (at) against time-on-stream (min) and the second-order power-law deactivation model fitting for the DO of WCO over Ni/V2O5 M at 
+different temperatures (a) 380 ℃, (b) 400 ℃ and (c) 420 ℃, (d) Arrhenius Plot for the DO of WCO over Ni/V2O5 M and (e) TGA analysis of fresh and spent catalyst, 
+(f) RAMAN spectrum of spent Ni/V2O5 M catalyst.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+11
+
+Acknowledgements
+The authors would like to acknowledge the financial support of 
+Universiti Malaya under CORG009-2024 UM Internal Grant. The 
+research also was funded by Universiti Kebangsaan Malaysia research 
+grant Dana Impak Perdana 2.0 (DIP 2.0) and Geran Translasi UKM (TR- 
+UKM) through the grant number: DIP-2024-027, UKM-TR2024-015.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.biortech.2026.134969.
+Data availability
+Data will be made available on request.
+References
+Adzahar, N.A., AbdulKareem-Alsultan, G., Mijan, N.A., Mastuli, M.S., Lee, H.V., Taufiq- 
+Yap, Y.H., 2026. Enhancing aviation sustainability: bimetallic Ni–Co catalysts for 
+bio-jet fuel from palm kernel oil. Fuel 405, 136388. https://doi.org/10.1016/j. 
+fuel.2025.136388.
+Aimdate, K., Srifa, A., Koo-amornpattana, W., Sakdaronnarong, C., Klysubun, W., 
+Kiatphuengporn, S., Assabumrungrat, S., Wongsakulphasatch, S., Kaveevivitchai, W., 
+Sudoh, M., Watanabe, R., Fukuhara, C., Ratchahat, S., 2021. Natural kaolin-based Ni 
+catalysts for CO 2 methanation: on the effect of Ce enhancement and microwave- 
+assisted hydrothermal synthesis. ACS Omega 6, 13779–13794. https://doi.org/ 
+10.1021/acsomega.1c01231.
+Aliana-Nasharuddin, N., Asikin-Mijan, N., Abdulkareem-Alsultan, G., Saiman, M.I., 
+Alharthi, F.A., Alghamdi, A.A., Taufiq-Yap, Y.H., 2020. Production of green diesel 
+from catalytic deoxygenation of chicken fat oil over a series binary metal oxide- 
+supported MWCNTs. RSC Adv. 10, 626–642. https://doi.org/10.1039/C9RA08409F.
+Ameen, M., Azizan, M.T., Ramli, A., Yusup, S., Alnarabiji, M.S., 2019. Catalytic 
+hydrodeoxygenation of rubber seed oil over sonochemically synthesized Ni-Mo/ 
+γ-Al2O3 catalyst for green diesel production. Ultrason. Sonochem. 51, 90–102. 
+https://doi.org/10.1016/j.ultsonch.2018.10.011.
+Asikin-Mijan, N., AbdulKareem-Alsultan, G., Mastuli, M.S., Salmiaton, A., Azuwa 
+Mohamed, M., Lee, H.V., Taufiq-Yap, Y.H., 2022. Single-step catalytic 
+deoxygenation-cracking of tung oil to bio-jet fuel over CoW/silica-alumina catalysts. 
+Fuel 325, 124917. https://doi.org/10.1016/j.fuel.2022.124917.
+Asikin-Mijan, N., Lee, H.V., Abdulkareem-Alsultan, G., Afandi, A., Taufiq-Yap, Y.H., 
+2017. Production of green diesel via cleaner catalytic deoxygenation of Jatropha 
+curcas oil. J. Clean. Prod. 167, 1048–1059. https://doi.org/10.1016/j. 
+jclepro.2016.10.023.
+Burakova, E.A., Dyachkova, T.P., Rukhov, A.V., Tugolukov, E.N., Galunin, E.V., 
+Tkachev, A.G., Basheer, A.A., Ali, I., 2018. Novel and economic method of carbon 
+nanotubes synthesis on a nickel magnesium oxide catalyst using microwave 
+radiation. J. Mol. Liq. 253, 340–346. https://doi.org/10.1016/j.molliq.2018.01.062.
+Chen, T., Xu, X., Hu, J., Guo, L., Yang, S., Zhao, T., Ma, J., 2022. Water behavior of 
+current jet fuel versus operating conditions: Storage time, temperature, relative 
+humidity and anti-icing agent. Fuel 309, 122088. https://doi.org/10.1016/j. 
+fuel.2021.122088.
+del Campo, P., Martínez, C., Corma, A., 2021. Activation and conversion of alkanes in the 
+confined space of zeolite-type materials. Chem. Soc. Rev. 50, 8511–8595. https:// 
+doi.org/10.1039/D0CS01459A.
+Detsios, N., Theodoraki, S., Maragoudaki, L., Atsonios, K., Grammelis, P., 
+Orfanoudakis, N.G., 2023. Recent advances on alternative aviation fuels/pathways: a 
+critical review. Energies (Basel). 16, 1904. https://doi.org/10.3390/en16041904.
+Gamal, M.S., Asikin-Mijan, N., Khalit, W.N.A.W., Arumugam, M., Izham, S.M., Taufiq- 
+Yap, Y.H., 2020. Effective catalytic deoxygenation of palm fatty acid distillate for 
+green diesel production under hydrogen-free atmosphere over bimetallic catalyst 
+CoMo supported on activated carbon. Fuel Process. Technol. 208, 106519. https:// 
+doi.org/10.1016/j.fuproc.2020.106519.
+Hafriz, R.S.R.M., Arifin, N.A., Salmiaton, A., Yunus, R., Taufiq-Yap, Y.H., Saifuddin, N. 
+M., Shamsuddin, A.H., 2022. Multiple-objective optimization in green fuel 
+production via catalytic deoxygenation reaction with NiO-dolomite catalyst. Fuel 
+308, 122041. https://doi.org/10.1016/j.fuel.2021.122041.
+Hafriz, R.S.R.M., Nor Shafizah, I., Salmiaton, A., Arifin, N.A., Yunus, R., Taufiq Yap, Y.H., 
+Abd Halim, S., 2020. Comparative study of transition metal-doped calcined 
+Malaysian dolomite catalysts for WCO deoxygenation reaction. Arab. J. Chem. 13, 
+8146–8159. https://doi.org/10.1016/j.arabjc.2020.09.046.
+Hartono, F., Suseno, A., Astuti, Y., Widodo, D.S., 2023. Effect of calcination temperature 
+on the properties of silica-supported Ni-Cu catalyst for the hydrocracking reaction of 
+used cooking oil to biofuel. Cognizance Journal of Multidisciplinary Studies 3, 
+21–31. https://doi.org/10.47760/cognizance.2023.v03i12.004.
+Hasanudin, H., Rachmat, A., Said, M., Wijaya, K., 2019. Kinetic model of crude palm oil 
+hydrocracking over Ni/Mo ZrO2–pillared bentonite catalyst. Period. Polytech., 
+Chem. Eng. 64, 238–247. https://doi.org/10.3311/PPch.14765.
+Hebish, A.A., Zulkifli, N.W.M., Julkapli, N.M., Patah, M.F.A., 2024. The impact of 
+operating conditions on H2-free catalytic deoxygenation of triglycerides for bio-jet 
+fuel synthesis: a step towards sustainable aviation. Applied Catalysis o: Open. 
+https://doi.org/10.1016/j.apcato.2024.206926.
+Horv´ath, A., Beck, A., N´emeth, M., S´afr´an, G., Roˇskariˇc, M., ˇZerjav, G., Pintar, A., 2024. 
+Influence of 0.25% indium addition to Ni/CeO2 catalysts for dry reforming of 
+methane. Catalysts 14, 383. https://doi.org/10.3390/catal14060383.
+Hu, W., Wang, H., Lin, H., Zheng, Y., Ng, S., Shi, M., Zhao, Y., Xu, R., 2019. Catalytic 
+decomposition of oleic acid to fuels and chemicals: roles of catalyst acidity and 
+basicity on product distribution and reaction pathways. Catalysts 9, 1063. https:// 
+doi.org/10.3390/catal9121063.
+James, J., Lücking, L.E., van Dijk, H.A.J., Boon, J., 2023. Review of technologies for 
+carbon monoxide recovery from nitrogen- containing industrial streams. Front. 
+Chem. Eng. 5. https://doi.org/10.3389/fceng.2023.1066091.
+Jeon, K.-W., Na, H.-S., Lee, Y.-L., Ahn, S.-Y., Kim, K.-J., Shim, J.-O., Jang, W.-J., 
+Jeong, D.-W., Nah, I.W., Roh, H.-S., 2019. Catalytic deoxygenation of oleic acid over 
+a Ni-CeZrO2 catalyst. Fuel 258, 116179. https://doi.org/10.1016/j. 
+fuel.2019.116179.
+Jeon, K.-W., Park, H.-R., Lee, Y.-L., Kim, J.-E., Jang, W.-J., Shim, J.-O., Roh, H.-S., 2022. 
+Deoxygenation of non-edible fatty acid for green diesel production: effect of metal 
+loading amount over Ni/MgO–Al2O3 on the catalytic performance and reaction 
+pathway. Fuel 311, 122488. https://doi.org/10.1016/j.fuel.2021.122488.
+Khalit, W.N.A.W., Asikin-Mijan, N., Marliza, T.S., Gamal, M.S., Shamsuddin, M.R., 
+Saiman, M.I., Taufiq-Yap, Y.H., 2021. Catalytic deoxygenation of waste cooking oil 
+utilizing nickel oxide catalysts over various supports to produce renewable diesel 
+fuel. Biomass Bioenergy 154, 106248. https://doi.org/10.1016/j. 
+biombioe.2021.106248.
+Li, T., Cheng, J., Huang, R., Zhou, J., Cen, K., 2015. Conversion of waste cooking oil to jet 
+biofuel with nickel-based mesoporous zeolite Y catalyst. Bioresour. Technol. 197, 
+289–294. https://doi.org/10.1016/j.biortech.2015.08.115.
+Li, Y., Tan, X., Hocking, R.K., Bo, X., Ren, H., Johannessen, B., Smith, S.C., Zhao, C., 
+2020. Implanting Ni-O-VOx sites into Cu-doped Ni for low-overpotential alkaline 
+hydrogen evolution. Nat. Commun. 11, 2720. https://doi.org/10.1038/s41467-020- 
+16554-5.
+Li, Y., Zhang, C., Liu, Y., Tang, S., Chen, G., Zhang, R., Tang, X., 2017. Coke formation on 
+the surface of Ni/HZSM-5 and Ni-Cu/HZSM-5 catalysts during bio-oil 
+hydrodeoxygenation. Fuel 189, 23–31. https://doi.org/10.1016/j.fuel.2016.10.047.
+Li, Z., Dong, J., Zhang, H., Zhang, Y., Wang, H., Cui, X., Wang, Z., 2021. Sonochemical 
+catalysis as a unique strategy for the fabrication of nano-/micro-structured 
+inorganics. Nanoscale Adv. 3, 41–72. https://doi.org/10.1039/D0NA00753F.
+Lim, M.S.W., Yang, T.-C.-K., Tiong, T.J., Pan, G.-T., Chong, S., Yap, Y.H., 2021. 
+Ultrasound-assisted sequentially precipitated nickel-silica catalysts and its 
+application in the partial hydrogenation of edible oil. Ultrason. Sonochem. 73, 
+105490. https://doi.org/10.1016/j.ultsonch.2021.105490.
+Liu, A., Liu, X., She, Y., Hu, X., Hu, M., Zhang, Z., Wang, X., Liu, B., 2023. An alternative 
+reaction pathway triggered by oxygen vacancies for boosting selective 
+hydrodeoxygenation reactions. Green Chem. 25, 8633–8644. https://doi.org/ 
+10.1039/D3GC02217J.
+Liu, X., Zeng, J., Yang, H., Zhou, K., Pan, D., 2018. V 2 O 5 -based nanomaterials: 
+synthesis and their applications. RSC Adv. 8, 4014–4031. https://doi.org/10.1039/ 
+C7RA12523B.
+Luo, J., Gong, G., Cui, C., Sun, S., Lin, J., Ma, R., Sun, J., 2022. Microwave-induced one- 
+pot preparation of bifunctional N-Fe/BC catalysts and oriented production of phenol- 
+enriched bio-oil from biomass pyrolysis: catalyst synthesis, performance evaluation, 
+and mechanism insight via theoretical calculations. ACS Catal. 12, 11318–11339. 
+https://doi.org/10.1021/acscatal.2c01841.
+Lycourghiotis, S., Kordouli, E., Sygellou, L., Bourikas, K., Kordulis, C., 2019. Nickel 
+catalysts supported on palygorskite for transformation of waste cooking oils into 
+green diesel. Appl Catal B 259, 118059. https://doi.org/10.1016/j. 
+apcatb.2019.118059.
+Marberger, A., Elsener, M., Nuguid, R.J.G., Ferri, D., Kr¨ocher, O., 2019. Thermal 
+activation and aging of a V2O5/WO3-TiO2 catalyst for the selective catalytic 
+reduction of NO with NH3. Appl. Catal. A 573, 64–72. https://doi.org/10.1016/j. 
+apcata.2019.01.009.
+Mohammed, S.T., Gheni, S.A., Aqar, D.Y., Hamad, K.I., Ahmed, S.M.R., Mahmood, M.A., 
+Abdullah, G.H., Ali, M.K., 2022. Evaluation and optimal design of a high stability 
+hydrothermal deoxygenation process for production of green diesel fuel via 
+deoxygenation of waste cooking oil. Process Saf. Environ. Prot. 159, 489–499. 
+https://doi.org/10.1016/j.psep.2022.01.006.
+Morgan, T., Grubb, D., Santillan-Jimenez, E., Crocker, M., 2010. Conversion of 
+triglycerides to hydrocarbons over supported metal catalysts. Top. Catal. 53, 
+820–829. https://doi.org/10.1007/s11244-010-9456-1.
+Mulyatun, M., Prameswari, J., Istadi, I., Widayat, W., 2024. Synthesis method effect on 
+the catalytic performance of acid–base bifunctional catalysts for converting low- 
+quality waste cooking oil to biodiesel. Catal. Letters 154, 4837–4855. https://doi. 
+org/10.1007/s10562-024-04643-9.
+Nugraha, R.E., Purnomo, H., Aziz, A., Holilah, H., Bahruji, H., Asikin-Mijan, N., 
+Suprapto, S., Taufiq-Yap, Y.H., Jalil, A.A., Hartati, H., Prasetyoko, D., 2024. The 
+mechanism of oleic acid deoxygenation to green diesel hydrocarbon using porous 
+aluminosilicate catalysts. S. Afr. J. Chem. Eng. 49, 122–135. https://doi.org/ 
+10.1016/j.sajce.2024.04.009.
+Pham, L.K.H., Tran, T.T.V., Kongparakul, S., Reubroycharoen, P., Karnjanakom, S., 
+Guan, G., Samart, C., 2019. Formation and activity of activated carbon supported 
+Ni2P catalysts for atmospheric deoxygenation of waste cooking oil. Fuel Process. 
+Technol. 185, 117–125. https://doi.org/10.1016/j.fuproc.2018.12.009.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+12
+
+Plata, V., Ferreira-Beltr´an, D., Gauthier-Maradei, P., 2022. Effect of cooking conditions 
+on selected properties of biodiesel produced from palm-based waste cooking oils. 
+Energies (Basel). 15, 908. https://doi.org/10.3390/en15030908.
+Racha, A., Kumar, L., Pai, S., Samanta, C., Newalkar, B.L., Thota, C., 2024. Highly 
+selective hydrodeoxygenation catalyst for sustainable aviation fuel production from 
+used cooking oil. Catal. Today 442, 114895. https://doi.org/10.1016/j. 
+cattod.2024.114895.
+Razak, N.A.A., Taufiq-Yap, Y.H., Derawi, D., 2024. Catalytic deoxygenation of waste 
+cooking oil for sustainable bio-jet fuel: a comparative study of Ni-Co/SBA-15 and Ni- 
+Co/SBA-15-SH catalysts. J. Anal. Appl. Pyrol. 178, 106369. https://doi.org/ 
+10.1016/j.jaap.2024.106369.
+Rennhofer, H., Zanghellini, B., 2021. Dispersion state and damage of carbon nanotubes 
+and carbon nanofibers by ultrasonic dispersion: a review. Nanomaterials 11, 1469. 
+https://doi.org/10.3390/nano11061469.
+Scaldaferri, C.A., Pasa, V.M.D., 2019. Hydrogen-free process to convert lipids into bio-jet 
+fuel and green diesel over niobium phosphate catalyst in one-step. Chem. Eng. J. 
+370, 98–109. https://doi.org/10.1016/j.cej.2019.03.063.
+Shakor, Z., Alasseel, A., Al-Shafei, E., 2024. The structure of deposited coke on 
+hydrocracking and reforming catalysts: coke deactivation and kinetics. Can. J. Chem. 
+Eng. 102, 2876–2891. https://doi.org/10.1002/cjce.25222.
+Shakor, Z.M., Al-Shafei, E.N., 2023. The mathematical catalyst deactivation models: a 
+mini review. RSC Adv. 13, 22579–22592. https://doi.org/10.1039/D3RA02912C.
+Sharma, P., Usman, M., Salama, E.-S., Redina, M., Thakur, N., Li, X., 2021. Evaluation of 
+various waste cooking oils for biodiesel production: a comprehensive analysis of 
+feedstock. Waste Manag. 136, 219–229. https://doi.org/10.1016/j. 
+wasman.2021.10.022.
+Song, M., Zhang, X., Chen, Y., Zhang, Q., Chen, L., Liu, J., Ma, L., 2023. Hydroprocessing 
+of lipids: an effective production process for sustainable aviation fuel. Energy 283, 
+129107. https://doi.org/10.1016/j.energy.2023.129107.
+Verma, V., Mishra, A., Anand, M., Farooqui, S.A., Sinha, A.K., 2023. Catalytic 
+hydroprocessing of waste cooking oil for the production of drop-in aviation fuel and 
+optimization for improving jet biofuel quality in a fixed bed reactor. Fuel 333, 
+126348. https://doi.org/10.1016/j.fuel.2022.126348.
+Wang, J., Ren, D., Zhang, N., Lang, J., Du, Y., He, W., Norinaga, K., Huo, Z., 2023. 
+Boosting in-situ hydrodeoxygenation of fatty acids over a fine and oxygen-vacancy- 
+rich NiAl catalyst. Renew. Energy 202, 952–960. https://doi.org/10.1016/j. 
+renene.2022.11.095.
+Wang, S., Wang, Y., Wu, X., Hu, C., Zhang, H., Cui, Q., Bao, X., Yuan, P., 2023. Pore-size 
+dependent catalytic activity of supported Pd catalysts for selective hydrogenation of 
+nitrile butadiene rubber. Chem. Eng. Sci. 273, 118629. https://doi.org/10.1016/j. 
+ces.2023.118629.
+Why, E.S.K., Ong, H.C., Lee, H.V., Chen, W.H., Asikin-Mijan, N., Varman, M., Loh, W.J., 
+2022. Single-step catalytic deoxygenation of palm feedstocks for the production of 
+sustainable bio-jet fuel. Energy 239, 122017. https://doi.org/10.1016/J. 
+ENERGY.2021.122017.
+Wu, J., Shi, J., Fu, J., Leidl, J.A., Hou, Z., Lu, X., 2016. Catalytic decarboxylation of fatty 
+acids to aviation fuels over nickel supported on activated carbon. Sci. Rep. 6, 27820. 
+https://doi.org/10.1038/srep27820.
+Xue, Y., Guan, Q., Li, W., 2015. Synthesis of bulk and supported nickel phosphide using 
+microwave radiation for hydrodeoxygenation of methyl palmitate. RSC Adv. 5, 
+53623–53628. https://doi.org/10.1039/C5RA09020B.
+Yan, J., Luo, Y., Zhu, M., Yang, B., Shen, X., Wang, Z., Zhuang, Z., Yu, Y., 2024. General 
+and scalable synthesis of mesoporous 2D MZrO 2 (M = Co, Mn, Ni, Cu, Fe) 
+nanocatalysts by amorphous-to-crystalline transformation. Small 20. https://doi. 
+org/10.1002/smll.202308016.
+Zhang, Z., Pan, S.-Y., Li, H., Cai, J., Olabi, A.G., Anthony, E.J., Manovic, V., 2020. Recent 
+advances in carbon dioxide utilization. Renew. Sustain. Energy Rev. 125, 109799. 
+https://doi.org/10.1016/j.rser.2020.109799.
+Zhao, X., Yan, Y., Mao, L., Fu, M., Zhao, H., Sun, L., Xiao, Y., Dong, G., 2018. 
+A relationship between the V 4+ /V 5+ ratio and the surface dispersion, surface 
+acidity, and redox performance of V 2 O 5 –WO 3 /TiO 2 SCR catalysts. RSC Adv. 8, 
+31081–31093. https://doi.org/10.1039/C8RA02857E.
+Zhou, L., Yang, H., Hu, C., 2025. Catalytic deoxygenation of lipids for bio-jet fuel: 
+advances in catalyst design and reaction pathways. Catalysts 15, 518. https://doi. 
+org/10.3390/catal15060518.
+Zulkepli, S., Juan, J.C., Lee, H.V., Rahman, N.S.A., Show, P.L., Ng, E.P., 2018. Modified 
+mesoporous HMS supported Ni for deoxygenation of triolein into hydrocarbon- 
+biofuel production. Energy Convers. Manag. 165, 495–508. https://doi.org/ 
+10.1016/j.enconman.2018.03.087.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+13

@@ -1,0 +1,167 @@
+Equipment
+Power, P 
+(W)
+Time, t 
+(h)
+Total energy 
+Consumption (kWh) 
+= P*t
+Conventional
+Magnetic 
+Stirrer
+15.0 ±
+0.8
+12.00 
+± 0.00
+0.180 ± 0.010
+Microwave- 
+assisted
+Microwave 
+Oven
+80.0 ±
+4.0
+0.50 ±
+0.00
+0.058 ± 0.003
+Overhead 
+Stirrer
+35.0 ±
+1.8
+0.50 ±
+0.00
+Sonication- 
+assisted
+Sonicator
+500.0 ±
+25.0
+0.08 ±
+0.000
+0.042 ± 0.002
+* Values are reported as nominal ± uncertainty.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+3
+
+consumption was monitored by a TCD detector. The surface morphology 
+and elemental composition of the samples were analysed using scanning 
+electron microscopy (SEM) coupled with energy dispersive X-ray spec­
+troscopy (EDX). The measurements were performed on a SEM Phenom 
+ProX, Thermo Fisher operated at an accelerating voltage of 15 kV. 
+Samples were coated with a thin layer of gold. Elemental mapping was 
+conducted using EDX to determine the elemental distribution and 
+composition. Moreover, for the kinetic deactivation study, the deposited 
+coke on the spent catalysts surface was characterized using TGA (Toledo 
+TGA/SDTA 851e), heating from 25 ℃ to 1000 ℃ with a ramp of 30 
+℃/min under 40 mL/min of O2 and RAMAN spectroscopy (Renishaw 
+inVia Microscope) with a laser excitation (514 nm).
+2.3. Catalytic DO reaction
+The experimental setup for the deoxygenation (DO) process, as 
+illustrated in Fig. S1, comprised a 500 mL triple-necked semi-batch 
+reactor coupled with a condensing system. Initially, the non-pressurized 
+reactor was purged with N2 to establish an inert environment by elim­
+inating all O2. Subsequently, 15 g of WCO and 5 wt% catalyst were 
+introduced into the reactor. The reaction mixture was then subjected to 
+controlled heating and continuous stirring at 400 ℃ and 300 rpm using a 
+heating mantle and stirrer equipped with a PID temperature controller, 
+while maintaining a steady N2 gas flow of 20 mL/min for 2 h in atmo­
+spheric pressure. Throughout the reaction, vaporized products were 
+condensed via a cooling chamber maintained at 20 ◦C, with the resulting 
+liquid deoxygenated product collected in a small vessel, weighed and 
+subsequently analysed by gas chromatography with a flame ionization 
+detector (GC-FID), gas chromatography-mass spectrometry (GC–MS) 
+and Fourier transform infrared spectrometry (FTIR). The gaseous 
+products were collected after 1 h reaction time and further analysed by 
+gas chromatography with thermal conductivity detector (GC-TCD). To 
+ensure statistical reliability, the DO process was replicated thrice, and 
+the average result was calculated.
+2.4. Liquid product analysis
+The hydrocarbon yield was evaluated by GC-FID using an AGILENT 
+7890A coupled with a HP-5 capillary column (0.25 µm x 0.32 mm x 30 
+m) and utilising alkane and alkene (C8-C20) standard acquired from 
+Sigma Aldrich (USA). Prior to analysis, the deoxygenated liquid product 
+was diluted with GC-grade n-hexane, and ~ 2 µL of sample was injected 
+into the GC system equipped with an FID detector. Helium was used as 
+the carrier gas. The injector and detector temperatures were set at 250 
+℃ and 300 ℃, respectively. The oven temperature was initially held at 
+40 ℃ for 6 min, then ramped to 270 ℃ at a rate of 7 ℃/min. Each 
+sample was analysed in triplicate to ensure reproducibility The con­
+centration of various hydrocarbons (jet-range hydrocarbons: n-paraffin 
+and olefin, naphthene, aromatic and heavy hydrocarbon (C > 16)) and 
+byproducts or others (e.g. ketone, alcohol, and carboxylic acid) were 
+identified with GC–MS, using SHIMADZU GC-TQ8030 equipped with a 
+SH-5MS capillary column (thickness: 0.25 µm x length: 30 m x diameter: 
+0.25 mm), with analysis carried out under similar operating conditions 
+to GC-FID. Compounds were identified from the GC–MS spectra using 
+the National Institute of Standards and Technology (NIST) library based 
+on a probability match of 95% or higher. Fourier transform infrared 
+(FTIR) spectroscopy was performed using a Shimadzu IRAffinity-1S 
+spectrophotometer. Spectra were recorded in the range of 650–4000 
+cm−1 to identify the chemical functional groups present in the liquid 
+product. Gas products collected were analysed by the Agilent USA model 
+GC6890 N equipped with a TCD via an offline sampling method to 
+determine the composition and concentration of the gases produced 
+during reaction. The mass yield, hydrocarbon yield and jet-selectivity 
+were calculated using Eqs. (1) to (3), respectively. 
+Mass Yield (%) = mass of liquid product
+mass of WCO
+× 100
+(1) 
+BJFSelectivty(%) = Σareaof alkane(C8 −C16)+ Σareaof alkene(C8 −C16)
+Σareaof hydrocarbonproduct
+(3) 
+2.5. Kinetic deactivation study
+The catalyst stability of Ni/V2O5 M was investigated at different 
+temperatures (380 ℃, 400 ℃ and 420 ℃) for the DO of WCO and the 
+relative rate was plotted against time-on-stream as shown in Fig. 3a-c. 
+The ratio of hydrocarbon yield (C8-C20) at time t, CHCt to the initial 
+hydrocarbon yield (C8-C20) at time = 0, CHC0 is referred to as the 
+relative catalytic activity, at. Based on previous studies, the Levenspiel 
+power-law deactivation model is a widely used approach for systems 
+with relatively fast catalyst deactivation such as those used for biofuel 
+conversion (Shakor and Al-Shafei, 2023). In this modelling approach, 
+several assumptions were made; single dominant deactivation mecha­
+nism of coke formation resulting in blocking or fouling active sites, no 
+catalyst regeneration during reaction, the relative hydrocarbon yield is 
+directly proportional to catalyst activity and at t = 0, catalyst is fully 
+activated (i.e.a0 = 1). Given the assumptions, the model can be 
+expressed as follows Eq. (4). 
+at = [1 + (m −1)kdt ]−
+1
+m−1
+(4) 
+Where at is the relative catalytic activity (at =
+CHCt
+CHC0 ), kd is the 
+deactivation rate constant, m is the deactivation order and t is the time- 
+on-stream (min). The model activity profile was fitted by obtaining the 
+parameters (kd and m) using the GRG non-linear least-squares regression 
+via Excel SOLVER, which minimized the sum of squared errors (SSE) 
+between experimental and model-predicted activity. The experimental 
+results show a progressive decline in relative catalytic activity across all 
+temperatures, which can be attributed to coke generation and its accu­
+mulation on the catalyst surface, leading to pore blockage and active-site 
+deactivation. The results reveal that the 2nd order power-law model (m 
+= 2) produced the best fitting as shown. The goodness of fit was assessed 
+by the coefficient of determination R2 yielding acceptable values 
+(0.81–0.98). Furthermore, Arrhenius plot was drawn to determine the 
+activation energy of deactivation, Ed, which reflects the temperature 
+dependence of the deactivation rate (Shakor and Al-Shafei, 2023). We 
+assume the deactivation rate constant follows the Arrhenius form. 
+kd(T) = Ae−Ed/(RT)
+(5) 
+lnkd = lnA −Ed
+R ⋅1
+T
+(6) 
+Hydrocarbon Yield (%) = Σ area of alkane (C8 −C20) + Σ area of alkene (C8 −C20)
+Σ area of hydrocarbon product
+(2) 
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+4
+
+where kd is the deactivation rate constant, A is the frequency factor, Ed is 
+the activation energy of deactivation, R is the universal gas constant and 
+T is temperature in kelvin. The activation energy of deactivation (Ed) 
+was determined using the Arrhenius equation by plotting lnkd against 1/ 
+T.

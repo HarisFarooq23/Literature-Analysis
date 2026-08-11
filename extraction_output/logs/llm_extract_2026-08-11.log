@@ -1,0 +1,31 @@
+2026-08-11 11:58:01 | INFO     | llm_extract.cli:71 - Step 1/2 — parsing PDFs from input_pdfs
+2026-08-11 11:58:01 | INFO     | llm_extract.pdf_ingest:297 - Found 6 PDF(s) in input_pdfs
+2026-08-11 11:58:01 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: 1-s2.0-S0016236122031726-main.pdf -> 1-s2.0-S0016236122031726-main_76823383
+2026-08-11 11:58:04 | INFO     | llm_extract.pdf_ingest:271 -   pages=12 tables=0 figures=10 chars=64764 status=completed
+2026-08-11 11:58:04 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: 1-s2.0-S0016236126001675-main (1).pdf -> 1-s2.0-S0016236126001675-main_1_ef8155a0
+2026-08-11 11:58:08 | INFO     | llm_extract.pdf_ingest:271 -   pages=17 tables=0 figures=10 chars=122701 status=completed
+2026-08-11 11:58:08 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: 1-s2.0-S0920586124003894-main (2).pdf -> 1-s2.0-S0920586124003894-main_2_cca3ea11
+2026-08-11 11:58:11 | INFO     | llm_extract.pdf_ingest:271 -   pages=11 tables=0 figures=9 chars=63954 status=completed
+2026-08-11 11:58:11 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: 1-s2.0-S0960852426010515-main (1).pdf -> 1-s2.0-S0960852426010515-main_1_b7a6bb82
+2026-08-11 11:58:14 | INFO     | llm_extract.pdf_ingest:271 -   pages=13 tables=0 figures=5 chars=82444 status=completed
+2026-08-11 11:58:14 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: s41467-025-64645-y.pdf -> s41467-025-64645-y_0fcb9e07
+2026-08-11 11:58:17 | INFO     | llm_extract.pdf_ingest:271 -   pages=11 tables=3 figures=3 chars=63509 status=completed
+2026-08-11 11:58:17 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: sustainability-18-04727 (3).pdf -> sustainability-18-04727_3_96fdd27e
+2026-08-11 11:58:21 | INFO     | llm_extract.pdf_ingest:271 -   pages=36 tables=0 figures=9 chars=139731 status=completed
+2026-08-11 11:58:21 | INFO     | llm_extract.pdf_ingest:303 - PDF ingest complete: 6/6 paper folder(s) ready
+2026-08-11 11:58:21 | INFO     | llm_extract.cli:74 - Step 2/2 — LLM structured extraction
+2026-08-11 11:58:21 | INFO     | llm_extract.cli:40 - Checking Ollama server at http://localhost:11434 and required models...
+2026-08-11 11:58:23 | INFO     | llm_extract.cli:42 - Ollama reachable, all configured models present. Starting extraction run
+2026-08-11 11:58:23 | INFO     | llm_extract.pipeline:392 - Loaded domain 'biodiesel' from domains (multi_experiment=False)
+2026-08-11 11:58:23 | INFO     | llm_extract.pipeline:397 -   multi_experiment is False for this domain: each paper produces ONE flat record. If papers in this corpus routinely compare multiple catalysts or conditions in one table, widespread field disagreement between primary/cross_check is expected (each model may pick a different row) -- set multi_experiment: true in this domain's YAML to extract one record per experiment instead. See resolve.py's module docstring for details.
+2026-08-11 11:58:23 | INFO     | llm_extract.reader:160 - Discovered 6 paper directories under pipeline_output
+2026-08-11 11:58:23 | INFO     | llm_extract.pipeline:436 - [1] Extracting: Unknown (None) — 76823383
+2026-08-11 12:00:12 | INFO     | llm_extract.pipeline:436 - [2] Extracting: Unknown (None) — ef8155a0
+2026-08-11 12:00:57 | INFO     | llm_extract.pipeline:436 - [3] Extracting: Unknown (None) — cca3ea11
+2026-08-11 12:02:06 | INFO     | llm_extract.pipeline:436 - [4] Extracting: Unknown (None) — b7a6bb82
+2026-08-11 12:04:04 | INFO     | llm_extract.pipeline:436 - [5] Extracting: Unknown (None) — 0fcb9e07
+2026-08-11 12:05:44 | INFO     | llm_extract.pipeline:436 - [6] Extracting: Unknown (None) — 96fdd27e
+2026-08-11 12:07:01 | INFO     | llm_extract.reader:218 - Eligible for extraction: skipped 0 (status), 0 (duplicate), 0 (already done), 0 (bad metadata)
+2026-08-11 12:07:01 | INFO     | llm_extract.pipeline:448 - Run complete — full_agreement=6, escalated=0, failed=0, unresolved_fields_total=0
+2026-08-11 12:07:01 | INFO     | llm_extract.cli:46 - Extraction complete, building clean dataset
+2026-08-11 12:07:02 | INFO     | llm_extract.cli:49 - Done. Clean dataset and manifest written to extraction_output

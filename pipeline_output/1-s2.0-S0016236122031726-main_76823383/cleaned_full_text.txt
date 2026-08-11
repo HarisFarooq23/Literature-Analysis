@@ -1,0 +1,1249 @@
+Fuel 333 (2023) 126348
+Available online 22 October 2022
+0016-2361/© 2022 Elsevier Ltd. All rights reserved.
+Full Length Article 
+Catalytic hydroprocessing of waste cooking oil for the production of drop-in 
+aviation fuel and optimization for improving jet biofuel quality in a fixed 
+bed reactor 
+Vikas Verma a,b, Ankit Mishra a,b, Mohit Anand b,c, Saleem Akhtar Farooqui a,b, Anil 
+Kumar Sinha a,b,* 
+a Bio-fuels Division, CSIR - Indian Institute of Petroleum (IIP), Haridwar Road, Mohkampur, Dehradun - 248005, India 
+b Academy of Scientific and Innovative Research (AcSIR), Ghaziabad - 201002, India 
+c CSIR - International S&T Affairs Directorate, New Delhi - 110001, India   
+A R T I C L E I N F O  
+Keywords: 
+Catalytic hydrocracking 
+Waste cooking oil 
+Aviation kerosene fuel 
+Diesel 
+A B S T R A C T  
+Waste cooking oil (WCO) is a bio-waste with significant potential for developing improved transportation fuel, 
+specifically for the aviation industry. This work investigates the catalytic hydrocracking of WCO over commercial 
+hydrocracking catalyst (Ni-Mo/silica-alumina) in a continuous flow fixed bed reactor to produce jet range hy­
+drocarbons (HCs). The aim was to convert WCO into sustainable aviation and automotive fuel to get the 
+maximum benefit from waste oil with high selectivity towards paraffins, naphthenes, minimal aromatics, and 
+high isomerization (isomer to normal (i/n) ratio) in a single-step process using a single catalyst composition. The 
+higher i/n ratio boosts specific energy, thermal stability and provides a low freezing point to the fuel. The results 
+show that WCO conversion of 96.6 % with 55.6 % selectivity of jet range HCs was obtained at 420 ◦C tem­
+perature, 1 h−1 LHSV, 10 MPa pressure, and 2200 NLgas/Lliquid H2/oil ratio. In addition, isomer yield of 82.9 %, i/ 
+n ratio of 4.8, and selectivity of kerosene range HCs based on paraffins (43.6 %), naphthenes (8.2 %), and ar­
+omatics (3.73 %) was obtained at optimum reaction conditions. After hydroprocessing, the major fraction of 
+heteroatoms (N = 99.9 %, S = 94.3 %, O = 99.9 %) was removed from WCO. Finally, the time on stream (TOS) 
+study showed no deactivation of the catalyst up to 590 h, indicating the long life and stability of the catalyst, 
+which is one of the highest lifetimes reported so far. Bio-jet fuel properties were tested according to the ASTM D- 
+1655 standard. This research will aid in developing novel catalysts for the selective conversion of WCO into jet 
+range HCs in a single step process.   
+1. Introduction 
+The usage of petroleum-based jet fuels pollutes the environment as 
+petroleum fuels are the major producer of greenhouse gases (GHG). 
+Apart from these pollutants, petroleum-based fuels are the substantial 
+generator of NOx, SOx, CO, particulate matter, and volatile organic 
+compounds [1]. Biomass-derived aviation fuel has long been seen as a 
+renewable energy choice as it minimizes the usage of arable land, GHG 
+radiation and reliance on fossil fuels. Renewable jet fuel has been taken 
+into consideration as a potential renewable opportunity and long-term 
+solution to relieve the approaching troubles in the aviation industry. 
+From 2008 to 2025, aviation fuel global consumption is predicted to rise 
+by nearly 38 %, with an annual enhancement rate of 1.9 % [2]. Biomass- 
+derived aviation fuel can substitute about 30 % of total aviation fuel [3]. 
+Furthermore, when compared to petroleum-based jet fuel, bio-jet 
+fuel may lessen GHG emissions by 65–85 % [4]. For manufacturing 
+biomass-derived aviation fuel, many paths have been explored, 
+including catalytic sugar-to-jet process [5], gasification to Ficher 
+Tropsch process [6], alcohol-to-jet process [7] and hydroprocessed 
+renewable jet (HRJ) [8]. One of the most important methods for turning 
+non-edible oil-based feeds into aviation fuel is HRJ. Several conversion 
+methods have been developed and tested on a commercial or pre- 
+commercial scale in recent years. The HRJ method has been regarded 
+as the sole commercially feasible technique, and several test flights using 
+HRJ fuel have been developed [9]. In the hydroprocessing process, tri­
+glycerides present in the feedstock transform into straight-chain alkanes 
+* Corresponding author at: Bio-fuels Division, CSIR - Indian Institute of Petroleum (IIP), Haridwar Road, Mohkampur, Dehradun 248005, India. 
+E-mail address: asinha@iip.res.in (A.K. Sinha).  
+Contents lists available at ScienceDirect 
+Fuel 
+journal homepage: www.elsevier.com/locate/fuel 
+https://doi.org/10.1016/j.fuel.2022.126348 
+Received 20 June 2022; Received in revised form 6 September 2022; Accepted 12 October 2022
+
+Fuel 333 (2023) 126348
+2
+via the hydrodeoxygenation route and these alkanes changes to light and 
+branched alkanes via catalytic hydrocracking and hydroisomerization to 
+meet jet fuel standards. For fulfilling the cold flow qualities while 
+retaining the fuel’s flash point, the HRJ fuel is typically made up of 
+straight-chain alkanes and isomer alkanes with carbon numbers ranging 
+from 9 to 15. 
+Apart from the necessity of creating and utilizing biofuels, there are 
+various challenges with the current manufacturing procedures. The 
+feedstock is an important and crucial part of the procedure. WCO is the 
+oil remainder left over after cooking that has deposited free fatty acids 
+allowing it a potentially effective and feasible biofuel feedstock [10]. 
+WCO is two to three times less expensive than pure vegetable oils, 
+significantly lowering the cost of manufacturing biofuels [11]. The 
+conversion of WCO to biofuels also reduces the severe environmental 
+effects of dumping spent oils into drainage systems [12]. Furthermore, 
+the hydroconversion of triglycerides is a complex process (saturation of 
+double bonds, heteroatom removal, cracking, and isomerization) for 
+which bi-functional catalysts are essential. Frequently, NiMo sulfide 
+phase is employed for the hydrocracking process, due to its high hy­
+drogenation and hydrodesulfurization activity [13–15]. The support 
+must have a high surface area and large pore size to allow the bulk 
+molecules to access the active sites located inside the pores easily. The 
+silica and alumina are frequently utilized supports in this kind of process 
+due to their low cost, excellent thermal and hydrothermal stability. 
+Sulfided hydrocracking catalysts are obviously suitable options for 
+deoxygenating triglycerides in non-edible oils to biofuels. However, 
+relatively little is known about their activity and selectivity towards jet 
+range hydrocarbons from WCO. 
+Bezergianni et al. have carried out numerous experiments for cata­
+lytic hydroprocessing of WCO into high-quality fuels through one 
+(hydrotreating) and two-step (hydrotreating + isomerization) methods 
+[16]. Hydroprocessing of WCO has been studied utilizing three catalysts; 
+a hydrotreating, a mild and a severe hydrocracking catalyst from tem­
+perature 330 to 390 ◦C and 8.27 to 13.79 MPa pressure under fixed 
+LHSV (1 h−1) [17]. The results indicate that hydrotreating catalyst 
+exhibited the highest conversion (83 %), and diesel yields were over 94 
+% in all cases. The temperature was identified as the most important 
+factor in transforming WCO into biofuels [18]. The influence of hydro­
+treating pressure, LHSV and H2/oil ratio on biofuel generation was also 
+investigated [19]. The reaction route for synthesizing WCO to biojet fuel 
+has been suggested by Li et al. The products contained 53 % jet range 
+alkanes and 13.4 % aromatic HCs [4]. Cheng et al. used soybean oil as a 
+feedstock and converted it into jet fuel with 40.3 % alkanes and 23.8 % 
+aromatics HCs [20]. Another study by Liu et al. in which they have 
+developed HRJ fuel by using castor oil, yielding 91.6 wt% aviation range 
+alkanes and an i/n ratio of 4.4–7.2 [21]. Hydroconversion of WCO into 
+biofuels was reported with 39.7 % jet fuel selectivity and 18.7 % jet 
+range aromatics [22]. Nevertheless, a minimum concentration of aro­
+matics must be present in the HRJ fuel in order to reduce soot (carbon 
+particles) production from the airplane engine [23]. There have been 
+few kinds of research conducted to evaluate the impact of catalyst and 
+operating parameters on product distribution in the final products. 
+Efficient catalysts with longer lifetime and stability towards HRJ pro­
+duction from hydroprocessing of WCO in a single-step process using a 
+single catalyst remain under-explored and need to be studied further to 
+produce HRJ fuel with significant concentrations of paraffins, naph­
+thenes and minimum amount of aromatics as well as high isomers for­
+mation to improve the jet fuel quality. 
+In light of this, the present study focuses on the hydroprocessing of 
+WCO in a fixed-bed down flow reactor over Ni-Mo/silica-alumina 
+catalyst to look into its suitability to produce bio-aviation fuel. The 
+products with high concentrations of paraffins, cycloparaffins, low ar­
+omatics and high isomerization (i/n ratio) are the primary target to meet 
+the jet fuel specifications. Such information is necessary for hydro­
+cracking catalysts to be further optimized in order to become effective 
+deoxygenation and selective cracking catalysts with high stability and a 
+longer lifetime. No reports are available for the hydrocracking process to 
+produce Jet A-1 aviation fuel from inedible WCO in a single-step process 
+with high isomerization, minimum aromatics, and longer lifetime and 
+stability of the catalyst, which makes this work new and important. 
+2. Methodology 
+2.1. Materials 
+The feedstock utilized in this study was 100 % WCO and collected 
+from local hotels, households and restaurants of Dehradun, India, after 
+being widely used for frying. The WCO was filtered through a standard 
+sieve before being introduced to the experimental area to eliminate any 
+food material that remained in the oil after cooking/frying. Table 1 lists 
+the typical chemical properties of WCO. For this study, a commercial Ni- 
+Mo/silica-alumina catalyst was employed for the catalytic hydro­
+processing of WCO in all the experiments. The catalyst is presulfided, as 
+described in Section 2.3. 
+2.2. Experimental setup 
+In this study, all hydrocracking experimental tests for converting 
+WCO to kerosene range HCs were carried out in a fixed bed down flow 
+microreactor with a commercial hydrocracking catalyst. This type of 
+microreactor can be employed for catalytic hydroprocessing reactions at 
+high temperatures and pressures. The microreactor can be characterized 
+into four sections: hydrogen section, feed insertion section, reactor 
+section and product collection/separation section, as depicted in Fig. 1. 
+A back pressure regulator (BPR, Tescom) and a mass flow controller 
+(MFC, Brooks) were used to properly manage the hydrogen pressure and 
+gas flow of the reactor. The reactor was heated by an electric furnace 
+(Serial no 10-5887-1-2). The interior and exterior temperatures of the 
+reactor were monitored with Type K thermocouples calibrated to 1 K 
+accuracy and controlled with a temperature controller. A high-pressure 
+liquid metering pump (Eldex) was used in the system to regulate the 
+liquid flow of the feed properly. Uniform contact of the feedstock with 
+catalyst and hydrogen causes a hydrotreating/hydrocracking process at 
+high temperature and hydrogen pressure in the fixed bed reactor. After 
+direct contact of feedstock and catalyst within the reactor, the product 
+reaches a high-pressure separator (HPS) in the form of a mixed 
+gas–liquid phase. HPS was used to remove the gaseous components, 
+including hydrogen and some other lighter gases, such as propane, 
+carbon dioxide, and carbon mono oxide, from the hydrocracked 
+Table 1 
+Chemical and physical properties of WCO.  
+Properties 
+Value 
+Density (g cm−3 at 15 ◦C) 
+0.9251 
+Kinematic Viscosity (mm2 s−1 at 40 ◦C) 
+47.77 
+Kinematic Viscosity (mm2 s−1 at 100 ◦C) 
+9.87 
+Moisture content (%) 
+0.164 
+Acid value (mg KOH/g) 
+2.32 
+Free fatty acid 
+1.16 
+N (ppm) 
+320 
+S (ppm) 
+390 
+C (wt%) 
+76.82 
+H (wt%) 
+11.46 
+O (wt%) 
+11.649 
+Na (ppmw) 
+4.24 
+K (ppmw) 
+1.2 
+Ca (ppmw) 
+2.32 
+Mg (ppmw) 
+7.28 
+Fe (ppmw) 
+0.5 
+C16:0 (Palmitic acid) 
+17.1 
+C16:1 (Palmitoleic acid) 
+3.5 
+C18:0 (Stearic acid) 
+5.9 
+C18:1 (Oleic acid) 
+37.8 
+C18:2 (Linoleic acid) 
+35.6  
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+3
+product. The gas was discharged using a drum-type gas meter (Ritter, 
+0.54G.916) and examined. The hydrocracked products of the catalytic 
+reaction were collected and studied on a daily basis to investigate the 
+influence of temperature, LHSV, hydrogen pressure, and H2/oil ratio. 
+2.3. Experimental procedure 
+To maintain the required bed length of the catalyst and improve the 
+thermal resistance of the reaction, a non-sulphided catalyst (4 g or 5.5 
+ml) was blended with SiC (5.5 ml) and introduced into the microreactor 
+(45.5 cm length). The catalyst was put in the centre of the reactor to 
+ensure adequate heating and flow stability. The catalyst utilized in this 
+study is presulfided using 2.5 wt% of Dimethyl Disulphide (DMDS) in 
+straight run gas oil (SRGO) to retain the catalytic activity as indicated by 
+the catalyst supplier. Before carrying out the experiments, the catalyst 
+was dried in the reactor at 175 ◦C for 5 h. Then after, SRGO was used to 
+sulfide the catalyst at 250 ◦C, 300 ◦C, 320 ◦C, and 350 ◦C for 5, 5, 6 and 2 
+h, respectively. 
+The sulfiding agent DMDS (0.025 wt%) was utilized in combination 
+with feed to limit the sulfur reduction from the catalyst. Firstly, a 
+waiting period of 12 h (first period) was set out for the reaction process 
+to stabilize before collecting the final products (second period). A GC 
+analysis of the products collected at both periods was performed to 
+confirm the persistent catalytic activity and ensure that the catalyst was 
+not deactivated. Products were categorized into three groups based on 
+their carbon number; <C9 carbon range as naphtha, C9 - C15 as kero­
+sene, and C16 - C18 as diesel. Individual products were identified using 
+GC standards. 
+A detailed study was used to calculate the conversion based on the 
+mole balance of total liquid products. The triglyceride concentration 
+converted to any form of intermediates or HCs is known as triglyceride 
+conversion. The mole balance was 96–99 % precise for all operating 
+conditions before and at the end of the reaction. WCO conversion was 
+determined using the following formula: 
+Conversion (%) = Cfeed −C
+′
+product
+Cfeed
+× 100
+(1)  
+where C is the total amount of triglycerides (TG) present in the feed 
+(WCO) and C’ is the total amount of triglycerides in the final product. 
+Furthermore, the measure of selectivity is used to investigate the 
+efficacy of hydrocracking for the formation of a certain product rather 
+than other products. The selectivity of naphtha, kerosene and diesel 
+range HCs was calculated according to the following equation [18] to 
+analyze the effectiveness of the hydroprocessing reactions. 
+Product selectivity (%) =
+Product a−b −Feeda−b
+Feed331+ −Product 331+
+× 100
+(2)  
+where Feed331+ and Product331+ are the weight percent of the heavy 
+molecules (>C18+) present in the feed and corresponding product, with 
+a boiling point higher than 331 ◦C. Feed(a-b) and Product(a-b) are 
+measured as the wt% of the feed and product in which ‘a’ and ‘b’ are the 
+initial and final boiling points for a particular HC range. Since ‘a’ and ‘b’ 
+boiling range is different for various range of carbon number, hence, 
+selectivity can be calculated for naphtha (68–130 ◦C), kerosene 
+(130–260 ◦C), and diesel (260–331 ◦C) using the equation (2). 
+Also, hydroisomerization effectiveness in the final products was 
+measured by calculating the isomer yield and i/n ratio. The isomer yield 
+is calculated as follows: 
+Isomer yield (%) =
+i
+i + n × 100
+(3)  
+where i and (i + n) signify the quantity of isoalkanes and the total 
+quantity of normal and iso-alkanes, respectively, in the final product of 
+kerosene range HCs (C9 - C15). 
+The i/n ratio is the ratio of the total amount of iso-alkanes to normal 
+alkanes in the final product of kerosene range HCs. 
+2.4. Product analysis 
+The obtained products after the hydrocracking reactions were 
+distilled into naphtha, kerosene and diesel range HCs using a 9600 High- 
+Efficiency Distillation Unit (B/R instruments, USA). The simulated 
+distillation curve was determined via Varian 3800-GC according to the 
+ASTM-2887-D86 method. Rudolph research analytical equipment 
+(DDM-2911) was employed for measuring the density of feed and final 
+liquid products. A residual gas analyzer (RGA) from Agilent 7890A with 
+two TCD detectors was used to analyze the gases. Elementar Micro-cube 
+CHNS analyzer was employed for determining C, H, N and S percentages 
+in the feedstock and products. The liquid products and unconverted 
+WCO obtained after the hydrocracking reactions (isomerization, deox­
+ygenation, cracking) were analyzed after separating the water phase by 
+gas chromatography (GC) analysis (Agilent Technologies GC (7890B, 
+G3440B)) fitted with a flame ionization detector (FID) and thermal 
+conductivity detector (TCD). Vf-5 ms column (30 m × 0.25 mm, 0.25 
+um) was used for quantification. At first, the column temperature was 
+maintained at 40 ◦C with a holding period of 0.5 min; after that 
+increased to 70 ◦C, 150 ◦C, 200 ◦C, 350 ◦C with the rate of 3 ◦C, 5 ◦C, 
+15 ◦C, 20 ◦C per min, and lastly 370 ◦C with the rate of 30 ◦C per min 
+having 12 min holding time. Errors in the experiments were also iden­
+tified and accounted for in the final results. All the ASTM methods were 
+applied in accordance with the “Standard Specification for Aviation 
+Turbine Fuel containing Synthesized Hydrocarbons” [24], and the 
+aviation kerosene was tested particularly for ASTM D7566. 
+Fig. 1. Simplified schematic diagram of microreactor unit employed for hydroprocessing of WCO.  
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+4
+3. Results and discussion 
+A set of experiments were performed to check the influence of hy­
+drocracking temperature, LHSV, pressure and H2/oil ratio on the cata­
+lytic hydroprocessing of WCO into biofuels. In addition, a catalyst 
+lifetime (TOS) study was also investigated. 
+3.1. Influence of hydrocracking temperature on product distribution 
+The temperature has been recognized as a critical factor for catalyst 
+efficacy and life [25]. The rise in the temperature generates an increase 
+in the catalyst activity, which causes the catalyst life to degrade quicker. 
+As a result, the influence of reactor temperature on types of reactions 
+such as hydrocracking, hydroisomerization and heteroatom removal 
+was investigated. The hydroprocessing of WCO is a complicated process 
+in which various chemical reactions occur sequentially or simulta­
+neously, including hydrogenation/dehydrogenation, deoxygenation, 
+hydroisomerization, and hydrocracking. All reactions were carried out 
+on WCO hydrocracking at five different temperatures, i.e. 360, 380, 400, 
+420, and 440 ◦C. The rest operating parameters were; P = 10 MPa, LHSV 
+= 1 h−1, and H2/oil ratio = 2200 NLgas/Lliquid. 
+The temperature of the hydrocracking process has a significant 
+impact on product yields. The overall liquid product yields were 
+calculated using simulated distillation data at each reactor temperature. 
+The naphtha, kerosene and diesel yields were determined as the wt% of 
+the product having boiling points ranging from 68 to 130 ◦C, 130 to 
+260 ◦C and 260 to 331 ◦C, respectively. After the hydrocracking re­
+actions, lighter products (gaseous components) and unconverted 
+Fig. 2. Influence of hydrocracking temperature on (a) naphtha, kerosene and diesel product yields (wt%), (b) conversion and selectivities, (c) isomer yield and i/n 
+ratio, (d) PNA%, (e) heteroatom (nitrogen, sulfur, oxygen) removal percentage, (f) molar (O/C) and (H/C) ratio by Van Krevelen diagram for feed and hydrocracked 
+products. Constant operating conditions were; LHSV = 1 h−1, P = 10 MPa, H2/oil ratio = 2200 NLgas/Lliquid. 
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+5
+portions with a boiling point of less than 68 ◦C and greater than 331 ◦C, 
+respectively, cannot be utilized as liquid biofuels. 
+The comparison of naphtha, kerosene and diesel product yields 
+resulting from the hydrocracking of WCO is shown in Fig. 2(a). Diesel 
+and kerosene yield was dominant at lower and higher temperatures, 
+respectively. In particular, diesel had the maximum yield of 88.6 % at 
+the lower hydrocracking temperature (360 ◦C). However, as the tem­
+perature rises, the yield of diesel drops because higher temperatures 
+favour cracking and, as a result, the generation of kerosene and naphtha 
+molecules. Notably, the kerosene yield increased from 4.1 % at 360 ◦C to 
+53.8 % at 420 ◦C, while naphtha yield increased from 0.3 % (360 ◦C) to 
+32.9 % (420 ◦C). The maximum kerosene yield was observed at 420 ◦C of 
+the total liquid product. Therefore, a smaller temperature should be 
+considered for diesel and a higher temperature for kerosene production. 
+The conversion and product selectivities (naphtha, kerosene and 
+diesel) at five various temperatures are illustrated in Fig. 2(b). The 
+conversion and selectivities were estimated using equations (1) and (2), 
+respectively, using the simulated distillation data at each hydrocracking 
+temperature. The conversion gradually increased from 98.6 to 99.9 % 
+with a rise in the temperature from 360 to 400 ◦C because hydro­
+genolysis and hydrocracking activity are endothermic reactions that 
+become more favoured with increased temperature. Increment in the 
+temperature from 400 to 440 ◦C reduces the conversion from 99.9 to 
+96.2 % because the reaction phase shifted primarily to vapour, reducing 
+the residence time while maintaining the high hydrogen flow [26]. As a 
+result, the conversion rate was reduced due to insufficient reaction time 
+[26]. Diesel selectivity was dominant (89.8 %) at the lowest temperature 
+(360 ◦C). Further increase in temperature from 360 to 380 ◦C, diesel 
+selectivity slightly reduced from 89.8 to 88.3 %, while kerosene selec­
+tivity raised from 4.2 to 8.1 %. But when the temperature was increased 
+from 380 to 420 ◦C, diesel selectivity was reduced from 88.3 to 6.6 %, 
+while the produced kerosene was increased from 8.1 to 55.6 %. More­
+over, naphtha selectivity was also increased from 0.3 to 34.1 % when the 
+temperature was increased from 360 to 420 ◦C. This was predicted since 
+higher temperatures generated more severe cracking, resulting in the 
+additional breaking of diesel HCs into kerosene and naphtha (lighter) 
+range HCs. As a result, a higher hydrocracking temperature (420 ◦C) 
+promotes kerosene selectivity, and lower hydrocracking temperatures 
+(360 and 380 ◦C) are suited for diesel production. It should be noted that 
+Bezergianni et al. [27] produced kerosene with 20.04 % selectivity from 
+catalytic hydrocracking of WCO at 390 ◦C. However, 35.7 % of jet fuel 
+selectivity was obtained by Wang et al. [22] using a zeolite-supported 
+Ni-Mo catalyst. In another study by Wang et al. [28], bio-jet range 
+HCs was synthesized from WCO with 37.3 % selectivity at 380 ◦C. It is 
+evident from the research study [22,27,28] that the temperature needed 
+for hydrocracking of WCO is lower than the present work. However, 
+products obtained in this study have relatively high selectivity towards 
+jet range HCs. 
+Fig. 2(c) shows the isomer yield and i/n ratio of the products ob­
+tained after the hydrocracking of WCO at various reactor temperatures. 
+The quantity of isomer was lowest (14.7 %) at 360 ◦C temperature, and 
+grew to 69.5 % by raising the temperature from 360 to 400 ◦C and 
+reached the maximum of 82.9 % at 420 ◦C. This is understood by the fact 
+that higher temperature accelerates the catalyst’s activity, leading to 
+increased isomers formation. The amount of isomer declined from 82.9 
+to 80.9 % when the reactor temperature increased above 420 ◦C, as a 
+shorter reaction time at a higher temperature lowered the efficacy of 
+hydroisomerization and hydrocracking. Furthermore, the i/n ratio was 
+low (0.17) at 360 ◦C and increased with the temperature. The maximum 
+i/n ratio (4.8) was obtained at 420 ◦C. It could be due to the fact 
+increasing the reaction temperature to a reasonable level encourages the 
+isomerization process. [29]. Hydroisomerization, on the other hand, is a 
+weak exothermic process that may be stopped by high temperatures. As 
+a result, at 440 ◦C, the number of isomers reduced, and the i/n ratio fell 
+to 4.2. Wang et al. [22] produced jet fuel having an i/n ratio of 2.7 using 
+core–shell zeolite supported Ni-Mo catalyst at 380 ◦C. Wang et al. 
+[26,30] conducted a study in which they employed a two-step process to 
+produce jet range HCs with i/n ratio of 0.7. Thus, the i/n ratio in this 
+study was significantly higher than the one in [22,26]. It is obvious that 
+the catalyst used in this study showed better hydroisomerization selec­
+tivity (i/n ratio = 4.8) as compared to the previous studies in a single 
+step process using single catalyst, which improve the freezing point of 
+the fuel. 
+Kerosene range product distribution based on paraffins, naphthenes 
+and aromatics (PNA) amounts for five different temperatures are 
+compared in Fig. 2(d). When the reaction was carried out between 360 
+and 400 ◦C, the contribution of naphthenes and aromatics to the total 
+products was negligible, as shown in Fig. 2(d). The product selectivity 
+altered as the temperature was raised to 420 ◦C. The formation of par­
+affins (43.6 %), naphthenes (8.2 %) and aromatics (3.73 %) was found at 
+high temperature (420 ◦C) and pressure (10 MPa). Partially unsaturated 
+intermediates may have undergone cyclization proceeded by the dehy­
+drogenation process to form highly persistent aromatics at higher tem­
+perature (420 ◦C). The product distribution assured the good fluidity 
+and oxidative stability of the kerosene range HCs. The aromatic fraction 
+of 18.7 % was obtained by Wang et al. [22] from catalytic hydrocracking 
+of WCO. Furthermore, Wang et al. [28] produced jet range aromatics 
+(7.6 %) using WCO as a feed. Cheng et al. [4] produced high aromatic 
+content jet fuel (13.4 %) at 400 ◦C temperature using nickel-based 
+mesoporous zeolite catalyst. They have used three types of zeolites 
+loaded with nickel to meet jet range specifications. However, in this 
+study, a lower amount of aromatics (3.73 %) was produced than 
+[4,22,28] in one step method, which meets the jet fuel specifications as 
+per the ASTM 1655 standard. A minimal aromatic content is required in 
+aviation fuel as they do not burn as efficiently and clearly as alkanes. 
+Aromatics have deleterious properties like low heat of combustion and 
+poor combustion quality, leading to incomplete combustion and, 
+consequently, soot production [31]. Herein, a very less amount of aro­
+matics (3.73 %) was formed after the hydrocracking of WCO, which is 
+advantageous because less burning of aromatics offers the potential to 
+add value to fuel to minimize emission characteristics. A research study 
+by Zhang et al. found that the lower aromatic content in jet fuel resulted 
+in improved thermal oxidation stability [32]. In another study, Sinha 
+et al. [33] eliminated the aromatics present in jet fuel via hydrogenation 
+and converted it to cycloalkanes to increase thermal stability and energy 
+density as well as minimize soot production. Furthermore, cycloalkane 
+formation provides the same potential advantages as aromatics by 
+allowing fuels to fulfil density requirements and perhaps giving the seal 
+swelling capacity given by aromatics today. The jet fuel range HCs, 
+which have cycloalkanes and isoalkanes, burns significantly cleaner and 
+might boost energy density and specific energy, also fulfilling flash 
+point, freezing point and O-ring swelling requirements [34]. 
+Besides hydrocracking and isomerization reactions, heteroatom (ni­
+trogen, sulfur and oxygen) removal is also a category of reaction that 
+occurs during hydroprocessing reactions. Despite the fact that a signif­
+icant amount of sulfur was intentionally introduced to the feedstock to 
+modulate catalyst activity, the resulting kerosene HCs had just content 
+of sulfur. The absolute values of N, S and O for feed and hydrocracking 
+products at five different temperatures are given in Table 2. Fig. 2(e) 
+compares the removal of heteroatoms as a percentage of their content in 
+the feed at five temperatures during hydrocracking processes. The figure 
+shows that nitrogen was the most successfully eliminated of the three 
+elements, with a removal rate of over 98.3 % in all cases. The highest 
+removal of nitrogen (99.8 %) was found at 420 ◦C. Sulfur was also 
+successfully removed by over 91.5 % for all temperatures. However, the 
+final product included a minimal quantity of sulfur (27–33 ppm), as seen 
+in Table 2. Removal of sulfur gradually increased with increasing tem­
+perature. In particular, the sulfur removal rate increased from 91.5 % at 
+380 ◦C to 93 % at 440 ◦C. Furthermore, eliminating oxygen from the 
+feed was the most difficult task. The amount of oxygen in the product 
+was derived indirectly after the amount of C, H, N, and S were measured 
+in the product, rather than by direct analytical testing. The lowest (97.5 
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+6
+%) removal percentage of oxygen was found at 380 ◦C. A rise in the 
+temperature from 360 to 420 ◦C leads to an increase in the oxygen 
+removal percentage to 99.8 %, as shown in Fig. 2(e). As a result, higher 
+temperatures favoured the reduction of all heteroatoms from the final 
+products. Bezergianni et al. [27] performed catalytic hydrocracking of 
+WCO, and the maximum removal of oxygen was found to be 96.29 % at 
+390 ◦C using a commercial hydrocracking catalyst. Moreover, in another 
+study by Bezergianni et al. [17], they used three catalysts; hydro­
+treating, mild hydrocracking and a severe hydrocracking catalyst for the 
+hydroprocessing of WCO. They found that oxygen was effectively 
+removed nearly 95 % of the feed initial content. It is clear that the se­
+lection of the catalyst is a vital step in determining the quality of the final 
+product. The catalyst used in this study is a better deoxygenation cata­
+lyst and able to remove the oxygen by over 99.8 % from feed (WCO), 
+which is greater than the previous studies [17,27] and advantageous as 
+triglyceride oxygenated molecules are unfavourable for hydrocarbon- 
+based transportation fuels because they lower heating value and cause 
+storage stability concerns. 
+One important study is provided in Fig. 2(f) by Van Krevelen dia­
+gram, which depicts the molar H/C and O/C ratios of the WCO feed and 
+products obtained after hydrotreatment at various temperatures. The 
+Van Krevelen diagram clearly shows a significant difference between 
+feed and final products for both ratios (O/C and H/C). This was antici­
+pated as WCO is higher in oxygen and lower in hydrogen than any other 
+product. When compared to the feed value, O/C value of the product 
+obtained at 360 ◦C (lowest temperature) was decreased by nearly 45 
+times, while the same ratio was decreased around 750 times at higher 
+temperature (420 ◦C). Moreover, the H/C ratio, which is defined as the 
+ratio of hydrogen to carbon atoms in a molecule, plays a significant role 
+in determining the specific energy of the fuel. From Fig. 2(f), a relative 
+increase in the H/C ratio was observed with temperature. Specifically, 
+the H/ C ratio was increased nearly 1.1 times at 360 ◦C while 1.21 times 
+at 420 ◦C as compared to the value present in the feed. Fuel with higher 
+H/C ratios has higher specific energies. As a result, the catalyst accel­
+erated the deoxygenation process in the form of CO2 by reducing the O/ 
+C ratio and raising the H/C ratio. 
+3.2. Influence of LHSV on product distribution 
+LHSV, a significant operational factor in continuous hydroprocessing 
+processes for controlling catalyst efficacy and also catalyst life expec­
+tancy, is defined as the residence time of the feed molecules on the 
+catalyst surface while passing through the reactor. The basic premise of 
+this investigation is the influence of LHSV on hydrocracking and 
+hydroisomerization. The hydroprocessing of WCO was investigated at 
+five various LHSVs (0.5, 1, 2, 3, and 5 h−1) and at constant reaction 
+parameters; T = 420 ◦C, P = 10 MPa, and H2/oil = 2200 NLgas/Lliquid. 
+The conversion and the selectivities of naphtha, kerosene and diesel 
+at five different LHSVs are depicted in Fig. 3(a). It is evident from figure 
+that as LHSV increased, conversion decreased from 99.9 (LHSV = 0.5 
+h−1) to 99.2 % (LHSV = 5 h−1). The drop in the conversion with greater 
+LHSV was expected since higher LHSVs result in a shorter reaction time 
+between catalyst and feed. Nevertheless, the conversion was above 96.6 
+% at all LHSVs. On the other hand, regarding the individual product 
+selectivities, the maximum kerosene selectivity (55.6 %) was observed 
+at 1 h−1. When the LHSV increased from 1 to 5 h−1, a drastic drop in 
+kerosene selectivity was observed from 55.6 to 21.9 %. In the meantime, 
+naphtha selectivity also decreased from 34.1 (1 h−1) to 13.6 % (5 h−1), 
+while diesel selectivity increased from 6.6 to 57.4 %. Therefore, kero­
+sene and naphtha selectivities were not promoted by LHSV, while LHSV 
+favoured diesel selectivity. It is possible that rising LHSV decreases the 
+reaction time, resulting in less cracking and, as a result, fewer lighter 
+molecules being produced (kerosene and naphtha). 
+Isomer yield and i/n ratio at different LHSVs are compared in Fig. 3 
+(b). It is clear from the figure that low isomer yield (64.6 %) and i/n ratio 
+(1.82) were obtained at the lowest LHSV (0.5 h−1) as the product could 
+not move out promptly and hampered the consecutive cracking and 
+isomerization reactions on the catalyst surface. An increase in LHSV to 1 
+h−1 led to the rise in isomer yield and i/n ratio to 82.9 % and 4.8, 
+respectively, showing that reactant and catalysts have adequate contact 
+time for isomerization reactions. Further increase in the LHSV to 2 h−1, a 
+sharp reduction in isomer yield (59.6 %) and i/n ratio (1.47) was 
+observed. It is possible that the comparatively high input flow rate of 
+feed caused insufficient hydroisomerization reaction time, resulting in a 
+dramatic fall in isomer yields and i/n ratio. Moreover, a rise in LHSV to 3 
+and 5 h−1, 57.2 % and 55.7 % of isomer yield and 1.34 and 1.25 of i/n 
+ratio was achieved, which is also in decreasing trend. An increase in the 
+LHSV reduced the reaction time between the catalysts and feed, which 
+reduced the hydroisomerization reaction rate and, hence, was respon­
+sible for reducing the yield of isomers and the i/n ratio. In a recent study, 
+Wang et al. [26] produced jet range HCs with a maximum i/n ratio value 
+of nearly 1.2 at 1 h−1 LHSV in a two-stage process. It is clear that 
+products obtained in the current study showed better hydro­
+isomerization selectivity (4.8 i/n ratio at 1 h−1) in a single stage process 
+as compared to earlier report [26]. 
+The corresponding product distribution (PNA) of kerosene range HCs 
+is compared for five different LHSVs in Fig. 3(c). The figure revealed a 
+significant contribution of paraffins and cycloalkanes followed by aro­
+matics for LHSVs below 2 h−1. Specifically, increasing the LHSV from 
+0.5 to 1 h−1, the amount of paraffins, naphthenes and aromatics 
+increased from 35.8 to 43.6 %, 6.8 to 8.2 %, and 1.7 to 3.7 %, respec­
+tively. However, the contribution of naphthenes and aromatics was 
+insignificant for LHSVs ranging from 3 to 5 h−1 as higher LHSVs suggest 
+a shorter reaction time of the feed and catalyst within the reactor, 
+resulting in a lower possibility of the production of cycloalkanes and 
+aromatics. 
+Sulfur and nitrogen were efficiently eliminated by over 91.7 and 
+96.9 %, respectively for all cases, as shown in Fig. 3(d). Specifically, 
+Table 2 
+Comparison of elements present in feedstock and products at different hydro­
+cracking temperatures, LHSVs, Pressures and H2/oil ratios.   
+C (wt 
+%) 
+H (wt 
+%) 
+O (wt 
+%) 
+S 
+(ppm) 
+N 
+(ppm) 
+Temperature (◦C)a      
+360  
+85.80  
+13.91  
+0.286 
+33  
+5.4 
+380  
+85.42  
+14.53  
+0.047 
+30  
+0.44 
+400  
+85.11  
+14.84  
+0.046 
+30  
+0.71 
+420  
+84.60  
+15.38  
+0.017 
+29  
+0.61 
+440  
+84.54  
+15.35  
+0.107 
+27  
+1.14  
+LHSV (h−1)b      
+0.5  
+84.38  
+15.61  
+0.0067 
+32  
+0.69 
+1  
+84.60  
+15.38  
+0.017 
+29  
+0.61 
+2  
+84.48  
+15.42  
+0.0973 
+26  
+0.89 
+3  
+84.82  
+14.95  
+0.227 
+22  
+5.21 
+5  
+84.74  
+14.92  
+0.336 
+24  
+9.89  
+Pressure (MPa)c      
+8  
+84.46  
+15.47  
+0.067 
+28  
+0.92 
+9  
+84.52  
+15.31  
+0.165 
+43  
+1.14 
+10  
+84.60  
+15.38  
+0.017 
+29  
+0.61 
+11  
+84.41  
+15.42  
+0.167 
+24  
+0.29  
+H2/oil ratio (NLgas/ 
+Lliquid)d      
+1800  
+84.97  
+14.93  
+0.097 
+30  
+1.41 
+2000  
+84.68  
+15.28  
+0.037 
+28  
+0.84 
+2200  
+84.60  
+15.38  
+0.017 
+29  
+0.61 
+2400  
+84.27  
+15.54  
+0.186 
+35  
+0.74 
+Constant reaction condition for a: LHSV = 1 h−1, P = 10 MPa, H2/feed = 2200 
+NLgas/Lliquid, b: T = 420 ◦C, P = 10 MPa, H2/feed = 2200 NLgas/Lliquid, c: T =
+420 ◦C, LHSV = 1 h−1, H2/feed = 2200 NLgas/Lliquid, d: T = 420 ◦C, LHSV = 1 
+h−1, P = 10 MPa. 
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+7
+maximum nitrogen was removed (99.8 %) at lower LHSV (1 h−1). 
+However, a nearly equal percentage of sulfur (91.7–94.3 %) was 
+removed at all LHSVs. Moreover, oxygen was also effectively removed 
+by over 97.1 % at all LHSVs. The oxygen removal rate was higher (more 
+than 99.8 %) at lower LHSVs (0.5, 1 h−1). Increase in the LHSV to 3 and 
+5 h−1, the oxygen removal rate decreased to 98 and 97.1 %, respectively, 
+due to a rise in the flow rate of feed, which lowers the contact time and, 
+hence, a reduction in removal rate. To summarize, lower LHSVs 
+exhibited the greatest removal of all three heteroatoms. 
+3.3. Influence of pressure on product distribution 
+Pressure is an essential factor because it influences the reactions such 
+as hydrogenation, hydrocracking, and hydroisomerization. In this sec­
+tion, four experiments were carried out at 8, 9, 10, and 11 MPa. The 
+other additional reaction conditions were; T = 420 ◦C, LHSV = 1 h−1, 
+and H2/oil = 2200 NLgas/Lliquid. 
+The conversion and product selectivities at different pressures are 
+depicted in Fig. 4(a). It is evident from the figure that a nearly equal 
+percentage of kerosene selectivity (38 %) was observed at 8 and 9 MPa 
+pressure. When the pressure was raised from 9 to 10 MPa, the kerosene 
+selectivity increased to 55.6 %. Moreover, the contribution of kerosene 
+was significant at all pressures. Remarkably, kerosene exhibited the 
+maximum selectivity (55.6 %) at 10 MPa pressure, while diesel pro­
+duction decreased with pressure due to more intense cracking. Mainly, 
+the diesel selectivity decreased from 32.8 to 5.2 % as the pressure 
+increased from 8 to 11 MPa, indicating more hydrocracking reactions at 
+higher pressure. It is worth noting that kerosene emerged as one of the 
+leading biofuels after the hydrocracking of WCO at all pressures. 
+Fig. 4(b) demonstrates the isomer yield and i/n ratio at four different 
+hydrotreatment pressures. Isomer yield of 72.4 % and an i/n ratio of 2.6 
+was observed at the lowest pressure (8 MPa). Increase in the pressure 
+from 8 to 9 MPa, isomer yield and i/n ratio increased to 75 % and 3, 
+respectively. The maximum isomer yield (82.9 %) and i/n ratio (4.8) 
+were observed when the pressure was raised to 10 MPa. It could be due 
+to the fact that high pressure was responsible for hydroisomerization, 
+which led to a high i/n ratio. 
+The product distribution for kerosene range HCs based on PNA 
+selectivity at four different pressures was compared in Fig. 4(c). It is 
+evident from the figure that 29.7 % of paraffins followed by 4 % of 
+naphthenes and 4.9 % of aromatic HC selectivity, were observed at the 
+lowest hydrotreatment pressure (8 MPa). Highest aromatics found at the 
+same pressure as low pressure favours the formation of aromatics as it 
+promotes cycloalkane dehydrogenation. Rise in the pressure from 8 to 
+10 MPa, the amount of paraffins (43.6 %) and naphthenes (8.2 %) 
+increased, while aromatics (3.7 %) decreased. 
+The concentration of nitrogen, sulfur and oxygen reduced from the 
+feed during the hydroprocessing was used to determine the percentage 
+of heteroatom removal. 
+Nitrogen was most efficiently removed by over 99.6 % at all pres­
+sures, as shown in Fig. 4(d). Sulfur was also successfully eliminated in 
+almost 88.9 % of all conditions. Furthermore, the most challenging 
+molecule to eliminate was oxygen, which was effectively eliminated in 
+all operating conditions by over 98.5 %. In particular, maximum oxygen 
+was removed (99.8 %) at 10 MPa pressure. It is evident from the figure 
+that all the pressures favour the removal of all the heteroatoms from the 
+final products. 
+Fig. 3. Influence of LHSV on (a) conversion and selectivities, (b) isomer yield and i/n ratio, (c) PNA%, (d) heteroatoms (nitrogen, sulfur, oxygen) 
+removal percentage. 
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+8
+3.4. Influence of H2/oil ratio on product distribution 
+An essential operational factor in hydroprocessing is the H2/oil ratio 
+since it is believed to have the greatest influence on the efficiency of 
+hydrocracking and hydrogenation reactions. The H2/oil ratio, in this 
+work, refers to the hydrogen supply over WCO feed. In this section, four 
+experiments were conducted at four H2/oil ratios (1800 to 2400 NLgas/ 
+Lliquid). The rest parameters were; T = 420 ◦C, P = 10 MPa, LHSV =
+1hr−1. 
+The conversion and product selectivity at four different H2/oil ratios 
+were compared in Fig. 5(a). The results indicated that the maximum 
+WCO conversion (99.9 %) was observed at a lower H2/oil ratio (1800 
+and 2000 NLgas/Lliquid). However, when the H2/oil ratio increased, WCO 
+conversion efficiency declined, which was predicted since unwanted 
+cracking and hydrogenation reactions may occur along with favourable 
+hydroprocessing reactions. Moreover, kerosene selectivity was favoured 
+by increasing the H2/oil ratio, as shown in Fig. 5(a). Kerosene selectivity 
+risen from 40.6 to 55.6 %, while diesel selectivity decreased from 25 to 
+6.6 % when the H2/oil ratio increased from 2000 to 2200 NLgas/Lliquid. It 
+might be due to the fact that heavy and diesel range HCs convert into 
+lower range HCs, particularly in kerosene and naphtha range HCs. 
+Further, an increase in the H2/oil ratio to 2400 NLgas/Lliquid did not 
+favour kerosene range formation. High hydrogen pressure and rise in 
+H2/oil ratio may cause a diffusion constraint of reactants and in­
+termediates. It is important to note that more than 40 % kerosene 
+selectivity was observed at all H2/oil ratios, indicating that 40 % of the 
+WCO has transformed into kerosene at all H2/oil ratios. 
+Isomer yield and i/n ratio at four H2/oil ratios were compared in 
+Fig. 5(b). The results showed that increasing the H2/oil ratio enhanced 
+isomer yield and i/n ratio, and the highest isomer yield (82.9 %) was 
+found at 2200 NLgas/Lliquid H2/oil ratio. The high H2/oil ratio enhanced 
+the reaction rate of isomerization reactions, which improved the isomer 
+production. Further increase in H2/oil ratio from 2200 to 2400 NLgas/ 
+Lliquid lowered the residence time, resulting in an inefficient reaction due 
+to which the reactants were unable to change into isomers. It is worth 
+noting that H2 is an energy source; therefore, it is aimed at an operating 
+state that uses the least amount of hydrogen possible. 
+Product distribution based on PNA selectivity of kerosene range HCs 
+at four different H2/oil ratios was compared in Fig. 5(c). It was evident 
+from the figure that 28.5 % of paraffins, 1.5 % of naphthenes, and 4.8 % 
+of aromatics (maximum) were found at the lowest H2/oil ratio (1800 
+NLgas/Lliquid). Low H2/oil ratios promote the dehydrogenation of alkanes 
+and cycloalkanes, leading to aromatics formation. Further increase in 
+the H2/oil ratio to 2200 NLgas/Lliquid decreased the aromatics to 3.7 % 
+while increasing the formation of paraffins and naphthenes to 43.6 and 
+8.29 %, respectively. 
+Fig. 5(d) compares the removal percentage of heteroatoms as a 
+percent of their content in the feed at four H2/oil ratios. Table 2 shows 
+the amount of heteroatoms in the finished product. Nitrogen was the 
+most successful element removed with over 99.5 %, whereas sulfur was 
+similarly eliminated with over 91 %, as illustrated in Fig. 5(d). 
+Furthermore, oxygen was also successfully removed by over 98.3 % at 
+all H2/oil ratios. Specifically, 99.1 % of oxygen was removed at the 
+lowest H2/oil ratio (1800 NLgas/Lliquid). An increase in the H2/oil to 
+2000 and 2200 NLgas/Lliquid showed an increase in the oxygen removal 
+rate to 99.6 and 99.8 %, respectively. Further rise in H2/oil ratio showed 
+a decrease in the oxygen removal rate to 98.3 %. 
+3.5. Comparative study of the non-edible oils hydroprocessing and 
+kerosene yield/selectivity 
+In hydroprocessing experiments, a variety of catalysts, edible/non- 
+Fig. 4. Influence of pressure on (a) conversion and selectivities, (b) isomer yield and i/n ratio, (c) PNA%, (d) heteroatoms (nitrogen, sulfur, oxygen) 
+removal percentage. 
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+9
+edible oils, and operating parameters are reported in the literature. The 
+currently examined feed and catalyst results were compared to those of 
+previously published systems, as shown in Table 4. Herskowitz et al. 
+[35] have used soybean vegetable oil as a feedstock to produce jet and 
+diesel HCs. The proposed process has three stages, and two different 
+yields of biojet were achieved. The first stage involved loading soybean 
+oil into a fixed bed reactor and performing hydrotreatment reactions at 
+T = 370–385 ◦C, LHSV = 1.0 h−1 and H2/oil = 800 NL/L. The liquid 
+obtained from the first stage was further sent to two fixed bed reactors at 
+315 and 350 ◦C, respectively, with the stable operating condition; P = 3 
+MPa, H2 flow rate = 300 NL/L, and LHSV = 4.0 h−1, and finally, 43.2 wt 
+% bio-jet yield was produced with 12.5 % of aromatics. Moreover, 
+another different method was adopted to produce biojet yield in which 
+they fractionated the product into naphtha, jet and heavy. 12 wt% of 
+biojet yield was produced. Then, hydrocracking of heavy fraction was 
+performed to obtain 37 wt% jet yield. The combination of both jet yields 
+was further isomerized, and finally, 48 wt% jet fuel and 14.3 % aro­
+matics were achieved. The main disadvantage of this study is that they 
+used multiple reactors and catalysts to get the maximum yield of jet fuel. 
+Also, the feed used for hydroprocessing reactions is edible oil and can be 
+used in the human diet. In a recent study, Wang et al. [26,30] synthe­
+sized biojet fuel from the hydroprocessing of waste cooking oil (WCO). 
+The process involves two stages for the production of jet fuel. In the first 
+stage, hydroprocessing of WCO has been conducted using two catalysts 
+to achieve the alkanes ranging from C15 to C18, which are further sent 
+to another reactor to match the jet fuel standards. In the second stage, 
+hydrocracking and hydroisomerization of the mixture of n-alkanes 
+(obtained in the first stage) took place to optimize reaction conditions 
+and jet fuel standard specifications. This process requires multiple cat­
+alysts and reactors to achieve the maximum biojet yield. In another 
+study, Cheng et al. [4] used WCO as a feedstock and produced jet fuel 
+with 53 % alkane selectivity and 13.4 % aromatic HC selectivity. The 
+produced fuel has a higher aromatic content resulting in higher partic­
+ulate emission and lowers specific energy. Biojet fuel was synthesized 
+from WCO by Wang et al. [22] in a continuous flow fixed bed reactor, 
+and 39.7 % of biojet yield was obtained with an i/n ratio of 2.7. In this 
+work, all processes like hydrogenation, cracking, and isomerization 
+were performed concurrently in a single reactor and using a catalyst 
+with strong hydrogenation/dehydrogenation ability along with desir­
+able cracking function. Therefore, we have selectively produced avia­
+tion kerosene (55.6 % selectivity) with 8.2 % of naphthenes and 3.7 % of 
+aromatics in a single step process using a low-cost feedstock (WCO). One 
+of the potential reasons for the generation of naphthenes and aromatics 
+in the current method might be the high exothermicity seen during these 
+concurrent reactions in a single reactor [36]. 
+3.6. Catalyst lifetime (TOS) 
+Long term runs of 590 h were carried out at T = 420 ◦C, LHSV =
+1hr−1, P = 10 MPa, and H2/oil ratio = 2200 NLgas/Lliquid to study 
+catalyst lifetime and the influence of TOS, as shown in Fig. 6. The results 
+reveal that the activity of the product did not decrease with time, and 
+there was no noticeable change in the colour of the product. In partic­
+ular, the constant selectivity (96.1–96.4 wt%) of liquid HCs (C5 - C18) 
+was noticed until 220 h of continuous operation. Moreover, insignificant 
+change in conversion (96.5–96.6 %) and > C18 (oxygenated by- 
+products, 0.2–0.4 wt%) was observed until 220 h. During the catalytic 
+hydrocracking process, >C18 products increased to 7.8 % until 590 h 
+run, implying that the generation of these undesired products was 
+controlled even for a lengthy run in a fixed bed reactor. In addition, the 
+Fig. 5. Influence of H2/oil ratio on (a) conversion and selectivities, (b) isomer yield and i/n ratio, (c) PNA%, (d) heteroatoms (nitrogen, sulfur, oxygen) 
+removal percentage. 
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+10
+conversion and selectivity of C5 - C18 HCs decreased to 90.5 % and 88.7 
+% until 590 h. Thus, there was no indication of the catalyst deactivation 
+over time until 520 h. The product complied with all ASTM D1655 for 
+aviation kerosene Jet A-1 (Table 3). 
+The reason for catalyst deactivation was found by BET, TGA, HR- 
+TEM, FE-SEM and FT-IR analysis. The BET isotherm was utilized to 
+compare the physicochemical parameters of the fresh and used catalysts 
+(Fig. S1). The surface area and pore volume of the used catalyst were 
+measured after it had been tested for 590 h at 420 ◦C, 10 MPa pressure, 
+1 h−1 LHSV, and 2200 H2/oil NLgas/Lliquid. Due to coke formation on the 
+active surface sites of the catalyst, the reduction of total pore volume 
+from 0.4584 to 0.131 cm3/g and surface area from 152 to 39.7 m2/g, 
+respectively, was noticed (Table S1). The weight loss due to the 
+unreacted HC and organic molecules was clearly seen in the TGA/DTG 
+analysis of the used catalyst (Fig. S2). The morphology of the used 
+catalyst by HR-TEM analysis also confirmed the presence of residual 
+particles and carbon coking over the catalyst surface (Fig. S3). The FE- 
+SEM analysis of the spent catalyst clearly depicts the presence of coke 
+aggregation (Fig. S4). The IR spectra of the fresh and used catalyst were 
+compared in Fig. S5. The IR spectra of the used catalyst clearly depict the 
+presence of organic molecules, alicyclic HC and aldehydes, which lead to 
+the deactivation of the catalyst and decrease the lifetime. Pre-treating 
+the feedstock and employing suitable guard beds at the top of the 
+reactor to minimize organic molecules and metal deposition over the 
+catalyst surface are required to extend catalyst aging and enhance pro­
+cess economics. 
+3.7. Plausible hydrocracking mechanism for converting WCO to kerosene 
+range HCs 
+We proposed a plausible mechanism for converting WCO to kerosene 
+range HCs via the catalytic hydroprocessing route. Hydroprocessing of 
+glycerides involves the hydrogenation of double bonds (unsaturation) 
+within the side chains [37] and the removal of oxygen at the metal 
+sulfide site [38]. The fatty acids present in the feed containing double 
+bonds in the chain included palmitoleic acid (C16:1), oleic acid (C18:1) 
+and linoleic acid (C18:2), as shown in Table 1. The double bonds present 
+in the carbon chain of triglycerides are first saturated via the hydroge­
+nation process in the presence of the catalyst at 420 ◦C and 10 MPa 
+pressure. The propane backbone is then removed from the hydrogenated 
+glycerides, which form free fatty acids (FFA). The produced FFAs are 
+then converted into straight chain alkanes through the deoxygenation 
+process, which includes hydrodeoxygenation (HDO), decarbonylation 
+(DCO), and decarboxylation (DCO2) reactions [37], leading to the for­
+mation of the octadecane compound [39]. A certain level of hydro­
+cracking/isomerization is accompanied by deoxygenation at high 
+temperatures and pressure to form naphtha, kerosene and diesel HC 
+range compounds [40–43]. Alkanes underwent dehydrogenation, which 
+resulted in the formation of alkene molecules. These alkene compounds 
+cyclized through the carbenium ion and formed the tertiary cyclic car­
+bocation. These cyclic carbocations are further converted into two types 
+of compounds; one is substituted naphthenes, and another one is 
+substituted aromatics [40,43]. 
+4. Conclusions 
+WCO hydrocracking is a promising method for producing biofuels. In 
+this work, WCO as a feed was hydroprocessed in a fixed bed reactor to 
+yield high-quality kerosene range HCs. The experimental results showed 
+that the higher selectivity of kerosene (55.6 %) was achieved at a tem­
+perature of 420 ◦C, LHSV 1 h−1, pressure 10 MPa, and H2/oil ratio 2200 
+NLgas/Lliquid. Furthermore, high isomer yield (82.9 %) and i/n ratio (4.8) 
+were achieved at the optimized reaction condition. The majority of 
+heteroatoms were also removed (N = 99.9 %, S = 94.3 %, O = 99.9 %) 
+from WCO during catalytic hydrocracking. Kerosene range HC selec­
+tivity based on paraffins, naphthenes, and aromatic was found to be 
+43.6 %, 8.2 %, and 3.73 %, respectively. The final product meets all the 
+properties as required by the ASTM D1655 standard. The catalyst life in 
+terms of conversion and total liquid HCs selectivity was carried out, and 
+the results show no deactivation of the catalyst up to 520 h, confirming 
+the high stability of the catalyst with time. 
+CRediT authorship contribution statement 
+Vikas Verma: Conceptualization, Methodology, Validation, Inves­
+tigation, Resources, Writing - original draft, Writing - review & editing. 
+Ankit Mishra: Visualization, Writing - review & editing. Mohit Anand: 
+Writing - review & editing. Saleem Akhtar Farooqui: Writing - review 
+& editing. Anil Kumar Sinha: Supervision, Conceptualization, Meth­
+odology, Project administration, Funding acquisition. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Fig. 6. Catalyst evaluation as a function of TOS at T = 420 ◦C, LHSV = 1 h−1, P 
+= 10 MPa, H2/oil ratio = 2200 NLgas/Lliquid. 
+Table 3 
+Properties of distilled kerosene HCs (C9 - C15) obtained at 420 ◦C temperature, 
+1 h−1 LHSV, 10 MPa pressure, 2200 NLgas/Lliquid H2/oil ratio as per ASTM 
+D1655/D7566 [24].  
+Properties 
+Method 
+Limits 
+Result 
+Freezing point (◦C) 
+D 5972 
+−40 Jet A 
+−47 Jet A-1 (max) 
+−54.2 
+Density (kg m−3 at 15 ◦C) 
+D 4052 
+775–840 
+783.7 
+Flash point (◦C) 
+D 3828F 
+38 (min) 
+42.8 
+Smoke point (mm) 
+D 1322 
+18 (min) 
+25 
+Net heat of combustion (MJ kg−1) 
+D 4529 
+42.8 (min) 
+44.8 
+Aromatics (vol%) 
+D1319 
+25 (max) 
+3.73 
+Distillation temperature (◦C) 
+D 86D  
+137.4 
+10 % recovered (◦C)  
+205 (max) 
+166.1 
+50 % recovered (◦C)  
+Report 
+196.4 
+90 % recovered (◦C)  
+Report 
+246.7 
+Final boiling point (◦C)  
+300 (max) 
+258 
+Distillation residue (%)  
+1.5 (max) 
+0.9 
+Distillation loss (%)  
+1.5 (max) 
+0.3 
+Acidity (mg KOH g−1) 
+D 3242 
+0.1 (max) 
+0.0032 
+Viscosity (mm2s−1 at −20 ◦C) 
+D 445 
+8 (max) 
+3.57 
+Gum content (mg 100 ml−1) 
+D 381 
+7 (max) 
+4.8 
+Sulfur (wt%) 
+D 4294 
+0.30 (max) 
+0.0029  
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+11
+Data availability 
+The data that has been used is confidential. 
+Acknowledgements 
+VV acknowledges the Department of Science and Technology (DST), 
+New Delhi, India, for providing INSPIRE research fellowship. AM is 
+thankful to CSIR for providing research fellowship. The authors thank 
+the biofuels division and analytical science division for their support in 
+experiments and analysis and T. Khan for his technical assistance. VV is 
+also thankful to A. Verma for his technical support. The authors are also 
+thankful to the Director, CSIR - Indian Institute of Petroleum, Dehradun, 
+for his encouragement and support. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.fuel.2022.126348. 
+References 
+[1] Klass DL. Biomass for renewable energy, fuels, and chemicals. Elsevier; 1998. 
+[2] Ch`eze B, Gastineau P, Chevallier J. Forecasting world and regional aviation jet fuel 
+demands to the mid-term (2025). Energy Policy 2011;39(9):5147–58. 
+[3] Atag A. Beginner’s guide to aviation biofuels. Switzerland: Air Transport Action 
+Group Geneva; 2009. 
+[4] Li T, Cheng J, Huang R, Zhou J, Cen K. Conversion of waste cooking oil to jet 
+biofuel with nickel-based mesoporous zeolite Y catalyst. Bioresour Technol 2015; 
+197:289–94. 
+[5] Fukuoka A, Dhepe PL. Catalytic conversion of cellulose into sugar alcohols. Angew 
+Chem Int Ed 2006;45(31):5161–3. 
+[6] Tijmensen MJ, Faaij AP, Hamelinck CN, van Hardeveld MR. Exploration of the 
+possibilities for production of Fischer Tropsch liquids and power via biomass 
+gasification. Biomass Bioenergy 2002;23(2):129–52. 
+[7] Drown D, Harper K, Frame E. Screening vegetable oil alcohol esters as fuel lubricity 
+enhancers. J Am Oil Chem Soc 2001;78(6):579–84. 
+[8] Allen C, Toulson E, Edwards T, Lee T. Application of a novel charge preparation 
+approach to testing the autoignition characteristics of JP-8 and camelina 
+hydroprocessed renewable jet fuel in a rapid compression machine. Combust Flame 
+2012;159(9):2780–8. 
+[9] Wang W-C. Techno-economic analysis of a bio-refinery process for producing 
+Hydro-processed Renewable Jet fuel from Jatropha. Renewable Energy 2016;95: 
+63–73. 
+Table 4 
+A comparative study of the hydrocracked products obtained after the hydroprocessing of edible and non-edible oils.  
+Raw feed 
+Operating conditions 
+Reactor 
+Biojet Yield/Selectivity (%) 
+Ref 
+T (◦C) 
+P (MPa) 
+H2/oil or H2 flow rate 
+LHSV (hr−1) or liquid flow rate 
+Soybean oil 
+370–385 ◦C 
+3 
+800 NL/L 
+1 
+Fixed bed 
+48 
+[35] 
+WCO 
+320–400 ◦C 
+4 
+13.6 M ratio 
+2 
+Fixed bed 
+38 
+[26,30] 
+WCO 
+370–430 ◦C 
+3 
+– 
+– 
+Batch 
+53 
+[4] 
+WCO 
+350–400 ◦C 
+– 
+250 ml mL−1 
+0.8 ml/min 
+Fixed bed 
+39.7 
+[22] 
+WCO 
+360–440 ◦C 
+10 
+2200 NLgas/Lliquid 
+1 
+Fixed bed 
+55.6 
+This work  
+V. Verma et al.
+
+Fuel 333 (2023) 126348
+12
+[10] Ullah Z, Bustam MA, Man Z. Biodiesel production from waste cooking oil by acidic 
+ionic liquid as a catalyst. Renewable Energy 2015;77:521–6. 
+[11] Phan AN, Phan TM. Biodiesel production from waste cooking oils. Fuel 2008;87 
+(17):3490–6. 
+[12] Utlu Z. Evaluation of biodiesel fuel obtained from waste cooking oil. Energy 
+Sources Part A 2007;29(14):1295–304. 
+[13] Bezergianni S, Dimitriadis A, Meletidis G. Effectiveness of CoMo and NiMo 
+catalysts on co-hydroprocessing of heavy atmospheric gas oil–waste cooking oil 
+mixtures. Fuel 2014;125:129–36. 
+[14] Vlasova EN, Porsin AA, Aleksandrov PV, Nuzhdin AL, Bukhtiyarova GA. Co- 
+hydroprocessing of straight-run gasoil – Rapeseed oil mixture over stacked bed 
+Mo/Al2O3 + NiMo/Al2O3-SAPO-11 catalysts. Fuel 2021;285:119504. 
+[15] Vonortas A, Kubiˇcka D, Papayannakos N. Catalytic co-hydroprocessing of 
+gasoil–palm oil/AVO mixtures over a NiMo/γ-Al2O3 catalyst. Fuel 2014;116: 
+49–55. 
+[16] Bezergianni S, Dimitriadis A, Chrysikou LP. Quality and sustainability comparison 
+of one- vs. two-step catalytic hydroprocessing of waste cooking oil. Fuel 2014;118: 
+300–7. 
+[17] Bezergianni S, Kalogianni A, Dimitriadis A. Catalyst evaluation for waste cooking 
+oil hydroprocessing. Fuel 2012;93:638–41. 
+[18] Bezergianni S, Dimitriadis A, Kalogianni A, Pilavachi PA. Hydrotreating of waste 
+cooking oil for biodiesel production. Part I: Effect of temperature on product yields 
+and heteroatom removal. Bioresour Technol 2010;101(17):6651–6. 
+[19] Bezergianni S, Dimitriadis A, Kalogianni A, Knudsen KG. Toward hydrotreating of 
+waste cooking oil for biodiesel production. Effect of pressure, H2/oil ratio, and 
+liquid hourly space velocity. Ind Eng Chem Res 2011;50(7):3874–9. 
+[20] Cheng J, Li T, Huang R, Zhou J, Cen K. Optimizing catalysis conditions to decrease 
+aromatic hydrocarbons and increase alkanes for improving jet biofuel quality. 
+Bioresour Technol 2014;158:378–82. 
+[21] Liu S, Zhu Q, Guan Q, He L, Li W. Bio-aviation fuel production from 
+hydroprocessing castor oil promoted by the nickel-based bifunctional catalysts. 
+Bioresour Technol 2015;183:93–100. 
+[22] Zhang Z, Wang Q, Chen H, Zhang X. Hydroconversion of waste cooking oil into bio- 
+jet fuel over a hierarchical NiMo/USY@Al-SBA-15 zeolite. Chem Eng Technol 
+2018;41(3):590–7. 
+[23] Zhang C, Hui X, Lin Y, Sung C-J. Recent development in studies of alternative jet 
+fuel combustion: Progress, challenges, and opportunities. Renew Sustain Energy 
+Rev 2016;54:120–38. 
+[24] ASTM A. Standard specification for aviation turbine fuel containing synthesized 
+hydrocarbons. PA, USA: ASTM International West Conshohocken; 2016. 
+[25] Scherzer J, Gruia AJ. Hydrocracking science and technology. CRC Press 1996. 
+[26] Chen Y-K, Hsieh C-H, Wang W-C. The production of renewable aviation fuel from 
+waste cooking oil. Part II: Catalytic hydro-cracking/isomerization of hydro- 
+processed alkanes into jet fuel range products. Renewable Energy 2020;157: 
+731–40. 
+[27] Bezergianni S, Voutetakis S, Kalogianni A. Catalytic hydrocracking of fresh and 
+used cooking oil. Ind Eng Chem Res 2009;48(18):8402–6. 
+[28] Zhang Z, Wang Q, Zhang X. Hydroconversion of waste cooking oil into bio-jet fuel 
+over NiMo/SBUY-MCM-41. Catalysts 2019;9(5):466. 
+[29] Chen L, Li H, Fu J, Miao C, Lv P, Yuan Z. Catalytic hydroprocessing of fatty acid 
+methyl esters to renewable alkane fuels over Ni/HZSM-5 catalyst. Catal Today 
+2016;259:266–76. 
+[30] Chen R-X, Wang W-C. The production of renewable aviation fuel from waste 
+cooking oil. Part I: Bio-alkane conversion through hydro-processing of oil. 
+Renewable Energy 2019;135:819–35. 
+[31] Claydon RM, Roman-Ramirez LA, Wood J. Comparative study on the 
+hydrogenation of naphthalene over both Al2O3-supported Pd and NiMo catalysts 
+against a novel LDH-derived Ni-MMO-supported Mo catalyst. ACS Omega 2021;6 
+(30):20053–67. 
+[32] Jia T, Gong S, Pan L, Deng C, Zou J-J, Zhang X. Impact of deep hydrogenation on 
+jet fuel oxidation and deposition. Fuel 2020;264:116843. 
+[33] Mishra A, Verma V, Khan A, Sinha AK. Magnetically separable Ni-based robust 
+nanocatalyst for hydrogenation of substituted aromatics in renewable bio- 
+kerosene. Appl Catal A 2022;643:118707. 
+[34] Kosir ST, Behnke L, Heyne JS, Stachler RD, Flora G, Zabarnick S, et al. 
+Improvement in jet aircraft operation with the use of high-performance drop-in 
+fuels. AIAA Scitech 2019 Forum. 2019:0993. 
+[35] Rabaev M, Landau MV, Vidruk-Nehemya R, Koukouliev V, Zarchin R, 
+Herskowitz M. Conversion of vegetable oils on Pt/Al2O3/SAPO-11 to diesel and jet 
+fuels containing aromatics. Fuel 2015;161:287–94. 
+[36] Anand M, Farooqui SA, Kumar R, Joshi R, Kumar R, Sibi MG, et al. Kinetics, 
+thermodynamics and mechanisms for hydroprocessing of renewable oils. Appl 
+Catal A 2016;516:144–52. 
+[37] Veriansyah B, Han JY, Kim SK, Hong S-A, Kim YJ, Lim JS, et al. Production of 
+renewable diesel by hydroprocessing of soybean oil: Effect of catalysts. Fuel 2012; 
+94:578–85. 
+[38] Sotelo-Boy´as R, Trejo-Z´arraga F, Hern´andez-Loyo F. Hydroconversion of 
+triglycerides into green liquid fuels. Hydrogenation 2012;338:338. 
+[39] Kubiˇcka D, Kaluˇza L. Deoxygenation of vegetable oils over sulfided Ni, Mo and 
+NiMo catalysts. Appl Catal A 2010;372(2):199–208. 
+[40] da Rocha Filho GN, Brodzki D, Dj´ega-Mariadassou G. Formation of alkanes, 
+alkylcycloalkanes and alkylbenzenes during the catalytic hydrocracking of 
+vegetable oils. Fuel 1993;72(4):543–9. 
+[41] Kubiˇcka D. Future refining catalysis-introduction of biomass feedstocks. Collect 
+Czech Chem Commun 2008;73(8):1015–44. 
+[42] ˇSim´aˇcek P, Kubiˇcka D. Hydrocracking of petroleum vacuum distillate containing 
+rapeseed oil: Evaluation of diesel fuel. Fuel 2010;89(7):1508–13. 
+[43] Huber GW, O’Connor P, Corma A. Processing biomass in conventional oil 
+refineries: Production of high quality diesel by hydrotreating vegetable oils in 
+heavy vacuum oil mixtures. Appl Catal A 2007;329:120–9. 
+V. Verma et al.

@@ -1,0 +1,167 @@
+PS C:\Users\HP\Downloads\new\3. LLM> .\run_pipeline.ps1
+
+=== llm_extract simple pipeline ===
+Working folder: C:\Users\HP\Downloads\new\3. LLM
+
+Found 6 PDF(s) in .\input_pdfs
+Starting: parse PDFs + LLM extraction...
+
+2026-08-11 04:06:22 | INFO     | llm_extract.cli:71 - Step 1/2 — parsing PDFs from input_pdfs
+2026-08-11 04:06:22 | INFO     | llm_extract.pdf_ingest:297 - Found 6 PDF(s) in input_pdfs
+2026-08-11 04:06:22 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: 1-s2.0-S0016236122031726-main.pdf -> 1-s2.0-S0016236122031726-main_76823383
+Consider using the pymupdf_layout package for a greatly improved page layout analysis.
+2026-08-11 04:06:25 | INFO     | llm_extract.pdf_ingest:271 -   pages=12 tables=0 figures=10 chars=64764 status=completed
+2026-08-11 04:06:25 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: 1-s2.0-S0016236126001675-main (1).pdf -> 1-s2.0-S0016236126001675-main_1_ef8155a0
+2026-08-11 04:06:29 | INFO     | llm_extract.pdf_ingest:271 -   pages=17 tables=0 figures=10 chars=122701 status=completed
+2026-08-11 04:06:29 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: 1-s2.0-S0920586124003894-main (2).pdf -> 1-s2.0-S0920586124003894-main_2_cca3ea11
+2026-08-11 04:06:32 | INFO     | llm_extract.pdf_ingest:271 -   pages=11 tables=0 figures=9 chars=63954 status=completed
+2026-08-11 04:06:32 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: 1-s2.0-S0960852426010515-main (1).pdf -> 1-s2.0-S0960852426010515-main_1_b7a6bb82
+2026-08-11 04:06:35 | INFO     | llm_extract.pdf_ingest:271 -   pages=13 tables=0 figures=5 chars=82444 status=completed
+2026-08-11 04:06:35 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: s41467-025-64645-y.pdf -> s41467-025-64645-y_0fcb9e07
+2026-08-11 04:06:38 | INFO     | llm_extract.pdf_ingest:271 -   pages=11 tables=3 figures=3 chars=63509 status=completed
+2026-08-11 04:06:38 | INFO     | llm_extract.pdf_ingest:197 - Ingesting PDF: sustainability-18-04727 (3).pdf -> sustainability-18-04727_3_96fdd27e
+2026-08-11 04:06:42 | INFO     | llm_extract.pdf_ingest:271 -   pages=36 tables=0 figures=9 chars=139731 status=completed
+2026-08-11 04:06:42 | INFO     | llm_extract.pdf_ingest:303 - PDF ingest complete: 6/6 paper folder(s) ready
+2026-08-11 04:06:42 | INFO     | llm_extract.cli:74 - Step 2/2 — LLM structured extraction
+2026-08-11 04:06:42 | INFO     | llm_extract.cli:40 - Checking Ollama server at http://localhost:11434 and required models...
+2026-08-11 04:06:44 | INFO     | llm_extract.cli:42 - Ollama reachable, all configured models present. Starting extraction run
+2026-08-11 04:06:44 | INFO     | llm_extract.pipeline:392 - Loaded domain 'biodiesel' from domains (multi_experiment=False)
+2026-08-11 04:06:44 | INFO     | llm_extract.pipeline:397 -   multi_experiment is False for this domain: each paper produces ONE flat record. If papers in this corpus routinely compare multiple catalysts or conditions in one table, widespread field disagreement between primary/cross_check is expected (each model may pick a different row) -- set multi_experiment: true in this domain's YAML to extract one record per experiment instead. See resolve.py's module docstring for details.
+2026-08-11 04:06:45 | INFO     | llm_extract.reader:160 - Discovered 6 paper directories under pipeline_output
+2026-08-11 04:06:45 | INFO     | llm_extract.pipeline:436 - [1] Extracting: Unknown (None) — 76823383
+
+================================================================================
+Successfully extracted 1 figure(s) from 1-s2.0-S0016236122031726-main_76823383
+================================================================================
+Figure fig_p1_1: The figure shows a chemical structure of a catalyst, likely used in the context of catalytic reactions. The structure is not quantitative and does not provide specific data values or trends.
+--------------------------------------------------------------------------------
+2026-08-11 04:32:42 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 1/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory
+CUDA error (status code: 500)
+2026-08-11 04:33:08 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 2/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory
+CUDA error (status code: 500)
+2026-08-11 04:33:34 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 3/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory (status code: 500)
+2026-08-11 04:33:34 | ERROR    | llm_extract.pipeline:165 - Extraction failed for 76823383 — both models must succeed
+2026-08-11 04:33:34 | INFO     | llm_extract.pipeline:436 - [2] Extracting: Unknown (None) — ef8155a0
+
+================================================================================
+Successfully extracted 1 figure(s) from 1-s2.0-S0016236126001675-main_1_ef8155a0
+================================================================================
+Figure fig_p1_1: The figure shows a chemical structure of a catalyst, likely used in the context of catalytic reactions. The structure is not quantitative and does not provide specific data values or trends.
+--------------------------------------------------------------------------------
+2026-08-11 04:48:22 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 1/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory (status code: 500)
+2026-08-11 04:48:49 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 2/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error
+CUDA error: out of memory (status code: 500)
+2026-08-11 04:49:17 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 3/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory (status code: 500)
+2026-08-11 04:49:17 | ERROR    | llm_extract.pipeline:165 - Extraction failed for ef8155a0 — both models must succeed
+2026-08-11 04:49:18 | INFO     | llm_extract.pipeline:436 - [3] Extracting: Unknown (None) — cca3ea11
+
+================================================================================
+Successfully extracted 1 figure(s) from 1-s2.0-S0920586124003894-main_2_cca3ea11
+================================================================================
+Figure fig_p1_1: The figure shows a chemical structure of a catalyst, which is relevant to catalytic performance and reaction conditions. However, specific quantitative data values or trends are not visible in this image.
+--------------------------------------------------------------------------------
+2026-08-11 05:00:55 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 1/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory (status code: 500)
+2026-08-11 05:01:22 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 2/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error
+CUDA error: out of memory (status code: 500)
+2026-08-11 05:01:48 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 3/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory (status code: 500)
+2026-08-11 05:01:48 | ERROR    | llm_extract.pipeline:165 - Extraction failed for cca3ea11 — both models must succeed
+2026-08-11 05:01:49 | INFO     | llm_extract.pipeline:436 - [4] Extracting: Unknown (None) — b7a6bb82
+
+================================================================================
+Successfully extracted 1 figure(s) from 1-s2.0-S0960852426010515-main_1_b7a6bb82
+================================================================================
+Figure fig_p1_1: The figure shows a chemical structure with axis labels and ranges, but no specific data values or trends are visible. The structure appears to be a schematic representation of a catalytic reaction.
+--------------------------------------------------------------------------------
+2026-08-11 05:40:28 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 1/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error
+CUDA error: out of memory (status code: 500)
+2026-08-11 05:40:52 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 2/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory
+CUDA error (status code: 500)
+2026-08-11 05:41:18 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 3/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error
+CUDA error: out of memory (status code: 500)
+2026-08-11 05:41:18 | ERROR    | llm_extract.pipeline:165 - Extraction failed for b7a6bb82 — both models must succeed
+2026-08-11 05:41:19 | INFO     | llm_extract.pipeline:436 - [5] Extracting: Unknown (None) — 0fcb9e07
+
+================================================================================
+Successfully extracted 1 figure(s) from s41467-025-64645-y_0fcb9e07
+================================================================================
+Figure fig_p1_1: The figure shows a chemical structure of a catalyst, which is relevant to catalytic performance. The structure includes specific atoms and bonds that indicate the type of catalyst being discussed.
+--------------------------------------------------------------------------------
+2026-08-11 06:08:34 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 1/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory
+CUDA error (status code: 500)
+2026-08-11 06:09:01 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 2/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error
+CUDA error: out of memory (status code: 500)
+2026-08-11 06:09:31 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 3/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory (status code: 500)
+2026-08-11 06:09:31 | ERROR    | llm_extract.pipeline:165 - Extraction failed for 0fcb9e07 — both models must succeed
+2026-08-11 06:09:32 | INFO     | llm_extract.pipeline:436 - [6] Extracting: Unknown (None) — 96fdd27e
+
+================================================================================
+Successfully extracted 1 figure(s) from sustainability-18-04727_3_96fdd27e
+================================================================================
+Figure fig_p4_1: The figure shows a pie chart titled 'Decarbonizing the aviation sector' with four segments labeled: New technologies (13%), Infrastructures/operations (3%), Offsets/carbon capture (19%), and SAF (65%). The SAF segment is significantly larger than the others, indicating its dominant role in decarbonization efforts.
+--------------------------------------------------------------------------------
+2026-08-11 06:12:18 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 1/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory (status code: 500)
+2026-08-11 06:12:46 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 2/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory
+CUDA error (status code: 500)
+2026-08-11 06:13:15 | WARNING  | llm_extract.ollama_client:138 - [qwen3:8b] attempt 3/3 failed: ResponseError: llama-server reported out-of-memory during startup: CUDA error: out of memory (status code: 500)
+2026-08-11 06:13:15 | ERROR    | llm_extract.pipeline:165 - Extraction failed for 96fdd27e — both models must succeed
+2026-08-11 06:13:15 | INFO     | llm_extract.reader:218 - Eligible for extraction: skipped 0 (status), 0 (duplicate), 0 (already done), 0 (bad metadata)
+2026-08-11 06:13:15 | INFO     | llm_extract.pipeline:448 - Run complete — full_agreement=0, escalated=0, failed=6, unresolved_fields_total=0
+2026-08-11 06:13:15 | INFO     | llm_extract.cli:46 - Extraction complete, building clean dataset
+╭────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ───────────────────────────────────────────────────────────────────────╮
+│ C:\Users\HP\Downloads\new\3. LLM\llm_extract\cli.py:75 in from_pdfs                                                                                                            │
+│                                                                                                                                                                                │
+│    72 │   ingest_pdfs(cfg.paths.pdfs_input_dir, cfg.paths.pipeline_output_root)                                                                                                │
+│    73 │                                                                                                                                                                        │
+│    74 │   logger.info("Step 2/2 — LLM structured extraction")                                                                                                                  │
+│ ❱  75 │   _run_llm_extraction(cfg)                                                                                                                                             │
+│    76                                                                                                                                                                          │
+│    77                                                                                                                                                                          │
+│    78 @app.command()                                                                                                                                                           │
+│                                                                                                                                                                                │
+│ C:\Users\HP\Downloads\new\3. LLM\llm_extract\cli.py:47 in _run_llm_extraction                                                                                                  │
+│                                                                                                                                                                                │
+│    44 │   records_path = run_pipeline(cfg)                                                                                                                                     │
+│    45 │                                                                                                                                                                        │
+│    46 │   logger.info("Extraction complete, building clean dataset")                                                                                                           │
+│ ❱  47 │   tables = normalize(records_path, cfg.extraction.schema_name, cfg.paths.domains_dir)                                                                                  │
+│    48 │   out_dir = write_outputs(cfg, tables["clean"], tables["failures"], tables["unresolved_field_flags"])                                                                  │
+│    49 │   logger.info(f"Done. Clean dataset and manifest written to {out_dir}")                                                                                                │
+│    50 │   return out_dir                                                                                                                                                       │
+│                                                                                                                                                                                │
+│ C:\Users\HP\Downloads\new\3. LLM\llm_extract\normalize.py:188 in normalize                                                                                                     │
+│                                                                                                                                                                                │
+│   185 │   successes, failures = split_success_failure(records)                                                                                                                 │
+│   186 │                                                                                                                                                                        │
+│   187 │   if not successes:                                                                                                                                                    │
+│ ❱ 188 │   │   raise ValueError(                                                                                                                                                │
+│   187 │   if not successes:                                                                                                                                                    │
+│ ❱ 188 │   │   raise ValueError(                                                                                                                                                │
+│   187 │   if not successes:                                                                                                                                                    │
+│   187 │   if not successes:                                                                                                                                                    │
+│ ❱ 188 │   │   raise ValueError(                                                                                                                                                │
+│   187 │   if not successes:                                                                                                                                                    │
+│   187 │   if not successes:                                                                                                                                                    │
+│ ❱ 188 │   │   raise ValueError(                                                                                                                                                │
+│   189 │   │   │   f"No successful extractions in {records_path} — nothing to normalize. "                                                                                      │
+│   190 │   │   │   "Check the Ollama server is reachable and the prompt/schema match."                                                                                          │
+│   191 │   │   )                                                                                                                                                                │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+│   187 │   if not successes:                                                                                                                                                    │
+│ ❱ 188 │   │   raise ValueError(                                                                                                                                                │
+│   189 │   │   │   f"No successful extractions in {records_path} — nothing to normalize. "                                                                                      │
+│   190 │   │   │   "Check the Ollama server is reachable and the prompt/schema match."                                                                                          │
+│   191 │   │   )                                                                                                                                                                │
+│   187 │   if not successes:                                                                                                                                                    │
+│ ❱ 188 │   │   raise ValueError(                                                                                                                                                │
+│   187 │   if not successes:                                                                                                                                                    │
+│   187 │   if not successes:                                                                                                                                                    │
+│ ❱ 188 │   │   raise ValueError(                                                                                                                                                │
+│   189 │   │   │   f"No successful extractions in {records_path} — nothing to normalize. "                                                                                      │
+│   190 │   │   │   "Check the Ollama server is reachable and the prompt/schema match."                                                                                          │
+│   191 │   │   )                                                                                                                                                                │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+ValueError: No successful extractions in extraction_output\extracted_records.jsonl — nothing to normalize. Check the Ollama server is reachable and the prompt/schema match.      
+
+Done. Open your results here:
+  C:\Users\HP\Downloads\new\3. LLM\extraction_output\extracted_dataset.csv
+  C:\Users\HP\Downloads\new\3. LLM\extraction_output\extracted_dataset.parquet

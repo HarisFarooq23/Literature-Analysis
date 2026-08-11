@@ -1,0 +1,236 @@
+XRD
+BET Textural Properties
+TPD-NH3 Acidity
+Crystallite sizea
+(nm)
+Surface areab
+(m2/g)
+Total pore volumec
+(cm3/g)
+Average pore sizec
+(nm)
+Temperatured
+(℃)
+Amount of NH3 adsorbedd
+(µmol/g)
+Total number of acidic 
+sitesd (µmol/g)
+V2O5
+62.3e ± 2.7
+2.62 ± 0.02
+0.0062 ± 0.0003
+14.95 ± 0.73
+413.0 ± 14.1
+88.4 ± 7.0
+211.0 ± 12.5
+676.1 ± 8.1
+31.8 ± 3.2
+889.6 ± 11.6
+90.8 ± 8.5
+Ni/V2O5 
+C
+77.4e ± 4.2
+1.90 ± 0.01
+0.0082 ± 0.0000
+34.18 ± 0.25
+398.2 ± 6.0
+77.8 ± 9.9
+110.8 ± 11.3
+​
+659.8 ± 5.5
+9.1 ± 3.3
+​
+884.4 ± 8.7
+23.9 ± 4.1
+Ni/V2O5 
+M
+60.8e ± 2.4
+2.56 ± 0.02
+0.0120 ± 0.0001
+29.22 ± 0.33
+405.1 ± 2.8
+151.6 ± 4.8 ±
+517.2 ± 9.5
+​
+768.6 ± 4.4
+365.4 ± 2.8
+Ni/V2O5 
+S
+63.9e ± 3.5
+0.71 ± 0.01
+0.0031 ± 0.0001
+27.33 ± 0.96
+418.3 ± 6.4
+22.0 ± 7.3
+130.4 ± 10.0
+​
+613.7 ± 11.3
+27.7 ± 4.9
+​
+892.2 ± 9.4
+80.7 ± 6.6
+Ni/AC C
+21.2f ± 4.0
+961.99 ± 0.03
+0.2730 ± 0.0004
+4.37 ± 0.01
+688.0 ± 8.5
+1612.3 ± 3.2
+1867.6 ± 4.5
+​
+874.8 ± 6.2
+255.3 ± 2.9
+Ni/AC M
+19.1f ± 2.9
+997.87 ± 0.01
+0.1070 ± 0.0002
+3.07 ± 0.01
+682.4 ± 7.7
+976.4 ± 8.4
+1113.8 ± 7.9
+​
+899.3 ± 5.0
+137.4 ± 5.1
+Ni/AC S
+23.5f ± 3.6
+918.95 ± 0.02
+0.3052 ± 0.0001
+5.05 ± 0.00
+661.2 ± 13.1
+1113.7 ± 3.3
+1488.7 ± 6.1
+​
+901.0 ± 6.7
+375.0 ± 5.4
+* Values are reported as mean ± standard deviation (n = 3).
+a Obtained from Debye Scherrer equation
+b Obtained from Brunauer-Emmett-Teller (BET) theory analysis.
+c Obtained from Barrett–Joyner–Halenda (BJH) analysis.
+d Obtained from Temperature programmed desorption of ammonia.
+e Crystallite size calculated at 2θ = 20.4◦.
+f Crystallite size calculated at 2θ = 44.5◦.
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+5
+
+the catalyst as metal particles fill in the voids of the support. However, 
+Ni/V2O5 (27.33–––34.18 nm) series showed substantially larger pore 
+sizes than its parent support (V2O5 (14.95 nm)). According to literature, 
+this can be attributed to metal dopant facilitating distortion and defect 
+formation of the V-O lattice which promotes interlayer expansion 
+leading to a more open pore structure (Liu et al., 2018). Indeed, larger 
+pore size is needed for eliminating mass transfer limitation with power 
+of reactant movement is (>7x), thereby, allow the reactants to access 
+more active sites, subsequently, increasing overall catalyst performance 
+(S. Wang et al., 2023). Overall, this highlights that larger pore size can 
+be more critical than high surface area properties, in terms of DO ac­
+tivity, by improved accessibility and mass transport for bulky WCO 
+reactants.
+The H2-TPR profiles of V2O5 and Ni/V2O5 catalyst series, shown in 
+Fig. S3(a), reveal that the incorporation of Ni significantly enhances the 
+reducibility of V2O5. While pure V2O5 exhibits high-temperature 
+reduction peaks (~580-830℃), Ni/V2O5 catalysts display prominent 
+low-temperature peaks (~490-580℃) indicating the presence of more 
+easily reducible oxygen species. This shift to lower temperature suggests 
+that Ni addition facilitates the formation of oxygen vacancies (Ov), 
+particularly at the Ni-O-V interface sites. The higher peak area of Ni/ 
+V2O5 M and therefore the higher total H2 consumed implies greater 
+concentration of reactive Ov, providing more active site for enhanced 
+DO. The rapid microwave heating promotes accelerated nucleation 
+leading to lattice imperfections that generate Ni-O-V interface sites with 
+rich Ov.
+The H2-TPR profiles of Ni/AC catalyst series is depicted in Fig. S3(b). 
+Indeed, all catalysts exhibited a single peak with varying intensity and 
+broadness. Ni/AC C exhibited a broad and intense reduction peak cen­
+tred at ~ 285℃ which indicates the presence of relatively high amount 
+of reducible NiO species alongside Ni. This observation corroborates the 
+XRD results, where NiO species in C method were present above the 
+detection limit and therefore identified. Interestingly, the M and S 
+methods display substantially lower hydrogen consumption with 
+reduction peaks centred at 220℃ and 250℃, respectively. The weaker 
+peak intensity and lower temperature are attributed to the presence of 
+minimal NiO species that have formed a thin layer on the surface due to 
+partial oxidation of metallic Ni upon exposure to air. Thus, the nickel 
+phase is predominantly in the metallic state. This result was also in 
+accordance with XRD findings, where trace NiO was below detection 
+limit and therefore not identified.
+Catalyst acidity is crucial for facilitating the cleavage of both C-–O 
+and C––C bonds during the DO reaction (Asikin-Mijan et al., 2017). 
+Therefore, acidity characteristics of the synthesized catalyst were eval­
+uated by TPD-NH3, and the profiles for the Ni/V2O5 and Ni/AC catalyst 
+series are presented in Fig. S3(c) and (d), respectively, and total acid 
+sites are summarized in Table 3. From the outset, the acidity profiles 
+show significant variations influenced by support type and treatment 
+method. All the catalysts displayed three principal desorption regions 
+corresponding to weak acid sites (< 250 ℃), medium acid sites (250 ℃ 
+−
+500 ℃) and strong acid sites (> 500 ℃). The total acid sites of the 
+catalysts are in the increasing order, Ni/V2O5 C < Ni/V2O5 S < V2O5 <
+Ni/V2O5 M < Ni/AC M < Ni/AC S < Ni/AC C. Indeed, the acid rich 
+species of activated carbon is attributed to the presence of surface ox­
+ygen functional groups, including lactonic, carboxylic, and phenolic 
+groups (Khalit et al., 2021). These organic groups are ascribed to the 
+acidification of AC via concentrated acid, this observation is in line with 
+the findings of Asikin-Mijan et al. and Gamal et al. (Asikin-Mijan et al., 
+2017; Gamal et al., 2020). It is important to note that an excessive 
+density of acidic sites can promote undesirable side reactions, leading to 
+accelerated coke formation and consequently severe catalyst deactiva­
+tion (Aliana-Nasharuddin et al., 2020; Khalit et al., 2021). Thus, higher 
+acidity in Ni/AC catalysts may enhance DO activity but risks coke for­
+mation. From the TPD-NH3 graph (Fig. S4), original V2O5 is acidic which 
+can be attributed to NH3 desorbed from Lewis sites (Tmax ≈150 ℃), 
+weak Brønsted sites (Tmax ≈410 ℃) and strong Brønsted sites (Tmax ≈
+680 ℃) (Mulyatun et al., 2024). The Brønsted sites are mainly associated 
+with V4+–OH groups, while Lewis acidity originates from exposed V5+
+centres capable of accepting electron pairs (Zhao et al., 2018). It is 
+observed that the integration of Ni into V2O5 and the treatment process 
+influenced the degree of Ni dispersion (see XRD) and the accessibility of 
+acid sites, hence altered the final acidity profile. For instance, Ni/V2O5 C 
+showed the lowest acidity (111 µmol/g) likely due to agglomerated Ni 
+species partially blocking acidic sites as a result of using bare stirring. In 
+the contrary, Ni/V2O5 M displays the highest acidity (517 µmol/g) 
+owing to the rapid nucleation and finer Ni dispersion that preserves 
+surface VOH groups while likely exposing additional Lewis sites. Ni/ 
+V2O5 S yielded intermediate acidity, consistent with moderate 
+improvement in metal distribution. Ni/AC catalysts exhibited a different 
+acidity pattern, possessing a substantial amount of strong superacid sites 
+(T > 500 ℃). Among these, Ni/AC C showed the highest acidity (1867 
+µmol/g), followed by S and M, indicating that conventional stirring, for 
+Ni/AC catalyst series, enhanced Ni anchoring and density of accessible 
+Brønsted and Lewis superacid sites.
+Fig. S3e-f shows the thermal stability of the Ni/V2O5 and Ni/AC 
+catalysts respectively. For Ni supported on V2O5 catalysts, thermal 
+degradation was minimal with a mere total weight loss of 1%. Regarding 
+Ni/V2O5, the mass profiles (Fig. S3(e)) of microwave- and convention­
+ally prepared samples were nearly identical indicating that both 
+methods produced stable oxide surfaces. As for Ni/AC, the figure shows 
+clear synthesis effect on thermal stability of the AC-supported catalyst. 
+The mass profiles of these catalysts can be categorized into three distinct 
+regions; region I (low temperature) which corresponds to weight loss 
+from trapped moisture and volatiles removal, region II (moderate tem­
+peratures up to ~ 700 ℃) weight loss in this region is often attributed to 
+surface groups decomposition and region III where high temperature 
+loss is linked to pyrolysis of more stable carbonaceous species and 
+structural changes. Ni/AC M exhibits noticeably greater mass loss than 
+Ni/AC C, with the later retaining 10% more weight. This is in agreement 
+with reports that microwave treatment introduces additional oxygen­
+ated surface groups and disrupts the carbon matrix structure (Aimdate 
+et al., 2021).
+The SEM imaging and EDX elemental mapping are illustrated in 
+Fig. S5 and tabulated in Table 4. For Ni/V2O5 catalysts, Ni/V2O5 C 
+exhibited large, block-like crystalline structures which have been asso­
+ciated in prior studies with high crystallinity and limited metal disper­
+sion (Yan et al., 2024), whereas Ni/V2O5 M shows smaller, layered plate- 
+like features likely caused by microwave induced fragmentation and 
+improved dispersion. For sonicated Ni/V2O5, more irregular crystalline 
+structures and agglomerated particles were observed. EDX elemental 
+mapping confirms the presence of Ni, V and O in all samples but high­
+lights difference in metal distribution. For instance, Ni/V2O5 C exhibits 
+Ni concentrated in localized patches or hot spots, implying partial 
+agglomeration while Ni/V2O5 M demonstrates a notably uniform Ni 
+distribution where the Ni species (~19%) was found to be comparable to 
+the theoretical value (20%). Ni/V2O5 S shows moderate dispersion with 
+some residual clustering. For Ni/AC catalyst, all samples retain the 
+characteristic porous texture of activated carbon, however Ni/AC C 
+Table 4 
+EDX elemental composition of catalysts*.

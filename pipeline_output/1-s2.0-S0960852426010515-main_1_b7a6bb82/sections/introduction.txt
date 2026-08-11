@@ -1,0 +1,130 @@
+The aviation industry faces an urgent need for sustainable fuels to 
+mitigate climate change. The negative environmental impacts of fossil- 
+based fuels, coupled with their rapid depletion and volatile market 
+prices, have intensified global efforts to develop clean and renewable 
+energy alternatives. The aviation sector faces growing challenges as air 
+travel demand continues to rise, leading to increasing CO2 emissions 
+that significantly contribute to climate change (Adzahar et al., 2026). 
+Bio-jet fuel (BJF), composed primarily of C8-C16 hydrocarbons, has 
+emerged as a promising sustainable alternative. BJF cuts life-cycle 
+greenhouse gases while maintaining drop-in compatibility, in addition 
+to lower sulfur content, lower tailpipe emissions, high thermal stability, 
+and favourable cold-flow properties (Hebish et al., 2024). Triglyceride 
+oils represent attractive feedstocks for BJF production, as their long- 
+chain fatty acids closely resemble hydrocarbons. However, upgrading 
+and oxygen removal are required, typically achieved through deoxy­
+genation (DO) and hydrodeoxygenation (HDO). HDO relies on sub­
+stantial amounts of high-pressure hydrogen gas, which raises safety 
+concerns over storage, delivery and operational hazards and undermines 
+sustainability, since clean H2 production is far from commercialization 
+and thus approximately 96% of global hydrogen is currently derived 
+from non-renewable sources such as naphtha natural gas reforming. In 
+contrast, DO does not require external H2 input; instead, oxygen is 
+removed through decarboxylation (CO2 release) or decarbonylation (CO 
+and H2O release) collectively referred to as DeCox pathways, offering a 
+more sustainable H2-free pathway for BJF production. Note, CO and CO2 
+gases by-products of DO reaction can be captured and not released into 
+the environment. On an industrial or pilot scale with a complete system, 
+these gases will be recycled back and used as feedstocks to produce other 
+valuable chemicals and intermediates such as methane, urea, syngas etc 
+(James et al., 2023; Zhang et al., 2020). Several studies have reported on 
+the promising potential of DO reactions. For instance, Why et al., 2022
+reported a 96% liquid yield and 73% jet fuel selectivity for the DO of 
+palm kernel oil under Pd/C. In another study, Asikin-Mijan et al., 2022
+observed 77% hydrocarbon yield and 64% jet fuel selectivity for the DO 
+of tung oil under CoW/SiO2-Al2O3. Furthermore, the DO of soybean oil 
+under NbOPO4 was found to yield 91% liquid product and 58% jet-range 
+selectivity (Scaldaferri and Pasa, 2019). Despite these advances, catalyst 
+efficiency and energy consumption remain critical challenges.
+Waste Cooking Oil (WCO) is a major byproduct of food preparation, 
+and improper disposal poses serious environmental hazards. Globally, 
+around 16.5 million tonnes of WCO are generated annually, creating 
+challenges for environmentally safe disposal (Sharma et al., 2021). 
+Palm-based WCO, comprising mainly of palmitic acid (C16:0) and oleic 
+acid (C18:1), presents an attractive feedstock to produce BJF. In fact, 
+WCO can produce highly competitive fuel and potentially most cost- 
+effective, along with avoiding disposal hazards and avoiding direct 
+competition with edible oil feedstocks in the food supply chain (Detsios 
+et al., 2023).
+Although noble metal catalysts exhibit excellent DO performance, 
+their prohibitive cost and scarcity limit large-scale application (Hebish 
+et al., 2024). Similarly, sulfided catalysts, despite their effectiveness, 
+face challenges such as sulfur leaching and contamination of the final 
+product, making them less desirable as catalysts for biofuel synthesis 
+(Gamal et al., 2020). Consequently, this has driven the search for 
+affordable, sulfur-free alternatives. In this regard, transition metals and 
+their oxides have emerged as promising alternatives. Among them, Ni- 
+based catalysts offer a sustainable and industrial relevant alternative 
+in upgrading of triglyceride oils for biofuel production owing to their 
+relatively low cost and scalability and demonstrated strong 
+hydrogenation-DO capability and high catalytic activity (Aliana- 
+Nasharuddin et al., 2020; Hafriz et al., 2022; Hartono et al., 2023; Khalit 
+et al., 2021). As reported by Morgan et al., Ni showed higher DO and 
+cracking activity than Pd/Pt on similar supports, yielding more C8-C17 
+hydrocarbons (Morgan et al., 2010). Similar behaviour was observed by 
+Jeon et al. during the DO of oleic acid over a Ni-CeZrO2 catalyst, which 
+attained ~ 98% conversion C9-C18 hydrocarbon fraction of 34% and an 
+oxygen removal efficiency of ~ 96% (Jeon et al., 2019). Furthermore, in 
+a comparative study conducted by Hafriz and colleagues, transition 
+metals Ni, Zn, Cu, Co and Fe were evaluated as catalyst promoters. 
+Among these catalysts, findings reveal the Ni-based catalyst system 
+exhibited the highest conversion activity (67%), high portion of satu­
+rated hydrocarbons (80%), and highest selectivity towards green diesel 
+(55%) and BJF (39%) (Hafriz et al., 2020). Collectively, these studies 
+clearly demonstrate that Ni-promoted catalysts enhance DO activity. 
+Among Ni-based catalyst, Ni supported on activated carbon (AC) shows 
+great potential. Previously, Wu et al. performed DO on stearic acid over 
+Ni/AC achieving an almost complete conversion with heptadecane (C17) 
+selectivity of ~ 80% (Wu et al., 2016). The research group of (Khalit 
+et al., 2021) tested Ni catalyst over various supports of AC, zeolite, 
+and reduced graphene oxide for the DO of WCO to produce green diesel. 
+In their work, Ni/AC was reported the most active catalyst by giving 
+90% hydrocarbon yield and 89% selectivity towards n-(C15 + C17) owing 
+to its good physicochemical properties of porosity, high surface area and 
+high number of acid-base sites. It is noteworthy that, vanadium pent­
+oxide (V2O5) is widely recognized as a cost-effective, thermally stable 
+catalytic material with excellent redox and oxygen transfer properties 
+that has great value in the industry (Marberger et al., 2019). Despite this, 
+as far as we know the utilization of V2O5 support remains unexplored in 
+DO reaction.
+Recent studies show promising results in microwave irradiation (M) 
+and sonication (S)-assisted synthesis techniques of active catalysts for 
+biofuel upgrading, whereby these treatments resulted in enhanced 
+physicochemical properties and catalytic performance (Luo et al., 2022). 
+M method induces volumetric heating that leads to uniform temperature 
+distribution, accelerated nucleation and improved metal dispersion on 
+support. Furthermore, atoms movement occurs where angles of atoms 
+will shift and open up the active sites. It is also reported that catalyst 
+exhibited more porosity and higher surface area following microwave 
+exposure (Burakova et al., 2018). For instance, Xue et al. reported the 
+development of Ni2P/SiO2 catalysts using M method and the result 
+shows enhanced dispersion of Ni2P particles on support and catalytic 
+performance in the HDO of methyl palmitate (Xue et al., 2015). Simi­
+larly, ultrasonic approaches exploit acoustic cavitation to induce local­
+ised hotspots and micro-mixing resulting in enhanced catalyst surface 
+properties and metal dispersion and thus improve catalytic activity (Li 
+et al., 2021). In a study conducted by (Ameen et al., 2019) Ni-Mo/ 
+γ-Al2O3 catalyst synthesis by ultrasound achieved significantly higher 
+hydrocarbon yields (80.87%) during the HDO of rubber seed oil 
+compared to conventional prepared catalyst (63.3%).
+To the best of the authors’ knowledge, no systematic study has 
+directly compared M and S treatments of the same catalyst formulation 
+for triglyceride DO with focus on jet-fuel range hydrocarbons. Further­
+more, although Ni-based catalysts have been extensively studied and 
+V2O5 exhibits excellent potential as a catalyst support, the Ni/V2O5 
+bimetallic catalyst remains largely unexplored, despite its potential 
+synergistic effects that could significantly enhance catalytic activity. 
+A.A. Hebish et al.                                                                                                                                                                                                                               
+Bioresource Technology 456 (2026) 134969 
+2
+
+Due to this reason, hence the present study, we developed a series of 
+inexpensive Ni/V2O5 and compare with performance of established 
+effective Ni/AC catalysts, using different synthesis treatments (conven­
+tional, microwave and sonication), for the effective DO of WCO into 
+biojet fuel product. To evaluate the effect of the treatments, the catalysts 
+properties were studied through various characterizations, and the 
+catalytic performance was assessed by analysing their respective liquid 
+product with regards to BJF selectivity. Additionally, kinetic deactiva­
+tion study was also carried out to provide insights into catalyst deacti­
+vation to assess the catalyst further.

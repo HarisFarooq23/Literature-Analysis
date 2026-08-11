@@ -1,0 +1,33 @@
+WCO hydrocracking is a promising method for producing biofuels. In 
+this work, WCO as a feed was hydroprocessed in a fixed bed reactor to 
+yield high-quality kerosene range HCs. The experimental results showed 
+that the higher selectivity of kerosene (55.6 %) was achieved at a tem­
+perature of 420 ◦C, LHSV 1 h−1, pressure 10 MPa, and H2/oil ratio 2200 
+NLgas/Lliquid. Furthermore, high isomer yield (82.9 %) and i/n ratio (4.8) 
+were achieved at the optimized reaction condition. The majority of 
+heteroatoms were also removed (N = 99.9 %, S = 94.3 %, O = 99.9 %) 
+from WCO during catalytic hydrocracking. Kerosene range HC selec­
+tivity based on paraffins, naphthenes, and aromatic was found to be 
+43.6 %, 8.2 %, and 3.73 %, respectively. The final product meets all the 
+properties as required by the ASTM D1655 standard. The catalyst life in 
+terms of conversion and total liquid HCs selectivity was carried out, and 
+the results show no deactivation of the catalyst up to 520 h, confirming 
+the high stability of the catalyst with time. 
+CRediT authorship contribution statement 
+Vikas Verma: Conceptualization, Methodology, Validation, Inves­
+tigation, Resources, Writing - original draft, Writing - review & editing. 
+Ankit Mishra: Visualization, Writing - review & editing. Mohit Anand: 
+Writing - review & editing. Saleem Akhtar Farooqui: Writing - review 
+& editing. Anil Kumar Sinha: Supervision, Conceptualization, Meth­
+odology, Project administration, Funding acquisition. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Fig. 6. Catalyst evaluation as a function of TOS at T = 420 ◦C, LHSV = 1 h−1, P 
+= 10 MPa, H2/oil ratio = 2200 NLgas/Lliquid. 
+Table 3 
+Properties of distilled kerosene HCs (C9 - C15) obtained at 420 ◦C temperature, 
+1 h−1 LHSV, 10 MPa pressure, 2200 NLgas/Lliquid H2/oil ratio as per ASTM 
+D1655/D7566 [24].  
+Properties
