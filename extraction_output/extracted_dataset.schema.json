@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "llm_extract clean dataset \u2014 domain: biodiesel",
+  "title": "llm_extract clean dataset \u2014 domain: saf_hefa",
   "type": "object",
   "properties": {
     "paper_id": {
@@ -62,21 +62,79 @@
     "n_unresolved_fields": {
       "type": "integer"
     },
-    "catalyst_type": {
-      "description": "Catalyst family",
+    "experiment_id": {
+      "type": "string",
+      "description": "f'{paper_id}_{experiment_idx}' -- unique within this dataset build. Stable across repeated build-dataset runs against the same extracted_records.jsonl; NOT guaranteed stable across a full re-extraction (llm-extract run again), since experiment order is assigned by tier-bucketed cross-model matching, not fixed paper structure. For an ID that survives re-extraction, prefer (paper_id, evidence_location)."
+    },
+    "experiment_idx": {
+      "type": "integer",
+      "description": "Position of this experiment within its paper's experiments list (0-indexed)."
+    },
+    "n_experiments": {
+      "type": "integer",
+      "description": "Total experiments extracted from this row's paper (duplicated across all its experiment rows)."
+    },
+    "n_claims": {
+      "type": "integer",
+      "description": "Total causal/comparative claims extracted from this row's paper."
+    },
+    "experiment_match_status": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "full_agreement | resolved_after_escalation | unresolved_conflict | single_model_only -- cross-model agreement status for THIS experiment specifically (distinct from the paper-level agreement_status)."
+    },
+    "match_method": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "identity_key | position -- how this experiment was paired across primary/cross_check/tie_breaker. 'position' means no unique catalyst-identity match was found; treat with extra scrutiny."
+    },
+    "n_unresolved_experiment_fields": {
+      "type": "integer",
+      "description": "Count of fields within this experiment that no model majority could resolve."
+    },
+    "evidence_location": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Where in the source paper this experiment's data came from, e.g. 'Table 3, page 8'."
+    },
+    "evidence_text": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Verbatim supporting sentence/table row for this experiment, as quoted by the extracting model."
+    },
+    "ml_core_features_complete": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "True only if every field in ['active_metal', 'support_type', 'metal_loading_wt_pct', 'reaction_temperature_C', 'reaction_pressure_bar', 'oil_conversion_pct'] is non-null for this experiment -- a ready-made filter for a shallow-ML structure-property-performance dataset. Null is not possible in practice (always True or False) but kept nullable for consistency with every other boolean column's not-reported-vs-false distinction."
+    },
+    "feedstock_type": {
+      "description": "Lipid feedstock used in the paper",
       "enum": [
-        "homogeneous_base",
-        "homogeneous_acid",
-        "heterogeneous_base",
-        "heterogeneous_acid",
-        "enzymatic",
-        "ionic_liquid",
+        "waste_cooking_oil",
+        "used_cooking_oil",
+        "tallow_animal_fat",
+        "palm_oil",
+        "non_edible_vegetable_oil",
+        "algae_oil",
+        "brown_grease",
+        "mixed_waste_lipid",
+        "other",
         "not_specified"
       ],
-      "title": "Catalyst Type",
+      "title": "Feedstock Type",
       "type": "string"
     },
-    "catalyst_loading_wt_pct": {
+    "ffa_content_pct": {
       "anyOf": [
         {
           "type": "number"
@@ -86,10 +144,10 @@
         }
       ],
       "default": null,
-      "description": "Catalyst loading relative to oil",
-      "title": "Catalyst Loading Wt Pct"
+      "description": "Free fatty acid content of the feedstock",
+      "title": "Ffa Content Pct"
     },
-    "methanol_to_oil_molar_ratio": {
+    "moisture_content_pct": {
       "anyOf": [
         {
           "type": "number"
@@ -99,10 +157,10 @@
         }
       ],
       "default": null,
-      "description": "Methanol-to-oil molar ratio",
-      "title": "Methanol To Oil Molar Ratio"
+      "description": "Moisture content of the feedstock",
+      "title": "Moisture Content Pct"
     },
-    "reaction_temperature_C": {
+    "acid_value_mgKOHg": {
       "anyOf": [
         {
           "type": "number"
@@ -112,10 +170,10 @@
         }
       ],
       "default": null,
-      "description": "Reaction temperature",
-      "title": "Reaction Temperature C"
+      "description": "Acid value of the feedstock",
+      "title": "Acid Value Mgkohg"
     },
-    "reaction_time_min": {
+    "iodine_value": {
       "anyOf": [
         {
           "type": "number"
@@ -125,122 +183,12 @@
         }
       ],
       "default": null,
-      "description": "Reaction time",
-      "title": "Reaction Time Min"
+      "description": "Iodine value (degree of unsaturation)",
+      "title": "Iodine Value"
     },
-    "wco_ffa_content_pct": {
+    "dominant_fatty_acid_chain": {
       "anyOf": [
         {
-          "type": "number"
-        },
-        {
-          "type": "null"
-        }
-      ],
-      "default": null,
-      "description": "Free fatty acid content of the waste cooking oil feedstock",
-      "title": "Wco Ffa Content Pct"
-    },
-    "fame_yield_pct": {
-      "anyOf": [
-        {
-          "type": "number"
-        },
-        {
-          "type": "null"
-        }
-      ],
-      "default": null,
-      "description": "FAME (biodiesel) yield",
-      "title": "Fame Yield Pct"
-    },
-    "cetane_number": {
-      "anyOf": [
-        {
-          "type": "number"
-        },
-        {
-          "type": "null"
-        }
-      ],
-      "default": null,
-      "description": "Cetane number",
-      "title": "Cetane Number"
-    },
-    "kinematic_viscosity_40C_cSt": {
-      "anyOf": [
-        {
-          "type": "number"
-        },
-        {
-          "type": "null"
-        }
-      ],
-      "default": null,
-      "description": "Kinematic viscosity at 40\u00b0C",
-      "title": "Kinematic Viscosity 40C Cst"
-    },
-    "cfpp_or_pour_point_C": {
-      "anyOf": [
-        {
-          "type": "number"
-        },
-        {
-          "type": "null"
-        }
-      ],
-      "default": null,
-      "description": "Cold filter plugging point, or pour point if CFPP not reported",
-      "title": "Cfpp Or Pour Point C"
-    },
-    "oxidative_stability_h": {
-      "anyOf": [
-        {
-          "type": "number"
-        },
-        {
-          "type": "null"
-        }
-      ],
-      "default": null,
-      "description": "Oxidative (Rancimat) stability",
-      "title": "Oxidative Stability H"
-    },
-    "density_kg_m3": {
-      "anyOf": [
-        {
-          "type": "number"
-        },
-        {
-          "type": "null"
-        }
-      ],
-      "default": null,
-      "description": "Density",
-      "title": "Density Kg M3"
-    },
-    "flash_point_C": {
-      "anyOf": [
-        {
-          "type": "number"
-        },
-        {
-          "type": "null"
-        }
-      ],
-      "default": null,
-      "description": "Flash point",
-      "title": "Flash Point C"
-    },
-    "reference_standard": {
-      "anyOf": [
-        {
-          "enum": [
-            "ASTM_D6751",
-            "EN_14214",
-            "other",
-            "not_specified"
-          ],
           "type": "string"
         },
         {
@@ -248,43 +196,88 @@
         }
       ],
       "default": null,
-      "description": "Fuel standard referenced by the paper",
-      "title": "Reference Standard"
+      "description": "Dominant fatty-acid carbon-chain range reported for the feedstock (free text, e.g. \"C16-C18\"). Null if not reported.\n",
+      "title": "Dominant Fatty Acid Chain"
     },
-    "extraction_confidence": {
-      "description": "Your confidence (a decimal between 0.0 and 1.0, NOT a percentage) that the values above were explicitly stated in the source text and not inferred or guessed. Use 0.95 for high confidence, 0.70 for moderate, 0.40 for low. IMPORTANT: write 0.90, never 90.",
-      "maximum": 1.0,
-      "minimum": 0.0,
-      "title": "Extraction Confidence",
-      "type": "number"
+    "feedstock_sulfur_ppm": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Sulfur content of the feedstock (catalyst-poison relevant)",
+      "title": "Feedstock Sulfur Ppm"
     },
-    "meets_cetane_spec": {
+    "experiments": {
+      "description": "One entry per distinct catalyst/condition combination reported in the paper, NOT one entry per paper. If the paper tests 5 catalysts, this list must have 5 entries. Never merge, average, or discard rows to fit one entry.",
+      "items": {
+        "$ref": "#/$defs/SafHefaExperimentFields"
+      },
+      "maxItems": 30,
+      "minItems": 1,
+      "title": "Experiments",
+      "type": "array"
+    },
+    "claims": {
+      "description": "Causal or comparative statements the paper makes about how a factor affects an outcome, independent of which specific experiment(s) support them.",
+      "items": {
+        "$ref": "#/$defs/ClaimRecord"
+      },
+      "title": "Claims",
+      "type": "array"
+    },
+    "meets_freezing_point_spec": {
       "type": [
         "boolean",
         "null"
       ],
-      "description": "Cetane number >= 51 (ASTM D6751 minimum)"
+      "description": "Freezing point <= -40\u00b0C (ASTM D7566 Annex A2)"
+    },
+    "meets_density_spec": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Density at 15\u00b0C <= 772 kg/m\u00b3 (ASTM D7566 Annex A2 SBC limit)"
     },
     "meets_viscosity_spec": {
       "type": [
         "boolean",
         "null"
       ],
-      "description": "Kinematic viscosity at 40\u00b0C within the ASTM D6751/EN 14214 diesel-like band"
+      "description": "Kinematic viscosity at -20\u00b0C <= 8.0 mm\u00b2/s (ASTM D7566 Annex A2)"
     },
-    "meets_oxidative_spec": {
+    "meets_flash_point_spec": {
       "type": [
         "boolean",
         "null"
       ],
-      "description": "Oxidative stability >= 6 h (EN 14214 minimum)"
+      "description": "Flash point >= 38\u00b0C (ASTM D7566/D1655 minimum)"
     },
-    "meets_cfpp_target": {
+    "meets_combustion_spec": {
       "type": [
         "boolean",
         "null"
       ],
-      "description": "CFPP/pour point <= 0\u00b0C (adjust to your target climate)"
+      "description": "Net heat of combustion >= 42.8 MJ/kg (ASTM D7566/D1655 minimum)"
+    },
+    "high_jet_range_selectivity": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "C8-C16 selectivity >= 70%"
+    },
+    "high_conversion": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Feedstock conversion >= 95%"
     }
   }
 }

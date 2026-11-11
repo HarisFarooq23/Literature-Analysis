@@ -56,7 +56,7 @@ models:
 extraction:
   # Which domain spec (domains/<name>.yaml) to use. Change this one line
   # to switch topics: saf_hefa | biodiesel | methanol_synthesis | mof_defect_engineering
-  schema_name: "biodiesel"
+  schema_name: "saf_hefa"
 
   relevant_section_keywords:
     - "experimental"
